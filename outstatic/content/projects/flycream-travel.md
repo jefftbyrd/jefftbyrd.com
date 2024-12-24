@@ -7,6 +7,7 @@ author:
 slug: 'flycream-travel'
 description: 'One more day, one more joy. I feel blessed.'
 coverImage: '/images/flycream-travel.png'
+icon: 'this-is-a-test.jpg'
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 

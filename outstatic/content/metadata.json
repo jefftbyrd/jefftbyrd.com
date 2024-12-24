@@ -1,6 +1,6 @@
 {
-  "commit": "4b8ca15309d4a1e235ba3f30a95acb6fe267baa6",
-  "generated": "Mon, 06 Feb 2023 00:55:33 GMT",
+  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
+  "generated": "2024-12-24T15:45:19.144Z",
   "metadata": [
     {
       "__outstatic": {
@@ -35,12 +35,21 @@
       "publishedAt": "2022-07-14T02:34:02.322Z",
       "slug": "how-to-create-an-outstatic-blog",
       "status": "published",
-      "title": "Learn how to create your blog with Outstatic",
       "tags": [
-        { "label": "NextJs", "value": "nextJs" },
-        { "label": "GitHub", "value": "gitHub" },
-        { "label": "Outstatic", "value": "outstatic" }
-      ]
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Learn how to create your blog with Outstatic"
     },
     {
       "__outstatic": {
@@ -112,9 +121,9 @@
     },
     {
       "__outstatic": {
-        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
-        "hash": "425893791",
-        "path": "/outstatic/content/projects/flycream-travel.md"
+        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
+        "hash": "3192511165",
+        "path": "outstatic/content/projects/flycream-travel.md"
       },
       "author": {
         "name": "Andre Vitorio",
@@ -123,6 +132,7 @@
       "collection": "projects",
       "coverImage": "/images/flycream-travel.png",
       "description": "One more day, one more joy. I feel blessed.",
+      "icon": "this-is-a-test.jpg",
       "publishedAt": "2022-09-14T17:55:40.452Z",
       "slug": "flycream-travel",
       "status": "published",
