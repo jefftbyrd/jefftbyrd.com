@@ -1,6 +1,6 @@
 {
-  "commit": "40523522eb089010b3041762adcc23a20dc2a255",
-  "generated": "Tue, 24 Dec 2024 16:03:18 GMT",
+  "commit": "a9176f78aebc9816e990ce2f0a98c621cd6da537",
+  "generated": "2025-01-17T15:22:34.085Z",
   "metadata": [
     {
       "__outstatic": {
@@ -156,6 +156,24 @@
       "slug": "couple-pizza",
       "status": "published",
       "title": "Couple Pizza"
+    },
+    {
+      "__outstatic": {
+        "commit": "a9176f78aebc9816e990ce2f0a98c621cd6da537",
+        "hash": "782367404",
+        "path": "outstatic/content/pages/another.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-17T15:34:15.314Z",
+      "slug": "another",
+      "status": "published",
+      "title": "Another page"
     }
   ]
 }
