@@ -1,6 +1,6 @@
 {
-  "commit": "8ca806fa76c8934937c840ce2ce7b4f53edfa5d7",
-  "generated": "Fri, 17 Jan 2025 15:31:27 GMT",
+  "commit": "7d33a2f6f265b04a0e434e87b29e9a5944f7cfe5",
+  "generated": "2025-01-17T15:32:37.960Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,6 +174,24 @@
       "slug": "test-project",
       "status": "published",
       "title": "Test project"
+    },
+    {
+      "__outstatic": {
+        "commit": "7d33a2f6f265b04a0e434e87b29e9a5944f7cfe5",
+        "hash": "4065770421",
+        "path": "outstatic/content/pages/weird.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-17T15:44:21.617Z",
+      "slug": "weird",
+      "status": "published",
+      "title": "weird"
     }
   ]
 }
