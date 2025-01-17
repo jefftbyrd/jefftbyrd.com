@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 const Header = () => {
   return (
@@ -21,7 +21,7 @@ const Header = () => {
         </li>
       </ul>
     </nav>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
