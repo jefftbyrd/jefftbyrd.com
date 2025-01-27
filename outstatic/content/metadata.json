@@ -1,6 +1,6 @@
 {
-  "commit": "c891bcb6ffa2cebaa9b5d4c005394422dba6c89e",
-  "generated": "2025-01-27T21:33:17.774Z",
+  "commit": "80bc758cb16ae6ce59419ff6d39a14a009059db8",
+  "generated": "2025-01-27T21:33:36.851Z",
   "metadata": [
     {
       "__outstatic": {
@@ -191,6 +191,24 @@
       "slug": "earthsong",
       "status": "published",
       "title": "Earthsong"
+    },
+    {
+      "__outstatic": {
+        "commit": "80bc758cb16ae6ce59419ff6d39a14a009059db8",
+        "hash": "781575558",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector"
     }
   ]
 }
