@@ -1,6 +1,6 @@
 {
-  "commit": "80bc758cb16ae6ce59419ff6d39a14a009059db8",
-  "generated": "2025-01-27T21:33:36.851Z",
+  "commit": "0b3b897c6720b6791c1bf6c4abbaa54a3939385d",
+  "generated": "2025-01-27T21:34:10.325Z",
   "metadata": [
     {
       "__outstatic": {
@@ -209,6 +209,24 @@
       "slug": "vector",
       "status": "published",
       "title": "Vector"
+    },
+    {
+      "__outstatic": {
+        "commit": "0b3b897c6720b6791c1bf6c4abbaa54a3939385d",
+        "hash": "2382967125",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "draft",
+      "title": "I Became a Bird of Prey"
     }
   ]
 }
