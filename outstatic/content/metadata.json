@@ -1,6 +1,6 @@
 {
-  "commit": "7e31bb93e67d52894df8ffb6797e8ffa375b8dcc",
-  "generated": "2025-01-27T21:35:38.140Z",
+  "commit": "f027df5326f71b7e7c2ea6b96154da959df3d42d",
+  "generated": "2025-01-27T21:35:58.561Z",
   "metadata": [
     {
       "__outstatic": {
@@ -263,6 +263,24 @@
       "slug": "white-lies",
       "status": "published",
       "title": "White Lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "f027df5326f71b7e7c2ea6b96154da959df3d42d",
+        "hash": "2420462884",
+        "path": "outstatic/content/projects/oystermen.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:47:47.494Z",
+      "slug": "oystermen",
+      "status": "published",
+      "title": "Oystermen"
     }
   ]
 }
