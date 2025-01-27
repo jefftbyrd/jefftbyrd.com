@@ -1,6 +1,6 @@
 {
-  "commit": "ecbb5763f26651a31f480934cf04c0b0398fa782",
-  "generated": "2025-01-27T21:36:22.566Z",
+  "commit": "f9d06baa557649690466638ad6f9e5b905a9dc3c",
+  "generated": "2025-01-27T21:36:38.446Z",
   "metadata": [
     {
       "__outstatic": {
@@ -299,6 +299,24 @@
       "slug": "roule-sonner",
       "status": "published",
       "title": "Roule Sonner"
+    },
+    {
+      "__outstatic": {
+        "commit": "f9d06baa557649690466638ad6f9e5b905a9dc3c",
+        "hash": "2015539773",
+        "path": "outstatic/content/projects/spark.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "slug": "spark",
+      "status": "published",
+      "title": "Spark"
     }
   ]
 }
