@@ -1,6 +1,6 @@
 {
-  "commit": "b47946f05533d0a89a1a6f34e14129a0a2f775f3",
-  "generated": "2025-01-27T21:37:01.814Z",
+  "commit": "799be7c805ab4dc255e05832d7ba13a4ed266261",
+  "generated": "2025-01-27T21:37:21.134Z",
   "metadata": [
     {
       "__outstatic": {
@@ -335,6 +335,24 @@
       "slug": "health-for-all",
       "status": "draft",
       "title": "Health For All "
+    },
+    {
+      "__outstatic": {
+        "commit": "799be7c805ab4dc255e05832d7ba13a4ed266261",
+        "hash": "1832255174",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "status": "published",
+      "title": "After the Storm"
     }
   ]
 }
