@@ -1,13 +1,5 @@
 {
   "title": "projects",
   "type": "object",
-  "properties": {
-    "icon": {
-      "required": true,
-      "description": "Project icon displayed on projects page",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Icon"
-    }
-  }
+  "properties": {}
 }
