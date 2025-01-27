@@ -1,6 +1,6 @@
 {
-  "commit": "2b7ffe5258e5167afbf291b5ba0bc8c4a4b5ac56",
-  "generated": "2025-01-27T21:32:32.902Z",
+  "commit": "c891bcb6ffa2cebaa9b5d4c005394422dba6c89e",
+  "generated": "2025-01-27T21:33:17.774Z",
   "metadata": [
     {
       "__outstatic": {
@@ -155,25 +155,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "561c696b9d485e927f9445d760e46e5715a49be5",
-        "hash": "1223894644",
-        "path": "outstatic/content/projects/test-project.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "icon": "oh-it-needs-icon.jpg",
-      "publishedAt": "2024-12-24T15:55:35.484Z",
-      "slug": "test-project",
-      "status": "published",
-      "title": "Test project"
     },
     {
       "__outstatic": {
