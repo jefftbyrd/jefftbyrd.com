@@ -1,6 +1,6 @@
 ---
 title: 'I Became a Bird of Prey'
-status: 'draft'
+status: 'published'
 author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'

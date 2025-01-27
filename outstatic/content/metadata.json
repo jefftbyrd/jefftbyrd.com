@@ -1,6 +1,6 @@
 {
-  "commit": "0b3b897c6720b6791c1bf6c4abbaa54a3939385d",
-  "generated": "2025-01-27T21:34:10.325Z",
+  "commit": "6c02765d9ee63cd410f55af2ee617e7f9717e332",
+  "generated": "2025-01-27T21:34:13.813Z",
   "metadata": [
     {
       "__outstatic": {
@@ -212,8 +212,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0b3b897c6720b6791c1bf6c4abbaa54a3939385d",
-        "hash": "2382967125",
+        "commit": "6c02765d9ee63cd410f55af2ee617e7f9717e332",
+        "hash": "1620416413",
         "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
       },
       "author": {
@@ -225,7 +225,7 @@
       "description": "",
       "publishedAt": "2025-01-27T21:45:57.528Z",
       "slug": "i-became-a-bird-of-prey",
-      "status": "draft",
+      "status": "published",
       "title": "I Became a Bird of Prey"
     }
   ]
