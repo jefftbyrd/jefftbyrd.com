@@ -1,6 +1,6 @@
 {
-  "commit": "7d33a2f6f265b04a0e434e87b29e9a5944f7cfe5",
-  "generated": "2025-01-17T15:32:37.960Z",
+  "commit": "2b7ffe5258e5167afbf291b5ba0bc8c4a4b5ac56",
+  "generated": "2025-01-27T21:32:32.902Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,6 +192,24 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
+    },
+    {
+      "__outstatic": {
+        "commit": "2b7ffe5258e5167afbf291b5ba0bc8c4a4b5ac56",
+        "hash": "52838691",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "status": "published",
+      "title": "Earthsong"
     }
   ]
 }
