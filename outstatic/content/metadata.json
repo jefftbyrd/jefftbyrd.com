@@ -1,6 +1,6 @@
 {
-  "commit": "6c02765d9ee63cd410f55af2ee617e7f9717e332",
-  "generated": "2025-01-27T21:34:13.813Z",
+  "commit": "1e3853b2c3af6cd56de73d9035d39851ef3b3eac",
+  "generated": "2025-01-27T21:35:09.359Z",
   "metadata": [
     {
       "__outstatic": {
@@ -227,6 +227,24 @@
       "slug": "i-became-a-bird-of-prey",
       "status": "published",
       "title": "I Became a Bird of Prey"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e3853b2c3af6cd56de73d9035d39851ef3b3eac",
+        "hash": "1510563777",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "Durrs of Montgomery"
     }
   ]
 }
