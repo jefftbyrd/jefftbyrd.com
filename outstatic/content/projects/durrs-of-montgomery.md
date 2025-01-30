@@ -7,6 +7,7 @@ author:
 slug: 'durrs-of-montgomery'
 description: ''
 coverImage: ''
+projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 publishedAt: '2025-01-27T21:47:00.739Z'
 ---
 

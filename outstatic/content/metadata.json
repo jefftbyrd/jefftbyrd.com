@@ -1,6 +1,6 @@
 {
-  "commit": "8dcb73c7392194454b1ca0f7d1f7365b425894d9",
-  "generated": "2025-01-30T13:33:53.241Z",
+  "commit": "c759e10298de5c47fd47168798df5eb3c78d9943",
+  "generated": "2025-01-30T13:34:05.222Z",
   "metadata": [
     {
       "__outstatic": {
@@ -227,24 +227,6 @@
       "slug": "i-became-a-bird-of-prey",
       "status": "published",
       "title": "I Became a Bird of Prey"
-    },
-    {
-      "__outstatic": {
-        "commit": "1e3853b2c3af6cd56de73d9035d39851ef3b3eac",
-        "hash": "1510563777",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "status": "published",
-      "title": "Durrs of Montgomery"
     },
     {
       "__outstatic": {
@@ -635,6 +617,30 @@
       "slug": "texas",
       "status": "published",
       "title": "Texas"
+    },
+    {
+      "__outstatic": {
+        "commit": "c759e10298de5c47fd47168798df5eb3c78d9943",
+        "hash": "3356999183",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "Durrs of Montgomery"
     }
   ]
 }
