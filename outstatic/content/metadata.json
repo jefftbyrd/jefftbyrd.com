@@ -1,6 +1,6 @@
 {
-  "commit": "f1b25b3a5ab2a41d090a0390f5b5028d39b299f7",
-  "generated": "2025-01-30T13:33:36.097Z",
+  "commit": "8dcb73c7392194454b1ca0f7d1f7365b425894d9",
+  "generated": "2025-01-30T13:33:53.241Z",
   "metadata": [
     {
       "__outstatic": {
@@ -374,24 +374,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6d324013cd6d65cb4ee60caf3a91fcfdfc3b06a8",
-        "hash": "3837302117",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "slug": "texas",
-      "status": "published",
-      "title": "Texas"
-    },
-    {
-      "__outstatic": {
         "commit": "134fb516541fd2af4b352a93ded41212a7001c96",
         "hash": "640651745",
         "path": "outstatic/content/projects/are-you-sick.md"
@@ -625,6 +607,34 @@
       "slug": "spark",
       "status": "published",
       "title": "Spark"
+    },
+    {
+      "__outstatic": {
+        "commit": "8dcb73c7392194454b1ca0f7d1f7365b425894d9",
+        "hash": "3281383628",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "slug": "texas",
+      "status": "published",
+      "title": "Texas"
     }
   ]
 }

@@ -28,6 +28,10 @@
         {
           "value": "soundDesign",
           "label": "Sound Design"
+        },
+        {
+          "value": "shortFilm",
+          "label": "Short Film"
         }
       ]
     }
