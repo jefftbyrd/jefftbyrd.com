@@ -1,6 +1,6 @@
 {
-  "commit": "6d97ec5d1c4590be5af562d80d4172ca2b84d7da",
-  "generated": "2025-01-30T13:24:30.233Z",
+  "commit": "6a1a32e410f8d732e0cd24ae6473b27d9143c22b",
+  "generated": "2025-01-30T13:24:33.378Z",
   "metadata": [
     {
       "__outstatic": {
@@ -482,8 +482,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6d97ec5d1c4590be5af562d80d4172ca2b84d7da",
-        "hash": "2032257578",
+        "commit": "6a1a32e410f8d732e0cd24ae6473b27d9143c22b",
+        "hash": "2921146712",
         "path": "outstatic/content/projects/are-you-sick.md"
       },
       "author": {
@@ -495,7 +495,7 @@
       "description": "",
       "publishedAt": "2025-01-30T13:36:26.211Z",
       "slug": "are-you-sick",
-      "status": "draft",
+      "status": "published",
       "title": "Are You Sick?"
     }
   ]
