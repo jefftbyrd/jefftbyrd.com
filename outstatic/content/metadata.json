@@ -1,6 +1,6 @@
 {
-  "commit": "2df52be27256f2adec7686c419fe56109e466333",
-  "generated": "2025-01-30T13:22:56.616Z",
+  "commit": "fe08be24b99deeb401872e38df14c872eec27434",
+  "generated": "2025-01-30T13:23:12.308Z",
   "metadata": [
     {
       "__outstatic": {
@@ -407,6 +407,24 @@
       "slug": "nighty-night",
       "status": "published",
       "title": "Nighty Night"
+    },
+    {
+      "__outstatic": {
+        "commit": "fe08be24b99deeb401872e38df14c872eec27434",
+        "hash": "546850428",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "status": "draft",
+      "title": "Lamb Alley"
     }
   ]
 }
