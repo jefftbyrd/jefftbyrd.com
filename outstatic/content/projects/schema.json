@@ -1,27 +1,5 @@
 {
   "title": "projects",
   "type": "object",
-  "properties": {
-    "tags": {
-      "required": false,
-      "description": "Project tags",
-      "values": [
-        {
-          "value": "soundtrack",
-          "label": "Soundtrack"
-        },
-        {
-          "value": "soundDesign",
-          "label": "Sound Design"
-        },
-        {
-          "value": "album",
-          "label": "Album"
-        }
-      ],
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "tags"
-    }
-  }
+  "properties": {}
 }
