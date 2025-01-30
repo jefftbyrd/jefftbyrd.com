@@ -1,5 +1,14 @@
 {
   "title": "projects",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "projectTags": {
+      "required": false,
+      "description": "Project tags",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "project tags",
+      "values": []
+    }
+  }
 }
