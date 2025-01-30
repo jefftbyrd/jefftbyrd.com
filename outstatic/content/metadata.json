@@ -1,6 +1,6 @@
 {
-  "commit": "d2e5e485ba97e479a924fc6edf5b986f738bf956",
-  "generated": "2025-01-30T13:29:47.277Z",
+  "commit": "134fb516541fd2af4b352a93ded41212a7001c96",
+  "generated": "2025-01-30T13:30:03.246Z",
   "metadata": [
     {
       "__outstatic": {
@@ -464,24 +464,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6a1a32e410f8d732e0cd24ae6473b27d9143c22b",
-        "hash": "2921146712",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "status": "published",
-      "title": "Are You Sick?"
-    },
-    {
-      "__outstatic": {
         "commit": "6d324013cd6d65cb4ee60caf3a91fcfdfc3b06a8",
         "hash": "3837302117",
         "path": "outstatic/content/projects/texas.md"
@@ -567,6 +549,30 @@
         }
       ],
       "title": "Alouette"
+    },
+    {
+      "__outstatic": {
+        "commit": "134fb516541fd2af4b352a93ded41212a7001c96",
+        "hash": "640651745",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "title": "Are You Sick?"
     }
   ]
 }

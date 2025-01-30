@@ -13,6 +13,10 @@
         {
           "value": "soundDesign",
           "label": "Sound Design"
+        },
+        {
+          "value": "album",
+          "label": "Album"
         }
       ],
       "fieldType": "Tags",

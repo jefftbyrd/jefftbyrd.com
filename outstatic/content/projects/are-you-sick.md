@@ -7,6 +7,7 @@ author:
 slug: 'are-you-sick'
 description: ''
 coverImage: ''
+tags: [{"label":"Album","value":"album"}]
 publishedAt: '2025-01-30T13:36:26.211Z'
 ---
 
