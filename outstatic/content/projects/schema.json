@@ -12,6 +12,10 @@
         {
           "value": "soundtrack",
           "label": "Soundtrack"
+        },
+        {
+          "value": "musicVideo",
+          "label": "Music Video"
         }
       ]
     }

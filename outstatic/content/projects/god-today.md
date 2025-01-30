@@ -7,7 +7,8 @@ author:
 slug: 'god-today'
 description: ''
 coverImage: ''
+projectTags: [{"label":"Music Video","value":"musicVideo"}]
 publishedAt: '2025-01-30T13:36:58.542Z'
 ---
 
-God Today 
+God Today

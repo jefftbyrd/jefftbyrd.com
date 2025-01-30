@@ -1,6 +1,6 @@
 {
-  "commit": "391d92de28e3afcaec3339d768b1ca1c43d0064e",
-  "generated": "2025-01-30T13:31:33.681Z",
+  "commit": "53bcc3aa419621f0bc6cee4681b66d394e00abd4",
+  "generated": "2025-01-30T13:31:52.426Z",
   "metadata": [
     {
       "__outstatic": {
@@ -464,24 +464,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e15523e42c1406a1745bfdc37a341577a9d7f1af",
-        "hash": "3499740215",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today"
-    },
-    {
-      "__outstatic": {
         "commit": "d2e5e485ba97e479a924fc6edf5b986f738bf956",
         "hash": "3337149974",
         "path": "outstatic/content/projects/alouette.md"
@@ -585,6 +567,30 @@
       "slug": "white-lies",
       "status": "published",
       "title": "White Lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "53bcc3aa419621f0bc6cee4681b66d394e00abd4",
+        "hash": "1283083527",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today"
     }
   ]
 }
