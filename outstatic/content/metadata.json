@@ -1,6 +1,6 @@
 {
-  "commit": "fe08be24b99deeb401872e38df14c872eec27434",
-  "generated": "2025-01-30T13:23:12.308Z",
+  "commit": "1f609adc17c5f6e987b1e4a4e33aa3092160fbad",
+  "generated": "2025-01-30T13:23:16.097Z",
   "metadata": [
     {
       "__outstatic": {
@@ -410,8 +410,8 @@
     },
     {
       "__outstatic": {
-        "commit": "fe08be24b99deeb401872e38df14c872eec27434",
-        "hash": "546850428",
+        "commit": "1f609adc17c5f6e987b1e4a4e33aa3092160fbad",
+        "hash": "1270795960",
         "path": "outstatic/content/projects/lamb-alley.md"
       },
       "author": {
@@ -423,7 +423,7 @@
       "description": "",
       "publishedAt": "2025-01-30T13:35:08.463Z",
       "slug": "lamb-alley",
-      "status": "draft",
+      "status": "published",
       "title": "Lamb Alley"
     }
   ]
