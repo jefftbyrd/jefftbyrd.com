@@ -1,6 +1,6 @@
 {
-  "commit": "c759e10298de5c47fd47168798df5eb3c78d9943",
-  "generated": "2025-01-30T13:34:05.222Z",
+  "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
+  "generated": "2025-01-30T13:36:48.960Z",
   "metadata": [
     {
       "__outstatic": {
@@ -176,42 +176,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2b7ffe5258e5167afbf291b5ba0bc8c4a4b5ac56",
-        "hash": "52838691",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "status": "published",
-      "title": "Earthsong"
-    },
-    {
-      "__outstatic": {
-        "commit": "80bc758cb16ae6ce59419ff6d39a14a009059db8",
-        "hash": "781575558",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "status": "published",
-      "title": "Vector"
-    },
-    {
-      "__outstatic": {
         "commit": "6c02765d9ee63cd410f55af2ee617e7f9717e332",
         "hash": "1620416413",
         "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
@@ -245,24 +209,6 @@
       "slug": "roule-sonner",
       "status": "published",
       "title": "Roule Sonner"
-    },
-    {
-      "__outstatic": {
-        "commit": "b47946f05533d0a89a1a6f34e14129a0a2f775f3",
-        "hash": "2744696874",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
-      "status": "draft",
-      "title": "Health For All "
     },
     {
       "__outstatic": {
@@ -641,6 +587,86 @@
       "slug": "durrs-of-montgomery",
       "status": "published",
       "title": "Durrs of Montgomery"
+    },
+    {
+      "__outstatic": {
+        "commit": "dc894f8e86136e95650c1f7ec452eaadcbedade4",
+        "hash": "3870898086",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector"
+    },
+    {
+      "__outstatic": {
+        "commit": "7c575aa96407e4c2cca684d57d7b1f680fcd86c5",
+        "hash": "4227275181",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "status": "published",
+      "title": "Health For All "
+    },
+    {
+      "__outstatic": {
+        "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
+        "hash": "2641312276",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Web Application",
+          "value": "webApplication"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "status": "published",
+      "title": "Earthsong"
     }
   ]
 }

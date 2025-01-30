@@ -7,6 +7,7 @@ author:
 slug: 'vector'
 description: ''
 coverImage: ''
+projectTags: [{"label":"Website","value":"website"},{"label":"Design","value":"design"}]
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
