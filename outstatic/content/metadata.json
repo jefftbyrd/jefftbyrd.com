@@ -1,6 +1,6 @@
 {
-  "commit": "713e6f4c4a48a01d6564cde84e27e8c987c5e2a5",
-  "generated": "2025-01-30T13:31:08.816Z",
+  "commit": "391d92de28e3afcaec3339d768b1ca1c43d0064e",
+  "generated": "2025-01-30T13:31:33.681Z",
   "metadata": [
     {
       "__outstatic": {
@@ -245,24 +245,6 @@
       "slug": "durrs-of-montgomery",
       "status": "published",
       "title": "Durrs of Montgomery"
-    },
-    {
-      "__outstatic": {
-        "commit": "7e31bb93e67d52894df8ffb6797e8ffa375b8dcc",
-        "hash": "1229438924",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "status": "published",
-      "title": "White Lies"
     },
     {
       "__outstatic": {
@@ -579,6 +561,30 @@
         }
       ],
       "title": "A Call From Selma"
+    },
+    {
+      "__outstatic": {
+        "commit": "391d92de28e3afcaec3339d768b1ca1c43d0064e",
+        "hash": "3897476413",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "status": "published",
+      "title": "White Lies"
     }
   ]
 }
