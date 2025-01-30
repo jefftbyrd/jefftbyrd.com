@@ -1,6 +1,6 @@
 {
-  "commit": "799be7c805ab4dc255e05832d7ba13a4ed266261",
-  "generated": "2025-01-27T21:37:21.134Z",
+  "commit": "cb09635008eba4c4d3e125c27cb2c0e059404c36",
+  "generated": "2025-01-30T13:21:44.438Z",
   "metadata": [
     {
       "__outstatic": {
@@ -353,6 +353,24 @@
       "slug": "after-the-storm",
       "status": "published",
       "title": "After the Storm"
+    },
+    {
+      "__outstatic": {
+        "commit": "cb09635008eba4c4d3e125c27cb2c0e059404c36",
+        "hash": "2097966821",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma"
     }
   ]
 }
