@@ -1,6 +1,6 @@
 {
-  "commit": "b4c7589e481ac37384283202b3ba30a024833d6f",
-  "generated": "2025-01-30T13:24:15.747Z",
+  "commit": "6d97ec5d1c4590be5af562d80d4172ca2b84d7da",
+  "generated": "2025-01-30T13:24:30.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -479,6 +479,24 @@
       "slug": "goodwater-alabama-1982",
       "status": "published",
       "title": "Goodwater, Alabama 1982"
+    },
+    {
+      "__outstatic": {
+        "commit": "6d97ec5d1c4590be5af562d80d4172ca2b84d7da",
+        "hash": "2032257578",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "status": "draft",
+      "title": "Are You Sick?"
     }
   ]
 }
