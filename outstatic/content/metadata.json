@@ -1,6 +1,6 @@
 {
-  "commit": "96b5b13904e71678b2ec3e3188ccdcc7afcf3679",
-  "generated": "2025-01-30T13:33:01.244Z",
+  "commit": "7f9fafae402e0abe4a5f95f5005ce3f0f68af29f",
+  "generated": "2025-01-30T13:33:19.162Z",
   "metadata": [
     {
       "__outstatic": {
@@ -302,24 +302,6 @@
     },
     {
       "__outstatic": {
-        "commit": "799be7c805ab4dc255e05832d7ba13a4ed266261",
-        "hash": "1832255174",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "status": "published",
-      "title": "After the Storm"
-    },
-    {
-      "__outstatic": {
         "commit": "f4074d0c8c6eede2f14cda4dc50d7ec5da9550b6",
         "hash": "912879993",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -609,6 +591,34 @@
         }
       ],
       "title": "Alouette"
+    },
+    {
+      "__outstatic": {
+        "commit": "7f9fafae402e0abe4a5f95f5005ce3f0f68af29f",
+        "hash": "233750475",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "status": "published",
+      "title": "After the Storm"
     }
   ]
 }

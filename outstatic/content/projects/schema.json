@@ -24,6 +24,10 @@
         {
           "value": "audioPost",
           "label": "Audio Post"
+        },
+        {
+          "value": "soundDesign",
+          "label": "Sound Design"
         }
       ]
     }

@@ -7,6 +7,7 @@ author:
 slug: 'after-the-storm'
 description: ''
 coverImage: ''
+projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"label":"Sound Design","value":"soundDesign"}]
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 
