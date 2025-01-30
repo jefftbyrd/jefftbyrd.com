@@ -20,6 +20,10 @@
         {
           "value": "album",
           "label": "Album"
+        },
+        {
+          "value": "audioPost",
+          "label": "Audio Post"
         }
       ]
     }

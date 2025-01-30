@@ -7,6 +7,7 @@ author:
 slug: 'oystermen'
 description: ''
 coverImage: ''
+projectTags: [{"label":"Audio Post","value":"audioPost"}]
 publishedAt: '2025-01-27T21:47:47.494Z'
 ---
 
