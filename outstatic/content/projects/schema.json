@@ -8,7 +8,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "project tags",
-      "values": []
+      "values": [
+        {
+          "value": "soundtrack",
+          "label": "Soundtrack"
+        }
+      ]
     }
   }
 }
