@@ -1,6 +1,6 @@
 {
-  "commit": "dc894f8e86136e95650c1f7ec452eaadcbedade4",
-  "generated": "2025-01-30T13:36:10.679Z",
+  "commit": "7c575aa96407e4c2cca684d57d7b1f680fcd86c5",
+  "generated": "2025-01-30T13:36:35.563Z",
   "metadata": [
     {
       "__outstatic": {
@@ -227,24 +227,6 @@
       "slug": "roule-sonner",
       "status": "published",
       "title": "Roule Sonner"
-    },
-    {
-      "__outstatic": {
-        "commit": "b47946f05533d0a89a1a6f34e14129a0a2f775f3",
-        "hash": "2744696874",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
-      "status": "draft",
-      "title": "Health For All "
     },
     {
       "__outstatic": {
@@ -651,6 +633,34 @@
       "slug": "vector",
       "status": "published",
       "title": "Vector"
+    },
+    {
+      "__outstatic": {
+        "commit": "7c575aa96407e4c2cca684d57d7b1f680fcd86c5",
+        "hash": "4227275181",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "status": "published",
+      "title": "Health For All "
     }
   ]
 }
