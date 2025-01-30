@@ -7,8 +7,7 @@ author:
 slug: 'a-call-from-selma'
 description: ''
 coverImage: ''
-tags: [{"label":"Soundtrack","value":"soundtrack"}]
-projectTags: [{"label":"Soundtrack","value":"soundtrack"}]
+projectTags: [{ 'label': 'Soundtrack', 'value': 'soundtrack' }]
 publishedAt: '2025-01-30T13:33:27.323Z'
 ---
 
