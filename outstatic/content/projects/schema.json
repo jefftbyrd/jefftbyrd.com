@@ -40,6 +40,10 @@
         {
           "value": "design",
           "label": "Design"
+        },
+        {
+          "value": "webApplication",
+          "label": "Web Application"
         }
       ]
     }

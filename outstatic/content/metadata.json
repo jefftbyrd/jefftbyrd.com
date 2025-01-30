@@ -1,6 +1,6 @@
 {
-  "commit": "7c575aa96407e4c2cca684d57d7b1f680fcd86c5",
-  "generated": "2025-01-30T13:36:35.563Z",
+  "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
+  "generated": "2025-01-30T13:36:48.960Z",
   "metadata": [
     {
       "__outstatic": {
@@ -173,24 +173,6 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
-    },
-    {
-      "__outstatic": {
-        "commit": "2b7ffe5258e5167afbf291b5ba0bc8c4a4b5ac56",
-        "hash": "52838691",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "status": "published",
-      "title": "Earthsong"
     },
     {
       "__outstatic": {
@@ -661,6 +643,30 @@
       "slug": "health-for-all",
       "status": "published",
       "title": "Health For All "
+    },
+    {
+      "__outstatic": {
+        "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
+        "hash": "2641312276",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Web Application",
+          "value": "webApplication"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "status": "published",
+      "title": "Earthsong"
     }
   ]
 }

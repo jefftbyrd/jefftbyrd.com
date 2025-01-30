@@ -7,6 +7,7 @@ author:
 slug: 'earthsong'
 description: ''
 coverImage: ''
+projectTags: [{"label":"Web Application","value":"webApplication"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
