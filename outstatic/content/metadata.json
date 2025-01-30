@@ -1,6 +1,6 @@
 {
-  "commit": "c759e10298de5c47fd47168798df5eb3c78d9943",
-  "generated": "2025-01-30T13:34:05.222Z",
+  "commit": "dc894f8e86136e95650c1f7ec452eaadcbedade4",
+  "generated": "2025-01-30T13:36:10.679Z",
   "metadata": [
     {
       "__outstatic": {
@@ -191,24 +191,6 @@
       "slug": "earthsong",
       "status": "published",
       "title": "Earthsong"
-    },
-    {
-      "__outstatic": {
-        "commit": "80bc758cb16ae6ce59419ff6d39a14a009059db8",
-        "hash": "781575558",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "status": "published",
-      "title": "Vector"
     },
     {
       "__outstatic": {
@@ -641,6 +623,34 @@
       "slug": "durrs-of-montgomery",
       "status": "published",
       "title": "Durrs of Montgomery"
+    },
+    {
+      "__outstatic": {
+        "commit": "dc894f8e86136e95650c1f7ec452eaadcbedade4",
+        "hash": "3870898086",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector"
     }
   ]
 }

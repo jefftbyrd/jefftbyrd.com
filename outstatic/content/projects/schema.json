@@ -32,6 +32,14 @@
         {
           "value": "shortFilm",
           "label": "Short Film"
+        },
+        {
+          "value": "website",
+          "label": "Website"
+        },
+        {
+          "value": "design",
+          "label": "Design"
         }
       ]
     }
