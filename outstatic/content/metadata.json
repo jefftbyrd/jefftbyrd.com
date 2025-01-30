@@ -1,6 +1,6 @@
 {
-  "commit": "ef742957786d91b3646f301bc976729d6a7f1bb2",
-  "generated": "2025-01-30T13:32:39.847Z",
+  "commit": "96b5b13904e71678b2ec3e3188ccdcc7afcf3679",
+  "generated": "2025-01-30T13:33:01.244Z",
   "metadata": [
     {
       "__outstatic": {
@@ -428,34 +428,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d2e5e485ba97e479a924fc6edf5b986f738bf956",
-        "hash": "3337149974",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "title": "Alouette"
-    },
-    {
-      "__outstatic": {
         "commit": "134fb516541fd2af4b352a93ded41212a7001c96",
         "hash": "640651745",
         "path": "outstatic/content/projects/are-you-sick.md"
@@ -603,6 +575,40 @@
       "slug": "oystermen",
       "status": "published",
       "title": "Oystermen"
+    },
+    {
+      "__outstatic": {
+        "commit": "96b5b13904e71678b2ec3e3188ccdcc7afcf3679",
+        "hash": "4026638716",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "title": "Alouette"
     }
   ]
 }
