@@ -1,6 +1,6 @@
 {
-  "commit": "e15523e42c1406a1745bfdc37a341577a9d7f1af",
-  "generated": "2025-01-30T13:25:04.003Z",
+  "commit": "54ae7994f77f67dda8aad3efb9ec513257c99b16",
+  "generated": "2025-01-30T13:25:17.776Z",
   "metadata": [
     {
       "__outstatic": {
@@ -533,6 +533,24 @@
       "slug": "god-today",
       "status": "published",
       "title": "God Today"
+    },
+    {
+      "__outstatic": {
+        "commit": "54ae7994f77f67dda8aad3efb9ec513257c99b16",
+        "hash": "1883724591",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "title": "Alouette"
     }
   ]
 }
