@@ -16,6 +16,10 @@
         {
           "value": "musicVideo",
           "label": "Music Video"
+        },
+        {
+          "value": "album",
+          "label": "Album"
         }
       ]
     }

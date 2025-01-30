@@ -1,6 +1,6 @@
 {
-  "commit": "53bcc3aa419621f0bc6cee4681b66d394e00abd4",
-  "generated": "2025-01-30T13:31:52.426Z",
+  "commit": "6ffe784057719f4217082bd8c6e380ece83fb9c1",
+  "generated": "2025-01-30T13:32:05.451Z",
   "metadata": [
     {
       "__outstatic": {
@@ -428,24 +428,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b4c7589e481ac37384283202b3ba30a024833d6f",
-        "hash": "2698516763",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982"
-    },
-    {
-      "__outstatic": {
         "commit": "6d324013cd6d65cb4ee60caf3a91fcfdfc3b06a8",
         "hash": "3837302117",
         "path": "outstatic/content/projects/texas.md"
@@ -591,6 +573,30 @@
       "slug": "god-today",
       "status": "published",
       "title": "God Today"
+    },
+    {
+      "__outstatic": {
+        "commit": "6ffe784057719f4217082bd8c6e380ece83fb9c1",
+        "hash": "1552612710",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982"
     }
   ]
 }

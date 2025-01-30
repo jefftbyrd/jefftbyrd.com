@@ -7,6 +7,7 @@ author:
 slug: 'goodwater-alabama-1982'
 description: ''
 coverImage: ''
+projectTags: [{"label":"Album","value":"album"}]
 publishedAt: '2025-01-30T13:36:05.889Z'
 ---
 
