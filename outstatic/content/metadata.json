@@ -1,6 +1,6 @@
 {
-  "commit": "1f609adc17c5f6e987b1e4a4e33aa3092160fbad",
-  "generated": "2025-01-30T13:23:16.097Z",
+  "commit": "7bc62d1a4a0d4e77337eb64c0ccc18207ac94ae8",
+  "generated": "2025-01-30T13:23:26.956Z",
   "metadata": [
     {
       "__outstatic": {
@@ -425,6 +425,24 @@
       "slug": "lamb-alley",
       "status": "published",
       "title": "Lamb Alley"
+    },
+    {
+      "__outstatic": {
+        "commit": "7bc62d1a4a0d4e77337eb64c0ccc18207ac94ae8",
+        "hash": "1706089207",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "status": "draft",
+      "title": "Dad Is Bad"
     }
   ]
 }
