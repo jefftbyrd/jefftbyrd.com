@@ -1,6 +1,6 @@
 {
-  "commit": "6d324013cd6d65cb4ee60caf3a91fcfdfc3b06a8",
-  "generated": "2025-01-30T13:24:50.659Z",
+  "commit": "e15523e42c1406a1745bfdc37a341577a9d7f1af",
+  "generated": "2025-01-30T13:25:04.003Z",
   "metadata": [
     {
       "__outstatic": {
@@ -515,6 +515,24 @@
       "slug": "texas",
       "status": "published",
       "title": "Texas"
+    },
+    {
+      "__outstatic": {
+        "commit": "e15523e42c1406a1745bfdc37a341577a9d7f1af",
+        "hash": "3499740215",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today"
     }
   ]
 }
