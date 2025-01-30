@@ -1,6 +1,6 @@
 {
-  "commit": "7bc62d1a4a0d4e77337eb64c0ccc18207ac94ae8",
-  "generated": "2025-01-30T13:23:26.956Z",
+  "commit": "28271b2dd9863efdc57c11d6b879fe87c9087d4d",
+  "generated": "2025-01-30T13:23:31.148Z",
   "metadata": [
     {
       "__outstatic": {
@@ -428,8 +428,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7bc62d1a4a0d4e77337eb64c0ccc18207ac94ae8",
-        "hash": "1706089207",
+        "commit": "28271b2dd9863efdc57c11d6b879fe87c9087d4d",
+        "hash": "2611621424",
         "path": "outstatic/content/projects/dad-is-bad.md"
       },
       "author": {
@@ -441,7 +441,7 @@
       "description": "",
       "publishedAt": "2025-01-30T13:35:24.711Z",
       "slug": "dad-is-bad",
-      "status": "draft",
+      "status": "published",
       "title": "Dad Is Bad"
     }
   ]
