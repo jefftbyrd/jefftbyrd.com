@@ -1,6 +1,6 @@
 {
-  "commit": "cb09635008eba4c4d3e125c27cb2c0e059404c36",
-  "generated": "2025-01-30T13:21:44.438Z",
+  "commit": "f4074d0c8c6eede2f14cda4dc50d7ec5da9550b6",
+  "generated": "2025-01-30T13:22:19.224Z",
   "metadata": [
     {
       "__outstatic": {
@@ -371,6 +371,24 @@
       "slug": "a-call-from-selma",
       "status": "published",
       "title": "A Call From Selma"
+    },
+    {
+      "__outstatic": {
+        "commit": "f4074d0c8c6eede2f14cda4dc50d7ec5da9550b6",
+        "hash": "912879993",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "status": "published",
+      "title": "So Broken Up About You Dying"
     }
   ]
 }
