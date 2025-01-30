@@ -9,6 +9,10 @@
         {
           "value": "soundtrack",
           "label": "Soundtrack"
+        },
+        {
+          "value": "soundDesign",
+          "label": "Sound Design"
         }
       ],
       "fieldType": "Tags",

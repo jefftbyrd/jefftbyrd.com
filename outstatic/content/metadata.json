@@ -1,6 +1,6 @@
 {
-  "commit": "6249f21fa5d46d5c7d6dedaad1b9dbd8c2baba24",
-  "generated": "2025-01-30T13:29:24.579Z",
+  "commit": "d2e5e485ba97e479a924fc6edf5b986f738bf956",
+  "generated": "2025-01-30T13:29:47.277Z",
   "metadata": [
     {
       "__outstatic": {
@@ -518,24 +518,6 @@
     },
     {
       "__outstatic": {
-        "commit": "54ae7994f77f67dda8aad3efb9ec513257c99b16",
-        "hash": "1883724591",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "title": "Alouette"
-    },
-    {
-      "__outstatic": {
         "commit": "6249f21fa5d46d5c7d6dedaad1b9dbd8c2baba24",
         "hash": "114160477",
         "path": "outstatic/content/projects/a-call-from-selma.md"
@@ -557,6 +539,34 @@
         }
       ],
       "title": "A Call From Selma"
+    },
+    {
+      "__outstatic": {
+        "commit": "d2e5e485ba97e479a924fc6edf5b986f738bf956",
+        "hash": "3337149974",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "title": "Alouette"
     }
   ]
 }
