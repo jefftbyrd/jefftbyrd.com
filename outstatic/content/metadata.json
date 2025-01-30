@@ -1,6 +1,6 @@
 {
-  "commit": "f4074d0c8c6eede2f14cda4dc50d7ec5da9550b6",
-  "generated": "2025-01-30T13:22:19.224Z",
+  "commit": "2df52be27256f2adec7686c419fe56109e466333",
+  "generated": "2025-01-30T13:22:56.616Z",
   "metadata": [
     {
       "__outstatic": {
@@ -389,6 +389,24 @@
       "slug": "so-broken-up-about-you-dying",
       "status": "published",
       "title": "So Broken Up About You Dying"
+    },
+    {
+      "__outstatic": {
+        "commit": "2df52be27256f2adec7686c419fe56109e466333",
+        "hash": "1838319554",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "status": "published",
+      "title": "Nighty Night"
     }
   ]
 }
