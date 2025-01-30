@@ -1,6 +1,6 @@
 {
-  "commit": "54ae7994f77f67dda8aad3efb9ec513257c99b16",
-  "generated": "2025-01-30T13:25:17.776Z",
+  "commit": "6249f21fa5d46d5c7d6dedaad1b9dbd8c2baba24",
+  "generated": "2025-01-30T13:29:24.579Z",
   "metadata": [
     {
       "__outstatic": {
@@ -356,24 +356,6 @@
     },
     {
       "__outstatic": {
-        "commit": "cb09635008eba4c4d3e125c27cb2c0e059404c36",
-        "hash": "2097966821",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "status": "published",
-      "title": "A Call From Selma"
-    },
-    {
-      "__outstatic": {
         "commit": "f4074d0c8c6eede2f14cda4dc50d7ec5da9550b6",
         "hash": "912879993",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -551,6 +533,30 @@
       "slug": "alouette",
       "status": "published",
       "title": "Alouette"
+    },
+    {
+      "__outstatic": {
+        "commit": "6249f21fa5d46d5c7d6dedaad1b9dbd8c2baba24",
+        "hash": "114160477",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "title": "A Call From Selma"
     }
   ]
 }
