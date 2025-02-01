@@ -1,0 +1,19 @@
+/* home.module.scss */
+
+.logo {
+  font-family: var(font-karrik);
+  font-size: 9rem;
+  /* font-weight: var(--font-weight-normal); */
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.bump {
+  position: relative;
+  top: -0.14em;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-family: var(font-chivo);
+}

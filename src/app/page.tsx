@@ -1,5 +1,6 @@
 import { load } from 'outstatic/server';
 import ContentGrid from '../components/ContentGrid';
+import styles from '../components/home.module.css';
 import Layout from '../components/Layout';
 import markdownToHtml from '../lib/markdownToHtml';
 
@@ -10,12 +11,16 @@ export default async function Index() {
     <Layout>
       <div className="max-w-6xl mx-auto px-5">
         <section className="mt-16 mb-16 md:mb-12">
-          <div
+          {/* <div
             className="prose lg:prose-2xl home-intro"
             dangerouslySetInnerHTML={{ __html: content }}
-          />
-          <div className="font-karrik">This is a test</div>
-          <p className="font-chivo">The quick brown fox ...</p>
+          /> */}
+          <h1 className={styles.logo}>
+            Jeff <span className={styles.bump}>T</span> Byrd
+          </h1>
+          <h2 className={styles.subtitle}>
+            Web Developer, composer & sound designer
+          </h2>
         </section>
         {allPosts.length > 0 && (
           <ContentGrid
