@@ -5,8 +5,8 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'alouette'
-description: 'This is the description'
-coverImage: '/images/alouette-AzNT.jpg'
+description: 'This is the description.'
+coverImage: '/images/alouette-kzNz.jpg'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 publishedAt: '2025-01-30T13:37:11.263Z'
 ---

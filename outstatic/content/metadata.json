@@ -1,6 +1,6 @@
 {
   "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-  "generated": "2025-02-01T10:10:03.778Z",
+  "generated": "2025-02-01T10:10:08.103Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,7 +637,7 @@
     {
       "__outstatic": {
         "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-        "hash": "1885350705",
+        "hash": "404943974",
         "path": "outstatic/content/projects/alouette.md"
       },
       "author": {
@@ -645,8 +645,8 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/alouette-AzNT.jpg",
-      "description": "This is the description",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "This is the description.",
       "projectTags": [
         {
           "label": "Soundtrack",
