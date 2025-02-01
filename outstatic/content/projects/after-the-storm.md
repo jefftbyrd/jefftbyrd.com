@@ -13,4 +13,4 @@ publishedAt: '2025-01-27T21:49:13.188Z'
 
 music and sound
 
-[Can I include a link?](budokanboys.club)
+[Can I include a link?](http://budokanboys.club)

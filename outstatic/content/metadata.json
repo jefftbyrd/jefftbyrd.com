@@ -1,6 +1,6 @@
 {
-  "commit": "d67e25e8eb976648207180e0bda9aef56f04642d",
-  "generated": "2025-02-01T14:28:05.366Z",
+  "commit": "fe6c19978d9453fc07ea6f47ea0ea7c627ffadf3",
+  "generated": "2025-02-01T14:29:21.965Z",
   "metadata": [
     {
       "__outstatic": {
@@ -632,8 +632,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d67e25e8eb976648207180e0bda9aef56f04642d",
-        "hash": "3572597504",
+        "commit": "fe6c19978d9453fc07ea6f47ea0ea7c627ffadf3",
+        "hash": "2859466882",
         "path": "outstatic/content/projects/after-the-storm.md"
       },
       "author": {
