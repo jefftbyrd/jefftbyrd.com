@@ -1,10 +1,10 @@
-import Layout from '../components/Layout'
-import { load } from 'outstatic/server'
-import ContentGrid from '../components/ContentGrid'
-import markdownToHtml from '../lib/markdownToHtml'
+import { load } from 'outstatic/server';
+import ContentGrid from '../components/ContentGrid';
+import Layout from '../components/Layout';
+import markdownToHtml from '../lib/markdownToHtml';
 
 export default async function Index() {
-  const { content, allPosts, allProjects } = await getData()
+  const { content, allPosts, allProjects } = await getData();
 
   return (
     <Layout>
@@ -14,6 +14,8 @@ export default async function Index() {
             className="prose lg:prose-2xl home-intro"
             dangerouslySetInnerHTML={{ __html: content }}
           />
+          <div className="font-karrik">This is a test</div>
+          <p className="font-chivo">The quick brown fox ...</p>
         </section>
         {allPosts.length > 0 && (
           <ContentGrid
@@ -32,17 +34,17 @@ export default async function Index() {
         )}
       </div>
     </Layout>
-  )
+  );
 }
 
 async function getData() {
-  const db = await load()
+  const db = await load();
 
   const page = await db
     .find({ collection: 'pages', slug: 'home' }, ['content'])
-    .first()
+    .first();
 
-  const content = await markdownToHtml(page.content)
+  const content = await markdownToHtml(page.content);
 
   const allPosts = await db
     .find({ collection: 'posts' }, [
@@ -51,19 +53,19 @@ async function getData() {
       'slug',
       'coverImage',
       'description',
-      'tags'
+      'tags',
     ])
     .sort({ publishedAt: -1 })
-    .toArray()
+    .toArray();
 
   const allProjects = await db
     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
     .sort({ publishedAt: -1 })
-    .toArray()
+    .toArray();
 
   return {
     content,
     allPosts,
-    allProjects
-  }
+    allProjects,
+  };
 }

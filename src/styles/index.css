@@ -2,6 +2,12 @@
 
 @plugin '@tailwindcss/typography';
 
+@theme {
+  --color-mint-500: oklch(0.72 0.11 178);
+  --color-foreground: oklch(45.79% 0.271 271.41);
+  --color-background: oklch(55.57% 0.2241 329.7);
+}
+
 /*
   The default border color has changed to `currentColor` in Tailwind CSS v4,
   so we've added these compatibility styles to make sure everything still
@@ -22,4 +28,14 @@
 
 .home-intro p {
   @apply text-2xl font-semibold leading-9;
+}
+
+html {
+  font-family: var(--font-chivo);
+  background-color: var(--color-background);
+  /* color: var(--color-mint-500); */
+}
+
+h1 {
+  font-family: var(--font-karrik);
 }
