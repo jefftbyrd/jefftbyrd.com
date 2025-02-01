@@ -1,6 +1,6 @@
 {
-  "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
-  "generated": "2025-01-30T13:36:48.960Z",
+  "commit": "c53fa2e25ec7ab169f8de0389b18c422236111fe",
+  "generated": "2025-02-01T09:59:14.088Z",
   "metadata": [
     {
       "__outstatic": {
@@ -452,40 +452,6 @@
     },
     {
       "__outstatic": {
-        "commit": "96b5b13904e71678b2ec3e3188ccdcc7afcf3679",
-        "hash": "4026638716",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "title": "Alouette"
-    },
-    {
-      "__outstatic": {
         "commit": "7f9fafae402e0abe4a5f95f5005ce3f0f68af29f",
         "hash": "233750475",
         "path": "outstatic/content/projects/after-the-storm.md"
@@ -667,6 +633,30 @@
       "slug": "earthsong",
       "status": "published",
       "title": "Earthsong"
+    },
+    {
+      "__outstatic": {
+        "commit": "c53fa2e25ec7ab169f8de0389b18c422236111fe",
+        "hash": "802763060",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "title": "Alouette"
     }
   ]
 }

@@ -7,8 +7,8 @@ author:
 slug: 'alouette'
 description: ''
 coverImage: ''
-projectTags: [{ 'value': 'soundtrack', 'label': 'Soundtrack' }]
+projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 publishedAt: '2025-01-30T13:37:11.263Z'
 ---
 
-Alouette
+This is the content.
