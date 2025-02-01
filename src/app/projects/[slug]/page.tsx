@@ -78,7 +78,7 @@ export default async function Project(params: Params) {
                 Launched on <DateFormatter dateString={project.publishedAt} />{' '}
                 {project?.author?.name ? `by ${project?.author?.name}` : null}.
               </div> */}
-              <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded shadow">
+              <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
                 {project.description}
               </div>
               <div className="max-w-2xl mx-auto">
