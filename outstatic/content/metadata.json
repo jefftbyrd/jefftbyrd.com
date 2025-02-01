@@ -1,6 +1,6 @@
 {
   "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-  "generated": "2025-02-01T10:09:26.540Z",
+  "generated": "2025-02-01T10:10:03.778Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,7 +637,7 @@
     {
       "__outstatic": {
         "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-        "hash": "2396865831",
+        "hash": "1885350705",
         "path": "outstatic/content/projects/alouette.md"
       },
       "author": {
@@ -645,7 +645,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/alouette-AzNT.jpg",
       "description": "This is the description",
       "projectTags": [
         {
