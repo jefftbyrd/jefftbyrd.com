@@ -1,6 +1,6 @@
 {
-  "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-  "generated": "2025-02-01T10:10:08.103Z",
+  "commit": "ee20370ce6bcaa0fb09177a14775d199dac365dd",
+  "generated": "2025-02-01T10:26:51.375Z",
   "metadata": [
     {
       "__outstatic": {
@@ -452,34 +452,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7f9fafae402e0abe4a5f95f5005ce3f0f68af29f",
-        "hash": "233750475",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "status": "published",
-      "title": "After the Storm"
-    },
-    {
-      "__outstatic": {
         "commit": "f1b25b3a5ab2a41d090a0390f5b5028d39b299f7",
         "hash": "299345142",
         "path": "outstatic/content/projects/spark.md"
@@ -657,6 +629,34 @@
       "slug": "alouette",
       "status": "published",
       "title": "Alouette"
+    },
+    {
+      "__outstatic": {
+        "commit": "ee20370ce6bcaa0fb09177a14775d199dac365dd",
+        "hash": "2965449018",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "the description",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "status": "published",
+      "title": "After the Storm"
     }
   ]
 }
