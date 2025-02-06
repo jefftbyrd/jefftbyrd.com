@@ -1,23 +1,23 @@
-import type { OstDocument } from 'outstatic'
-import Link from 'next/link'
-import Image from 'next/image'
+import Image from 'next/image';
+import Link from 'next/link';
+import type { OstDocument } from 'outstatic';
 
 type Item = {
-  tags?: { value: string; label: string }[]
-} & OstDocument
+  tags?: { value: string; label: string }[];
+} & OstDocument;
 
 type Props = {
-  collection: 'posts' | 'projects'
-  title?: string
-  items: Item[]
-  priority?: boolean
-}
+  collection: 'posts' | 'projects';
+  title?: string;
+  items: Item[];
+  priority?: boolean;
+};
 
 const ContentGrid = ({
   title = 'More',
   items,
   collection,
-  priority = false
+  priority = false,
 }: Props) => {
   return (
     <section id={collection}>
@@ -70,7 +70,7 @@ const ContentGrid = ({
         ))}
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default ContentGrid
+export default ContentGrid;

@@ -1,11 +1,13 @@
 /* home.module.scss */
 
 .logo {
-  font-family: var(font-karrik);
-  font-size: 9rem;
+  font-family: var(--font-karrik);
+  font-size: calc(24px + (240 - 24) * ((100vw - 300px) / (1600 - 300)));
   /* font-weight: var(--font-weight-normal); */
-  font-weight: 600;
+  /* font-weight: 600; */
   text-transform: uppercase;
+  text-align: center;
+  color: #070707;
 }
 
 .bump {
@@ -15,5 +17,8 @@
 
 .subtitle {
   text-transform: uppercase;
-  font-family: var(font-chivo);
+  font-family: var(--font-hanken);
+  font-size: calc(16px + (44 - 16) * ((100vw - 300px) / (1600 - 300)));
+  font-weight: 200;
+  text-align: center;
 }

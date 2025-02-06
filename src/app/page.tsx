@@ -1,4 +1,7 @@
+import 'swiper/css';
 import { load } from 'outstatic/server';
+// import { Swiper, SwiperSlide } from 'swiper/react';
+import Slider from 'react-slick';
 import ContentGrid from '../components/ContentGrid';
 import styles from '../components/home.module.css';
 import Layout from '../components/Layout';
@@ -9,7 +12,8 @@ export default async function Index() {
 
   return (
     <Layout>
-      <div className="max-w-6xl mx-auto px-5">
+      {/* <div className="max-w-6xl mx-auto px-5"> */}
+      <div className="max-w-none mx-auto px-12">
         <section className="mt-16 mb-16 md:mb-12">
           {/* <div
             className="prose lg:prose-2xl home-intro"
@@ -19,7 +23,7 @@ export default async function Index() {
             Jeff <span className={styles.bump}>T</span> Byrd
           </h1>
           <h2 className={styles.subtitle}>
-            Web Developer, composer & sound designer
+            Web developer, composer & sound designer
           </h2>
         </section>
         {allPosts.length > 0 && (

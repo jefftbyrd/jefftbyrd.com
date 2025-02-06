@@ -1,14 +1,21 @@
 import '../styles/index.css';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
-import { Chivo } from 'next/font/google';
+import { Chivo, Hanken_Grotesk } from 'next/font/google';
 import localFont from 'next/font/local';
+
+// import { Hanken+Grotesk } from 'next/font/google';
 
 // const chivo = Chivo({ subsets: ['latin'], display: 'swap' });
 
 const chivo = Chivo({
   subsets: ['latin'],
   variable: '--font-chivo',
+});
+
+const hanken = Hanken_Grotesk({
+  subsets: ['latin'],
+  variable: '--font-hanken',
 });
 
 const karrik = localFont({
@@ -50,7 +57,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${chivo.variable} ${karrik.variable}`}>
+    <html
+      lang="en"
+      className={`${chivo.variable} ${karrik.variable} ${hanken.variable}`}
+    >
       <body>{children}</body>
     </html>
   );
