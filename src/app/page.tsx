@@ -5,6 +5,7 @@ import Slider from 'react-slick';
 import ContentGrid from '../components/ContentGrid';
 import styles from '../components/home.module.css';
 import Layout from '../components/Layout';
+import SimpleSlider from '../components/SimpleSlider';
 import markdownToHtml from '../lib/markdownToHtml';
 
 export default async function Index() {
@@ -12,6 +13,7 @@ export default async function Index() {
 
   return (
     <Layout>
+      <SimpleSlider />
       {/* <div className="max-w-6xl mx-auto px-5"> */}
       <div className="max-w-none mx-auto px-12">
         <section className="mt-16 mb-16 md:mb-12">

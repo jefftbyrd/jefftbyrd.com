@@ -15,12 +15,13 @@ type Project = {
 } & OstDocument;
 
 interface Params {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 export async function generateMetadata(params: Params): Promise<Metadata> {
-  const { project } = await getData(params);
+  const { project } = await getData(/* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  params);
 
   if (!project) {
     return {};
@@ -53,7 +54,8 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 }
 
 export default async function Project(params: Params) {
-  const { project, moreProjects, content } = await getData(params);
+  const { project, moreProjects, content } = await getData(/* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  params);
 
   return (
     <Layout>

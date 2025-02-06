@@ -14,13 +14,14 @@ type Post = {
 } & OstDocument;
 
 interface Params {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 export async function generateMetadata(params: Params): Promise<Metadata> {
-  const post = await getData(params);
+  const post = await getData(/* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  params);
 
   if (!post) {
     return {};
@@ -53,7 +54,8 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 }
 
 export default async function Post(params: Params) {
-  const post = await getData(params);
+  const post = await getData(/* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  params);
   return (
     <Layout>
       <div className="max-w-6xl mx-auto px-5">
