@@ -7,30 +7,20 @@ import Slider from 'react-slick';
 export default function SimpleSlider() {
   var settings = {
     dots: true,
+    fade: true,
     infinite: true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
+    waitForAnimate: false
   };
   return (
     <Slider {...settings}>
       <div>
-        <h3>1</h3>
+      <img src="/images/vector-slide-6.webp" />
       </div>
       <div>
-        <h3>2</h3>
-      </div>
-      <div>
-        <h3>3</h3>
-      </div>
-      <div>
-        <h3>4</h3>
-      </div>
-      <div>
-        <h3>5</h3>
-      </div>
-      <div>
-        <h3>6</h3>
+      <img src="/images/earthsong-slide-2.webp" />
       </div>
     </Slider>
   );

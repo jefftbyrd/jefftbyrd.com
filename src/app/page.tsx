@@ -13,9 +13,9 @@ export default async function Index() {
 
   return (
     <Layout>
-      <SimpleSlider />
+
       {/* <div className="max-w-6xl mx-auto px-5"> */}
-      <div className="max-w-none mx-auto px-12">
+      <div className="max-w-none mx-auto px-0">
         <section className="mt-16 mb-16 md:mb-12">
           {/* <div
             className="prose lg:prose-2xl home-intro"
@@ -28,6 +28,8 @@ export default async function Index() {
             Web developer, composer & sound designer
           </h2>
         </section>
+
+       <div> <SimpleSlider /></div>
         {allPosts.length > 0 && (
           <ContentGrid
             title="Posts"
