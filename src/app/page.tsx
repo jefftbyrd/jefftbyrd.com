@@ -1,7 +1,9 @@
-import 'swiper/css';
+// import 'swiper/css';
 import { load } from 'outstatic/server';
+import BigMenu from '../components/BigMenu';
 // import { Swiper, SwiperSlide } from 'swiper/react';
-import Slider from 'react-slick';
+// import Slider from 'react-slick';
+import BlueVert from '../components/BlueVert';
 import ContentGrid from '../components/ContentGrid';
 import styles from '../components/home.module.css';
 import Layout from '../components/Layout';
@@ -13,7 +15,7 @@ export default async function Index() {
 
   return (
     <Layout>
-
+<BlueVert height={`h-14`} />
       {/* <div className="max-w-6xl mx-auto px-5"> */}
       <div className="max-w-none mx-auto px-0">
         <section className="mt-16 mb-16 md:mb-12">
@@ -28,8 +30,12 @@ export default async function Index() {
             Web developer, composer & sound designer
           </h2>
         </section>
+        <BlueVert height={`h-6`} />
 
-       <div> <SimpleSlider /></div>
+ <SimpleSlider />
+ <BlueVert height={`h-14`} />
+ <BigMenu />
+ <div className="px-12">
         {allPosts.length > 0 && (
           <ContentGrid
             title="Posts"
@@ -45,6 +51,7 @@ export default async function Index() {
             collection="projects"
           />
         )}
+        </div>
       </div>
     </Layout>
   );

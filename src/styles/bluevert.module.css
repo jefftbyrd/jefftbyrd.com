@@ -1,0 +1,5 @@
+/* bluevert.module.scss */
+
+.blueVert {
+  background-color: var(--color-foreground);
+}

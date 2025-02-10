@@ -5,8 +5,8 @@ import React from 'react';
 import Slider from 'react-slick';
 
 export default function SimpleSlider() {
-  var settings = {
-    dots: true,
+  const settings = {
+    // dots: true,
     fade: true,
     infinite: true,
     speed: 500,
@@ -21,6 +21,12 @@ export default function SimpleSlider() {
       </div>
       <div>
       <img src="/images/earthsong-slide-2.webp" />
+      </div>
+      <div>
+      <img src="/images/goodwater-slide-3.webp" />
+      </div>
+      <div>
+      <img src="/images/uh-slide.webp" />
       </div>
     </Slider>
   );

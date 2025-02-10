@@ -37,6 +37,14 @@ html {
   /* color: var(--color-mint-500); */
 }
 
+.bigMenu {
+  ul {
+    li {
+      border-bottom: solid var(--color-background) 20px;
+    }
+  }
+}
+
 /* h1 {
   font-family: var(--font-karrik);
 } */
