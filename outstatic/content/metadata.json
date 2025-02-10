@@ -1,6 +1,6 @@
 {
   "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
-  "generated": "2025-02-10T08:48:21.807Z",
+  "generated": "2025-02-10T08:49:26.849Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,7 +637,7 @@
     {
       "__outstatic": {
         "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
-        "hash": "3193390063",
+        "hash": "1127104914",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "author": {
@@ -645,7 +645,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/earthsong-screen-gzMz.webp",
+      "coverImage": "",
       "description": "",
       "projectTags": [
         {
