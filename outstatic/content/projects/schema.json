@@ -44,6 +44,10 @@
         {
           "value": "webApplication",
           "label": "Web Application"
+        },
+        {
+          "value": "code",
+          "label": "Code"
         }
       ]
     }

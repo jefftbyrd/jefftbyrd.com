@@ -1,6 +1,6 @@
 {
-  "commit": "a33e7be0ebcb014ba270cc75f37ab550db73a131",
-  "generated": "2025-02-01T14:57:41.522Z",
+  "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
+  "generated": "2025-02-10T08:45:03.420Z",
   "metadata": [
     {
       "__outstatic": {
@@ -584,30 +584,6 @@
     },
     {
       "__outstatic": {
-        "commit": "847981855bd6f2e355a36a906c2d024b5045fa2e",
-        "hash": "2641312276",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Web Application",
-          "value": "webApplication"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "status": "published",
-      "title": "Earthsong"
-    },
-    {
-      "__outstatic": {
         "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
         "hash": "404943974",
         "path": "outstatic/content/projects/alouette.md"
@@ -657,6 +633,38 @@
       "slug": "after-the-storm",
       "status": "published",
       "title": "After the Storm"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
+        "hash": "392701663",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Web Application",
+          "value": "webApplication"
+        },
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "status": "published",
+      "title": "Earthsong"
     }
   ]
 }
