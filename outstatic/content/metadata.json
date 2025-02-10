@@ -1,6 +1,6 @@
 {
-  "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
-  "generated": "2025-02-10T08:49:26.849Z",
+  "commit": "a854a018d09ab35adc5c4d03c14874e7688c4aa5",
+  "generated": "2025-02-10T08:49:55.161Z",
   "metadata": [
     {
       "__outstatic": {
@@ -636,8 +636,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4ec6271e0ba9ceaef49f05af48ebc8be7b17981e",
-        "hash": "1127104914",
+        "commit": "a854a018d09ab35adc5c4d03c14874e7688c4aa5",
+        "hash": "988034590",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "author": {
@@ -645,7 +645,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/earthsong-screen-I2NT.webp",
       "description": "",
       "projectTags": [
         {

@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'earthsong'
 description: ''
-coverImage: ''
+coverImage: '/images/earthsong-screen-I2NT.webp'
 projectTags: [{"label":"Web Application","value":"webApplication"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
