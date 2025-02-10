@@ -1,6 +1,6 @@
 {
-  "commit": "a854a018d09ab35adc5c4d03c14874e7688c4aa5",
-  "generated": "2025-02-10T08:49:55.161Z",
+  "commit": "3b5c955f9018fffb90224c9a50d5270a9bd7b22a",
+  "generated": "2025-02-10T08:51:04.199Z",
   "metadata": [
     {
       "__outstatic": {
@@ -636,8 +636,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a854a018d09ab35adc5c4d03c14874e7688c4aa5",
-        "hash": "988034590",
+        "commit": "3b5c955f9018fffb90224c9a50d5270a9bd7b22a",
+        "hash": "1769704171",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "author": {
@@ -649,8 +649,16 @@
       "description": "",
       "projectTags": [
         {
-          "label": "Web Application",
-          "value": "webApplication"
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
         }
       ],
       "publishedAt": "2025-01-27T21:44:17.556Z",

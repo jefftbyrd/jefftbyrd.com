@@ -48,6 +48,10 @@
         {
           "value": "code",
           "label": "Code"
+        },
+        {
+          "value": "sound",
+          "label": "Sound"
         }
       ]
     }

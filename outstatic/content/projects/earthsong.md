@@ -7,7 +7,7 @@ author:
 slug: 'earthsong'
 description: ''
 coverImage: '/images/earthsong-screen-I2NT.webp'
-projectTags: [{"label":"Web Application","value":"webApplication"}]
+projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
