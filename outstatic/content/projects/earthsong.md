@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'earthsong'
-description: ''
+description: 'This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.'
 coverImage: '/images/earthsong-screen-I2NT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
 videoUrl: 'https://youtu.be/BZF5gsD8GCw'

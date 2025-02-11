@@ -1,6 +1,6 @@
 {
   "commit": "cbad47b23459dded06f4516dd84b1053b2ab2f76",
-  "generated": "2025-02-11T11:34:18.110Z",
+  "generated": "2025-02-11T11:35:29.580Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,7 +637,7 @@
     {
       "__outstatic": {
         "commit": "cbad47b23459dded06f4516dd84b1053b2ab2f76",
-        "hash": "2786865814",
+        "hash": "1447286990",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "this is the additional images area",
@@ -647,7 +647,7 @@
       },
       "collection": "projects",
       "coverImage": "/images/earthsong-screen-I2NT.webp",
-      "description": "",
+      "description": "This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectTags": [
         {
