@@ -1,6 +1,6 @@
 {
-  "commit": "3b5c955f9018fffb90224c9a50d5270a9bd7b22a",
-  "generated": "2025-02-10T08:51:04.199Z",
+  "commit": "ab279caae59b9c3f95669151133e340ec86f9e4a",
+  "generated": "2025-02-11T11:22:48.213Z",
   "metadata": [
     {
       "__outstatic": {
@@ -636,10 +636,11 @@
     },
     {
       "__outstatic": {
-        "commit": "3b5c955f9018fffb90224c9a50d5270a9bd7b22a",
-        "hash": "1769704171",
+        "commit": "ab279caae59b9c3f95669151133e340ec86f9e4a",
+        "hash": "2837496642",
         "path": "outstatic/content/projects/earthsong.md"
       },
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
@@ -647,6 +648,7 @@
       "collection": "projects",
       "coverImage": "/images/earthsong-screen-I2NT.webp",
       "description": "",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectTags": [
         {
           "label": "Code",
@@ -664,7 +666,9 @@
       "publishedAt": "2025-01-27T21:44:17.556Z",
       "slug": "earthsong",
       "status": "published",
-      "title": "Earthsong"
+      "title": "Earthsong",
+      "videoUrl": "https://youtu.be/BZF5gsD8GCw",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }

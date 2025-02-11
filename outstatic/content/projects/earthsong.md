@@ -8,6 +8,10 @@ slug: 'earthsong'
 description: ''
 coverImage: '/images/earthsong-screen-I2NT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
+videoUrl: 'https://youtu.be/BZF5gsD8GCw'
+gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
+websiteUrl: 'https://earthsong.world/'
+additionalImages: ''
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
