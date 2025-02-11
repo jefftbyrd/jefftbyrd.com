@@ -57,7 +57,7 @@
     },
     "videoUrl": {
       "required": false,
-      "description": "Video URL 123",
+      "description": "Video URL",
       "fieldType": "String",
       "dataType": "string",
       "title": "Video URL"
