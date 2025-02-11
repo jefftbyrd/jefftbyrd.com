@@ -54,6 +54,13 @@
           "label": "Sound"
         }
       ]
+    },
+    "videoUrl": {
+      "required": false,
+      "description": "Video URL",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Video URL"
     }
   }
 }
