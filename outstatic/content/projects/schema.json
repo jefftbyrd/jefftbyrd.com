@@ -68,6 +68,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "GitHub URL"
+    },
+    "websiteUrl": {
+      "required": false,
+      "description": "Website URL",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Website URL"
     }
   }
 }
