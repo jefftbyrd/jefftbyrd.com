@@ -11,7 +11,7 @@ projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"
 videoUrl: 'https://youtu.be/BZF5gsD8GCw'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
 websiteUrl: 'https://earthsong.world/'
-additionalImages: ''
+additionalImages: 'this is the additional images area'
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 

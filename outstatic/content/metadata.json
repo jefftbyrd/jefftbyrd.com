@@ -1,6 +1,6 @@
 {
   "commit": "ab279caae59b9c3f95669151133e340ec86f9e4a",
-  "generated": "2025-02-11T11:22:48.213Z",
+  "generated": "2025-02-11T11:31:00.095Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,10 +637,10 @@
     {
       "__outstatic": {
         "commit": "ab279caae59b9c3f95669151133e340ec86f9e4a",
-        "hash": "2837496642",
+        "hash": "1130183344",
         "path": "outstatic/content/projects/earthsong.md"
       },
-      "additionalImages": "",
+      "additionalImages": "this is the additional images area",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
