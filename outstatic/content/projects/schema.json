@@ -89,6 +89,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Big Image"
+    },
+    "websiteLinkText": {
+      "required": false,
+      "description": "Text to display for website link",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Website Link Text"
     }
   }
 }
