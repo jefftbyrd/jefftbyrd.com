@@ -20,7 +20,7 @@ export default function SimpleSlider() {
       <img src="/images/vector-slide-6.webp" />
       </div>
       <div>
-      <img src="/images/earthsong-slide-2.webp" />
+      <a href="/projects/earthsong"><img src="/images/earthsong-slide-2.webp" /></a>
       </div>
       <div>
       <img src="/images/goodwater-slide-3.webp" />

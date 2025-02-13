@@ -9,7 +9,6 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
-import ProjectBlueVert from '../../../components/ProjectBlueVert';
 
 type Project = {
   tags: { value: string; label: string }[];
@@ -64,56 +63,36 @@ export default async function Project(params: Params) {
 
   return (
     <Layout>
-      <div className="w-full mx-auto px-0">
+      <div className="max-w-6xl mx-auto px-5">
         <Header />
-        <div>
-          <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2 px-5">
-            {project.title}
-          </h1>
-          {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
-            {project.description}
-          </div> */}
-          <ProjectBlueVert height={`h-6`} />
-          <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
-            <Image
-              alt={project.title}
-              src={`/images/projects/${project.bigImage ?? ''}`}
-              fill
-              className="object-cover object-center"
-              priority
-            />
-          </div>
-        </div>
-
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
+            <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
               <Image
                 alt={project.title}
-                src={`/images/additional/${project.additionalImages ?? ''}`}
+                src={project.coverImage ?? ''}
                 fill
                 className="object-cover object-center"
                 priority
               />
             </div>
             <div>
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)">
+              <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
+                {project.title}
+              </h1>
+              {/* <div className="hidden md:block md:mb-8 text-slate-600">
+                Launched on <DateFormatter dateString={project.publishedAt} />{' '}
+                {project?.author?.name ? `by ${project?.author?.name}` : null}.
+              </div> */}
+              <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
+                {project.description}
+              </div>
+              <div className="max-w-2xl mx-auto">
                 <div
-                  className="prose lg:prose-xl text-white"
+                  className="prose lg:prose-xl"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)  text-white">
-                <a href={project.websiteUrl} target="_blank">
-                  {project.websiteLinkText}
-                </a>
-              </div>
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)  text-white">
-                <a href={project.gitHubUrl} target="_blank">
-                  Visit on Github
-                </a>
-              </div>
-
               <div className="p-4">
                 {Array.isArray(project?.projectTags)
                   ? project.projectTags.map(({ label }) => (
@@ -139,15 +118,6 @@ export default async function Project(params: Params) {
           )}
         </div> */}
       </div>
-
-      <h2>New data</h2>
-      <ul>
-        <li>{project.websiteUrl}</li>
-        <li>{project.gitHubUrl}</li>
-        <li>{project.videoUrl}</li>
-        <li>{project.bigImage}</li>
-        <li>{project.additionalImages}</li>
-      </ul>
     </Layout>
   );
 }
@@ -164,12 +134,6 @@ async function getData({ params }: Params) {
       'content',
       'coverImage',
       'projectTags',
-      'websiteUrl',
-      'gitHubUrl',
-      'videoUrl',
-      'additionalImages',
-      'bigImage',
-      'websiteLinkText',
     ])
     .first();
 

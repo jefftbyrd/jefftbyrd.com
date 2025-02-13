@@ -32,6 +32,7 @@
 
 html {
   font-family: var(--font-hanken);
+  font-weight: 300;
   background-color: var(--color-background);
   font-size: 16px;
   /* color: var(--color-mint-500); */

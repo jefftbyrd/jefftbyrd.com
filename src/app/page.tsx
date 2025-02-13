@@ -15,7 +15,7 @@ export default async function Index() {
 
   return (
     <Layout>
-<BlueVert height={`h-14`} />
+      <BlueVert height={`h-14`} />
       {/* <div className="max-w-6xl mx-auto px-5"> */}
       <div className="max-w-none mx-auto px-0">
         <section className="mt-16 mb-16 md:mb-12">
@@ -32,25 +32,25 @@ export default async function Index() {
         </section>
         <BlueVert height={`h-6`} />
 
- <SimpleSlider />
- <BlueVert height={`h-14`} />
- <BigMenu />
- <div className="px-12">
-        {allPosts.length > 0 && (
-          <ContentGrid
-            title="Posts"
-            items={allPosts}
-            collection="posts"
-            priority
-          />
-        )}
-        {allProjects.length > 0 && (
-          <ContentGrid
-            title="Projects"
-            items={allProjects}
-            collection="projects"
-          />
-        )}
+        <SimpleSlider />
+        <BlueVert height={`h-14`} />
+        <BigMenu />
+        <div className="px-12">
+          {allPosts.length > 0 && (
+            <ContentGrid
+              title="Posts"
+              items={allPosts}
+              collection="posts"
+              priority
+            />
+          )}
+          {allProjects.length > 0 && (
+            <ContentGrid
+              title="Projects"
+              items={allProjects}
+              collection="projects"
+            />
+          )}
         </div>
       </div>
     </Layout>
