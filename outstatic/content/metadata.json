@@ -1,6 +1,6 @@
 {
   "commit": "82314dcca832be1e1e1f43e11744a7807f857b53",
-  "generated": "2025-02-13T11:25:48.119Z",
+  "generated": "2025-02-13T11:31:26.590Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,17 +637,17 @@
     {
       "__outstatic": {
         "commit": "82314dcca832be1e1e1f43e11744a7807f857b53",
-        "hash": "4181036413",
+        "hash": "186148567",
         "path": "outstatic/content/projects/earthsong.md"
       },
-      "additionalImages": "this is the additional images area",
+      "additionalImages": "earthsong-logo.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "earthsong-sound-portal.webp",
       "collection": "projects",
-      "coverImage": "/images/earthsong-screen-i2nt-YwMT.webp",
+      "coverImage": "/images/earthsong-sound-portal-M3OT.webp",
       "description": "This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectTags": [
