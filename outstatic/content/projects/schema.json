@@ -82,6 +82,13 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Additional Images"
+    },
+    "bigImage": {
+      "required": false,
+      "description": "The big image for the project page",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Big Image"
     }
   }
 }
