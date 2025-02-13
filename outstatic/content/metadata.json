@@ -1,6 +1,6 @@
 {
-  "commit": "82314dcca832be1e1e1f43e11744a7807f857b53",
-  "generated": "2025-02-13T11:31:26.590Z",
+  "commit": "c1b64cdfcfa52704bd86fecb8455b7cb4a7420c9",
+  "generated": "2025-02-13T11:40:50.666Z",
   "metadata": [
     {
       "__outstatic": {
@@ -636,8 +636,8 @@
     },
     {
       "__outstatic": {
-        "commit": "82314dcca832be1e1e1f43e11744a7807f857b53",
-        "hash": "186148567",
+        "commit": "c1b64cdfcfa52704bd86fecb8455b7cb4a7420c9",
+        "hash": "858448033",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "earthsong-logo.webp",
@@ -670,6 +670,7 @@
       "thumbnailImage": "earthsong-thumb.webp",
       "title": "Earthsong",
       "videoUrl": "https://youtu.be/BZF5gsD8GCw",
+      "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
     }
   ]
