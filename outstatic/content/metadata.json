@@ -1,6 +1,6 @@
 {
   "commit": "be2cd4cb9fd0b31cc33ee516dfa28312fca4f7e2",
-  "generated": "2025-02-13T11:00:05.628Z",
+  "generated": "2025-02-13T11:05:47.728Z",
   "metadata": [
     {
       "__outstatic": {
@@ -637,7 +637,7 @@
     {
       "__outstatic": {
         "commit": "be2cd4cb9fd0b31cc33ee516dfa28312fca4f7e2",
-        "hash": "3778382947",
+        "hash": "3574496089",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "this is the additional images area",
@@ -646,7 +646,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "projects",
-      "coverImage": "/images/earthsong-screen-I2NT.webp",
+      "coverImage": "/images/earthsong-sound-portal-M3OT.webp",
       "description": "This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectTags": [
@@ -666,7 +666,7 @@
       "publishedAt": "2025-01-27T21:44:17.556Z",
       "slug": "earthsong",
       "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
+      "thumbnailImage": "thumbnailimage.webp",
       "title": "Earthsong",
       "videoUrl": "https://youtu.be/BZF5gsD8GCw",
       "websiteUrl": "https://earthsong.world/"
