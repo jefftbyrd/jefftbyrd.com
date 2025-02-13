@@ -1,6 +1,6 @@
 {
-  "commit": "c1b64cdfcfa52704bd86fecb8455b7cb4a7420c9",
-  "generated": "2025-02-13T13:09:38.988Z",
+  "commit": "e215c2ddbbbc996cb9db2088192a622e5ae0b015",
+  "generated": "2025-02-13T13:37:45.553Z",
   "metadata": [
     {
       "__outstatic": {
@@ -380,30 +380,6 @@
     },
     {
       "__outstatic": {
-        "commit": "53bcc3aa419621f0bc6cee4681b66d394e00abd4",
-        "hash": "1283083527",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today"
-    },
-    {
-      "__outstatic": {
         "commit": "6ffe784057719f4217082bd8c6e380ece83fb9c1",
         "hash": "1552612710",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -672,6 +648,36 @@
       "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "e215c2ddbbbc996cb9db2088192a622e5ae0b015",
+        "hash": "3202056992",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }

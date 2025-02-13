@@ -8,6 +8,12 @@ slug: 'god-today'
 description: ''
 coverImage: ''
 projectTags: [{"label":"Music Video","value":"musicVideo"}]
+videoUrl: 'https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F'
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
 publishedAt: '2025-01-30T13:36:58.542Z'
 ---
 
