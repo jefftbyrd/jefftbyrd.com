@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'earthsong'
 description: 'This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.'
-coverImage: '/images/earthsong-sound-portal-M3OT.webp'
+coverImage: '/images/earthsong-screen-i2nt-YwMT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
 videoUrl: 'https://youtu.be/BZF5gsD8GCw'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
