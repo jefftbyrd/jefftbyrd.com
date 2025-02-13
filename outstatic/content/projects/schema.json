@@ -82,13 +82,6 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Additional Images"
-    },
-    "thumbnailImage": {
-      "required": false,
-      "description": "Filename for image to show in projects list",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Thumbnail Image"
     }
   }
 }
