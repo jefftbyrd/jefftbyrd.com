@@ -8,7 +8,7 @@ slug: 'earthsong'
 description: 'This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.'
 coverImage: '/images/earthsong-sound-portal-M3OT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
-videoUrl: 'https://youtu.be/BZF5gsD8GCw'
+videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
 websiteUrl: 'https://earthsong.world/'
 additionalImages: 'earthsong-logo.webp'
