@@ -8,6 +8,12 @@ slug: 'white-lies'
 description: ''
 coverImage: ''
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: 'white-lies.webp'
+websiteLinkText: ''
 publishedAt: '2025-01-27T21:47:20.921Z'
 ---
 
