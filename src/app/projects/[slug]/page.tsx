@@ -56,6 +56,8 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   };
 }
 
+// const additionalImagesSeparate = project.additionalImages.split(',');
+
 export default async function Project(params: Params) {
   const { project, moreProjects, content } = await getData(
     /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
@@ -73,11 +75,16 @@ export default async function Project(params: Params) {
           {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
             {project.description}
           </div> */}
-          <ProjectBlueVert height={`h-6`} />
+          <ProjectBlueVert height={`h-8`} />
           <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
             <Image
               alt={project.title}
-              src={`/images/projects/${project.bigImage ?? ''}`}
+              src={
+                project.bigImage
+                  ? // ? `/images/projects/${project.bigImage ?? ''}`
+                    `/images/projects/${project?.bigImage ?? ''}`
+                  : `${project?.coverImage || ''}`
+              }
               fill
               className="object-cover object-center"
               priority
@@ -87,15 +94,41 @@ export default async function Project(params: Params) {
 
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
-              <Image
-                alt={project.title}
-                src={`/images/additional/${project.additionalImages ?? ''}`}
-                fill
-                className="object-cover object-center"
-                priority
-              />
+            <div>
+              {project.videoUrl ? (
+                <div>
+                  <iframe
+                    className="aspect-16/9 w-full"
+                    src={project.videoUrl}
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                  ></iframe>
+                </div>
+              ) : null}
+              {/* <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
+                <Image
+                  alt={project.title}
+                  src={`/images/additional/${project.additionalImages ?? ''}`}
+                  fill
+                  className="object-cover object-center"
+                  priority
+                />
+              </div> */}
+              {project.additionalImages ? (
+                <div>
+                  {project.additionalImages.split(',').map((image) => (
+                    <img
+                      key={image}
+                      src={`/images/additional/${image.trim()}`}
+                    />
+                  ))}
+                </div>
+              ) : null}
             </div>
+
             <div>
               <div className="max-w-2xl mx-auto bg-(--color-foreground)">
                 <div
@@ -108,11 +141,48 @@ export default async function Project(params: Params) {
                   {project.websiteLinkText}
                 </a>
               </div>
+
               <div className="max-w-2xl mx-auto bg-(--color-foreground)  text-white">
                 <a href={project.gitHubUrl} target="_blank">
                   Visit on Github
                 </a>
               </div>
+
+              {/* <ul>
+                {project.additionalImages.split(',').map(({ image }) => (
+                  <li key={image}>{image}</li>
+                ))}
+              </ul> */}
+
+              {/* <ul>
+                {project.additionalImages.split(',').map((image) => (
+                  return (
+                  <li key={image.id}>{image.id}</li>
+                  );
+                ))}
+              </ul> */}
+
+              {/* {project.additionalImages
+                .split(',')
+                .map((image) => `<li>${image}</li>`)} */}
+
+              {/* <h3>{project.additionalImages.split(',')}</h3> */}
+              {/* <ul>
+                {
+                  project.additionalImages.split(',').map((hero, index) => (
+                    <li key={index}>{hero}</li>
+                  ))
+                  // return <header>{headings}</header>
+                }
+              </ul> */}
+              {/* <ul>
+                {
+                  project.additionalImages.split(',').map((image) => (
+                    <li key={image}>{image}</li>
+                  ))
+                  // return <header>{headings}</header>
+                }
+              </ul> */}
 
               <div className="p-4">
                 {Array.isArray(project?.projectTags)
@@ -139,15 +209,6 @@ export default async function Project(params: Params) {
           )}
         </div> */}
       </div>
-
-      <h2>New data</h2>
-      <ul>
-        <li>{project.websiteUrl}</li>
-        <li>{project.gitHubUrl}</li>
-        <li>{project.videoUrl}</li>
-        <li>{project.bigImage}</li>
-        <li>{project.additionalImages}</li>
-      </ul>
     </Layout>
   );
 }

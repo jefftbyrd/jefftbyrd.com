@@ -30,7 +30,7 @@ export default async function Index() {
             Web developer, composer & sound designer
           </h2>
         </section>
-        <BlueVert height={`h-6`} />
+        <BlueVert height={`h-8`} />
 
         <SimpleSlider />
         <BlueVert height={`h-14`} />
