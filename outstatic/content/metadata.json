@@ -1,6 +1,6 @@
 {
-  "commit": "57babe03ab7b4ed5abdd164b2f3e1f302a7da800",
-  "generated": "2025-02-14T10:08:08.416Z",
+  "commit": "f2fd49927a17a27e68ecd0436ab63dddc69cb5e6",
+  "generated": "2025-02-14T12:12:22.091Z",
   "metadata": [
     {
       "__outstatic": {
@@ -380,30 +380,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6ffe784057719f4217082bd8c6e380ece83fb9c1",
-        "hash": "1552612710",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982"
-    },
-    {
-      "__outstatic": {
         "commit": "ef742957786d91b3646f301bc976729d6a7f1bb2",
         "hash": "216844662",
         "path": "outstatic/content/projects/oystermen.md"
@@ -678,6 +654,36 @@
       "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "f2fd49927a17a27e68ecd0436ab63dddc69cb5e6",
+        "hash": "1563428986",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "goodwater-alabama-1982.webp",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
