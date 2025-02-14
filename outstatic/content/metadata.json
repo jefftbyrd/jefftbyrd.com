@@ -1,6 +1,6 @@
 {
-  "commit": "f014538609842c02b1f6d3260420206dc26a48a9",
-  "generated": "2025-02-14T12:16:09.557Z",
+  "commit": "c44e618abc8c43e39b638a4b4d42a1e9455e32fa",
+  "generated": "2025-02-14T14:23:19.372Z",
   "metadata": [
     {
       "__outstatic": {
@@ -594,45 +594,6 @@
     },
     {
       "__outstatic": {
-        "commit": "57babe03ab7b4ed5abdd164b2f3e1f302a7da800",
-        "hash": "3819967892",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "earthsong-sound-portal.webp",
-      "collection": "projects",
-      "coverImage": "/images/earthsong-sound-portal-M3OT.webp",
-      "description": "This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
         "commit": "f2fd49927a17a27e68ecd0436ab63dddc69cb5e6",
         "hash": "1563428986",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -690,6 +651,45 @@
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "c44e618abc8c43e39b638a4b4d42a1e9455e32fa",
+        "hash": "1240067095",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "earthsong-sound-portal-2.webp",
+      "collection": "projects",
+      "coverImage": "/images/earthsong-sound-portal-M3OT.webp",
+      "description": "This is the description. Should I just leave this out? I guess it could be a good place for a sub-header, tagline.",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }
