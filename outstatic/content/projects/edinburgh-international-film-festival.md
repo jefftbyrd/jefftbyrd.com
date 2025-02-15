@@ -6,7 +6,14 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'edinburgh-international-film-festival'
 description: ''
-coverImage: ''
+coverImage: '/images/eiff-E3NT.webp'
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
+projectTags: ''
 publishedAt: '2025-01-30T13:35:40.675Z'
 ---
 
