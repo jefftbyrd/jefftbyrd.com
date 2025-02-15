@@ -1,6 +1,6 @@
 {
-  "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
-  "generated": "2025-02-15T13:27:15.806Z",
+  "commit": "3d289c1caf2447f760bd65d8ef3e5ae5eddcff32",
+  "generated": "2025-02-15T13:28:57.810Z",
   "metadata": [
     {
       "__outstatic": {
@@ -551,40 +551,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c708013f8780632765752aa89f6d1e1e39587e8b",
-        "hash": "3432048561",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vanishing-pearls-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "status": "draft",
-      "title": "Vanishing Pearls",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "c0ed44c8f11f96a85da6564b7a4ddcd46d7782a0",
         "hash": "1571403142",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -740,6 +706,40 @@
       "videoUrl": "",
       "websiteLinkText": "https://healthforallstory.org/",
       "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "3d289c1caf2447f760bd65d8ef3e5ae5eddcff32",
+        "hash": "3986673328",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vanishing-pearls-wide.webp",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
