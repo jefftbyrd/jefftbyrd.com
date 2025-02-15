@@ -1,6 +1,6 @@
 {
-  "commit": "161feace19598079cb5a26301dbe79905cc3cef2",
-  "generated": "2025-02-15T12:20:56.854Z",
+  "commit": "c708013f8780632765752aa89f6d1e1e39587e8b",
+  "generated": "2025-02-15T12:27:35.837Z",
   "metadata": [
     {
       "__outstatic": {
@@ -679,8 +679,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b546b3ebb49ae1c562e1439dd0930b9fa7a813b7",
-        "hash": "4141575844",
+        "commit": "c708013f8780632765752aa89f6d1e1e39587e8b",
+        "hash": "3432048561",
         "path": "outstatic/content/projects/vanishing-pearls.md"
       },
       "additionalImages": "",
@@ -688,7 +688,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "",
+      "bigImage": "vanishing-pearls-wide.webp",
       "collection": "projects",
       "coverImage": "/images/vanishing-pearls-QzOD.jpg",
       "description": "",

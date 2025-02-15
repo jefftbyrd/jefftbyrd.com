@@ -12,7 +12,7 @@ videoUrl: ''
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
-bigImage: ''
+bigImage: 'vanishing-pearls-wide.webp'
 websiteLinkText: ''
 publishedAt: '2025-02-15T12:31:27.313Z'
 ---
