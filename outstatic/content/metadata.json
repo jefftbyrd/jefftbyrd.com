@@ -1,6 +1,6 @@
 {
   "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
-  "generated": "2025-02-15T13:05:51.109Z",
+  "generated": "2025-02-15T13:07:57.713Z",
   "metadata": [
     {
       "__outstatic": {
@@ -698,17 +698,17 @@
     {
       "__outstatic": {
         "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
-        "hash": "4179205976",
+        "hash": "2894966186",
         "path": "outstatic/content/projects/vector.md"
       },
-      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "vector-2.webp",
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
       "description": "",
       "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
       "projectTags": [
