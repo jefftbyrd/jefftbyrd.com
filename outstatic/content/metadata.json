@@ -1,6 +1,6 @@
 {
-  "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-  "generated": "2025-02-15T13:03:50.139Z",
+  "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
+  "generated": "2025-02-15T13:05:51.109Z",
   "metadata": [
     {
       "__outstatic": {
@@ -697,11 +697,11 @@
     },
     {
       "__outstatic": {
-        "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-        "hash": "1801433384",
+        "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
+        "hash": "4179205976",
         "path": "outstatic/content/projects/vector.md"
       },
-      "additionalImages": "",
+      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
