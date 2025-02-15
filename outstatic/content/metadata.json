@@ -1,6 +1,6 @@
 {
-  "commit": "cd88c1906483f5e49e794c17c7f871c8aae6a458",
-  "generated": "2025-02-15T12:09:22.262Z",
+  "commit": "83e697041237316d3c305a9d515ea325af6cef8a",
+  "generated": "2025-02-15T12:15:16.487Z",
   "metadata": [
     {
       "__outstatic": {
@@ -173,24 +173,6 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
-    },
-    {
-      "__outstatic": {
-        "commit": "6c02765d9ee63cd410f55af2ee617e7f9717e332",
-        "hash": "1620416413",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
-      "status": "published",
-      "title": "I Became a Bird of Prey"
     },
     {
       "__outstatic": {
@@ -689,6 +671,32 @@
       "slug": "are-you-sick",
       "status": "published",
       "title": "Are You Sick?",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "83e697041237316d3c305a9d515ea325af6cef8a",
+        "hash": "2935727333",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+      ],
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
