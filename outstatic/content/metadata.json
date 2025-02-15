@@ -1,6 +1,6 @@
 {
-  "commit": "0971d5896b712a7324eebb956c514346276f9b31",
-  "generated": "2025-02-15T12:06:40.485Z",
+  "commit": "cd88c1906483f5e49e794c17c7f871c8aae6a458",
+  "generated": "2025-02-15T12:09:22.262Z",
   "metadata": [
     {
       "__outstatic": {
@@ -299,30 +299,6 @@
       "slug": "edinburgh-international-film-festival",
       "status": "published",
       "title": "Edinburgh International Film Festival"
-    },
-    {
-      "__outstatic": {
-        "commit": "134fb516541fd2af4b352a93ded41212a7001c96",
-        "hash": "640651745",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "title": "Are You Sick?"
     },
     {
       "__outstatic": {
@@ -687,6 +663,32 @@
       "slug": "white-lies",
       "status": "published",
       "title": "White Lies",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "cd88c1906483f5e49e794c17c7f871c8aae6a458",
+        "hash": "4065243233",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+      ],
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "status": "published",
+      "title": "Are You Sick?",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
