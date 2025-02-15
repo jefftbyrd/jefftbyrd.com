@@ -1,6 +1,6 @@
 {
-  "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
-  "generated": "2025-02-15T13:07:57.713Z",
+  "commit": "cc64650ef11f828369b44a63fdb0d56d56176bb3",
+  "generated": "2025-02-15T13:11:59.612Z",
   "metadata": [
     {
       "__outstatic": {
@@ -345,30 +345,6 @@
       "slug": "texas",
       "status": "published",
       "title": "Texas"
-    },
-    {
-      "__outstatic": {
-        "commit": "c759e10298de5c47fd47168798df5eb3c78d9943",
-        "hash": "3356999183",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "status": "published",
-      "title": "Durrs of Montgomery"
     },
     {
       "__outstatic": {
@@ -728,6 +704,36 @@
       "videoUrl": "",
       "websiteLinkText": "Visit the deployed site",
       "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "cc64650ef11f828369b44a63fdb0d56d56176bb3",
+        "hash": "3486663714",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/durrs-g0OD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
