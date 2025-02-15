@@ -1,6 +1,6 @@
 {
-  "commit": "2f8e28514894d39af354bd3b40d375fb61472e51",
-  "generated": "2025-02-15T15:37:05.949Z",
+  "commit": "874637641a88639ce70b6fe95fec3ba4e1b7a749",
+  "generated": "2025-02-15T15:54:47.360Z",
   "metadata": [
     {
       "__outstatic": {
@@ -763,6 +763,24 @@
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "874637641a88639ce70b6fe95fec3ba4e1b7a749",
+        "hash": "3023349187",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
