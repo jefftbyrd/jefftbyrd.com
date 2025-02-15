@@ -11,6 +11,8 @@ import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
 import ProjectBlueVert from '../../../components/ProjectBlueVert';
 
+// import styles from '../../../styles/project.module.css';
+
 type Project = {
   tags: { value: string; label: string }[];
 } & OstDocument;
@@ -68,15 +70,15 @@ export default async function Project(params: Params) {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div>
-          <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2 px-5">
+        <div className="mt-12">
+          <h1 className="font-primary text-white uppercase leading-none font-bold mb-2 px-8 text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))]">
             {project.title}
           </h1>
           {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
             {project.description}
           </div> */}
           <ProjectBlueVert height={`h-8`} />
-          <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
+          <div className="relative mb-0 sm:mx-0 aspect-16/9">
             <Image
               alt={project.title}
               src={
@@ -93,8 +95,8 @@ export default async function Project(params: Params) {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-8">
-            <div>
+          <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
+            <div className="flex flex-col gap-4 pt-5">
               {project.videoUrl ? (
                 <div>
                   <iframe
@@ -108,17 +110,9 @@ export default async function Project(params: Params) {
                   ></iframe>
                 </div>
               ) : null}
-              {/* <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-16/9">
-                <Image
-                  alt={project.title}
-                  src={`/images/additional/${project.additionalImages ?? ''}`}
-                  fill
-                  className="object-cover object-center"
-                  priority
-                />
-              </div> */}
+
               {project.additionalImages ? (
-                <div>
+                <div className="flex flex-col gap-4">
                   {project.additionalImages.split(',').map((image) => (
                     <img
                       key={image}
@@ -129,67 +123,33 @@ export default async function Project(params: Params) {
               ) : null}
             </div>
 
-            <div>
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)">
+            <div className="flex flex-col gap-1">
+              <div className="bg-(--color-foreground) px-5 py-3">
                 <div
-                  className="prose lg:prose-xl text-white"
+                  className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)  text-white">
-                <a href={project.websiteUrl} target="_blank">
-                  {project.websiteLinkText}
-                </a>
-              </div>
-
-              <div className="max-w-2xl mx-auto bg-(--color-foreground)  text-white">
-                <a href={project.gitHubUrl} target="_blank">
-                  Visit on Github
-                </a>
-              </div>
-
-              {/* <ul>
-                {project.additionalImages.split(',').map(({ image }) => (
-                  <li key={image}>{image}</li>
-                ))}
-              </ul> */}
-
-              {/* <ul>
-                {project.additionalImages.split(',').map((image) => (
-                  return (
-                  <li key={image.id}>{image.id}</li>
-                  );
-                ))}
-              </ul> */}
-
-              {/* {project.additionalImages
-                .split(',')
-                .map((image) => `<li>${image}</li>`)} */}
-
-              {/* <h3>{project.additionalImages.split(',')}</h3> */}
-              {/* <ul>
-                {
-                  project.additionalImages.split(',').map((hero, index) => (
-                    <li key={index}>{hero}</li>
-                  ))
-                  // return <header>{headings}</header>
-                }
-              </ul> */}
-              {/* <ul>
-                {
-                  project.additionalImages.split(',').map((image) => (
-                    <li key={image}>{image}</li>
-                  ))
-                  // return <header>{headings}</header>
-                }
-              </ul> */}
-
-              <div className="p-4">
+              {project.websiteUrl ? (
+                <div className=" bg-(--color-foreground)  text-white font-black px-5 py-2 uppercase italic tracking-wide">
+                  <a href={project.websiteUrl} target="_blank">
+                    {project.websiteLinkText}
+                  </a>
+                </div>
+              ) : null}
+              {project.gitHubUrl ? (
+                <div className=" bg-(--color-foreground)  text-white font-black px-5 py-2 uppercase italic tracking-wide">
+                  <a href={project.gitHubUrl} target="_blank">
+                    Visit on Github
+                  </a>
+                </div>
+              ) : null}
+              <div className="p-2">
                 {Array.isArray(project?.projectTags)
                   ? project.projectTags.map(({ label }) => (
                       <span
                         key={label}
-                        className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+                        className="inline-block uppercase bg-white rounded-full px-3 py-1 text-md font-medium text-(--color-background) mr-2 mb-2"
                       >
                         {label}
                       </span>

@@ -1,9 +1,9 @@
-import styles from '../styles/bluevert.module.css';
+// import styles from '../styles/bluevert.module.css';
 
 export default function BlueVert(props) {
   return (
     <div
-      className={`${styles.blueVert} w-2xl ${props.height} justify-self-center`}
-    ></div>
+      className={`bg-(--color-foreground) w-lg ${props.height} justify-self-center`}
+    />
   );
 }

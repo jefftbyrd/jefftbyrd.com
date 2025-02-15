@@ -59,6 +59,13 @@
         }
       ]
     },
+    "projectOrder": {
+      "required": false,
+      "description": "Custom order for projects page",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Project Order"
+    },
     "videoUrl": {
       "required": false,
       "description": "Video URL",
@@ -100,13 +107,6 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Website Link Text"
-    },
-    "projectOrder": {
-      "required": false,
-      "description": "Custom order for projects page",
-      "fieldType": "Number",
-      "dataType": "number",
-      "title": "Project Order"
     }
   }
 }

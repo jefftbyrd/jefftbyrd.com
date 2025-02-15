@@ -31,11 +31,10 @@ export default async function Index() {
           </h2>
         </section>
         <BlueVert height={`h-8`} />
-
         <SimpleSlider />
         <BlueVert height={`h-14`} />
         <BigMenu />
-        <div className="px-12">
+        {/* <div className="px-12">
           {allPosts.length > 0 && (
             <ContentGrid
               title="Posts"
@@ -51,7 +50,7 @@ export default async function Index() {
               collection="projects"
             />
           )}
-        </div>
+        </div> */}
       </div>
     </Layout>
   );

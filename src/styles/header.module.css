@@ -1,0 +1,30 @@
+/* header.module.scss */
+
+.logo {
+  font-family: var(--font-karrik);
+  /* font-size: calc(24px + (240 - 24) * ((100vw - 300px) / (1600 - 300))); */
+  /* font-weight: var(--font-weight-normal); */
+  /* font-weight: 600; */
+  /* text-transform: uppercase; */
+  /* text-align: center; */
+  /* color: #070707; */
+  /* line-height: 100%; */
+}
+
+.bump {
+  position: relative;
+  top: -0.14em;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  font-family: var(--font-hanken);
+  font-size: calc(16px + (44 - 16) * ((100vw - 300px) / (1600 - 300)));
+  font-weight: 200;
+  text-align: center;
+  line-height: 100%;
+}
+
+.blueVert {
+  background-color: var(--color-foreground);
+}
