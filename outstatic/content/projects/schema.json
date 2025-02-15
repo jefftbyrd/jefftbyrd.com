@@ -100,6 +100,14 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Website Link Text"
+    },
+    "projectOrder": {
+      "required": false,
+      "description": "Project order for projects page",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Project Order",
+      "values": []
     }
   }
 }
