@@ -15,7 +15,7 @@ additionalImages: 'earthsong-logo.webp, earthsong-help.webp'
 thumbnailImage: 'earthsong-thumb.webp'
 bigImage: 'earthsong-sound-portal-2.webp'
 websiteLinkText: 'Visit earthsong.world'
-projectOrder: '3'
+projectOrder: '1'
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
