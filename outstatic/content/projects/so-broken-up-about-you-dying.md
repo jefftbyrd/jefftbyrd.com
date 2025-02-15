@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'so-broken-up-about-you-dying'
 description: ''
-coverImage: '/images/sbuayd-c5Mz.webp'
+coverImage: '/images/sbuayd-2-YyMD.webp'
 videoUrl: ''
 gitHubUrl: ''
 websiteUrl: ''

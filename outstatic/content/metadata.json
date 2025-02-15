@@ -1,6 +1,6 @@
 {
-  "commit": "42e5efb3f2f05b4893a9124d26e497bd77b81dd9",
-  "generated": "2025-02-15T13:38:26.126Z",
+  "commit": "5fe474ccc610b96c6993f2cfdf6414ef09878225",
+  "generated": "2025-02-15T13:43:22.554Z",
   "metadata": [
     {
       "__outstatic": {
@@ -733,8 +733,8 @@
     },
     {
       "__outstatic": {
-        "commit": "42e5efb3f2f05b4893a9124d26e497bd77b81dd9",
-        "hash": "2801510817",
+        "commit": "5fe474ccc610b96c6993f2cfdf6414ef09878225",
+        "hash": "2459535540",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
       },
       "additionalImages": "",
@@ -744,7 +744,7 @@
       },
       "bigImage": "sbuayd-wide.webp",
       "collection": "projects",
-      "coverImage": "/images/sbuayd-c5Mz.webp",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
       "description": "",
       "gitHubUrl": "",
       "projectTags": [
