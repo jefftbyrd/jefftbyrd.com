@@ -1,5 +1,6 @@
 import Header from '@/components/Header';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
+import Image from 'next/image';
 // import 'swiper/css';
 import { load } from 'outstatic/server';
 import BigMenu from '../../components/BigMenu';
@@ -28,7 +29,17 @@ export default async function About() {
 
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
-            <div className="flex flex-col gap-4 pt-5"></div>
+            <div className="flex flex-col gap-4 pt-5">
+              <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
+                <Image
+                  // alt={about.title}
+                  src="/images/jefftbyrd.webp"
+                  fill
+                  className="object-cover object-center"
+                  priority
+                />
+              </div>
+            </div>
 
             <div className="flex flex-col gap-1">
               <div className="bg-(--color-foreground) px-5 py-3">
