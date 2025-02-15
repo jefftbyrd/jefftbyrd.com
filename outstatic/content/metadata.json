@@ -1,6 +1,6 @@
 {
   "commit": "5a0adf8ba80b168d625cafd66de99f2647cd13d4",
-  "generated": "2025-02-15T15:36:50.707Z",
+  "generated": "2025-02-15T15:36:54.376Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,22 +122,20 @@
     },
     {
       "__outstatic": {
-        "commit": "1b7e977a0fe471f487a434c6d5859b523843b6f8",
-        "hash": "3192511165",
-        "path": "outstatic/content/projects/flycream-travel.md"
+        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
+        "hash": "1076515129",
+        "path": "outstatic/content/projects/bearbnb.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+        "name": "Andre Vitorio"
       },
       "collection": "projects",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "icon": "this-is-a-test.jpg",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "flycream-travel",
+      "coverImage": "/images/bearbnb.png",
+      "description": "Amazing rental locations for your teddy bear.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "bearbnb",
       "status": "published",
-      "title": "Flycream Travel"
+      "title": " 🧸 Bearbnb"
     },
     {
       "__outstatic": {
