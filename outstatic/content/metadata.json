@@ -1,6 +1,6 @@
 {
-  "commit": "ef32a6f76b9cab13e688c628edd99034f5af3fcb",
-  "generated": "2025-02-15T14:03:18.861Z",
+  "commit": "4a9d32347dfd0adbc0777702a4aa187a5ee940cd",
+  "generated": "2025-02-15T15:16:39.228Z",
   "metadata": [
     {
       "__outstatic": {
@@ -653,32 +653,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5fe474ccc610b96c6993f2cfdf6414ef09878225",
-        "hash": "2459535540",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "sbuayd-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "78631e17f2e6e2ce11428eb480e183c758b8d203",
         "hash": "2849519887",
         "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
@@ -770,6 +744,40 @@
       "videoUrl": "",
       "websiteLinkText": "https://healthforallstory.org/",
       "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a9d32347dfd0adbc0777702a4aa187a5ee940cd",
+        "hash": "3193147398",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "sbuayd-wide.webp",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }

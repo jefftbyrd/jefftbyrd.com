@@ -13,7 +13,7 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: 'sbuayd-wide.webp'
 websiteLinkText: ''
-projectTags: []
+projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 publishedAt: '2025-01-30T13:33:59.278Z'
 ---
 
