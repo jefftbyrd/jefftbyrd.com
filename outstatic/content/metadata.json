@@ -1,6 +1,6 @@
 {
-  "commit": "b546b3ebb49ae1c562e1439dd0930b9fa7a813b7",
-  "generated": "2025-02-15T12:20:44.906Z",
+  "commit": "161feace19598079cb5a26301dbe79905cc3cef2",
+  "generated": "2025-02-15T12:20:56.854Z",
   "metadata": [
     {
       "__outstatic": {
@@ -311,30 +311,6 @@
         }
       ],
       "title": "A Call From Selma"
-    },
-    {
-      "__outstatic": {
-        "commit": "ef742957786d91b3646f301bc976729d6a7f1bb2",
-        "hash": "216844662",
-        "path": "outstatic/content/projects/oystermen.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:47.494Z",
-      "slug": "oystermen",
-      "status": "published",
-      "title": "Oystermen"
     },
     {
       "__outstatic": {
