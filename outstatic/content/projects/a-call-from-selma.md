@@ -14,7 +14,7 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
-projectOrder: [{"label":"3","value":"3"}]
+projectOrder: '3'
 publishedAt: '2025-01-30T13:33:27.323Z'
 ---
 

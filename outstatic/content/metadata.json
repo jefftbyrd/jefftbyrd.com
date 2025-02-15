@@ -1,6 +1,6 @@
 {
-  "commit": "195646b8b3712846f4178d5f4d69c413b71648de",
-  "generated": "2025-02-15T15:35:00.098Z",
+  "commit": "bdebd2ad37f153bab157b584e4941f06f959d8dc",
+  "generated": "2025-02-15T15:35:21.567Z",
   "metadata": [
     {
       "__outstatic": {
@@ -678,42 +678,6 @@
     },
     {
       "__outstatic": {
-        "commit": "eec65e04d5ce1ef32f28d9b66d8b341c0afe2f58",
-        "hash": "1045247562",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": [
-        {
-          "label": "3",
-          "value": "3"
-        }
-      ],
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "00e145f18380477a3bbff44f95d2c44cbf67d7cd",
         "hash": "2327305182",
         "path": "outstatic/content/projects/vanishing-pearls.md"
@@ -786,6 +750,37 @@
       "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "bdebd2ad37f153bab157b584e4941f06f959d8dc",
+        "hash": "3221331500",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "3",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
