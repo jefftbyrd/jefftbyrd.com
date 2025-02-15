@@ -1,6 +1,6 @@
 {
-  "commit": "22a75ce9494ee4099330e39832cf9cfb69d2b0b7",
-  "generated": "2025-02-15T15:32:17.877Z",
+  "commit": "eec65e04d5ce1ef32f28d9b66d8b341c0afe2f58",
+  "generated": "2025-02-15T15:32:41.700Z",
   "metadata": [
     {
       "__outstatic": {
@@ -209,36 +209,6 @@
       "slug": "dad-is-bad",
       "status": "published",
       "title": "Dad Is Bad"
-    },
-    {
-      "__outstatic": {
-        "commit": "713e6f4c4a48a01d6564cde84e27e8c987c5e2a5",
-        "hash": "3449260948",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "title": "A Call From Selma"
     },
     {
       "__outstatic": {
@@ -782,6 +752,42 @@
       "slug": "vanishing-pearls",
       "status": "published",
       "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "eec65e04d5ce1ef32f28d9b66d8b341c0afe2f58",
+        "hash": "1045247562",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": [
+        {
+          "label": "3",
+          "value": "3"
+        }
+      ],
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
