@@ -1,6 +1,6 @@
 {
   "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
-  "generated": "2025-02-15T13:22:28.503Z",
+  "generated": "2025-02-15T13:26:39.809Z",
   "metadata": [
     {
       "__outstatic": {
@@ -710,17 +710,17 @@
     {
       "__outstatic": {
         "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
-        "hash": "1823524775",
+        "hash": "2066660934",
         "path": "outstatic/content/projects/health-for-all.md"
       },
-      "additionalImages": "",
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "",
       "collection": "projects",
-      "coverImage": "/images/health-for-all-UyMz.webp",
+      "coverImage": "",
       "description": "",
       "gitHubUrl": "",
       "projectTags": [
