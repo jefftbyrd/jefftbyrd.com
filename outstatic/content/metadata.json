@@ -1,6 +1,6 @@
 {
-  "commit": "cc64650ef11f828369b44a63fdb0d56d56176bb3",
-  "generated": "2025-02-15T13:11:59.612Z",
+  "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
+  "generated": "2025-02-15T13:22:28.503Z",
   "metadata": [
     {
       "__outstatic": {
@@ -345,34 +345,6 @@
       "slug": "texas",
       "status": "published",
       "title": "Texas"
-    },
-    {
-      "__outstatic": {
-        "commit": "7c575aa96407e4c2cca684d57d7b1f680fcd86c5",
-        "hash": "4227275181",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
-      "status": "published",
-      "title": "Health For All "
     },
     {
       "__outstatic": {
@@ -734,6 +706,40 @@
       "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
+        "hash": "1823524775",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/health-for-all-UyMz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "websiteLinkText": "https://healthforallstory.org/",
+      "websiteUrl": "https://healthforallstory.org/"
     }
   ]
 }

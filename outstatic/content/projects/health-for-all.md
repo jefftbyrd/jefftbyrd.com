@@ -6,8 +6,14 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'health-for-all'
 description: ''
-coverImage: ''
+coverImage: '/images/health-for-all-UyMz.webp'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"value":"soundDesign","label":"Sound Design"}]
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: 'https://healthforallstory.org/'
+additionalImages: ''
+bigImage: ''
+websiteLinkText: 'https://healthforallstory.org/'
 publishedAt: '2025-01-27T21:48:47.059Z'
 ---
 
