@@ -1,6 +1,6 @@
 {
-  "commit": "83e697041237316d3c305a9d515ea325af6cef8a",
-  "generated": "2025-02-15T12:15:16.487Z",
+  "commit": "b546b3ebb49ae1c562e1439dd0930b9fa7a813b7",
+  "generated": "2025-02-15T12:20:44.906Z",
   "metadata": [
     {
       "__outstatic": {
@@ -697,6 +697,40 @@
       "slug": "i-became-a-bird-of-prey",
       "status": "published",
       "title": "I Became a Bird of Prey",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "b546b3ebb49ae1c562e1439dd0930b9fa7a813b7",
+        "hash": "4141575844",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "status": "draft",
+      "title": "Vanishing Pearls",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
