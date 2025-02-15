@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'about'
 description: ''
-coverImage: ''
+coverImage: '/images/jefftbyrd-Y4NT.webp'
 publishedAt: '2025-02-15T16:06:29.884Z'
 ---
 

@@ -1,6 +1,6 @@
 {
-  "commit": "874637641a88639ce70b6fe95fec3ba4e1b7a749",
-  "generated": "2025-02-15T15:54:47.360Z",
+  "commit": "ad5ff467bfae59728c9fcf705fe9e34ee01a9924",
+  "generated": "2025-02-15T15:57:54.171Z",
   "metadata": [
     {
       "__outstatic": {
@@ -766,8 +766,8 @@
     },
     {
       "__outstatic": {
-        "commit": "874637641a88639ce70b6fe95fec3ba4e1b7a749",
-        "hash": "3023349187",
+        "commit": "ad5ff467bfae59728c9fcf705fe9e34ee01a9924",
+        "hash": "1389382241",
         "path": "outstatic/content/pages/about.md"
       },
       "author": {
@@ -775,7 +775,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "pages",
-      "coverImage": "",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
       "description": "",
       "publishedAt": "2025-02-15T16:06:29.884Z",
       "slug": "about",
