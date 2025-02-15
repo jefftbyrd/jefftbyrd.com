@@ -8,6 +8,12 @@ slug: 'vector'
 description: ''
 coverImage: ''
 projectTags: [{"label":"Website","value":"website"},{"label":"Design","value":"design"}]
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: 'vector-zika.webp'
+websiteLinkText: ''
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
