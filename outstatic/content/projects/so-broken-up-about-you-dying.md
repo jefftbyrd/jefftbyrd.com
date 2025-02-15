@@ -11,9 +11,9 @@ videoUrl: ''
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
-bigImage: ''
+bigImage: 'sbuayd-wide.webp'
 websiteLinkText: ''
-projectTags: ''
+projectTags: []
 publishedAt: '2025-01-30T13:33:59.278Z'
 ---
 

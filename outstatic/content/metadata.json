@@ -1,6 +1,6 @@
 {
-  "commit": "3c0abcb6e996daf0984837b9791e1e23976f446f",
-  "generated": "2025-02-15T13:36:33.813Z",
+  "commit": "42e5efb3f2f05b4893a9124d26e497bd77b81dd9",
+  "generated": "2025-02-15T13:38:26.126Z",
   "metadata": [
     {
       "__outstatic": {
@@ -733,8 +733,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3c0abcb6e996daf0984837b9791e1e23976f446f",
-        "hash": "3566659149",
+        "commit": "42e5efb3f2f05b4893a9124d26e497bd77b81dd9",
+        "hash": "2801510817",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
       },
       "additionalImages": "",
@@ -742,7 +742,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "",
+      "bigImage": "sbuayd-wide.webp",
       "collection": "projects",
       "coverImage": "/images/sbuayd-c5Mz.webp",
       "description": "",
