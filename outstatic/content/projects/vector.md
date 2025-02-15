@@ -17,4 +17,4 @@ websiteLinkText: ''
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
-The virus shop
+Vector is an e-commerce store where visitors can browse the selection of available viruses, add viruses to their cart and place orders.
