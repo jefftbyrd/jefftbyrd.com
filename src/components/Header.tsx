@@ -45,12 +45,12 @@ const Header = () => {
               .{' '}
             </li>
             <li>
-              <Link href="/" className="hover:underline text-3xl">
+              <Link href="/about" className="hover:underline text-3xl">
                 About .
               </Link>
             </li>
             <li>
-              <Link href="/" className="hover:underline text-3xl">
+              <Link href="/contact" className="hover:underline text-3xl">
                 Contact
               </Link>
             </li>

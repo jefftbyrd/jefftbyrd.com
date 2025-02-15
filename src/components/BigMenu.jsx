@@ -15,10 +15,10 @@ export default function BigMenu(props) {
           <Link href="/projects">Projects</Link>
         </li>
         <li className="bg-(--color-foreground) px-4">
-          <Link href="/">Contact</Link>
+          <Link href="/contact">Contact</Link>
         </li>
         <li className="bg-(--color-foreground) px-4">
-          <Link href="/">About</Link>
+          <Link href="/about">About</Link>
         </li>
       </ul>
     </nav>
