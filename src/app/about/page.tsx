@@ -12,7 +12,7 @@ import Layout from '../../components/Layout';
 import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
-export default async function Projects() {
+export default async function About() {
   const { content, allPosts, allProjects } = await getData();
 
   return (
@@ -21,22 +21,38 @@ export default async function Projects() {
         <Header />
         <div className="mt-12">
           <h1 className="font-primary text-white uppercase leading-none font-bold mb-2 px-8 text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))]">
-            Projects
+            About
           </h1>
-          {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
-            {project.description}
-          </div> */}
           <ProjectBlueVert height={`h-8`} />
         </div>
-        <div className="px-12">
-          {allProjects.length > 0 && (
-            <ContentGrid
-              title="Projects"
-              items={allProjects}
-              collection="projects"
-            />
-          )}
-        </div>
+
+        <article className="mb-8">
+          <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
+            <div className="flex flex-col gap-4 pt-5"></div>
+
+            <div className="flex flex-col gap-1">
+              <div className="bg-(--color-foreground) px-5 py-3">
+                <div
+                  className=" text-white text-base"
+                  dangerouslySetInnerHTML={{ __html: content }}
+                />
+              </div>
+
+              {/* <div className="p-2">
+                {Array.isArray(project?.projectTags)
+                  ? project.projectTags.map(({ label }) => (
+                      <span
+                        key={label}
+                        className="inline-block uppercase bg-white rounded-full px-3 py-1 text-md font-medium text-(--color-background) mr-2 mb-2"
+                      >
+                        {label}
+                      </span>
+                    ))
+                  : null}
+              </div> */}
+            </div>
+          </div>
+        </article>
       </div>
     </Layout>
   );
@@ -46,7 +62,7 @@ async function getData() {
   const db = await load();
 
   const page = await db
-    .find({ collection: 'pages', slug: 'home' }, ['content'])
+    .find({ collection: 'pages', slug: 'about' }, ['content'])
     .first();
 
   const content = await markdownToHtml(page.content);
