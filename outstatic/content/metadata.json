@@ -1,6 +1,6 @@
 {
   "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-  "generated": "2025-02-15T13:00:20.671Z",
+  "generated": "2025-02-15T13:03:50.139Z",
   "metadata": [
     {
       "__outstatic": {
@@ -698,7 +698,7 @@
     {
       "__outstatic": {
         "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-        "hash": "4025084822",
+        "hash": "1801433384",
         "path": "outstatic/content/projects/vector.md"
       },
       "additionalImages": "",
@@ -710,7 +710,7 @@
       "collection": "projects",
       "coverImage": "",
       "description": "",
-      "gitHubUrl": "",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
       "projectTags": [
         {
           "label": "Website",
@@ -726,8 +726,8 @@
       "status": "published",
       "title": "Vector",
       "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Visit the deployed site",
+      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
     }
   ]
 }

@@ -9,11 +9,11 @@ description: ''
 coverImage: ''
 projectTags: [{"label":"Website","value":"website"},{"label":"Design","value":"design"}]
 videoUrl: ''
-gitHubUrl: ''
-websiteUrl: ''
+gitHubUrl: 'https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store'
+websiteUrl: 'https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/'
 additionalImages: ''
 bigImage: 'vector-2.webp'
-websiteLinkText: ''
+websiteLinkText: 'Visit the deployed site'
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
