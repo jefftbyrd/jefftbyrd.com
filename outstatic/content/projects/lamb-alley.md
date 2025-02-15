@@ -6,7 +6,14 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'lamb-alley'
 description: ''
-coverImage: ''
+coverImage: '/images/lamb-alley-IwNT.jpg'
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
+projectTags: ''
 publishedAt: '2025-01-30T13:35:08.463Z'
 ---
 

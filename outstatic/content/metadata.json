@@ -1,6 +1,6 @@
 {
-  "commit": "3d289c1caf2447f760bd65d8ef3e5ae5eddcff32",
-  "generated": "2025-02-15T13:28:57.810Z",
+  "commit": "49e77dc0a069bc883849210140813a324022b80f",
+  "generated": "2025-02-15T13:31:27.899Z",
   "metadata": [
     {
       "__outstatic": {
@@ -209,24 +209,6 @@
       "slug": "so-broken-up-about-you-dying",
       "status": "published",
       "title": "So Broken Up About You Dying"
-    },
-    {
-      "__outstatic": {
-        "commit": "1f609adc17c5f6e987b1e4a4e33aa3092160fbad",
-        "hash": "1270795960",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "status": "published",
-      "title": "Lamb Alley"
     },
     {
       "__outstatic": {
@@ -737,6 +719,32 @@
       "slug": "vanishing-pearls",
       "status": "published",
       "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "49e77dc0a069bc883849210140813a324022b80f",
+        "hash": "2056763112",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "status": "published",
+      "title": "Lamb Alley",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
