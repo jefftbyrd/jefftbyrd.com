@@ -2,13 +2,6 @@
   "title": "projects",
   "type": "object",
   "properties": {
-    "projectOrder": {
-      "required": false,
-      "description": "Custom order for projects page",
-      "fieldType": "Number",
-      "dataType": "number",
-      "title": "Project Order"
-    },
     "projectTags": {
       "required": false,
       "description": "Project tags",
