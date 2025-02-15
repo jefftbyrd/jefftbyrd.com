@@ -1,6 +1,6 @@
 {
-  "commit": "c0ed44c8f11f96a85da6564b7a4ddcd46d7782a0",
-  "generated": "2025-02-15T12:30:18.363Z",
+  "commit": "4e8808be6b63f27ad8adef9f77ff88bf55a347a6",
+  "generated": "2025-02-15T12:35:21.988Z",
   "metadata": [
     {
       "__outstatic": {
@@ -209,24 +209,6 @@
       "slug": "so-broken-up-about-you-dying",
       "status": "published",
       "title": "So Broken Up About You Dying"
-    },
-    {
-      "__outstatic": {
-        "commit": "2df52be27256f2adec7686c419fe56109e466333",
-        "hash": "1838319554",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "status": "published",
-      "title": "Nighty Night"
     },
     {
       "__outstatic": {
@@ -712,6 +694,32 @@
       "status": "published",
       "title": "Goodwater, Alabama 1982",
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "4e8808be6b63f27ad8adef9f77ff88bf55a347a6",
+        "hash": "696280175",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }

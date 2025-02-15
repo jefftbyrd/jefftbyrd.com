@@ -6,7 +6,14 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'nighty-night'
 description: ''
-coverImage: ''
+coverImage: '/images/nighty-night-U2OD.webp'
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
+projectTags: ''
 publishedAt: '2025-01-30T13:34:48.339Z'
 ---
 
