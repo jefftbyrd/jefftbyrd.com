@@ -12,7 +12,7 @@ videoUrl: ''
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
-bigImage: 'vector-zika.webp'
+bigImage: 'vector-2.webp'
 websiteLinkText: ''
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---

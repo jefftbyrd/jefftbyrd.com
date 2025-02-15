@@ -1,6 +1,6 @@
 {
   "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-  "generated": "2025-02-15T12:58:26.504Z",
+  "generated": "2025-02-15T13:00:20.671Z",
   "metadata": [
     {
       "__outstatic": {
@@ -698,7 +698,7 @@
     {
       "__outstatic": {
         "commit": "948b731d769d33b8e5c37addda1dd0156a2cab31",
-        "hash": "2319902338",
+        "hash": "4025084822",
         "path": "outstatic/content/projects/vector.md"
       },
       "additionalImages": "",
@@ -706,7 +706,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "vector-zika.webp",
+      "bigImage": "vector-2.webp",
       "collection": "projects",
       "coverImage": "",
       "description": "",
