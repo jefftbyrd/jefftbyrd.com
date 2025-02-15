@@ -1,6 +1,6 @@
 {
   "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
-  "generated": "2025-02-15T13:26:39.809Z",
+  "generated": "2025-02-15T13:27:15.806Z",
   "metadata": [
     {
       "__outstatic": {
@@ -710,7 +710,7 @@
     {
       "__outstatic": {
         "commit": "d8a8d2cf993cd7fba5d85514f8676bfae9e1f3ac",
-        "hash": "2066660934",
+        "hash": "2345068266",
         "path": "outstatic/content/projects/health-for-all.md"
       },
       "additionalImages": "hfa-2.webp,  hfa-3.webp",
@@ -720,7 +720,7 @@
       },
       "bigImage": "",
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/health-for-all-A1Nj.webp",
       "description": "",
       "gitHubUrl": "",
       "projectTags": [

@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'health-for-all'
 description: ''
-coverImage: ''
+coverImage: '/images/health-for-all-A1Nj.webp'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"value":"soundDesign","label":"Sound Design"}]
 videoUrl: ''
 gitHubUrl: ''
