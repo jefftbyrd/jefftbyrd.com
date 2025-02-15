@@ -1,6 +1,6 @@
 {
-  "commit": "c708013f8780632765752aa89f6d1e1e39587e8b",
-  "generated": "2025-02-15T12:27:35.837Z",
+  "commit": "c0ed44c8f11f96a85da6564b7a4ddcd46d7782a0",
+  "generated": "2025-02-15T12:30:18.363Z",
   "metadata": [
     {
       "__outstatic": {
@@ -528,36 +528,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f2fd49927a17a27e68ecd0436ab63dddc69cb5e6",
-        "hash": "1563428986",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "goodwater-alabama-1982.webp",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "c44e618abc8c43e39b638a4b4d42a1e9455e32fa",
         "hash": "1240067095",
         "path": "outstatic/content/projects/earthsong.md"
@@ -708,6 +678,40 @@
       "status": "draft",
       "title": "Vanishing Pearls",
       "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "c0ed44c8f11f96a85da6564b7a4ddcd46d7782a0",
+        "hash": "1571403142",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "goodwater-alabama-1982.webp",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "websiteLinkText": "",
       "websiteUrl": ""
     }

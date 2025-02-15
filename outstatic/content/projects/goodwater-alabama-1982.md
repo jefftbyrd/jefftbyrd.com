@@ -6,9 +6,9 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'goodwater-alabama-1982'
 description: ''
-coverImage: ''
-projectTags: [{"label":"Album","value":"album"}]
-videoUrl: ''
+coverImage: '/images/goodwater-alabama-1982-c0NT.webp'
+projectTags: [{"value":"musicVideo","label":"Music Video"},{"label":"Music","value":"music"}]
+videoUrl: 'https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
