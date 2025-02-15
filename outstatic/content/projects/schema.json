@@ -107,7 +107,13 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Project Order",
-      "values": []
+      "values": [
+        {},
+        {
+          "value": "1",
+          "label": "1"
+        }
+      ]
     }
   }
 }

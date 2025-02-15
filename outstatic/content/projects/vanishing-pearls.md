@@ -14,7 +14,7 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: 'vanishing-pearls-wide.webp'
 websiteLinkText: ''
-projectOrder: '1'
+projectOrder: ["1",{"label":"1","value":"1"}]
 publishedAt: '2025-02-15T12:31:27.313Z'
 ---
 
