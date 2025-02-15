@@ -1,6 +1,6 @@
 {
-  "commit": "5a0adf8ba80b168d625cafd66de99f2647cd13d4",
-  "generated": "2025-02-15T15:36:54.376Z",
+  "commit": "2f8e28514894d39af354bd3b40d375fb61472e51",
+  "generated": "2025-02-15T15:37:05.949Z",
   "metadata": [
     {
       "__outstatic": {
@@ -294,36 +294,6 @@
       "status": "published",
       "title": "God Today",
       "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "0971d5896b712a7324eebb956c514346276f9b31",
-        "hash": "484996031",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "white-lies.webp",
-      "collection": "projects",
-      "coverImage": "/images/white-lies-U2NT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
@@ -762,6 +732,37 @@
       "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "2f8e28514894d39af354bd3b40d375fb61472e51",
+        "hash": "1055352758",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "white-lies.webp",
+      "collection": "projects",
+      "coverImage": "/images/white-lies-U2NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "3",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "status": "published",
+      "title": "White Lies",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }

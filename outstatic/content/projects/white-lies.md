@@ -14,6 +14,7 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: 'white-lies.webp'
 websiteLinkText: ''
+projectOrder: '3'
 publishedAt: '2025-01-27T21:47:20.921Z'
 ---
 
