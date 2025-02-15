@@ -1,6 +1,6 @@
 {
-  "commit": "ad5ff467bfae59728c9fcf705fe9e34ee01a9924",
-  "generated": "2025-02-15T15:57:54.171Z",
+  "commit": "9038b8b8fcbdf31524aea65a330776e53a165cf1",
+  "generated": "2025-02-15T16:16:19.062Z",
   "metadata": [
     {
       "__outstatic": {
@@ -781,6 +781,24 @@
       "slug": "about",
       "status": "published",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "9038b8b8fcbdf31524aea65a330776e53a165cf1",
+        "hash": "2868619686",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-15T16:28:07.343Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
     }
   ]
 }
