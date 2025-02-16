@@ -7,13 +7,16 @@ author:
 slug: 'so-broken-up-about-you-dying'
 description: ''
 coverImage: '/images/sbuayd-2-YyMD.webp'
-videoUrl: ''
+videoUrl: 'https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
 bigImage: 'sbuayd-wide.webp'
 websiteLinkText: ''
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-01-30T13:33:59.278Z'
 ---
 

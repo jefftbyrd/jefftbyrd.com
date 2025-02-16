@@ -1,6 +1,6 @@
 {
-  "commit": "5bae1f91b36dedbc0502bc03b0b0e1f7c338ce48",
-  "generated": "2025-02-16T19:31:48.065Z",
+  "commit": "811522b3f8db380d08f5faa63ea9c57905f4c317",
+  "generated": "2025-02-16T19:37:14.296Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,40 +192,6 @@
       "slug": "dad-is-bad",
       "status": "published",
       "title": "Dad Is Bad"
-    },
-    {
-      "__outstatic": {
-        "commit": "a06d6e193d2b4478d97448f51f4c1eb863b1349e",
-        "hash": "3193147398",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "sbuayd-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -833,6 +799,43 @@
       "status": "published",
       "title": "Are You Sick?",
       "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "811522b3f8db380d08f5faa63ea9c57905f4c317",
+        "hash": "3475930078",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
