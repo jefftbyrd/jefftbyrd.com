@@ -1,6 +1,6 @@
 {
-  "commit": "b86118b2e7beda2b91c6fa08201e762955e5cc2a",
-  "generated": "2025-02-16T11:49:47.311Z",
+  "commit": "f4222129c1e89db8e1545d4cccecd5a0f1c6b5c0",
+  "generated": "2025-02-16T13:14:22.263Z",
   "metadata": [
     {
       "__outstatic": {
@@ -592,41 +592,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d097e73a203411efe34f80d18878c7a0f10c2f22",
-        "hash": "2021139482",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vector-2.webp",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectOrder": "29",
-      "projectTags": [
-        {
-          "label": "Website",
-          "value": "website"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "websiteLinkText": "Visit the deployed site",
-      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
-    },
-    {
-      "__outstatic": {
         "commit": "e9658232117a423272b5ba7d8ba4a6a1bf35f1c9",
         "hash": "3172589616",
         "path": "outstatic/content/projects/a-call-from-selma.md"
@@ -788,6 +753,42 @@
       "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f4222129c1e89db8e1545d4cccecd5a0f1c6b5c0",
+        "hash": "1807159998",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vector-2.webp",
+      "collection": "projects",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectOrder": "29",
+      "projectTags": [
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the deployed site",
+      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
     }
   ]
 }
