@@ -1,6 +1,6 @@
 {
-  "commit": "99b0ce8e3cdc4c875703287f45263cd40a9f448a",
-  "generated": "2025-02-16T11:37:22.747Z",
+  "commit": "b86118b2e7beda2b91c6fa08201e762955e5cc2a",
+  "generated": "2025-02-16T11:49:47.311Z",
   "metadata": [
     {
       "__outstatic": {
@@ -759,8 +759,8 @@
     },
     {
       "__outstatic": {
-        "commit": "99b0ce8e3cdc4c875703287f45263cd40a9f448a",
-        "hash": "1459273593",
+        "commit": "b86118b2e7beda2b91c6fa08201e762955e5cc2a",
+        "hash": "1165126327",
         "path": "outstatic/content/projects/alouette.md"
       },
       "additionalImages": "",
@@ -785,6 +785,7 @@
       "status": "published",
       "title": "Alouette",
       "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
