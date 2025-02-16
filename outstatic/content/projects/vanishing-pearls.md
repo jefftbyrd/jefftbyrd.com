@@ -8,7 +8,7 @@ slug: 'vanishing-pearls'
 description: ''
 coverImage: '/images/vanishing-pearls-2-A0Mj.webp'
 projectTags: [{"value":"soundDesign","label":"Sound Design"},{"value":"audioPost","label":"Audio Post"}]
-videoUrl: ''
+videoUrl: 'https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
@@ -16,7 +16,7 @@ bigImage: 'vanishing-pearls-wide.webp'
 websiteLinkText: ''
 projectOrder: '1'
 vimeoUrl: ''
-bigVideo: ''
+bigVideo: 'true'
 publishedAt: '2025-02-15T12:31:27.313Z'
 ---
 

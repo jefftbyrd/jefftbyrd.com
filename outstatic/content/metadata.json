@@ -1,6 +1,6 @@
 {
-  "commit": "dfb8ef8d0e71becca640fc5c498be6ce70519351",
-  "generated": "2025-02-16T18:53:33.066Z",
+  "commit": "fca7b66eb31e8664ab624103224e586347735e95",
+  "generated": "2025-02-16T18:59:54.947Z",
   "metadata": [
     {
       "__outstatic": {
@@ -781,8 +781,8 @@
     },
     {
       "__outstatic": {
-        "commit": "dfb8ef8d0e71becca640fc5c498be6ce70519351",
-        "hash": "602415299",
+        "commit": "fca7b66eb31e8664ab624103224e586347735e95",
+        "hash": "2375112525",
         "path": "outstatic/content/projects/vanishing-pearls.md"
       },
       "additionalImages": "",
@@ -791,7 +791,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "",
+      "bigVideo": "true",
       "collection": "projects",
       "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
       "description": "",
@@ -811,7 +811,7 @@
       "slug": "vanishing-pearls",
       "status": "published",
       "title": "Vanishing Pearls",
-      "videoUrl": "",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
