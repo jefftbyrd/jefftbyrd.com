@@ -1,6 +1,6 @@
 {
-  "commit": "f829cdd20cb10286be097a6124228fc646ab1678",
-  "generated": "2025-02-16T18:37:10.870Z",
+  "commit": "670fc4bdb545cce5421947a5ad12a1b31e8866a2",
+  "generated": "2025-02-16T18:40:17.702Z",
   "metadata": [
     {
       "__outstatic": {
@@ -741,39 +741,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4e88ea32dd43979173eb36cf5af7dfb677819115",
-        "hash": "584016693",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/durrs-g0OD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "f829cdd20cb10286be097a6124228fc646ab1678",
         "hash": "2324258776",
         "path": "outstatic/content/projects/after-the-storm.md"
@@ -805,6 +772,39 @@
       "status": "published",
       "title": "After the Storm",
       "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "670fc4bdb545cce5421947a5ad12a1b31e8866a2",
+        "hash": "3198860090",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/durrs-kxMT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
