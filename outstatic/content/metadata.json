@@ -1,6 +1,6 @@
 {
-  "commit": "d097e73a203411efe34f80d18878c7a0f10c2f22",
-  "generated": "2025-02-16T10:33:47.771Z",
+  "commit": "e9658232117a423272b5ba7d8ba4a6a1bf35f1c9",
+  "generated": "2025-02-16T10:35:04.040Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,37 +91,6 @@
       "slug": "about",
       "status": "published",
       "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "ddf4302e376aeeda0d738e3b0e0ccdff695083b2",
-        "hash": "3221331500",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -779,6 +748,37 @@
       "videoUrl": "",
       "websiteLinkText": "Visit the deployed site",
       "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "e9658232117a423272b5ba7d8ba4a6a1bf35f1c9",
+        "hash": "3172589616",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "10",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
