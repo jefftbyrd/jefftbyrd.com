@@ -1,6 +1,6 @@
 {
-  "commit": "f4222129c1e89db8e1545d4cccecd5a0f1c6b5c0",
-  "generated": "2025-02-16T13:14:22.263Z",
+  "commit": "ccff2cdf9a6b7d05000f9cb96c5b1c35c7e5f12a",
+  "generated": "2025-02-16T16:23:09.080Z",
   "metadata": [
     {
       "__outstatic": {
@@ -689,41 +689,6 @@
     },
     {
       "__outstatic": {
-        "commit": "11ae0c2bd0f0dd129e19e6b542af4dd07d59ad86",
-        "hash": "3469214749",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "goodwater-alabama-1982.webp",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "27",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "b86118b2e7beda2b91c6fa08201e762955e5cc2a",
         "hash": "1165126327",
         "path": "outstatic/content/projects/alouette.md"
@@ -789,6 +754,43 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the deployed site",
       "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "ccff2cdf9a6b7d05000f9cb96c5b1c35c7e5f12a",
+        "hash": "365279547",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "goodwater-alabama-1982.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
