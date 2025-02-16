@@ -50,26 +50,31 @@ async function getData() {
 
   const content = await markdownToHtml(page.content);
 
-  const allPosts = await db
-    .find({ collection: 'posts' }, [
-      'title',
-      'publishedAt',
-      'slug',
-      'coverImage',
-      'description',
-      'tags',
-    ])
-    .sort({ publishedAt: -1 })
-    .toArray();
+  // const allPosts = await db
+  //   .find({ collection: 'posts' }, [
+  //     'title',
+  //     'publishedAt',
+  //     'slug',
+  //     'coverImage',
+  //     'description',
+  //     'tags',
+  //   ])
+  //   .sort({ publishedAt: -1 })
+  //   .toArray();
 
   const allProjects = await db
-    .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
-    .sort({ publishedAt: -1 })
+    .find({ collection: 'projects' }, [
+      'title',
+      'slug',
+      'coverImage',
+      'projectOrder',
+    ])
+    .sort({ projectOrder: -1 })
     .toArray();
 
   return {
     content,
-    allPosts,
+    // allPosts,
     allProjects,
   };
 }

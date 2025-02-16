@@ -76,8 +76,9 @@ export default async function Project(params: Params) {
           {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
             {project.description}
           </div> */}
-          <ProjectBlueVert height={`h-8`} />
-          <div className="relative mb-0 sm:mx-0 aspect-16/9">
+          <ProjectBlueVert height={`h-4`} />
+
+          {/* <div className="relative mb-0 sm:mx-0 aspect-16/9">
             <Image
               alt={project.title}
               src={
@@ -88,6 +89,26 @@ export default async function Project(params: Params) {
               }
               fill
               className="object-cover object-center"
+              priority
+            />
+          </div> */}
+
+          <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
+            <Image
+              src={
+                project.bigImage
+                  ? // ? `/images/projects/${project.bigImage ?? ''}`
+                    `/images/projects/${project?.bigImage ?? ''}`
+                  : `${project?.coverImage || ''}`
+              }
+              alt={`Cover Image for ${project.title}`}
+              className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
+              // width={0}
+              // height={0}
+              // sizes="(min-width: 768px) 347px, 192px"
+              // priority={priority && id <= 2}
+              fill
+              // className="object-cover object-center"
               priority
             />
           </div>
@@ -109,6 +130,19 @@ export default async function Project(params: Params) {
                   ></iframe>
                 </div>
               ) : null}
+
+              {project.vimeoUrl ? (
+                <div>
+                  <iframe
+                    src={project.vimeoUrl}
+                    frameborder="0"
+                    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+                    title="Alouette // Opening Titles"
+                    className="aspect-16/9 w-full"
+                  ></iframe>
+                </div>
+              ) : // <script src="https://player.vimeo.com/api/player.js"></script>
+              null}
 
               {project.additionalImages ? (
                 <div className="flex flex-col gap-4">
@@ -190,6 +224,7 @@ async function getData({ params }: Params) {
       'additionalImages',
       'bigImage',
       'websiteLinkText',
+      'vimeoUrl',
     ])
     .first();
 

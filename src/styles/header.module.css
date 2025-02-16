@@ -28,3 +28,42 @@
 .blueVert {
   background-color: var(--color-foreground);
 }
+
+.menuItem:hover {
+  text-shadow: var(--color-background) 1px 3px, var(--color-background) 2px 6px,
+    var(--color-background) 3px 9px, var(--color-background) 4px 12px;
+  top: 0.07em;
+
+  .t {
+    position: relative;
+    top: -0.14em;
+  }
+}
+
+/* .shadow:hover {
+  .t {
+    position: relative;
+    top: -0.14em;
+  }
+} */
+
+.shadowWhite:hover {
+  text-shadow: white 2px 6px;
+}
+
+.menuItem::after {
+  content: '';
+  background: white;
+  mix-blend-mode: exclusion;
+  width: calc(100% + 20px);
+  /* width: 100%; */
+  height: 0;
+  position: absolute;
+  bottom: -4px;
+  left: -10px;
+  transition: all 0.1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.menuItem:hover::after {
+  height: calc(100% + 8px);
+}
