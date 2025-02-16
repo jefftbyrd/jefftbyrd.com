@@ -7,13 +7,16 @@ author:
 slug: 'edinburgh-international-film-festival'
 description: ''
 coverImage: '/images/eiff-E3NT.webp'
-videoUrl: ''
+videoUrl: 'https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
-projectTags: ''
+projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-01-30T13:35:40.675Z'
 ---
 
