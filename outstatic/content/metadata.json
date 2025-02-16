@@ -1,6 +1,6 @@
 {
-  "commit": "84d573a070f055d9e03a2116d70c43b7d3176a5c",
-  "generated": "2025-02-16T10:36:29.419Z",
+  "commit": "11ae0c2bd0f0dd129e19e6b542af4dd07d59ad86",
+  "generated": "2025-02-16T10:37:41.660Z",
   "metadata": [
     {
       "__outstatic": {
@@ -339,40 +339,6 @@
       "videoUrl": "",
       "websiteLinkText": "https://healthforallstory.org/",
       "websiteUrl": "https://healthforallstory.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "d1f66f6cf17542815ca1561b1e8dafbaa466d585",
-        "hash": "1571403142",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "goodwater-alabama-1982.webp",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -777,6 +743,41 @@
       "status": "published",
       "title": "White Lies",
       "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "11ae0c2bd0f0dd129e19e6b542af4dd07d59ad86",
+        "hash": "3469214749",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "goodwater-alabama-1982.webp",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "websiteLinkText": "",
       "websiteUrl": ""
     }

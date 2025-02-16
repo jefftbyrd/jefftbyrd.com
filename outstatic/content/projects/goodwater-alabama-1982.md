@@ -14,6 +14,7 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: 'goodwater-alabama-1982.webp'
 websiteLinkText: ''
+projectOrder: '27'
 publishedAt: '2025-01-30T13:36:05.889Z'
 ---
 
