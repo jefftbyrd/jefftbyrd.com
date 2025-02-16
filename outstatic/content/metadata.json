@@ -1,6 +1,6 @@
 {
-  "commit": "e9658232117a423272b5ba7d8ba4a6a1bf35f1c9",
-  "generated": "2025-02-16T10:35:04.040Z",
+  "commit": "fe9585e797c18feae03f11fcbdb38301b6bfc220",
+  "generated": "2025-02-16T10:35:42.979Z",
   "metadata": [
     {
       "__outstatic": {
@@ -558,41 +558,6 @@
     },
     {
       "__outstatic": {
-        "commit": "78a23dbd30576b5bd23a39fb685ebadb4cc4e95b",
-        "hash": "2327305182",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vanishing-pearls-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "afd54c16ce01b2a79ddfc8dafe410674d81a3840",
         "hash": "3281383628",
         "path": "outstatic/content/projects/texas.md"
@@ -776,6 +741,41 @@
       "slug": "a-call-from-selma",
       "status": "published",
       "title": "A Call From Selma",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "fe9585e797c18feae03f11fcbdb38301b6bfc220",
+        "hash": "1967183182",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vanishing-pearls-wide.webp",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "1",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "status": "published",
+      "title": "Vanishing Pearls",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
