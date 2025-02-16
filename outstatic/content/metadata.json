@@ -1,6 +1,6 @@
 {
-  "commit": "dad261c22d6ddb4097f1efd4de810c1a4aa74049",
-  "generated": "2025-02-16T08:09:20.931Z",
+  "commit": "ce6cbe738edc7bcd8cd206adf72f39ad503dde19",
+  "generated": "2025-02-16T09:29:15.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -735,37 +735,6 @@
     },
     {
       "__outstatic": {
-        "commit": "2f8e28514894d39af354bd3b40d375fb61472e51",
-        "hash": "1055352758",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "white-lies.webp",
-      "collection": "projects",
-      "coverImage": "/images/white-lies-U2NT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "ad5ff467bfae59728c9fcf705fe9e34ee01a9924",
         "hash": "1389382241",
         "path": "outstatic/content/pages/about.md"
@@ -817,6 +786,37 @@
       "slug": "projects",
       "status": "published",
       "title": "Projects"
+    },
+    {
+      "__outstatic": {
+        "commit": "ce6cbe738edc7bcd8cd206adf72f39ad503dde19",
+        "hash": "2650683498",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "white-lies-2.webp",
+      "collection": "projects",
+      "coverImage": "/images/white-lies-U2NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "3",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "status": "published",
+      "title": "White Lies",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
