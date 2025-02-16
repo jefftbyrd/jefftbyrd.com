@@ -1,6 +1,6 @@
 {
-  "commit": "4cf3102957b7f315db68b2448c92adf528383ca5",
-  "generated": "2025-02-16T18:51:03.027Z",
+  "commit": "dfb8ef8d0e71becca640fc5c498be6ce70519351",
+  "generated": "2025-02-16T18:53:33.066Z",
   "metadata": [
     {
       "__outstatic": {
@@ -430,41 +430,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fe9585e797c18feae03f11fcbdb38301b6bfc220",
-        "hash": "1967183182",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vanishing-pearls-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "1",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "84d573a070f055d9e03a2116d70c43b7d3176a5c",
         "hash": "1431878984",
         "path": "outstatic/content/projects/white-lies.md"
@@ -813,6 +778,43 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "dfb8ef8d0e71becca640fc5c498be6ce70519351",
+        "hash": "602415299",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "1",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }

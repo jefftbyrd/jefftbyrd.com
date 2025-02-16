@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'vanishing-pearls'
 description: ''
-coverImage: '/images/vanishing-pearls-QzOD.jpg'
+coverImage: '/images/vanishing-pearls-2-A0Mj.webp'
 projectTags: [{"value":"soundDesign","label":"Sound Design"},{"value":"audioPost","label":"Audio Post"}]
 videoUrl: ''
 gitHubUrl: ''
@@ -15,6 +15,8 @@ additionalImages: ''
 bigImage: 'vanishing-pearls-wide.webp'
 websiteLinkText: ''
 projectOrder: '1'
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-02-15T12:31:27.313Z'
 ---
 
