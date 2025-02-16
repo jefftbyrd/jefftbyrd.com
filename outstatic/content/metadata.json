@@ -1,6 +1,6 @@
 {
-  "commit": "11ae0c2bd0f0dd129e19e6b542af4dd07d59ad86",
-  "generated": "2025-02-16T10:37:41.660Z",
+  "commit": "99b0ce8e3cdc4c875703287f45263cd40a9f448a",
+  "generated": "2025-02-16T11:37:22.747Z",
   "metadata": [
     {
       "__outstatic": {
@@ -247,30 +247,6 @@
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "7a8e08358107fa722ecb42f2a04f2f067616a6d6",
-        "hash": "404943974",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "This is the description.",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "title": "Alouette"
     },
     {
       "__outstatic": {
@@ -778,6 +754,37 @@
       "status": "published",
       "title": "Goodwater, Alabama 1982",
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "99b0ce8e3cdc4c875703287f45263cd40a9f448a",
+        "hash": "1459273593",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "This is the description.",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }

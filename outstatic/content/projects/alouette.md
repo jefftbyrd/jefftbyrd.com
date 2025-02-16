@@ -8,7 +8,14 @@ slug: 'alouette'
 description: 'This is the description.'
 coverImage: '/images/alouette-kzNz.jpg'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
+projectOrder: ''
 publishedAt: '2025-01-30T13:37:11.263Z'
 ---
 
-This is the content.
+Television mini-series set in New Orleans.
