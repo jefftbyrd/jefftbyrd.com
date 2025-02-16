@@ -107,6 +107,13 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Project Order"
+    },
+    "vimeoUrl": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Vimeo Url"
     }
   }
 }
