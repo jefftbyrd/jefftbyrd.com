@@ -1,6 +1,6 @@
 {
-  "commit": "a6a7fbab02b6faef6dbabf61a80858aa0c8e5ed0",
-  "generated": "2025-02-16T19:02:11.008Z",
+  "commit": "983c9a3ca30c5406862552709e329f4d799630d6",
+  "generated": "2025-02-16T19:10:54.586Z",
   "metadata": [
     {
       "__outstatic": {
@@ -787,8 +787,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a6a7fbab02b6faef6dbabf61a80858aa0c8e5ed0",
-        "hash": "2777328981",
+        "commit": "983c9a3ca30c5406862552709e329f4d799630d6",
+        "hash": "2647151478",
         "path": "outstatic/content/projects/a-call-from-selma.md"
       },
       "additionalImages": "",
@@ -799,7 +799,7 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "",
+      "coverImage": "/images/a-call-from-selma-E5OT.webp",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "10",
