@@ -14,6 +14,9 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: 'true'
 publishedAt: '2025-01-27T21:47:00.739Z'
 ---
 

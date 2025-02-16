@@ -1,6 +1,6 @@
 {
-  "commit": "69628772c0b92d568514ca40dad45f907eec3317",
-  "generated": "2025-02-16T16:48:03.637Z",
+  "commit": "4e88ea32dd43979173eb36cf5af7dfb677819115",
+  "generated": "2025-02-16T18:27:00.868Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,36 +192,6 @@
       "slug": "dad-is-bad",
       "status": "published",
       "title": "Dad Is Bad"
-    },
-    {
-      "__outstatic": {
-        "commit": "a7656c034351ad197656915f9dc1f7c1aea89b39",
-        "hash": "3486663714",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/durrs-g0OD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -799,6 +769,39 @@
       "status": "published",
       "title": "Edinburgh International Film Festival",
       "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "4e88ea32dd43979173eb36cf5af7dfb677819115",
+        "hash": "584016693",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/durrs-g0OD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
