@@ -114,6 +114,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Vimeo Url"
+    },
+    "bigVideo": {
+      "required": false,
+      "description": "Should the video be the main item?",
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Big Video"
     }
   }
 }
