@@ -34,13 +34,13 @@ const Header = () => {
               </h1>
             </Link>
           </div>
-          <div className="px-4 py-0">
+          <div className="px-4 py-5 bg-(--color-foreground)">
             <nav className="layout flex items-center justify-center py-0">
               <ul className="flex items-center justify-between space-x-3 md:space-x-4 md:text-base font-extralight uppercase text-3xl text-white ">
                 <li>
                   <Link
                     href="/projects"
-                    className={`relative transition-all delay-0 duration-100 ease-in-out hover:-translate-y-4 text-3xl ${styles.menuItem} py-5 bg-(--color-foreground) px-3`}
+                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl overflow-hidden text-3xl ${styles.menuItem}  bg-(--color-foreground) px-3`}
                   >
                     Projec<span className={styles.t}>t</span>s
                   </Link>
@@ -48,7 +48,7 @@ const Header = () => {
                 <li>
                   <Link
                     href="/about"
-                    className={`relative transition-all delay-0 duration-100 ease-in-out hover:-translate-y-4 text-3xl ${styles.menuItem} py-5 bg-(--color-foreground) px-3`}
+                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl text-3xl ${styles.menuItem} bg-(--color-foreground) px-3`}
                   >
                     Abou<span className={styles.t}>t</span>
                   </Link>
@@ -56,7 +56,7 @@ const Header = () => {
                 <li>
                   <Link
                     href="/contact"
-                    className={`relative transition-all delay-0 duration-100 ease-in-out hover:-translate-y-4 text-3xl ${styles.menuItem} py-5 bg-(--color-foreground) px-3`}
+                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl  text-3xl ${styles.menuItem} bg-(--color-foreground) px-3`}
                   >
                     Contac<span className={styles.t}>t</span>
                   </Link>
