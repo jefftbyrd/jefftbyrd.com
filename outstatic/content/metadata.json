@@ -1,7 +1,43 @@
 {
-  "commit": "839e43f9a79e49884c004556d49fd465e900f004",
-  "generated": "2025-02-16T09:30:56.160Z",
+  "commit": "8342664452ed45841757b3b50be0be11686e36be",
+  "generated": "Sun, 16 Feb 2025 09:32:46 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
+        "hash": "981293699",
+        "path": "outstatic/content/pages/projects.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-16T08:21:11.306Z",
+      "slug": "projects",
+      "status": "published",
+      "title": "Projects"
+    },
+    {
+      "__outstatic": {
+        "commit": "68b37542b7944a543650199a5c8fe93fa8753498",
+        "hash": "2868619686",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-15T16:28:07.343Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
+    },
     {
       "__outstatic": {
         "commit": "a78ef9029b9829e6c0732daeeade49b513b0e4d9",
@@ -40,6 +76,89 @@
     },
     {
       "__outstatic": {
+        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
+        "hash": "1389382241",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "ddf4302e376aeeda0d738e3b0e0ccdff695083b2",
+        "hash": "3221331500",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "3",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
+        "hash": "4086614036",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
         "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
         "hash": "2506648264",
         "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
@@ -71,75 +190,7 @@
     },
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "outstatic/content/projects/couple-pizza.md"
-      },
-      "author": {
-        "name": "Bob Marley"
-      },
-      "collection": "projects",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
-      "status": "published",
-      "title": "Couple Pizza"
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
-        "hash": "1076515129",
-        "path": "outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": " 🧸 Bearbnb"
-    },
-    {
-      "__outstatic": {
-        "commit": "7d33a2f6f265b04a0e434e87b29e9a5944f7cfe5",
+        "commit": "5ef708eede2c6ba1139711dcd514898a33977c72",
         "hash": "4065770421",
         "path": "outstatic/content/pages/weird.md"
       },
@@ -157,25 +208,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ecbb5763f26651a31f480934cf04c0b0398fa782",
-        "hash": "2367438537",
-        "path": "outstatic/content/projects/roule-sonner.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "roule-sonner",
-      "status": "published",
-      "title": "Roule Sonner"
-    },
-    {
-      "__outstatic": {
-        "commit": "28271b2dd9863efdc57c11d6b879fe87c9087d4d",
+        "commit": "f98a8ef36b2ef2521fbcd2135922bc868247e535",
         "hash": "2611621424",
         "path": "outstatic/content/projects/dad-is-bad.md"
       },
@@ -193,259 +226,7 @@
     },
     {
       "__outstatic": {
-        "commit": "f1b25b3a5ab2a41d090a0390f5b5028d39b299f7",
-        "hash": "299345142",
-        "path": "outstatic/content/projects/spark.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:30.697Z",
-      "slug": "spark",
-      "status": "published",
-      "title": "Spark"
-    },
-    {
-      "__outstatic": {
-        "commit": "8dcb73c7392194454b1ca0f7d1f7365b425894d9",
-        "hash": "3281383628",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "slug": "texas",
-      "status": "published",
-      "title": "Texas"
-    },
-    {
-      "__outstatic": {
-        "commit": "946a3193b3f2a8d584f15b409843e0f92593c91f",
-        "hash": "404943974",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "This is the description.",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "title": "Alouette"
-    },
-    {
-      "__outstatic": {
-        "commit": "e215c2ddbbbc996cb9db2088192a622e5ae0b015",
-        "hash": "3202056992",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "cd88c1906483f5e49e794c17c7f871c8aae6a458",
-        "hash": "4065243233",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-      ],
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "83e697041237316d3c305a9d515ea325af6cef8a",
-        "hash": "2935727333",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-      ],
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
-      "status": "published",
-      "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "c0ed44c8f11f96a85da6564b7a4ddcd46d7782a0",
-        "hash": "1571403142",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "goodwater-alabama-1982.webp",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "4e8808be6b63f27ad8adef9f77ff88bf55a347a6",
-        "hash": "696280175",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "ddac45c4140519b9762ba40d8aaa2374ecbc3ade",
-        "hash": "2894966186",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vector-2.webp",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectTags": [
-        {
-          "label": "Website",
-          "value": "website"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "websiteLinkText": "Visit the deployed site",
-      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
-    },
-    {
-      "__outstatic": {
-        "commit": "cc64650ef11f828369b44a63fdb0d56d56176bb3",
+        "commit": "a7656c034351ad197656915f9dc1f7c1aea89b39",
         "hash": "3486663714",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
       },
@@ -475,9 +256,9 @@
     },
     {
       "__outstatic": {
-        "commit": "49e77dc0a069bc883849210140813a324022b80f",
-        "hash": "2056763112",
-        "path": "outstatic/content/projects/lamb-alley.md"
+        "commit": "dd3e36661f3b7704b52e81a088df3e59c2ff833e",
+        "hash": "4065243233",
+        "path": "outstatic/content/projects/are-you-sick.md"
       },
       "additionalImages": "",
       "author": {
@@ -486,48 +267,45 @@
       },
       "bigImage": "",
       "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
       "description": "",
       "gitHubUrl": "",
-      "projectTags": [
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
+      "projectTags": "",
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
       "status": "published",
-      "title": "Lamb Alley",
+      "title": "Are You Sick?",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "78631e17f2e6e2ce11428eb480e183c758b8d203",
-        "hash": "2849519887",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+        "commit": "7a8e08358107fa722ecb42f2a04f2f067616a6d6",
+        "hash": "404943974",
+        "path": "outstatic/content/projects/alouette.md"
       },
-      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "",
       "collection": "projects",
-      "coverImage": "/images/eiff-E3NT.webp",
-      "description": "",
-      "gitHubUrl": "",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "This is the description.",
       "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
       ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
       "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "title": "Alouette"
     },
     {
       "__outstatic": {
-        "commit": "2f049fc45c25541b7312301b66f66a23e4fab404",
+        "commit": "63a87ba65805baafb293acaa80f413996161c8a1",
         "hash": "3849168095",
         "path": "outstatic/content/projects/after-the-storm.md"
       },
@@ -561,7 +339,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ef32a6f76b9cab13e688c628edd99034f5af3fcb",
+        "commit": "3573a33f4d8bc4ff4d1ef5d92dc6b5d032abe5e9",
         "hash": "858311372",
         "path": "outstatic/content/projects/health-for-all.md"
       },
@@ -595,78 +373,43 @@
     },
     {
       "__outstatic": {
-        "commit": "4a9d32347dfd0adbc0777702a4aa187a5ee940cd",
-        "hash": "3193147398",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+        "commit": "d1f66f6cf17542815ca1561b1e8dafbaa466d585",
+        "hash": "1571403142",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "sbuayd-wide.webp",
+      "bigImage": "goodwater-alabama-1982.webp",
       "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "coverImage": "/images/goodwater-alabama-1982-c0NT.webp",
       "description": "",
       "gitHubUrl": "",
       "projectTags": [
         {
-          "label": "Album",
-          "value": "album"
+          "label": "Music Video",
+          "value": "musicVideo"
         },
         {
           "label": "Music",
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
       "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "00e145f18380477a3bbff44f95d2c44cbf67d7cd",
-        "hash": "2327305182",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vanishing-pearls-wide.webp",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "bdebd2ad37f153bab157b584e4941f06f959d8dc",
-        "hash": "3221331500",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
+        "commit": "a34874dba53437ce2ad5a763e52030a13563eba7",
+        "hash": "3202056992",
+        "path": "outstatic/content/projects/god-today.md"
       },
       "additionalImages": "",
       "author": {
@@ -678,24 +421,48 @@
       "coverImage": "",
       "description": "",
       "gitHubUrl": "",
-      "projectOrder": "3",
       "projectTags": [
         {
-          "label": "Soundtrack",
-          "value": "soundtrack"
+          "label": "Music Video",
+          "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
       "status": "published",
-      "title": "A Call From Selma",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "3337063a521a52b294e2e29759968627521f43ee",
+        "hash": "2849519887",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/eiff-E3NT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": "",
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "slug": "edinburgh-international-film-festival",
+      "status": "published",
+      "title": "Edinburgh International Film Festival",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "9fc9d82e318031f21f1ea344c38f4676446328a2",
+        "commit": "024d2363db0136f50a7ee4cc0f94d0438184f6a0",
         "hash": "374564636",
         "path": "outstatic/content/projects/earthsong.md"
       },
@@ -735,62 +502,135 @@
     },
     {
       "__outstatic": {
-        "commit": "ad5ff467bfae59728c9fcf705fe9e34ee01a9924",
-        "hash": "1389382241",
-        "path": "outstatic/content/pages/about.md"
+        "commit": "a06d6e193d2b4478d97448f51f4c1eb863b1349e",
+        "hash": "3193147398",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
       },
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "bigImage": "sbuayd-wide.webp",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
       "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
+      "gitHubUrl": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
       "status": "published",
-      "title": "About"
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "9038b8b8fcbdf31524aea65a330776e53a165cf1",
-        "hash": "2868619686",
-        "path": "outstatic/content/pages/contact.md"
+        "commit": "ec81c83949c0733564efabc1ec6816a9a7c1dfeb",
+        "hash": "2367438537",
+        "path": "outstatic/content/projects/roule-sonner.md"
       },
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "collection": "pages",
+      "collection": "projects",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2025-02-15T16:28:07.343Z",
-      "slug": "contact",
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "slug": "roule-sonner",
       "status": "published",
-      "title": "Contact"
+      "title": "Roule Sonner"
     },
     {
       "__outstatic": {
-        "commit": "dad261c22d6ddb4097f1efd4de810c1a4aa74049",
-        "hash": "981293699",
-        "path": "outstatic/content/pages/projects.md"
+        "commit": "52c99540a5ab304975538a2b0ac3d06cd1bc286a",
+        "hash": "696280175",
+        "path": "outstatic/content/projects/nighty-night.md"
       },
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "collection": "pages",
-      "coverImage": "",
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
       "description": "",
-      "publishedAt": "2025-02-16T08:21:11.306Z",
-      "slug": "projects",
+      "gitHubUrl": "",
+      "projectTags": "",
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
       "status": "published",
-      "title": "Projects"
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "839e43f9a79e49884c004556d49fd465e900f004",
-        "hash": "6996299",
+        "commit": "1507b915b483897a89efcca5acddfd5c83e3ba0d",
+        "hash": "2056763112",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": "",
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "da7c562fa424fa2db00bc8c2e56c5ed25c10fbac",
+        "hash": "2935727333",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectTags": "",
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "3648d61c56e600d6ea018f85622a6ab269e037d4",
+        "hash": "2650683498",
         "path": "outstatic/content/projects/white-lies.md"
       },
       "additionalImages": "",
@@ -800,7 +640,7 @@
       },
       "bigImage": "white-lies-2.webp",
       "collection": "projects",
-      "coverImage": "/images/white-lies-square-QzOT.jpg",
+      "coverImage": "/images/white-lies-U2NT.webp",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "3",
@@ -817,6 +657,127 @@
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "029a2b372796e75dba258680beef638d8d57c237",
+        "hash": "2894966186",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vector-2.webp",
+      "collection": "projects",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectTags": [
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector",
+      "videoUrl": "",
+      "websiteLinkText": "Visit the deployed site",
+      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "78a23dbd30576b5bd23a39fb685ebadb4cc4e95b",
+        "hash": "2327305182",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "vanishing-pearls-wide.webp",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-QzOD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "3",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "afd54c16ce01b2a79ddfc8dafe410674d81a3840",
+        "hash": "3281383628",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "slug": "texas",
+      "status": "published",
+      "title": "Texas"
+    },
+    {
+      "__outstatic": {
+        "commit": "b03aff80f3a4e77f624d035499b75db938f8da1b",
+        "hash": "299345142",
+        "path": "outstatic/content/projects/spark.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "slug": "spark",
+      "status": "published",
+      "title": "Spark"
     }
   ]
 }
