@@ -1,6 +1,6 @@
 {
   "commit": "69628772c0b92d568514ca40dad45f907eec3317",
-  "generated": "2025-02-16T16:47:31.353Z",
+  "generated": "2025-02-16T16:48:03.637Z",
   "metadata": [
     {
       "__outstatic": {
@@ -773,7 +773,7 @@
     {
       "__outstatic": {
         "commit": "69628772c0b92d568514ca40dad45f907eec3317",
-        "hash": "3177434716",
+        "hash": "3434565692",
         "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
@@ -782,7 +782,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "",
-      "bigVideo": "",
+      "bigVideo": "true",
       "collection": "projects",
       "coverImage": "/images/eiff-E3NT.webp",
       "description": "",

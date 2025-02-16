@@ -16,7 +16,7 @@ websiteLinkText: ''
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 projectOrder: ''
 vimeoUrl: ''
-bigVideo: ''
+bigVideo: 'true'
 publishedAt: '2025-01-30T13:35:40.675Z'
 ---
 
