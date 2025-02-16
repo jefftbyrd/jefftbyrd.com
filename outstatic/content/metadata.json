@@ -1,6 +1,6 @@
 {
-  "commit": "d692dde9018f7fee59741f050d4f9e7a93db5b6a",
-  "generated": "2025-02-16T19:23:54.535Z",
+  "commit": "5bae1f91b36dedbc0502bc03b0b0e1f7c338ce48",
+  "generated": "2025-02-16T19:31:48.065Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,31 +192,6 @@
       "slug": "dad-is-bad",
       "status": "published",
       "title": "Dad Is Bad"
-    },
-    {
-      "__outstatic": {
-        "commit": "dd3e36661f3b7704b52e81a088df3e59c2ff833e",
-        "hash": "4065243233",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": "",
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -825,6 +800,39 @@
       "status": "published",
       "title": "Goodwater, Alabama 1982",
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "5bae1f91b36dedbc0502bc03b0b0e1f7c338ce48",
+        "hash": "4263812658",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "status": "published",
+      "title": "Are You Sick?",
+      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""

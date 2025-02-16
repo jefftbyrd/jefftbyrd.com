@@ -7,13 +7,16 @@ author:
 slug: 'are-you-sick'
 description: ''
 coverImage: '/images/are-you-sick-M2OD.jpg'
-videoUrl: ''
+videoUrl: 'https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
-projectTags: ''
+projectTags: [{"value":"album","label":"Album"}]
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-01-30T13:36:26.211Z'
 ---
 
