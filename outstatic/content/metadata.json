@@ -1,6 +1,6 @@
 {
-  "commit": "983c9a3ca30c5406862552709e329f4d799630d6",
-  "generated": "2025-02-16T19:10:54.586Z",
+  "commit": "6e96e2a0d65853499480ba12db89d02c209b6c72",
+  "generated": "2025-02-16T19:17:30.791Z",
   "metadata": [
     {
       "__outstatic": {
@@ -251,24 +251,6 @@
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "ec81c83949c0733564efabc1ec6816a9a7c1dfeb",
-        "hash": "2367438537",
-        "path": "outstatic/content/projects/roule-sonner.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "roule-sonner",
-      "status": "published",
-      "title": "Roule Sonner"
     },
     {
       "__outstatic": {
@@ -814,6 +796,35 @@
       "status": "published",
       "title": "A Call From Selma",
       "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "6e96e2a0d65853499480ba12db89d02c209b6c72",
+        "hash": "3161988674",
+        "path": "outstatic/content/projects/roule-sonner.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/rouler-sonner-IwNj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+      ],
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "slug": "roule-sonner",
+      "status": "published",
+      "title": "Roule Sonner",
+      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
