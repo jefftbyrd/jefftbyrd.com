@@ -32,7 +32,7 @@ export default async function About() {
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image
                   // alt={about.title}
-                  src="/images/jefftbyrd.webp"
+                  src="/images/jefftbyrd-3.webp"
                   fill
                   className="object-cover object-center"
                   priority

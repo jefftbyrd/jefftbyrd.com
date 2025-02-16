@@ -24,7 +24,7 @@ const ProjectGrid = ({
       {/* <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
         {title}
       </h2> */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-5 sm:gap-y-6 lg:gap-y-8 mb-8">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-5 sm:gap-y-6 lg:gap-y-8 mb-8 border-t-1 border-solid border-(--color-foreground) pt-6">
         {items.map((item, id) => (
           <Link key={item.slug} href={`/${collection}/${item.slug}`}>
             <div className="cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden">

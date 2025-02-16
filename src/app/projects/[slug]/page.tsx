@@ -94,30 +94,45 @@ export default async function Project(params: Params) {
           </div> */}
 
           <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
-            <Image
-              src={
-                project.bigImage
-                  ? // ? `/images/projects/${project.bigImage ?? ''}`
-                    `/images/projects/${project?.bigImage ?? ''}`
-                  : `${project?.coverImage || ''}`
-              }
-              alt={`Cover Image for ${project.title}`}
-              className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
-              // width={0}
-              // height={0}
-              // sizes="(min-width: 768px) 347px, 192px"
-              // priority={priority && id <= 2}
-              fill
-              // className="object-cover object-center"
-              priority
-            />
+            {project.bigVideo ? (
+              <div>
+                <iframe
+                  className="aspect-16/9 w-full"
+                  src={project.videoUrl}
+                  title="YouTube video player"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin"
+                  allowfullscreen
+                ></iframe>
+              </div>
+            ) : (
+              <Image
+                src={
+                  project.bigImage
+                    ? // ? `/images/projects/${project.bigImage ?? ''}`
+                      `/images/projects/${project?.bigImage ?? ''}`
+                    : `${project?.coverImage || ''}`
+                }
+                alt={`Cover Image for ${project.title}`}
+                className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
+                // width={0}
+                // height={0}
+                // sizes="(min-width: 768px) 347px, 192px"
+                // priority={priority && id <= 2}
+                fill
+                // className="object-cover object-center"
+                priority
+              />
+            )}
+            ;
           </div>
         </div>
 
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
             <div className="flex flex-col gap-4 pt-5">
-              {project.videoUrl ? (
+              {project.videoUrl && !project.bigVideo ? (
                 <div>
                   <iframe
                     className="aspect-16/9 w-full"
@@ -156,23 +171,31 @@ export default async function Project(params: Params) {
               ) : null}
             </div>
 
-            <div className="flex flex-col gap-1">
+            <div className="flex flex-col gap-2">
               <div className="bg-(--color-foreground) px-5 py-3">
                 <div
-                  className=" text-white text-base"
+                  className=" text-white text-base my-4"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
               {project.websiteUrl ? (
-                <div className=" bg-(--color-foreground)  text-white font-black px-5 py-2 uppercase italic tracking-wide">
-                  <a href={project.websiteUrl} target="_blank">
+                <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out">
+                  <a
+                    className="block px-5 py-4 "
+                    href={project.websiteUrl}
+                    target="_blank"
+                  >
                     {project.websiteLinkText}
                   </a>
                 </div>
               ) : null}
               {project.gitHubUrl ? (
-                <div className=" bg-(--color-foreground)  text-white font-black px-5 py-2 uppercase italic tracking-wide">
-                  <a href={project.gitHubUrl} target="_blank">
+                <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out ">
+                  <a
+                    className="block px-5 py-4"
+                    href={project.gitHubUrl}
+                    target="_blank"
+                  >
                     Visit on Github
                   </a>
                 </div>
@@ -225,6 +248,7 @@ async function getData({ params }: Params) {
       'bigImage',
       'websiteLinkText',
       'vimeoUrl',
+      'bigVideo',
     ])
     .first();
 

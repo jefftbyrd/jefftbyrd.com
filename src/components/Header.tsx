@@ -24,7 +24,7 @@ const Header = () => {
     // </nav>
     <header className="sticky z-100 top-0 bg-(--color-background)">
       <nav>
-        <div className="grid md:grid-cols-2 gap-30 ml-0 mr-24 py-0 border-b-1 border-solid border-(--color-foreground)">
+        <div className="grid md:grid-cols-2 gap-30 ml-0 mr-24 py-0 border-b-1 border-solid border-(--color-foreground) ">
           <div className="flex items-end px-4">
             <Link href="/">
               <h1
@@ -58,7 +58,8 @@ const Header = () => {
                     href="/contact"
                     className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl  text-3xl ${styles.menuItem} bg-(--color-foreground) px-3`}
                   >
-                    Contac<span className={styles.t}>t</span>
+                    Con<span className={styles.t}>t</span>ac
+                    <span className={styles.t}>t</span>
                   </Link>
                 </li>
               </ul>
