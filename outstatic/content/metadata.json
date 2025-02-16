@@ -1,6 +1,6 @@
 {
-  "commit": "fca7b66eb31e8664ab624103224e586347735e95",
-  "generated": "2025-02-16T18:59:54.947Z",
+  "commit": "a6a7fbab02b6faef6dbabf61a80858aa0c8e5ed0",
+  "generated": "2025-02-16T19:02:11.008Z",
   "metadata": [
     {
       "__outstatic": {
@@ -399,37 +399,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e9658232117a423272b5ba7d8ba4a6a1bf35f1c9",
-        "hash": "3172589616",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "10",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "84d573a070f055d9e03a2116d70c43b7d3176a5c",
         "hash": "1431878984",
         "path": "outstatic/content/projects/white-lies.md"
@@ -812,6 +781,39 @@
       "status": "published",
       "title": "Vanishing Pearls",
       "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "a6a7fbab02b6faef6dbabf61a80858aa0c8e5ed0",
+        "hash": "2777328981",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "10",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
