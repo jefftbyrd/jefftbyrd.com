@@ -1,4 +1,5 @@
 import Header from '@/components/Header';
+import PageTitle from '@/components/PageTitle';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import Image from 'next/image';
 // import 'swiper/css';
@@ -19,32 +20,32 @@ export default async function Contact() {
       <div className="w-full mx-auto px-0">
         <Header />
         <div className="mt-12">
-          <h1 className="font-primary text-white uppercase leading-none font-bold mb-2 px-8 text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))]">
-            About
-          </h1>
+          <PageTitle pageTitle={'Contact'} />
           <ProjectBlueVert height={`h-8`} />
         </div>
 
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
-            <div className="flex flex-col gap-4 pt-5">
-              <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
-                <Image
-                  // alt={about.title}
-                  src="/images/jefftbyrd.webp"
-                  fill
-                  className="object-cover object-center"
-                  priority
-                />
-              </div>
-            </div>
+            <div className="flex flex-col gap-4 pt-5"></div>
 
             <div className="flex flex-col gap-1">
               <div className="bg-(--color-foreground) px-5 py-3">
-                <div
+                {/* <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
-                />
+                /> */}
+                <ul className="text-6xl flex flex-col gap-10 p-5 text-white italic font-extralight tracking-wide">
+                  <li>
+                    <a href="mailto:jeff.t.byrd@gmail.com" target="_blank">
+                      jeff.t.byrd@gmail.com
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/jefftbyrd" target="_blank">
+                      github.com/jefftbyrd
+                    </a>
+                  </li>
+                </ul>
               </div>
 
               {/* <div className="p-2">

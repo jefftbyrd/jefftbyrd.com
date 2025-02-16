@@ -2,6 +2,7 @@ import ContentGrid from '@/components/ContentGrid';
 import DateFormatter from '@/components/DateFormatter';
 import Header from '@/components/Header';
 import Layout from '@/components/Layout';
+import PageTitle from '@/components/PageTitle';
 import markdownToHtml from '@/lib/markdownToHtml';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
@@ -71,9 +72,7 @@ export default async function Project(params: Params) {
       <div className="w-full mx-auto px-0">
         <Header />
         <div className="mt-12">
-          <h1 className="font-primary text-white uppercase leading-none font-bold mb-2 px-8 text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))]">
-            {project.title}
-          </h1>
+          <PageTitle pageTitle={project.title} />
           {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
             {project.description}
           </div> */}
@@ -95,7 +94,7 @@ export default async function Project(params: Params) {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
+          <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
             <div className="flex flex-col gap-4 pt-5">
               {project.videoUrl ? (
                 <div>

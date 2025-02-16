@@ -1,4 +1,5 @@
 import Header from '@/components/Header';
+import PageTitle from '@/components/PageTitle';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import Image from 'next/image';
 // import 'swiper/css';
@@ -21,10 +22,8 @@ export default async function About() {
       <div className="w-full mx-auto px-0">
         <Header />
         <div className="mt-12">
-          <h1 className="font-primary text-white uppercase leading-none font-bold mb-2 px-8 text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))]">
-            About
-          </h1>
-          <ProjectBlueVert height={`h-8`} />
+          <PageTitle pageTitle={'About'} />
+          {/* <ProjectBlueVert height={`h-8`} /> */}
         </div>
 
         <article className="mb-8">
