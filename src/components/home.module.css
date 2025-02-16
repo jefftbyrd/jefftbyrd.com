@@ -2,7 +2,7 @@
 
 .logo {
   font-family: var(--font-karrik);
-  font-size: calc(24px + (240 - 24) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(24px + (200 - 24) * ((100vw - 300px) / (1600 - 300)));
   /* font-weight: var(--font-weight-normal); */
   /* font-weight: 600; */
   text-transform: uppercase;
@@ -19,7 +19,7 @@
 .subtitle {
   text-transform: uppercase;
   font-family: var(--font-hanken);
-  font-size: calc(16px + (44 - 16) * ((100vw - 300px) / (1600 - 300)));
+  font-size: calc(16px + (43 - 16) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 200;
   text-align: center;
   line-height: 100%;

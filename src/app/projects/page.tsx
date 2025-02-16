@@ -20,12 +20,12 @@ export default async function Projects() {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="mt-12">
+        <div className="mt-12 relative">
           <PageTitle pageTitle={`Projects`} />
           {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
             {project.description}
           </div> */}
-          <ProjectBlueVert height={`h-8`} />
+          {/* <ProjectBlueVert height={`h-16`} /> */}
         </div>
         <div className="px-12">
           {allProjects.length > 0 && (

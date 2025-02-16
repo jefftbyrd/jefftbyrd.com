@@ -71,62 +71,39 @@ export default async function Project(params: Params) {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="mt-12">
+        <div className="mt-12 relative">
           <PageTitle pageTitle={project.title} />
-          {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
-            {project.description}
-          </div> */}
-          <ProjectBlueVert height={`h-4`} />
+          <ProjectBlueVert height={`h-16`} />
+        </div>
 
-          {/* <div className="relative mb-0 sm:mx-0 aspect-16/9">
+        <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
+          {project.bigVideo ? (
+            <div>
+              <iframe
+                className="aspect-16/9 w-full"
+                src={project.videoUrl}
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
+          ) : (
             <Image
-              alt={project.title}
               src={
                 project.bigImage
                   ? // ? `/images/projects/${project.bigImage ?? ''}`
                     `/images/projects/${project?.bigImage ?? ''}`
                   : `${project?.coverImage || ''}`
               }
+              alt={`Cover Image for ${project.title}`}
+              className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
               fill
-              className="object-cover object-center"
               priority
             />
-          </div> */}
-
-          <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
-            {project.bigVideo ? (
-              <div>
-                <iframe
-                  className="aspect-16/9 w-full"
-                  src={project.videoUrl}
-                  title="YouTube video player"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerpolicy="strict-origin-when-cross-origin"
-                  allowfullscreen
-                ></iframe>
-              </div>
-            ) : (
-              <Image
-                src={
-                  project.bigImage
-                    ? // ? `/images/projects/${project.bigImage ?? ''}`
-                      `/images/projects/${project?.bigImage ?? ''}`
-                    : `${project?.coverImage || ''}`
-                }
-                alt={`Cover Image for ${project.title}`}
-                className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
-                // width={0}
-                // height={0}
-                // sizes="(min-width: 768px) 347px, 192px"
-                // priority={priority && id <= 2}
-                fill
-                // className="object-cover object-center"
-                priority
-              />
-            )}
-            ;
-          </div>
+          )}
+          ;
         </div>
 
         <article className="mb-8">
@@ -215,15 +192,6 @@ export default async function Project(params: Params) {
             </div>
           </div>
         </article>
-        {/* <div className="mb-16">
-          {moreProjects.length > 0 && (
-            <ContentGrid
-              title="Other Projects"
-              items={moreProjects}
-              collection="projects"
-            />
-          )}
-        </div> */}
       </div>
     </Layout>
   );
