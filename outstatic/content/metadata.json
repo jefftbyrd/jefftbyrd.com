@@ -1,6 +1,6 @@
 {
-  "commit": "fe9585e797c18feae03f11fcbdb38301b6bfc220",
-  "generated": "2025-02-16T10:35:42.979Z",
+  "commit": "84d573a070f055d9e03a2116d70c43b7d3176a5c",
+  "generated": "2025-02-16T10:36:29.419Z",
   "metadata": [
     {
       "__outstatic": {
@@ -610,37 +610,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7cf75b4595f0c757ab7b47175969b76de84e90e3",
-        "hash": "4207181406",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "white-lies-2.webp",
-      "collection": "projects",
-      "coverImage": "/images/white-lies-square-QyMD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "6aa2efd56aa4ec6bfdb1bee813edcf705a092fdd",
         "hash": "1360947294",
         "path": "outstatic/content/projects/earthsong.md"
@@ -776,6 +745,37 @@
       "slug": "vanishing-pearls",
       "status": "published",
       "title": "Vanishing Pearls",
+      "videoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "84d573a070f055d9e03a2116d70c43b7d3176a5c",
+        "hash": "1431878984",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "white-lies-2.webp",
+      "collection": "projects",
+      "coverImage": "/images/white-lies-square-QyMD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "28",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "status": "published",
+      "title": "White Lies",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
