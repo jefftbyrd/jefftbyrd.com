@@ -1,6 +1,6 @@
 {
-  "commit": "ccff2cdf9a6b7d05000f9cb96c5b1c35c7e5f12a",
-  "generated": "2025-02-16T16:23:09.080Z",
+  "commit": "850476173b65ddea7c482c6cd571dcd1f06c9c7f",
+  "generated": "2025-02-16T16:44:37.997Z",
   "metadata": [
     {
       "__outstatic": {
@@ -315,36 +315,6 @@
       "videoUrl": "",
       "websiteLinkText": "https://healthforallstory.org/",
       "websiteUrl": "https://healthforallstory.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "a34874dba53437ce2ad5a763e52030a13563eba7",
-        "hash": "3202056992",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -788,6 +758,39 @@
       "status": "published",
       "title": "Goodwater, Alabama 1982",
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "850476173b65ddea7c482c6cd571dcd1f06c9c7f",
+        "hash": "3038747174",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
