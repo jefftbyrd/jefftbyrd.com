@@ -1,6 +1,6 @@
 {
-  "commit": "4e88ea32dd43979173eb36cf5af7dfb677819115",
-  "generated": "2025-02-16T18:27:00.868Z",
+  "commit": "f829cdd20cb10286be097a6124228fc646ab1678",
+  "generated": "2025-02-16T18:37:10.870Z",
   "metadata": [
     {
       "__outstatic": {
@@ -214,40 +214,6 @@
       "slug": "are-you-sick",
       "status": "published",
       "title": "Are You Sick?",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "63a87ba65805baafb293acaa80f413996161c8a1",
-        "hash": "3849168095",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/after-the-storm-czMD.webp",
-      "description": "the description",
-      "gitHubUrl": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "status": "published",
-      "title": "After the Storm",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -802,6 +768,43 @@
       "status": "published",
       "title": "The Durrs of Montgomery",
       "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f829cdd20cb10286be097a6124228fc646ab1678",
+        "hash": "2324258776",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "the description",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
