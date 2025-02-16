@@ -14,6 +14,7 @@ websiteUrl: 'https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/'
 additionalImages: ''
 bigImage: 'vector-2.webp'
 websiteLinkText: 'Visit the deployed site'
+projectOrder: '29'
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
