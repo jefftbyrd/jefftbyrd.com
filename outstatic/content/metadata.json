@@ -1,6 +1,6 @@
 {
-  "commit": "ce6cbe738edc7bcd8cd206adf72f39ad503dde19",
-  "generated": "2025-02-16T09:29:15.170Z",
+  "commit": "839e43f9a79e49884c004556d49fd465e900f004",
+  "generated": "2025-02-16T09:30:56.160Z",
   "metadata": [
     {
       "__outstatic": {
@@ -789,8 +789,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ce6cbe738edc7bcd8cd206adf72f39ad503dde19",
-        "hash": "2650683498",
+        "commit": "839e43f9a79e49884c004556d49fd465e900f004",
+        "hash": "6996299",
         "path": "outstatic/content/projects/white-lies.md"
       },
       "additionalImages": "",
@@ -800,7 +800,7 @@
       },
       "bigImage": "white-lies-2.webp",
       "collection": "projects",
-      "coverImage": "/images/white-lies-U2NT.webp",
+      "coverImage": "/images/white-lies-square-QzOT.jpg",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "3",

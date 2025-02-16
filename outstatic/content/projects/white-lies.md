@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'white-lies'
 description: ''
-coverImage: '/images/white-lies-U2NT.webp'
+coverImage: '/images/white-lies-square-QzOT.jpg'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 videoUrl: ''
 gitHubUrl: ''
