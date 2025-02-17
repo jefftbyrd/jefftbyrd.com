@@ -1,0 +1,22 @@
+/* projects.module.scss */
+
+.projectImage {
+}
+
+.projectLink:hover {
+  .projectTitle {
+    opacity: 1;
+  }
+
+  .projectImage {
+    opacity: 0.25;
+    filter: blur(1px);
+  }
+}
+
+.projectTitle {
+  opacity: 0;
+}
+
+.projectTags {
+}

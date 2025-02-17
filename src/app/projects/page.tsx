@@ -6,6 +6,7 @@ import BigMenu from '../../components/BigMenu';
 // import { Swiper, SwiperSlide } from 'swiper/react';
 // import Slider from 'react-slick';
 import BlueVert from '../../components/BlueVert';
+import ContentGrid from '../../components/ContentGrid';
 import styles from '../../components/home.module.css';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
@@ -68,6 +69,7 @@ async function getData() {
       'slug',
       'coverImage',
       'projectOrder',
+      'projectTags',
     ])
     .sort({ projectOrder: -1 })
     .toArray();
