@@ -1,6 +1,6 @@
 {
-  "commit": "2ed463d052b8fad6ce210cb2b51de61672a831c1",
-  "generated": "2025-02-18T09:58:21.467Z",
+  "commit": "3c399e1a44e7e1c436a53bf7d0ad4360e24d8c15",
+  "generated": "2025-02-18T09:58:43.467Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,31 +174,6 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
-    },
-    {
-      "__outstatic": {
-        "commit": "da7c562fa424fa2db00bc8c2e56c5ed25c10fbac",
-        "hash": "2935727333",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": "",
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
-      "status": "published",
-      "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -878,6 +853,47 @@
       "slug": "nighty-night",
       "status": "published",
       "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "3c399e1a44e7e1c436a53bf7d0ad4360e24d8c15",
+        "hash": "714423690",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
       "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",

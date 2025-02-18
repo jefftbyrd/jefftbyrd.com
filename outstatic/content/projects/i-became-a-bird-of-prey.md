@@ -13,7 +13,10 @@ websiteUrl: ''
 additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
-projectTags: ''
+projectTags: [{"value":"design","label":"Design"},{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-01-27T21:45:57.528Z'
 ---
 
