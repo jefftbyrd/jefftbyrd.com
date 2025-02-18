@@ -1,6 +1,6 @@
 {
-  "commit": "c3506fd4a9bfbda4eae371dc23e1b2d009fb159d",
-  "generated": "2025-02-18T09:58:03.960Z",
+  "commit": "2ed463d052b8fad6ce210cb2b51de61672a831c1",
+  "generated": "2025-02-18T09:58:21.467Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,31 +174,6 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
-    },
-    {
-      "__outstatic": {
-        "commit": "52c99540a5ab304975538a2b0ac3d06cd1bc286a",
-        "hash": "696280175",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": "",
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -866,6 +841,43 @@
       "slug": "lamb-alley",
       "status": "published",
       "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "2ed463d052b8fad6ce210cb2b51de61672a831c1",
+        "hash": "846208439",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "status": "published",
+      "title": "Nighty Night",
       "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
