@@ -1,6 +1,6 @@
 {
   "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
-  "generated": "2025-02-18T11:37:53.567Z",
+  "generated": "2025-02-18T11:37:58.577Z",
   "metadata": [
     {
       "__outstatic": {
@@ -864,7 +864,7 @@
     {
       "__outstatic": {
         "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
-        "hash": "789247491",
+        "hash": "35307578",
         "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
@@ -873,7 +873,7 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bigImage": "",
-      "bigVideo": "true",
+      "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/nighty-night-U2OD.webp",
       "description": "",
