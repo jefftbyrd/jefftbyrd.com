@@ -1,6 +1,6 @@
 {
-  "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
-  "generated": "2025-02-18T11:38:17.170Z",
+  "commit": "049cca593ff3479f1acb6c9305de5c52dee41161",
+  "generated": "2025-02-18T12:14:58.110Z",
   "metadata": [
     {
       "__outstatic": {
@@ -863,8 +863,8 @@
     },
     {
       "__outstatic": {
-        "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
-        "hash": "54563597",
+        "commit": "049cca593ff3479f1acb6c9305de5c52dee41161",
+        "hash": "906185432",
         "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
@@ -872,6 +872,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
