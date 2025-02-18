@@ -7,6 +7,16 @@ author:
 slug: 'dad-is-bad'
 description: ''
 coverImage: ''
+projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
+videoUrl: ''
+gitHubUrl: ''
+websiteUrl: ''
+additionalImages: ''
+bigImage: ''
+websiteLinkText: ''
+projectOrder: ''
+vimeoUrl: ''
+bigVideo: ''
 publishedAt: '2025-01-30T13:35:24.711Z'
 ---
 

@@ -1,6 +1,6 @@
 {
-  "commit": "811522b3f8db380d08f5faa63ea9c57905f4c317",
-  "generated": "2025-02-16T19:37:14.296Z",
+  "commit": "e97d68aeae8260c13be1507d079a6ce12b1fff37",
+  "generated": "2025-02-18T09:57:41.413Z",
   "metadata": [
     {
       "__outstatic": {
@@ -174,24 +174,6 @@
       "slug": "weird",
       "status": "published",
       "title": "weird"
-    },
-    {
-      "__outstatic": {
-        "commit": "f98a8ef36b2ef2521fbcd2135922bc868247e535",
-        "hash": "2611621424",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "status": "published",
-      "title": "Dad Is Bad"
     },
     {
       "__outstatic": {
@@ -836,6 +818,43 @@
       "status": "published",
       "title": "So Broken Up About You Dying",
       "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "e97d68aeae8260c13be1507d079a6ce12b1fff37",
+        "hash": "3193479208",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
