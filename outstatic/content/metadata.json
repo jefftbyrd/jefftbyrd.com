@@ -1,6 +1,6 @@
 {
-  "commit": "e9befb6755245de8a6475b2fc6b2da7e19656596",
-  "generated": "Tue, 18 Feb 2025 11:34:59 GMT",
+  "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
+  "generated": "2025-02-18T11:37:53.567Z",
   "metadata": [
     {
       "__outstatic": {
@@ -564,43 +564,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7e157e4d3b51669ef7c84e61c8992a9729e7ae8d",
-        "hash": "846208439",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "11b1e9006bf12a6caf62d077506a979ab8fa3919",
         "hash": "714423690",
         "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
@@ -897,6 +860,43 @@
       "slug": "spark",
       "status": "published",
       "title": "Spark"
+    },
+    {
+      "__outstatic": {
+        "commit": "511b54c02fb87c393ebefc4d1d390c473015e193",
+        "hash": "789247491",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
