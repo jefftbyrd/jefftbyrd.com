@@ -10,6 +10,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
+import BandCampEmbed from '../../../components/BandCampEmbed';
 import ProjectBlueVert from '../../../components/ProjectBlueVert';
 
 // import styles from '../../../styles/project.module.css';
@@ -102,6 +103,18 @@ export default async function Project(params: Params) {
               fill
               priority
             />
+            // <div className="w-full h-full">
+            //   <iframe
+            //     // style="border: 0; width: 100%; height: 120px;"
+            //     className="w-full h-full"
+            //     src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
+            //     seamless
+            //   >
+            //     <a href="https://fortevilfruit.bandcamp.com/album/nighty-night">
+            //       Nighty Night by Jeff T Byrd
+            //     </a>
+            //   </iframe>
+            // </div>
           )}
           ;
         </div>
@@ -109,6 +122,7 @@ export default async function Project(params: Params) {
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
             <div className="flex flex-col gap-4 pt-5">
+              <BandCampEmbed bandcampEmbedUrl={project.bandcampEmbedUrl} />
               {project.videoUrl && !project.bigVideo ? (
                 <div>
                   <iframe
@@ -154,6 +168,26 @@ export default async function Project(params: Params) {
                   className=" text-white text-base my-4"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
+                {/* <div className="w-full h-full">
+                  <iframe
+                    // style="border: 0; width: 100%; height: 120px;"
+                    className="w-full h-[500px]"
+                    src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=true/artwork=small/transparent=true/"
+                    seamless
+                  >
+                    <a href="https://fortevilfruit.bandcamp.com/album/nighty-night">
+                      Nighty Night by Jeff T Byrd
+                    </a>
+                  </iframe>
+                </div> */}
+                {/* <div className="w-full h-full">
+                  <iframe
+                    // style={{ border: '0', width: '350px', height: '654px' }}
+                    className="w-full h-[900px]"
+                    src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/"
+                    seamless
+                  ></iframe>
+                </div> */}
               </div>
               {project.websiteUrl ? (
                 <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out">
@@ -217,6 +251,7 @@ async function getData({ params }: Params) {
       'websiteLinkText',
       'vimeoUrl',
       'bigVideo',
+      'bandcampEmbedUrl',
     ])
     .first();
 

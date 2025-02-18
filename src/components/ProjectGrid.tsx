@@ -46,13 +46,30 @@ const ProjectGrid = ({
                   />
                   {collection === 'projects' && (
                     <h2
-                      className={`${styles.projectTitle} text-white p-2 bg-opacity-0 text-left whitespace-normal font-semibold uppercase tracking-wide text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2`}
+                      // className={`${styles.projectTitle} text-white p-2 bg-opacity-0 text-left whitespace-normal font-semibold uppercase tracking-wide text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2`}
+                      className={`${styles.projectTitle} text-white p-2 bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-4xl uppercase absolute top-2 left-2 -translate-y-0 -translate-x-0 leading-14`}
                     >
                       {item.title}
                     </h2>
                   )}
+                  {collection === 'projects' && (
+                    <div
+                      className={`${styles.projectTags} absolute bottom-2 left-4 translate-y-0 -translate-x-0`}
+                    >
+                      {Array.isArray(item?.projectTags)
+                        ? item.projectTags.map(({ label }) => (
+                            <span
+                              key={label}
+                              className="uppercase inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+                            >
+                              {label}
+                            </span>
+                          ))
+                        : null}
+                    </div>
+                  )}
                 </div>
-                {collection === 'projects' && (
+                {/* {collection === 'projects' && (
                   <div className="p-4">
                     {Array.isArray(item?.projectTags)
                       ? item.projectTags.map(({ label }) => (
@@ -64,15 +81,8 @@ const ProjectGrid = ({
                           </span>
                         ))
                       : null}
-                    {/* <h3 className="text-xl mb-2 leading-snug font-bold hover:underline">
-                      {item.title}
-                    </h3> */}
-                    {/* <div className="text-md mb-4 text-slate-700"></div> */}
-                    {/* <p className="text-lg leading-relaxed mb-4">
-                      {item.description}
-                    </p> */}
                   </div>
-                )}
+                )} */}
               </div>
             </Link>
           ))}

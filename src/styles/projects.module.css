@@ -4,17 +4,19 @@
 }
 
 .projectLink:hover {
-  .projectTitle {
+  .projectTitle,
+  .projectTags {
     opacity: 1;
   }
 
   .projectImage {
     opacity: 0.25;
-    filter: blur(1px);
+    filter: blur(3px);
   }
 }
 
-.projectTitle {
+.projectTitle,
+.projectTags {
   opacity: 0;
 }
 
