@@ -1,6 +1,6 @@
 {
-  "commit": "e97d68aeae8260c13be1507d079a6ce12b1fff37",
-  "generated": "2025-02-18T09:57:41.413Z",
+  "commit": "c3506fd4a9bfbda4eae371dc23e1b2d009fb159d",
+  "generated": "2025-02-18T09:58:03.960Z",
   "metadata": [
     {
       "__outstatic": {
@@ -196,31 +196,6 @@
       "slug": "nighty-night",
       "status": "published",
       "title": "Nighty Night",
-      "videoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "1507b915b483897a89efcca5acddfd5c83e3ba0d",
-        "hash": "2056763112",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectTags": "",
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "status": "published",
-      "title": "Lamb Alley",
       "videoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -854,6 +829,43 @@
       "slug": "dad-is-bad",
       "status": "published",
       "title": "Dad Is Bad",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "c3506fd4a9bfbda4eae371dc23e1b2d009fb159d",
+        "hash": "949147852",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "status": "published",
+      "title": "Lamb Alley",
       "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
