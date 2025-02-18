@@ -121,6 +121,13 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "Big Video"
+    },
+    "bandcampEmbedUrl": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Bandcamp Embed URL"
     }
   }
 }
