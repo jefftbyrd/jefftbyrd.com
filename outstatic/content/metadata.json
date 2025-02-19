@@ -1,6 +1,6 @@
 {
-  "commit": "932d9659838f666a2b07607e02b2a811bc4910f4",
-  "generated": "2025-02-19T15:08:12.786Z",
+  "commit": "76ea3c09d2c5e7d1741a1d7478b173b9ffd3d284",
+  "generated": "2025-02-19T15:08:54.099Z",
   "metadata": [
     {
       "__outstatic": {
@@ -889,9 +889,9 @@
     },
     {
       "__outstatic": {
-        "commit": "932d9659838f666a2b07607e02b2a811bc4910f4",
-        "hash": "4064273267",
-        "path": "outstatic/content/projects/roule-sonner.md"
+        "commit": "76ea3c09d2c5e7d1741a1d7478b173b9ffd3d284",
+        "hash": "505506767",
+        "path": "outstatic/content/projects/rouler-sonner.md"
       },
       "additionalImages": "",
       "author": {
@@ -917,9 +917,9 @@
         }
       ],
       "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "roule-sonner",
+      "slug": "rouler-sonner",
       "status": "published",
-      "title": "Roule Sonner",
+      "title": "Rouler, Sonner",
       "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
