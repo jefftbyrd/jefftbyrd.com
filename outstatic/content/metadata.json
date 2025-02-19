@@ -1,6 +1,6 @@
 {
-  "commit": "f19c16c9a2beb86b752aec8b995eb2f59c3117f5",
-  "generated": "2025-02-19T15:13:54.100Z",
+  "commit": "3761f370b88a29c7c4130ebea31dea9bc3fe3e7c",
+  "generated": "2025-02-19T15:19:22.544Z",
   "metadata": [
     {
       "__outstatic": {
@@ -528,30 +528,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b03aff80f3a4e77f624d035499b75db938f8da1b",
-        "hash": "299345142",
-        "path": "outstatic/content/projects/spark.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:30.697Z",
-      "slug": "spark",
-      "status": "published",
-      "title": "Spark"
-    },
-    {
-      "__outstatic": {
         "commit": "049cca593ff3479f1acb6c9305de5c52dee41161",
         "hash": "906185432",
         "path": "outstatic/content/projects/nighty-night.md"
@@ -923,6 +899,40 @@
       "title": "God Today",
       "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "3761f370b88a29c7c4130ebea31dea9bc3fe3e7c",
+        "hash": "2774295977",
+        "path": "outstatic/content/projects/spark.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/spark-I3MD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "slug": "spark",
+      "status": "published",
+      "title": "Spark",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
