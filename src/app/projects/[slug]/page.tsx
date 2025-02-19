@@ -10,6 +10,7 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
+import AdditionalImages from '../../../components/AdditionalImages';
 import EmbedBandcamp from '../../../components/EmbedBandcamp';
 import EmbedVimeo from '../../../components/EmbedVimeo';
 import EmbedYoutube from '../../../components/EmbedYoutube';
@@ -19,13 +20,18 @@ import ProjectBlueVert from '../../../components/ProjectBlueVert';
 
 type Project = {
   tags: { value: string; label: string }[];
+  additionalImages?: string;
+  websiteUrl?: string;
+  websiteLinkText?: string;
+  gitHubUrl?: string;
 } & OstDocument;
 
 interface Params {
-  params: Promise<{
+  params: {
     slug: string;
-  }>;
+  };
 }
+
 export async function generateMetadata(params: Params): Promise<Metadata> {
   const { project } = await getData(
     /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
@@ -117,14 +123,7 @@ export default async function Project(params: Params) {
               ) : null}
 
               {project.additionalImages ? (
-                <div className="flex flex-col gap-4">
-                  {project.additionalImages.split(',').map((image) => (
-                    <img
-                      key={image}
-                      src={`/images/additional/${image.trim()}`}
-                    />
-                  ))}
-                </div>
+                <AdditionalImages images={project.additionalImages} />
               ) : null}
             </div>
 
@@ -159,10 +158,10 @@ export default async function Project(params: Params) {
                 <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out">
                   <a
                     className="block px-5 py-4 "
-                    href={project.websiteUrl}
+                    href={project.websiteUrl ?? '#'}
                     target="_blank"
                   >
-                    {project.websiteLinkText}
+                    {project.websiteLinkText ?? 'Visit the website'}
                   </a>
                 </div>
               ) : null}
@@ -170,7 +169,7 @@ export default async function Project(params: Params) {
                 <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out ">
                   <a
                     className="block px-5 py-4"
-                    href={project.gitHubUrl}
+                    href={project.gitHubUrl ?? '#'}
                     target="_blank"
                   >
                     Visit on Github

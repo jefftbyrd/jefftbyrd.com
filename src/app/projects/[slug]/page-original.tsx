@@ -15,9 +15,9 @@ type Project = {
 } & OstDocument;
 
 interface Params {
-  params: Promise<{
+  params: {
     slug: string;
-  }>;
+  };
 }
 export async function generateMetadata(params: Params): Promise<Metadata> {
   const { project } = await getData(

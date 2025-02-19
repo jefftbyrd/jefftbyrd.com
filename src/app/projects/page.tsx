@@ -15,7 +15,8 @@ import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
 export default async function Projects() {
-  const { content, allPosts, allProjects } = await getData();
+  // const { content, allPosts, allProjects } = await getData();
+  const { content, allProjects } = await getData();
 
   return (
     <Layout>
