@@ -24,6 +24,9 @@ type Project = {
   websiteUrl?: string;
   websiteLinkText?: string;
   gitHubUrl?: string;
+  bigVideo?: boolean;
+  videoUrl?: string;
+  vimeoUrl?: string;
 } & OstDocument;
 
 interface Params {
@@ -86,9 +89,16 @@ export default async function Project(params: Params) {
         </div>
 
         <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
-          {project.bigVideo ? (
+          {project.bigVideo && project.videoUrl ? (
             <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
-          ) : (
+          ) : null}
+          {project.bigVideo && project.vimeoUrl ? (
+            <EmbedVimeo
+              vimeoEmbedUrl={project.vimeoUrl}
+              title={project.title}
+            />
+          ) : null}
+          {!project.bigVideo ? (
             <Image
               src={
                 project.bigImage
@@ -101,8 +111,7 @@ export default async function Project(params: Params) {
               fill
               priority
             />
-          )}
-          ;
+          ) : null}
         </div>
 
         <article className="mb-8">
@@ -115,7 +124,7 @@ export default async function Project(params: Params) {
                 <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
               ) : null}
 
-              {project.vimeoUrl ? (
+              {project.vimeoUrl && !project.bigVideo ? (
                 <EmbedVimeo
                   vimeoEmbedUrl={project.vimeoUrl}
                   title={project.title}
