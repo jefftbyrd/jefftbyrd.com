@@ -1,6 +1,6 @@
 {
-  "commit": "311818b4474dceee74ce6f13cf8a2b619a01d772",
-  "generated": "2025-02-19T11:28:16.836Z",
+  "commit": "1981fd0f02d49d3fd97771129519e44938c3513f",
+  "generated": "2025-02-19T11:29:54.451Z",
   "metadata": [
     {
       "__outstatic": {
@@ -563,43 +563,6 @@
     },
     {
       "__outstatic": {
-        "commit": "23701cb8873ffb2bd49de35dde0dd2550355646d",
-        "hash": "3475930078",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "sbuayd-wide.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "7562fcf733a17de0fbfda023604f9a63344d1f2d",
         "hash": "949147852",
         "path": "outstatic/content/projects/lamb-alley.md"
@@ -897,6 +860,44 @@
       "status": "published",
       "title": "Are You Sick?",
       "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "1981fd0f02d49d3fd97771129519e44938c3513f",
+        "hash": "714553239",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
