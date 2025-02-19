@@ -31,7 +31,7 @@ export default async function About() {
             <div className="flex flex-col gap-4 pt-5">
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image
-                  // alt={about.title}
+                  alt="Jeff T Byrd"
                   src="/images/jefftbyrd-3.webp"
                   fill
                   className="object-cover object-center"
