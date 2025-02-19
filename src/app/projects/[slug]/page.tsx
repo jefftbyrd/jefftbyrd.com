@@ -10,7 +10,9 @@ import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
-import BandCampEmbed from '../../../components/BandCampEmbed';
+import EmbedBandcamp from '../../../components/EmbedBandcamp';
+import EmbedVimeo from '../../../components/EmbedVimeo';
+import EmbedYoutube from '../../../components/EmbedYoutube';
 import ProjectBlueVert from '../../../components/ProjectBlueVert';
 
 // import styles from '../../../styles/project.module.css';
@@ -79,17 +81,7 @@ export default async function Project(params: Params) {
 
         <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
           {project.bigVideo ? (
-            <div>
-              <iframe
-                className="aspect-16/9 w-full"
-                src={project.videoUrl}
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen
-              ></iframe>
-            </div>
+            <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
           ) : (
             <Image
               src={
@@ -103,18 +95,6 @@ export default async function Project(params: Params) {
               fill
               priority
             />
-            // <div className="w-full h-full">
-            //   <iframe
-            //     // style="border: 0; width: 100%; height: 120px;"
-            //     className="w-full h-full"
-            //     src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/"
-            //     seamless
-            //   >
-            //     <a href="https://fortevilfruit.bandcamp.com/album/nighty-night">
-            //       Nighty Night by Jeff T Byrd
-            //     </a>
-            //   </iframe>
-            // </div>
           )}
           ;
         </div>
@@ -122,33 +102,19 @@ export default async function Project(params: Params) {
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
             <div className="flex flex-col gap-4 pt-5">
-              <BandCampEmbed bandcampEmbedUrl={project.bandcampEmbedUrl} />
+              {project.bandcampEmbedUrl ? (
+                <EmbedBandcamp bandcampEmbedUrl={project.bandcampEmbedUrl} />
+              ) : null}
               {project.videoUrl && !project.bigVideo ? (
-                <div>
-                  <iframe
-                    className="aspect-16/9 w-full"
-                    src={project.videoUrl}
-                    title="YouTube video player"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin"
-                    allowfullscreen
-                  ></iframe>
-                </div>
+                <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
               ) : null}
 
               {project.vimeoUrl ? (
-                <div>
-                  <iframe
-                    src={project.vimeoUrl}
-                    frameborder="0"
-                    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
-                    title="Alouette // Opening Titles"
-                    className="aspect-16/9 w-full"
-                  ></iframe>
-                </div>
-              ) : // <script src="https://player.vimeo.com/api/player.js"></script>
-              null}
+                <EmbedVimeo
+                  vimeoEmbedUrl={project.vimeoUrl}
+                  title={project.title}
+                />
+              ) : null}
 
               {project.additionalImages ? (
                 <div className="flex flex-col gap-4">

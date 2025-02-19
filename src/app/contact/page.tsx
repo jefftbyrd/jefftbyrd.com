@@ -26,7 +26,28 @@ export default async function Contact() {
 
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
-            <div className="flex flex-col gap-4 pt-5"></div>
+            <div className="flex flex-col gap-4 pt-5">
+              <ul className="text-8xl flex flex-col gap-10 p-5 text-white italic font-light tracking-wide absolute">
+                <li className="">
+                  <a
+                    href="mailto:jeff.t.byrd@gmail.com"
+                    className="block px-8 py-10 bg-(--color-foreground)"
+                    target="_blank"
+                  >
+                    jeff.t.byrd@gmail.com
+                  </a>
+                </li>
+                <li classname="bg-(--color-foreground)">
+                  <a
+                    href="https://github.com/jefftbyrd"
+                    className="block px-8 py-10 bg-(--color-foreground)"
+                    target="_blank"
+                  >
+                    github.com/jefftbyrd
+                  </a>
+                </li>
+              </ul>
+            </div>
 
             <div className="flex flex-col gap-1">
               <div className="bg-(--color-foreground) px-5 py-3">
@@ -34,18 +55,6 @@ export default async function Contact() {
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
                 /> */}
-                <ul className="text-6xl flex flex-col gap-10 p-5 text-white italic font-extralight tracking-wide">
-                  <li>
-                    <a href="mailto:jeff.t.byrd@gmail.com" target="_blank">
-                      jeff.t.byrd@gmail.com
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://github.com/jefftbyrd" target="_blank">
-                      github.com/jefftbyrd
-                    </a>
-                  </li>
-                </ul>
               </div>
 
               {/* <div className="p-2">

@@ -1,4 +1,4 @@
-export default function BandCampEmbed(props) {
+export default function EmbedBandcamp(props) {
   return (
     <div className="w-full h-full m-0 p-0">
       <iframe
