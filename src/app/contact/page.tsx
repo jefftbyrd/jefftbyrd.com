@@ -37,7 +37,7 @@ export default async function Contact() {
                     jeff.t.byrd@gmail.com
                   </a>
                 </li>
-                <li classname="bg-(--color-foreground)">
+                <li className="bg-(--color-foreground)">
                   <a
                     href="https://github.com/jefftbyrd"
                     className="block px-8 py-10 bg-(--color-foreground)"
