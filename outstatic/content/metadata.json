@@ -1,6 +1,6 @@
 {
   "commit": "1c672710397866af994bb668d70da71269899cad",
-  "generated": "2025-02-19T11:34:16.064Z",
+  "generated": "2025-02-19T11:35:12.594Z",
   "metadata": [
     {
       "__outstatic": {
@@ -869,7 +869,7 @@
     {
       "__outstatic": {
         "commit": "1c672710397866af994bb668d70da71269899cad",
-        "hash": "3610524005",
+        "hash": "2203120765",
         "path": "outstatic/content/projects/dad-is-bad.md"
       },
       "additionalImages": "",
@@ -877,7 +877,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
