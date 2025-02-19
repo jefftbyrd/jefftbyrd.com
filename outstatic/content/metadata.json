@@ -1,6 +1,6 @@
 {
-  "commit": "40a5deebeb9b5c609acd569a28912c3ff264c1d3",
-  "generated": "2025-02-19T11:37:56.263Z",
+  "commit": "3a8e1b1406e37c5b40cd4a7d10dc02eb681e1dc1",
+  "generated": "2025-02-19T14:39:50.260Z",
   "metadata": [
     {
       "__outstatic": {
@@ -589,34 +589,6 @@
     },
     {
       "__outstatic": {
-        "commit": "afd54c16ce01b2a79ddfc8dafe410674d81a3840",
-        "hash": "3281383628",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "slug": "texas",
-      "status": "published",
-      "title": "Texas"
-    },
-    {
-      "__outstatic": {
         "commit": "b03aff80f3a4e77f624d035499b75db938f8da1b",
         "hash": "299345142",
         "path": "outstatic/content/projects/spark.md"
@@ -902,6 +874,44 @@
       "title": "Are You Sick?",
       "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
       "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "3a8e1b1406e37c5b40cd4a7d10dc02eb681e1dc1",
+        "hash": "2831151875",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/texas-U1Nz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "slug": "texas",
+      "status": "published",
+      "title": "Texas",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
