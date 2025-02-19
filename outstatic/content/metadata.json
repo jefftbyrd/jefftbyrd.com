@@ -1,6 +1,6 @@
 {
-  "commit": "049cca593ff3479f1acb6c9305de5c52dee41161",
-  "generated": "2025-02-18T12:14:58.110Z",
+  "commit": "cd597e78c899d0188b95a97bfdd43152385b32b1",
+  "generated": "2025-02-19T11:25:33.498Z",
   "metadata": [
     {
       "__outstatic": {
@@ -207,43 +207,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "8f4e850ad88f30fa872913f4c0ce57f94106cbca",
-        "hash": "3193479208",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -894,6 +857,44 @@
       "slug": "nighty-night",
       "status": "published",
       "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "cd597e78c899d0188b95a97bfdd43152385b32b1",
+        "hash": "1925865844",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "status": "published",
+      "title": "Dad Is Bad",
       "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
