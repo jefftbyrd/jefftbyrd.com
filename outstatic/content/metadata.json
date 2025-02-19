@@ -1,6 +1,6 @@
 {
-  "commit": "1981fd0f02d49d3fd97771129519e44938c3513f",
-  "generated": "2025-02-19T11:29:54.451Z",
+  "commit": "8f4723902e795afc651bc28cff0ca3434f3d91d2",
+  "generated": "2025-02-19T11:31:30.785Z",
   "metadata": [
     {
       "__outstatic": {
@@ -494,47 +494,6 @@
     },
     {
       "__outstatic": {
-        "commit": "11b1e9006bf12a6caf62d077506a979ab8fa3919",
-        "hash": "714423690",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
-      "status": "published",
-      "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "78e9af00e3c00b68dbba1649da30d244271b20d8",
         "hash": "3161988674",
         "path": "outstatic/content/projects/roule-sonner.md"
@@ -898,6 +857,48 @@
       "status": "published",
       "title": "So Broken Up About You Dying",
       "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "8f4723902e795afc651bc28cff0ca3434f3d91d2",
+        "hash": "294409804",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
+      "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
