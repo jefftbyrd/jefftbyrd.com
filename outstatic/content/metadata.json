@@ -1,6 +1,6 @@
 {
-  "commit": "970bb15fc89ffe8ae308e23b72998c2f569a2a67",
-  "generated": "2025-02-19T15:02:27.812Z",
+  "commit": "932d9659838f666a2b07607e02b2a811bc4910f4",
+  "generated": "2025-02-19T15:08:12.786Z",
   "metadata": [
     {
       "__outstatic": {
@@ -457,34 +457,6 @@
     },
     {
       "__outstatic": {
-        "commit": "78e9af00e3c00b68dbba1649da30d244271b20d8",
-        "hash": "3161988674",
-        "path": "outstatic/content/projects/roule-sonner.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/rouler-sonner-IwNj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": "",
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "roule-sonner",
-      "status": "published",
-      "title": "Roule Sonner",
-      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "31cc6f9566c3062c929bfdf6ca5f2db3f8ed9149",
         "hash": "1431878984",
         "path": "outstatic/content/projects/white-lies.md"
@@ -912,6 +884,44 @@
       "title": "Texas",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "932d9659838f666a2b07607e02b2a811bc4910f4",
+        "hash": "4064273267",
+        "path": "outstatic/content/projects/roule-sonner.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/rouler-sonner-IwNj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "slug": "roule-sonner",
+      "status": "published",
+      "title": "Roule Sonner",
+      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
