@@ -1,6 +1,6 @@
 {
-  "commit": "5b1e2ffa59dbd0b9afb9435dcb08349bea9dd689",
-  "generated": "2025-02-19T15:01:27.807Z",
+  "commit": "970bb15fc89ffe8ae308e23b72998c2f569a2a67",
+  "generated": "2025-02-19T15:02:27.812Z",
   "metadata": [
     {
       "__outstatic": {
@@ -879,8 +879,8 @@
     },
     {
       "__outstatic": {
-        "commit": "5b1e2ffa59dbd0b9afb9435dcb08349bea9dd689",
-        "hash": "2831151875",
+        "commit": "970bb15fc89ffe8ae308e23b72998c2f569a2a67",
+        "hash": "4196004150",
         "path": "outstatic/content/projects/texas.md"
       },
       "additionalImages": "",
@@ -892,7 +892,7 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/texas-U1Nz.webp",
+      "coverImage": "/images/texas-Y0OD.webp",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "",
