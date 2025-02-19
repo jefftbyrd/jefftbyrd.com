@@ -1,6 +1,6 @@
 {
-  "commit": "76ea3c09d2c5e7d1741a1d7478b173b9ffd3d284",
-  "generated": "2025-02-19T15:08:54.099Z",
+  "commit": "f19c16c9a2beb86b752aec8b995eb2f59c3117f5",
+  "generated": "2025-02-19T15:13:54.100Z",
   "metadata": [
     {
       "__outstatic": {
@@ -306,39 +306,6 @@
       "status": "published",
       "title": "After the Storm",
       "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "507065a8109b29657a2c6b7cf94a634389845e0a",
-        "hash": "3038747174",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -922,6 +889,40 @@
       "title": "Rouler, Sonner",
       "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f19c16c9a2beb86b752aec8b995eb2f59c3117f5",
+        "hash": "313015154",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
