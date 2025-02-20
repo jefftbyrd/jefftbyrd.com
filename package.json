@@ -8,9 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@tailwindcss/postcss": "^4.0.0",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
+    "gsap": "^3.12.7",
+    "motion": "^12.4.6",
     "next": "^14.2.23",
     "outstatic": "latest",
     "react": "^18.3.1",
