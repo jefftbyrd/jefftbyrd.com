@@ -32,9 +32,9 @@ const ProjectGrid = ({
           {items.map((item, id) => (
             <Link key={item.slug} href={`/${collection}/${item.slug}`}>
               <div
-                className={`${styles.projectLink} cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition duration-100 motion-reduce:hover:scale-100 overflow-hidden shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
+                className={`${styles.projectLink} cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
               >
-                <div className="sm:mx-0 bg-(--color-foreground)">
+                <div className={styles.gridItem}>
                   <Image
                     src={item.coverImage ?? ''}
                     alt={`Cover Image for ${item.title}`}

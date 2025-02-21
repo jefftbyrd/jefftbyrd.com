@@ -1,0 +1,23 @@
+@keyframes random {
+  15% {
+    opacity: 1;
+  }
+  30% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 0.9;
+  }
+  60% {
+    opacity: 0.5;
+    filter: invert(0.1);
+  }
+  75% {
+    opacity: 0.9;
+  }
+}
+
+.flick {
+  -webkit-animation: random 5s infinite;
+  animation: random 0.1s infinite;
+}

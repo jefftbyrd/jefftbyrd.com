@@ -1,1 +1,42 @@
 /* bigmenu.module.scss */
+
+/* @keyframes random {
+  15% {
+    color: red;
+  }
+  30% {
+    color: yellow;
+  }
+  45% {
+    color: green;
+  }
+  60% {
+    color: blue;
+  }
+  75% {
+    color: white;
+  }
+} */
+
+@keyframes random {
+  15% {
+    color: oklch(45.79% 0.271 271.41);
+  }
+  30% {
+    color: oklch(55.57% 0.2241 329.7);
+  }
+  45% {
+    color: oklch(45.79% 0.271 271.41);
+  }
+  60% {
+    color: oklch(45.79% 0.271 271.41);
+  }
+  75% {
+    color: oklch(55.57% 0.2241 329.7);
+  }
+}
+
+.menuItem {
+  -webkit-animation: random 5s infinite;
+  animation: random 0.001s infinite;
+}
