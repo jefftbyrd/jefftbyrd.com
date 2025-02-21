@@ -1,6 +1,7 @@
 import { load } from 'outstatic/server';
 import BigMenu from '../components/BigMenu';
 import BlueVert from '../components/BlueVert';
+import HeaderNew from '../components/HeaderNew';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import SimpleSlider from '../components/SimpleSlider';
@@ -14,15 +15,13 @@ export default async function Index() {
     <Layout>
       <BlueVert height={`h-14`} />
       <div className="max-w-none mx-auto px-0">
-        <section className="mt-16 mb-16 md:mb-12">
-          <Logo />
-          <h2 className={styles.subtitle}>
-            Web developer, composer & sound designer
-          </h2>
-        </section>
+        <HeaderNew />
         <BlueVert height={`h-8`} />
         <SimpleSlider />
         <BlueVert height={`h-14`} />
+        <BigMenu />
+        <BigMenu />
+        <BigMenu />
         <BigMenu />
       </div>
     </Layout>

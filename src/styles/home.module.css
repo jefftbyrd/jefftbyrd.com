@@ -9,7 +9,24 @@
   text-align: center;
   color: #070707;
   line-height: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  transform: scale min(10vw, 100px) !important;
 }
+
+.jtbHeader {
+  position: relative;
+}
+
+/* .logo-original {
+  font-family: var(--font-karrik);
+  font-size: calc(24px + (200 - 24) * ((100vw - 300px) / (1600 - 300)));
+  text-transform: uppercase;
+  text-align: center;
+  color: #070707;
+  line-height: 100%;
+} */
 
 .bump {
   position: relative;
