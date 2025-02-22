@@ -1,6 +1,6 @@
 {
-  "commit": "e2e0a9f8a3e7a25ae9fdcee629274a58801a0929",
-  "generated": "2025-02-22T11:47:55.009Z",
+  "commit": "a06a38db1c430c8b0831fcd57d346b4c96418405",
+  "generated": "2025-02-22T11:52:05.286Z",
   "metadata": [
     {
       "__outstatic": {
@@ -766,40 +766,6 @@
     },
     {
       "__outstatic": {
-        "commit": "752efb2625d76c3d9f4078aaeb823bfb9f8b22ab",
-        "hash": "4106279560",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "white-lies-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/white-lies-square-QyMD.jpg",
-      "description": "Documentary podcast series from National Public Radio (NPR)",
-      "gitHubUrl": "",
-      "projectOrder": "28",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "White Lies at NPR",
-      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
-    },
-    {
-      "__outstatic": {
         "commit": "171f0baa9b1f4b6735120ebb7fe814737ab3f334",
         "hash": "2829898521",
         "path": "outstatic/content/projects/texas.md"
@@ -949,6 +915,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "a06a38db1c430c8b0831fcd57d346b4c96418405",
+        "hash": "3389202427",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "white-lies-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/white-lies-square-QyMD.jpg",
+      "description": "Documentary podcast series from National Public Radio (NPR)",
+      "gitHubUrl": "",
+      "projectOrder": "28",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "spotifyEmbed": "",
+      "status": "published",
+      "title": "White Lies",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "White Lies at NPR",
+      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
     }
   ]
 }

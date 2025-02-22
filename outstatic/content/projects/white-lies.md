@@ -18,6 +18,7 @@ projectOrder: '28'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
+spotifyEmbed: ''
 publishedAt: '2025-01-27T21:47:20.921Z'
 ---
 
