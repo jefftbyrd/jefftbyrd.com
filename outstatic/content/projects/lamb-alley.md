@@ -12,7 +12,7 @@ gitHubUrl: ''
 websiteUrl: 'https://tombedvisionsrecords.bandcamp.com/album/lamb-alley'
 additionalImages: ''
 bigImage: ''
-websiteLinkText: 'Lamb Alley on Tombed Visions Bandcamp'
+websiteLinkText: 'Lamb Alley on Bandcamp'
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 projectOrder: ''
 vimeoUrl: ''

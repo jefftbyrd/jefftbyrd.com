@@ -1,6 +1,6 @@
 {
-  "commit": "eb359b710c181b89bc2c6f16254dd0a47e62d956",
-  "generated": "2025-02-22T12:15:26.179Z",
+  "commit": "fe8318964c427df7df4379b9265d4b93938a3cb8",
+  "generated": "2025-02-22T12:16:07.416Z",
   "metadata": [
     {
       "__outstatic": {
@@ -917,8 +917,8 @@
     },
     {
       "__outstatic": {
-        "commit": "eb359b710c181b89bc2c6f16254dd0a47e62d956",
-        "hash": "2213016955",
+        "commit": "fe8318964c427df7df4379b9265d4b93938a3cb8",
+        "hash": "3345264461",
         "path": "outstatic/content/projects/lamb-alley.md"
       },
       "additionalImages": "",
@@ -951,7 +951,7 @@
       "title": "Lamb Alley",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Tombed Visions Bandcamp",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
       "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     }
   ]
