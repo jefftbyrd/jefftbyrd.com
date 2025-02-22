@@ -1,4 +1,5 @@
 ---
+bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
 projectOrder: '10'
@@ -10,7 +11,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr'
 projectTags: [{"label":"Soundtrack","value":"soundtrack"}]
 coverImage: '/images/a-call-from-selma-E5OT.webp'
-description: ''
+description: 'New York Times Op-Doc'
 slug: 'a-call-from-selma'
 author:
   name: 'Jeff T Byrd'
