@@ -13,15 +13,12 @@ websiteUrl: 'https://tombedvisionsrecords.bandcamp.com/album/lamb-alley'
 additionalImages: ''
 bigImage: ''
 websiteLinkText: 'Lamb Alley on Tombed Visions Bandcamp'
-projectTags:
-  [
-    { 'value': 'album', 'label': 'Album' },
-    { 'value': 'music', 'label': 'Music' },
-  ]
+projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 projectOrder: ''
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-30T13:35:08.463Z'
 ---
 

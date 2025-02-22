@@ -1,6 +1,6 @@
 {
-  "commit": "003171d30add560a06fa630176fb33c931d5a778",
-  "generated": "2025-02-22T12:06:55.444Z",
+  "commit": "eb359b710c181b89bc2c6f16254dd0a47e62d956",
+  "generated": "2025-02-22T12:15:26.179Z",
   "metadata": [
     {
       "__outstatic": {
@@ -390,44 +390,6 @@
       "slug": "i-became-a-bird-of-prey",
       "status": "published",
       "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "f4410c28b3c2a4acf118b35eee65717fd2b26c89",
-        "hash": "4022698132",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "status": "published",
-      "title": "Lamb Alley",
       "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
@@ -952,6 +914,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "eb359b710c181b89bc2c6f16254dd0a47e62d956",
+        "hash": "2213016955",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo music album",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Tombed Visions Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     }
   ]
 }
