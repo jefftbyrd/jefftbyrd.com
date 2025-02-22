@@ -7,7 +7,7 @@ author:
 slug: 'spark'
 description: ''
 coverImage: '/images/spark-I3MD.webp'
-projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectTags: [{ 'value': 'soundtrack', 'label': 'Soundtrack' }]
 videoUrl: ''
 gitHubUrl: ''
 websiteUrl: ''
@@ -21,4 +21,5 @@ bandcampEmbedUrl: ''
 publishedAt: '2025-01-27T21:48:30.697Z'
 ---
 
-Video by Helios Design Labs. Music and sound design by Jeff T Byrd.
+Video by Helios Design Labs\
+Music and sound design by Jeff T Byrd
