@@ -21,4 +21,4 @@ bandcampEmbedUrl: ''
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 
-After the Storm is an interactive documentary essay about the experience of living through a natural disaster
+*After the Storm* is an interactive documentary that tells the first-person story of what happens in the wake of a devastating tornado that ripped through central Alabama in 2011. Written as a letter to future disaster survivors, it’s a universal story of survival, healing, and resilience.
