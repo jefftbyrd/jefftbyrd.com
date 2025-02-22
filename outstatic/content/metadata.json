@@ -1,6 +1,6 @@
 {
-  "commit": "0baa0a568f7ca63da3d9dd8bffc4776fd6e37275",
-  "generated": "2025-02-22T10:27:56.096Z",
+  "commit": "692987c80a434e5c2936ea09ff7d7bdbf5c6c899",
+  "generated": "2025-02-22T10:41:29.496Z",
   "metadata": [
     {
       "__outstatic": {
@@ -908,8 +908,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0baa0a568f7ca63da3d9dd8bffc4776fd6e37275",
-        "hash": "2110516964",
+        "commit": "692987c80a434e5c2936ea09ff7d7bdbf5c6c899",
+        "hash": "2315045131",
         "path": "outstatic/content/projects/a-call-from-selma.md"
       },
       "additionalImages": "",
@@ -937,8 +937,8 @@
       "title": "A Call From Selma",
       "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Visit at the New York Times",
+      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
     }
   ]
 }

@@ -3,10 +3,10 @@ bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
 projectOrder: '10'
-websiteLinkText: ''
+websiteLinkText: 'Visit at the New York Times'
 bigImage: ''
 additionalImages: ''
-websiteUrl: ''
+websiteUrl: 'https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr'
 projectTags: [{"label":"Soundtrack","value":"soundtrack"}]
@@ -21,4 +21,4 @@ title: 'A Call From Selma'
 publishedAt: '2025-01-30T13:33:27.323Z'
 ---
 
-content
+This short documentary explores how the murder of a white minister in Selma, Ala., helped catalyze the civil rights movement. When many of us think about the civil rights movement, we remember the courage of the black protesters who risked their lives and livelihoods to push for equal rights.
