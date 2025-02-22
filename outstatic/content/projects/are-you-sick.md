@@ -16,8 +16,9 @@ websiteLinkText: ''
 projectTags: [{"value":"album","label":"Album"}]
 projectOrder: ''
 vimeoUrl: ''
-bigVideo: ''
+bigVideo: 'true'
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-30T13:36:26.211Z'
 ---
 
