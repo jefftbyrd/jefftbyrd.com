@@ -1,6 +1,6 @@
 {
-  "commit": "171f0baa9b1f4b6735120ebb7fe814737ab3f334",
-  "generated": "2025-02-22T10:47:40.034Z",
+  "commit": "5da4a64ec5152ed5cc04c2f0467d87d1baa6230d",
+  "generated": "2025-02-22T10:51:16.594Z",
   "metadata": [
     {
       "__outstatic": {
@@ -204,43 +204,6 @@
       "status": "published",
       "title": "The Durrs of Montgomery",
       "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "490ba3123953b016768a42b6a48efb28c288c557",
-        "hash": "2324258776",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "after-the-storm.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "the description",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "status": "published",
-      "title": "After the Storm",
-      "videoUrl": "",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -948,6 +911,44 @@
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "5da4a64ec5152ed5cc04c2f0467d87d1baa6230d",
+        "hash": "1286595813",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "Interactive documentary",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://whatcomesafter.org/"
     }
   ]
 }
