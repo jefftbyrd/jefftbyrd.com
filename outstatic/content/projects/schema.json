@@ -128,13 +128,6 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Bandcamp Embed URL"
-    },
-    "spotifyEmbed": {
-      "required": false,
-      "description": "",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Spotify Embed"
     }
   }
 }
