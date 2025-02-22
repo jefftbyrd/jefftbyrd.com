@@ -71,6 +71,7 @@ async function getData() {
       'coverImage',
       'projectOrder',
       'projectTags',
+      'description',
     ])
     .sort({ projectOrder: -1 })
     .toArray();

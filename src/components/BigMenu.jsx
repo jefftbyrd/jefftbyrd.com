@@ -19,11 +19,11 @@ export function BigItem(props) {
   return (
     <motion.li
       // className="bg-(--color-foreground) px-4 hover:bg-white hover:text-(--color-foreground) shadow-[6px_0px_0_var(--color-background),12px_0px_0_var(--color-foreground)]"
-      className={`bg-(--color-foreground) px-4 hover:text-white hover:shadow-[6px_0px_0_var(--color-background),12px_0px_0_var(--color-foreground)] hover:-translate-x-2 hover:w-screen hover:origin-left ${styles.menuItem}`}
+      className={`bg-(--color-foreground) px-4 hover:text-white hover:shadow-[6px_0px_0_var(--color-background),12px_0px_0_var(--color-foreground)] hover:-translate-x-2 hover:origin-left ${styles.menuItem}`}
       initial={{ translateX: 1000 }}
       whileInView={{ translateX: 0 }}
     >
-      <Link href="/projects">{props.title}</Link>
+      <Link href={`/${props.title.toLowerCase()}`}>{props.title}</Link>
     </motion.li>
   );
 }
@@ -55,7 +55,7 @@ export default function BigMenu(props) {
     //   </ul>
     // </nav>
     <nav>
-      <ul className="text-(--color-background) uppercase text-8xl font-semibold w-lg justify-self-center flex flex-col gap-2 py-2">
+      <ul className="uppercase text-8xl font-medium w-lg justify-self-center flex flex-col gap-2 py-2 tracking-wide">
         {/* <motion.li
           className="bg-(--color-foreground) px-4 hover:bg-white hover:text-(--color-foreground) shadow-2xl"
           initial={{ translateX: 1000 }}

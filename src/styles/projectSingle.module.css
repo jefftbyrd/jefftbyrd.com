@@ -7,3 +7,17 @@
   text-transform: uppercase;
   font-size: calc(24px + (240 - 24) * ((100vw - 300px) / (1600 - 300)));
 }
+
+.bigLink {
+  /* color: oklch(73.23% 0.3046 331.14); */
+  color: var(--color-foreground);
+  /* border: 4px solid oklch(73.23% 0.3046 331.14); */
+  border: 6px solid var(--color-foreground);
+  /* border: 4px solid white; */
+  /* background-color: var(--color-background); */
+  /* background-color: white; */
+  background-color: oklch(73.23% 0.3046 331.14);
+  /* color: oklch(55.57% 0.2241 329.7); */
+  /* color: white; */
+  /* text-shadow: oklch(73.23% 0.3046 331.14) 2px 0px; */
+}

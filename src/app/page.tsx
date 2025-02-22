@@ -5,6 +5,7 @@ import HeaderNew from '../components/HeaderNew';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import SimpleSlider from '../components/SimpleSlider';
+import WhiteVert from '../components/WhiteVert';
 import markdownToHtml from '../lib/markdownToHtml';
 import styles from '../styles/home.module.css';
 
@@ -33,7 +34,10 @@ export default async function Index() {
         <SimpleSlider />
         <BlueVert height={`h-8`} />
         <BigMenu />
-        <BlueVert height={`h-8`} />
+        <h2 className="text-8xl text-center font-semibold text-(--color-foreground) ">
+          This is some funny text.
+        </h2>
+        <BlueVert height={`h-48`} />
         {/* <div className="px-12">
           {allPosts.length > 0 && (
             <ContentGrid

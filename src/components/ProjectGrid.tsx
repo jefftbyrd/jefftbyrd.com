@@ -45,22 +45,28 @@ const ProjectGrid = ({
                     priority={priority && id <= 2}
                   />
                   {collection === 'projects' && (
-                    <h2
-                      // className={`${styles.projectTitle} text-white p-2 bg-opacity-0 text-left whitespace-normal font-semibold uppercase tracking-wide text-3xl absolute top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2`}
-                      className={`${styles.projectTitle} text-white p-2 bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-4xl uppercase absolute top-2 left-2 -translate-y-0 -translate-x-0 leading-14`}
-                    >
-                      {item.title}
-                    </h2>
+                    <div className="text-white absolute top-2 left-2 -translate-y-0 -translate-x-0">
+                      <h2
+                        className={`${styles.projectTitle} p-2 bg-opacity-0 text-left whitespace-normal font-bold tracking-wide text-4xl uppercase  leading-12`}
+                      >
+                        {item.title}
+                      </h2>
+                      <h3
+                        className={`${styles.projectDescription} pl-2 pr-6 bg-opacity-0 text-left whitespace-normal font-medium tracking-normal text-md`}
+                      >
+                        {item.description}
+                      </h3>
+                    </div>
                   )}
                   {collection === 'projects' && (
                     <div
-                      className={`${styles.projectTags} absolute bottom-2 left-4 translate-y-0 -translate-x-0`}
+                      className={`${styles.projectTags} absolute bottom-3 left-4 translate-y-0 -translate-x-0`}
                     >
                       {Array.isArray(item?.projectTags)
                         ? item.projectTags.map(({ label }) => (
                             <span
                               key={label}
-                              className="uppercase inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+                              className="uppercase inline-block bg-white rounded-full px-3 py-1 text-md font-semibold text-((gray-700) mr-2 mb-2)"
                             >
                               {label}
                             </span>

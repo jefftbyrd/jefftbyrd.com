@@ -5,7 +5,8 @@
 
 .projectLink:hover {
   .projectTitle,
-  .projectTags {
+  .projectTags,
+  .projectDescription {
     opacity: 1;
   }
 
@@ -19,7 +20,8 @@
 }
 
 .projectTitle,
-.projectTags {
+.projectTags,
+.projectDescription {
   opacity: 0;
 }
 

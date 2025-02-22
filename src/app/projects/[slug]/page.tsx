@@ -12,11 +12,11 @@ import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
 import AdditionalImages from '../../../components/AdditionalImages';
 import EmbedBandcamp from '../../../components/EmbedBandcamp';
+import EmbedSpotify from '../../../components/EmbedSpotify';
 import EmbedVimeo from '../../../components/EmbedVimeo';
 import EmbedYoutube from '../../../components/EmbedYoutube';
 import ProjectBlueVert from '../../../components/ProjectBlueVert';
-
-// import styles from '../../../styles/project.module.css';
+import styles from '../../../styles/projectSingle.module.css';
 
 type Project = {
   tags: { value: string; label: string }[];
@@ -120,6 +120,10 @@ export default async function Project(params: Params) {
               {project.bandcampEmbedUrl ? (
                 <EmbedBandcamp bandcampEmbedUrl={project.bandcampEmbedUrl} />
               ) : null}
+              {project.spotifyEmbedUrl ? (
+                <EmbedSpotify spotifyEmbedUrl={project.spotifyEmbedUrl} />
+              ) : null}
+
               {project.videoUrl && !project.bigVideo ? (
                 <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
               ) : null}
@@ -164,24 +168,28 @@ export default async function Project(params: Params) {
                 </div> */}
               </div>
               {project.websiteUrl ? (
-                <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out">
+                <div
+                  className={` ${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out`}
+                >
                   <a
-                    className="block px-5 py-4 "
+                    className="block px-5 py-3"
                     href={project.websiteUrl ?? '#'}
                     target="_blank"
                   >
-                    {project.websiteLinkText ?? 'Visit the website'}
+                    &gt; {project.websiteLinkText ?? 'Visit the website'}
                   </a>
                 </div>
               ) : null}
               {project.gitHubUrl ? (
-                <div className=" bg-(--color-foreground)  text-white font-bold uppercase italic tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out ">
+                <div
+                  className={`${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out`}
+                >
                   <a
-                    className="block px-5 py-4"
+                    className="block px-5 py-3"
                     href={project.gitHubUrl ?? '#'}
                     target="_blank"
                   >
-                    Visit on Github
+                    &gt; Visit on Github
                   </a>
                 </div>
               ) : null}
@@ -226,6 +234,7 @@ async function getData({ params }: Params) {
       'vimeoUrl',
       'bigVideo',
       'bandcampEmbedUrl',
+      'spotifyEmbedUrl',
     ])
     .first();
 
