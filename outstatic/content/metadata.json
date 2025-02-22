@@ -1,6 +1,6 @@
 {
-  "commit": "ba0cc64596e4f300f6d426c66157fadb929e1d97",
-  "generated": "2025-02-22T10:52:48.883Z",
+  "commit": "75428f78637cb78e3db4e10b2f03a7bb09d4fcec",
+  "generated": "2025-02-22T10:55:04.667Z",
   "metadata": [
     {
       "__outstatic": {
@@ -732,40 +732,6 @@
     },
     {
       "__outstatic": {
-        "commit": "31e999f07d2918b7dc780eb5b5d2598148572a73",
-        "hash": "3959289488",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "This is the description.",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "692987c80a434e5c2936ea09ff7d7bdbf5c6c899",
         "hash": "2315045131",
         "path": "outstatic/content/projects/a-call-from-selma.md"
@@ -949,6 +915,40 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the project",
       "websiteUrl": "https://whatcomesafter.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "75428f78637cb78e3db4e10b2f03a7bb09d4fcec",
+        "hash": "1262001387",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "A 5-episode series set in New Orleans",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
