@@ -1,6 +1,6 @@
 {
-  "commit": "0e0beee0da543fd0cb175a8bf756a7f085a53c59",
-  "generated": "2025-02-22T12:05:37.561Z",
+  "commit": "048fa7b623d23ae142924ebd0428c1601e300d74",
+  "generated": "2025-02-22T12:06:23.233Z",
   "metadata": [
     {
       "__outstatic": {
@@ -920,8 +920,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0e0beee0da543fd0cb175a8bf756a7f085a53c59",
-        "hash": "1739855969",
+        "commit": "048fa7b623d23ae142924ebd0428c1601e300d74",
+        "hash": "3819406380",
         "path": "outstatic/content/projects/are-you-sick.md"
       },
       "additionalImages": "",
