@@ -1,6 +1,6 @@
 {
-  "commit": "a26bc6185e1f00c14fdfe7733e893ce5ffa1a773",
-  "generated": "2025-02-22T11:57:31.016Z",
+  "commit": "7f3b9ab1b12935dc39fe21ce70ecb7c29fccc7b6",
+  "generated": "2025-02-22T12:00:13.728Z",
   "metadata": [
     {
       "__outstatic": {
@@ -918,8 +918,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a26bc6185e1f00c14fdfe7733e893ce5ffa1a773",
-        "hash": "3389202427",
+        "commit": "7f3b9ab1b12935dc39fe21ce70ecb7c29fccc7b6",
+        "hash": "48705045",
         "path": "outstatic/content/projects/white-lies.md"
       },
       "additionalImages": "",
@@ -944,6 +944,7 @@
       "publishedAt": "2025-01-27T21:47:20.921Z",
       "slug": "white-lies",
       "spotifyEmbed": "",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
       "status": "published",
       "title": "White Lies",
       "videoUrl": "",
