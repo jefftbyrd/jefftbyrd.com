@@ -27,7 +27,7 @@ export default async function Contact() {
         <article className="mb-8">
           <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
             <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-8xl flex flex-col gap-10 p-5 text-white italic font-light tracking-wide absolute">
+              <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) italic font-medium tracking-wider absolute">
                 <li className="">
                   <a
                     href="mailto:jeff.t.byrd@gmail.com"

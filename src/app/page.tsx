@@ -34,10 +34,10 @@ export default async function Index() {
         <SimpleSlider />
         <BlueVert height={`h-8`} />
         <BigMenu />
-        <h2 className="text-8xl text-center font-semibold text-(--color-foreground) ">
+        {/* <h2 className="text-8xl text-center font-semibold text-(--color-foreground) ">
           This is some funny text.
-        </h2>
-        <BlueVert height={`h-48`} />
+        </h2> */}
+        <BlueVert height={`h-24`} />
         {/* <div className="px-12">
           {allPosts.length > 0 && (
             <ContentGrid

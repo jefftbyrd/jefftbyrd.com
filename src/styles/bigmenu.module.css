@@ -20,8 +20,9 @@
 
 .menuItem {
   /* color: oklch(73.23% 0.3046 331.14); */
-  color: oklch(55.57% 0.2241 329.7);
-  text-shadow: oklch(73.23% 0.3046 331.14) 3px 0px;
+  /* color: oklch(55.57% 0.2241 329.7);
+  text-shadow: oklch(73.23% 0.3046 331.14) 3px 0px; */
+  color: oklch(73.23% 0.3046 331.14);
 }
 
 @keyframes random {
