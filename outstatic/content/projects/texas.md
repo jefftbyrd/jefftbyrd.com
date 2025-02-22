@@ -11,7 +11,7 @@ gitHubUrl: ''
 videoUrl: ''
 projectTags: [{"label":"Short Film","value":"shortFilm"},{"value":"soundDesign","label":"Sound Design"}]
 coverImage: '/images/texas-Y0OD.webp'
-description: ''
+description: 'Experimental documentary film'
 slug: 'texas'
 author:
   name: 'Jeff T Byrd'

@@ -1,6 +1,6 @@
 {
-  "commit": "752efb2625d76c3d9f4078aaeb823bfb9f8b22ab",
-  "generated": "2025-02-22T10:46:03.537Z",
+  "commit": "171f0baa9b1f4b6735120ebb7fe814737ab3f334",
+  "generated": "2025-02-22T10:47:40.034Z",
   "metadata": [
     {
       "__outstatic": {
@@ -544,44 +544,6 @@
     },
     {
       "__outstatic": {
-        "commit": "970bb15fc89ffe8ae308e23b72998c2f569a2a67",
-        "hash": "4196004150",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/texas-Y0OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "slug": "texas",
-      "status": "published",
-      "title": "Texas",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "76ea3c09d2c5e7d1741a1d7478b173b9ffd3d284",
         "hash": "505506767",
         "path": "outstatic/content/projects/rouler-sonner.md"
@@ -948,6 +910,44 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "171f0baa9b1f4b6735120ebb7fe814737ab3f334",
+        "hash": "2829898521",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/texas-Y0OD.webp",
+      "description": "Experimental documentary film",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "slug": "texas",
+      "status": "published",
+      "title": "Texas",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
