@@ -1,6 +1,6 @@
 {
-  "commit": "a06a38db1c430c8b0831fcd57d346b4c96418405",
-  "generated": "2025-02-22T11:52:05.286Z",
+  "commit": "a87cdf7810966edb3638b3d26f2e0c15c5fbb275",
+  "generated": "2025-02-22T11:55:21.995Z",
   "metadata": [
     {
       "__outstatic": {
@@ -918,7 +918,7 @@
     },
     {
       "__outstatic": {
-        "commit": "a06a38db1c430c8b0831fcd57d346b4c96418405",
+        "commit": "a87cdf7810966edb3638b3d26f2e0c15c5fbb275",
         "hash": "3389202427",
         "path": "outstatic/content/projects/white-lies.md"
       },
