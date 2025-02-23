@@ -1,27 +1,19 @@
 import Link from 'next/link';
+import { Children } from 'react';
 import styles from '../styles/header.module.css';
+
+const MenuItem = ({ children }: Props) => {
+  return (
+    <li
+      className={` transition-all text-3xl ${styles.menuItem} bg-(--color-foreground) px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
+    >
+      {children}
+    </li>
+  );
+};
 
 const Header = () => {
   return (
-    // <nav className="layout flex items-center justify-between py-4">
-    //   <ul className="flex items-center justify-between space-x-3 text-xs md:space-x-4 md:text-base">
-    //     <li>
-    //       <Link href="/" className="hover:underline">
-    //         Home
-    //       </Link>
-    //     </li>
-    //     <li>
-    //       <Link href="/#posts" className="hover:underline">
-    //         Posts
-    //       </Link>
-    //     </li>
-    //     <li>
-    //       <Link href="/#projects" className="hover:underline">
-    //         Projects
-    //       </Link>
-    //     </li>
-    //   </ul>
-    // </nav>
     <header className="sticky z-100 top-0 bg-(--color-background)">
       <nav>
         <div className="grid md:grid-cols-2 gap-30 ml-0 mr-24 py-0 border-b-1 border-solid border-(--color-foreground) ">
@@ -37,31 +29,22 @@ const Header = () => {
           <div className="px-4 py-5 bg-(--color-foreground)">
             <nav className="layout flex items-center justify-center py-0">
               <ul className="flex items-center justify-between space-x-3 md:space-x-4 md:text-base font-extralight uppercase text-3xl text-white ">
-                <li>
-                  <Link
-                    href="/projects"
-                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl overflow-hidden text-3xl ${styles.menuItem}  bg-(--color-foreground) px-3`}
-                  >
+                <MenuItem>
+                  <Link href="/projects">
                     Projec<span className={styles.t}>t</span>s
                   </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/about"
-                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl text-3xl ${styles.menuItem} bg-(--color-foreground) px-3`}
-                  >
+                </MenuItem>
+                <MenuItem>
+                  <Link href="/about">
                     Abou<span className={styles.t}>t</span>
                   </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/contact"
-                    className={`relative transition-all delay-0 duration-300 ease-in-out hover:text-4xl  text-3xl ${styles.menuItem} bg-(--color-foreground) px-3`}
-                  >
+                </MenuItem>
+                <MenuItem>
+                  <Link href="/contact">
                     Con<span className={styles.t}>t</span>ac
                     <span className={styles.t}>t</span>
                   </Link>
-                </li>
+                </MenuItem>
               </ul>
             </nav>
           </div>

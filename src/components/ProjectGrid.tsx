@@ -45,7 +45,7 @@ const ProjectGrid = ({
                     priority={priority && id <= 2}
                   />
                   {collection === 'projects' && (
-                    <div className="text-white absolute top-2 left-2 -translate-y-0 -translate-x-0">
+                    <div className="text-white absolute top-3 left-3 -translate-y-0 -translate-x-0">
                       <h2
                         className={`${styles.projectTitle} p-2 bg-opacity-0 text-left whitespace-normal font-bold tracking-wide text-4xl uppercase  leading-12`}
                       >
@@ -60,7 +60,7 @@ const ProjectGrid = ({
                   )}
                   {collection === 'projects' && (
                     <div
-                      className={`${styles.projectTags} absolute bottom-3 left-4 translate-y-0 -translate-x-0`}
+                      className={`${styles.projectTags} absolute bottom-4 left-5 translate-y-0 -translate-x-0`}
                     >
                       {Array.isArray(item?.projectTags)
                         ? item.projectTags.map(({ label }) => (

@@ -1,7 +1,7 @@
 import '../styles/index.css';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
-import { Hanken_Grotesk } from 'next/font/google';
+import { Hanken_Grotesk, Space_Grotesk } from 'next/font/google';
 import localFont from 'next/font/local';
 
 // import { Hanken+Grotesk } from 'next/font/google';
@@ -11,6 +11,11 @@ import localFont from 'next/font/local';
 const hanken = Hanken_Grotesk({
   subsets: ['latin'],
   variable: '--font-hanken',
+});
+
+const space = Space_Grotesk({
+  subsets: ['latin'],
+  variable: '--font-space',
 });
 
 const karrik = localFont({
@@ -52,7 +57,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${karrik.variable} ${hanken.variable}`}>
+    <html
+      lang="en"
+      className={`${karrik.variable} ${space.variable} ${hanken.variable}`}
+    >
       <body>{children}</body>
     </html>
   );

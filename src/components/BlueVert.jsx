@@ -3,7 +3,7 @@
 export default function BlueVert(props) {
   return (
     <div
-      className={`bg-(--color-foreground) w-lg ${props.height} justify-self-center`}
+      className={`bg-(--color-foreground) w-xl sticky top-0 -z-100 ${props.height} justify-self-center`}
     />
   );
 }

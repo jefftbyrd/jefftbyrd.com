@@ -6,11 +6,26 @@ import Image from 'next/image';
 import { load } from 'outstatic/server';
 import BigMenu from '../../components/BigMenu';
 import BlueVert from '../../components/BlueVert';
+import BlueVertGrid from '../../components/BlueVertGrid';
 import ContentGrid from '../../components/ContentGrid';
 import styles from '../../components/home.module.css';
 import Layout from '../../components/Layout';
 import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
+
+export function Link(props) {
+  return (
+    <li className="">
+      <a
+        href={props.link}
+        className="scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-8 py-10 bg-(--color-foreground) shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
+        target="_blank"
+      >
+        &gt; {props.text}
+      </a>
+    </li>
+  );
+}
 
 export default async function Contact() {
   const { content, allPosts, allProjects } = await getData();
@@ -25,27 +40,18 @@ export default async function Contact() {
         </div>
 
         <article className="mb-8">
+          <BlueVertGrid height={'h-screen'} />
           <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
             <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) italic font-medium tracking-wider absolute">
-                <li className="">
-                  <a
-                    href="mailto:jeff.t.byrd@gmail.com"
-                    className="block px-8 py-10 bg-(--color-foreground)"
-                    target="_blank"
-                  >
-                    jeff.t.byrd@gmail.com
-                  </a>
-                </li>
-                <li className="bg-(--color-foreground)">
-                  <a
-                    href="https://github.com/jefftbyrd"
-                    className="block px-8 py-10 bg-(--color-foreground)"
-                    target="_blank"
-                  >
-                    github.com/jefftbyrd
-                  </a>
-                </li>
+              <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) font-medium tracking-wider absolute">
+                <Link
+                  link={`mailto:jefftbyrd@gmail.com`}
+                  text={`jefftbyrd@gmail.com`}
+                />
+                <Link
+                  link={`https://github.com/jefftbyrd`}
+                  text={`github.com/jefftbyrd`}
+                />
               </ul>
             </div>
 

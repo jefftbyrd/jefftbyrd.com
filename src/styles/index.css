@@ -5,7 +5,8 @@
 @theme {
   --color-foreground: oklch(45.79% 0.271 271.41);
   --color-background: oklch(55.57% 0.2241 329.7);
-  --color-vivid: oklch(73.23% 0.3046 331.14);
+  --color-vivid: #ff2aed;
+  --color-vivid2: oklch(73.23% 0.3046 331.14);
   /* --karrik: var(--font-karrik); */
 }
 
@@ -37,7 +38,7 @@
 }
 
 html {
-  font-family: var(--font-hanken);
+  font-family: var(--font-space);
   font-weight: 300;
   background-color: var(--color-background);
   font-size: 20px;
