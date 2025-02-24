@@ -27,7 +27,7 @@ export default async function About() {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
+          <div className="grid md:grid-cols-2 gap-6 px-12  py-0">
             <div className="flex flex-col gap-4 pt-5">
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image

@@ -1,17 +1,9 @@
 import Header from '@/components/Header';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
-// import 'swiper/css';
 import { load } from 'outstatic/server';
-import BigMenu from '../../components/BigMenu';
-// import { Swiper, SwiperSlide } from 'swiper/react';
-// import Slider from 'react-slick';
-import BlueVert from '../../components/BlueVert';
-import ContentGrid from '../../components/ContentGrid';
-import styles from '../../components/home.module.css';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
 import ProjectGrid from '../../components/ProjectGrid';
-import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
 export default async function Projects() {

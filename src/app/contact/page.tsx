@@ -41,7 +41,7 @@ export default async function Contact() {
 
         <article className="mb-8">
           <BlueVertGrid height={'h-screen'} />
-          <div className="grid md:grid-cols-2 gap-6 px-6 py-0">
+          <div className="grid md:grid-cols-2 gap-6 px-12 py-0">
             <div className="flex flex-col gap-4 pt-5">
               <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) font-medium tracking-wider absolute">
                 <Link

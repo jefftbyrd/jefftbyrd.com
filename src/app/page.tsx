@@ -105,7 +105,7 @@ export default async function Index() {
           </div>
         </div>
         <div className="col-span-3">
-          <div className="grid grid-cols-3 gap-4 fixed h-max bottom-0 w-1/3 ">
+          <div className="grid grid-cols-3 gap-4 fixed h-max bottom-0 w-1/3">
             <MenuItem title={`Projects`} delay={0} />
             <MenuItem title={`About`} delay={0.2} />
             <MenuItem title={`Contact`} delay={0.4} />
