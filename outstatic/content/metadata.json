@@ -1,6 +1,6 @@
 {
-  "commit": "34a7ca916201f705c2d7f1544be83311cc22f2f8",
-  "generated": "2025-02-24T20:00:37.596Z",
+  "commit": "b59ef33fefdb24040b4baf561650c03018e076d4",
+  "generated": "2025-02-24T20:01:28.592Z",
   "metadata": [
     {
       "__outstatic": {
@@ -617,45 +617,6 @@
     },
     {
       "__outstatic": {
-        "commit": "18431587f9e98a176a35417914f91720c280f33f",
-        "hash": "3345264461",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "Solo music album",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Lamb Alley",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
-    },
-    {
-      "__outstatic": {
         "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
         "hash": "505506767",
         "path": "outstatic/content/projects/rouler-sonner.md"
@@ -957,6 +918,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "b59ef33fefdb24040b4baf561650c03018e076d4",
+        "hash": "3807202063",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo music album",
+      "gitHubUrl": "",
+      "projectOrder": "21",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     }
   ]
 }

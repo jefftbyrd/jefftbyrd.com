@@ -14,7 +14,7 @@ additionalImages: ''
 bigImage: ''
 websiteLinkText: 'Lamb Alley on Bandcamp'
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
-projectOrder: ''
+projectOrder: '21'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
