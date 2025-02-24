@@ -28,7 +28,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-5`}
+      className={`${styles.menuItem} bg-(--color-foreground) pb-8`}
       // hover:pb-30 transition-all
       // initial={{ opacity: 0, scale: 0.5 }}
       // animate={{ opacity: 1, scale: 1 }}

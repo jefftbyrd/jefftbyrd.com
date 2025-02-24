@@ -60,6 +60,10 @@ html {
   scrollbar-width: auto; */
 }
 
+strong {
+  @apply font-bold;
+}
+
 .projectContent {
   /* @apply grid gap-12; */
   p {

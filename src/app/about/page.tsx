@@ -5,6 +5,7 @@ import Image from 'next/image';
 // import 'swiper/css';
 import { load } from 'outstatic/server';
 import BigMenu from '../../components/BigMenu';
+import BlueAbsolute from '../../components/BlueAbsolute';
 // import { Swiper, SwiperSlide } from 'swiper/react';
 // import Slider from 'react-slick';
 import BlueVert from '../../components/BlueVert';
@@ -19,15 +20,16 @@ export default async function About() {
 
   return (
     <Layout>
+      {/* <BlueAbsolute /> */}
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="mt-12">
+        <div className="relative pb-12">
           <PageTitle pageTitle={'About'} />
-          {/* <ProjectBlueVert height={`h-8`} /> */}
+          <BlueAbsolute />
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 px-12  py-0">
+          <div className="grid md:grid-cols-2 gap-6 px-16  py-0">
             <div className="flex flex-col gap-4 pt-5">
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image
@@ -41,25 +43,12 @@ export default async function About() {
             </div>
 
             <div className="flex flex-col gap-1">
-              <div className="bg-(--color-foreground) px-5 py-3">
+              <div className=" px-5 mr-16 ">
                 <div
-                  className=" text-white text-base"
+                  className=" text-white text-base fixed mr-36"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
-
-              {/* <div className="p-2">
-                {Array.isArray(project?.projectTags)
-                  ? project.projectTags.map(({ label }) => (
-                      <span
-                        key={label}
-                        className="inline-block uppercase bg-white rounded-full px-3 py-1 text-md font-medium text-(--color-background) mr-2 mb-2"
-                      >
-                        {label}
-                      </span>
-                    ))
-                  : null}
-              </div> */}
             </div>
           </div>
         </article>

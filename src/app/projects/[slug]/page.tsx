@@ -11,6 +11,8 @@ import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
 import AdditionalImages from '../../../components/AdditionalImages';
+import BlueAbsolute from '../../../components/BlueAbsolute';
+import BlueMinimum from '../../../components/BlueMinimum';
 import EmbedBandcamp from '../../../components/EmbedBandcamp';
 import EmbedSpotify from '../../../components/EmbedSpotify';
 import EmbedVimeo from '../../../components/EmbedVimeo';
@@ -83,9 +85,9 @@ export default async function Project(params: Params) {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="mt-12 relative">
+        <div className="relative pb-12">
           <PageTitle pageTitle={project.title} />
-          <ProjectBlueVert height={`h-16`} />
+          <BlueAbsolute />
         </div>
 
         <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
@@ -114,7 +116,7 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="mb-8">
+        <article className="pb-16 bg-(--color-background)">
           <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
             <div className="flex flex-col gap-4 pt-5">
               {project.bandcampEmbedUrl ? (

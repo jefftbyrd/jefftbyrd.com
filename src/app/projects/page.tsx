@@ -1,6 +1,8 @@
 import Header from '@/components/Header';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import { load } from 'outstatic/server';
+import BlueAbsolute from '../../components/BlueAbsolute';
+import BlueMinimum from '../../components/BlueMinimum';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
 import ProjectGrid from '../../components/ProjectGrid';
@@ -12,16 +14,15 @@ export default async function Projects() {
 
   return (
     <Layout>
-      <div className="w-full mx-auto px-0">
+      <div className="w-full mx-auto px-0 pb-16">
         <Header />
-        <div className="mt-12 relative">
+        <div className="relative pb-6">
+          {/* <BlueMinimum /> */}
           <PageTitle pageTitle={`Projects`} />
-          {/* <div className="inline-block p-4 border mb-8 font-semibold text-lg rounded-sm shadow-sm">
-            {project.description}
-          </div> */}
-          {/* <ProjectBlueVert height={`h-16`} /> */}
+          <BlueAbsolute />
         </div>
-        <div className="px-12">
+        {/* <BlueAbsolute /> */}
+        <div className="px-16">
           {allProjects.length > 0 && (
             <ProjectGrid
               title="Projects"

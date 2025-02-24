@@ -3,6 +3,7 @@ import PageTitle from '@/components/PageTitle';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import Image from 'next/image';
 import { load } from 'outstatic/server';
+import BlueAbsolute from '../../components/BlueAbsolute';
 import BlueVert from '../../components/BlueVert';
 import BlueVertGrid from '../../components/BlueVertGrid';
 import Layout from '../../components/Layout';
@@ -33,16 +34,17 @@ export default async function Contact() {
 
   return (
     <Layout>
+      {/* <BlueAbsolute /> */}
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="mt-12">
+        <div className="relative pb-12">
           <PageTitle pageTitle={'Contact'} />
-          <ProjectBlueVert height={`h-8`} />
+          <BlueAbsolute />
         </div>
 
         <article className="mb-8">
-          <BlueVertGrid height={'h-screen'} />
-          <div className="grid md:grid-cols-2 gap-6 px-12 py-0">
+          <div className="grid md:grid-cols-3">
+            <div></div>
             <div className="flex flex-col gap-4 pt-5">
               <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) font-medium tracking-wider absolute">
                 <ContactLink
@@ -54,28 +56,7 @@ export default async function Contact() {
                   text={`github.com/jefftbyrd`}
                 />
               </ul>
-            </div>
-
-            <div className="flex flex-col gap-1">
-              <div className="bg-(--color-foreground) px-5 py-3">
-                {/* <div
-                  className=" text-white text-base"
-                  dangerouslySetInnerHTML={{ __html: content }}
-                /> */}
-              </div>
-
-              {/* <div className="p-2">
-                {Array.isArray(project?.projectTags)
-                  ? project.projectTags.map(({ label }) => (
-                      <span
-                        key={label}
-                        className="inline-block uppercase bg-white rounded-full px-3 py-1 text-md font-medium text-(--color-background) mr-2 mb-2"
-                      >
-                        {label}
-                      </span>
-                    ))
-                  : null}
-              </div> */}
+              <div></div>
             </div>
           </div>
         </article>
