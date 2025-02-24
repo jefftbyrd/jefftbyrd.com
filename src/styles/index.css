@@ -71,6 +71,7 @@ html {
 }
 
 .bigMenu {
+  @apply flex gap-12;
   ul {
     li {
       border-bottom: solid var(--color-background) 20px;
