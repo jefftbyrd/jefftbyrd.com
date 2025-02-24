@@ -14,10 +14,11 @@ additionalImages: ''
 bigImage: ''
 websiteLinkText: ''
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
-projectOrder: ''
+projectOrder: '23'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-30T13:34:48.339Z'
 ---
 
