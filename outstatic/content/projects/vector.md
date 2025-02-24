@@ -7,7 +7,7 @@ author:
 slug: 'vector'
 description: 'An online virus shop'
 coverImage: '/images/vector-thumbnail-QxND.webp'
-projectTags: [{"label":"Website","value":"website"},{"label":"Design","value":"design"},{"value":"code","label":"Code"}]
+projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"}]
 videoUrl: ''
 gitHubUrl: 'https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store'
 websiteUrl: 'https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/'
@@ -18,6 +18,7 @@ projectOrder: '29'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
