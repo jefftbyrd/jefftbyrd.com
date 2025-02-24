@@ -19,10 +19,11 @@ projectOrder: '30'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
-Earthsong is a full stack web application allowing users to explore the sounds of distant places. After choosing a point on the globe, Earthsong finds sounds recorded nearby and teleports the user to the Earthsong Sound Portal, a spatial sonic playground where they can audition, manipulate and mix sounds to create their own sonic environment.\
+## Earthsong is a full stack web application allowing users to explore the sounds of distant places. After choosing a point on the globe, Earthsong finds sounds recorded nearby and teleports the user to the Earthsong Sound Portal, a spatial sonic playground where they can audition, manipulate and mix sounds to create their own sonic environment.\
 \
 Features
 
