@@ -1,6 +1,6 @@
 {
-  "commit": "b12ca30815ff628471ad91d7591e57244ff3631d",
-  "generated": "2025-02-24T12:51:37.864Z",
+  "commit": "9167ca063d517309f77d6e6ed07f6f4d424bf9cc",
+  "generated": "Mon, 24 Feb 2025 12:52:08 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,42 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "68b37542b7944a543650199a5c8fe93fa8753498",
-        "hash": "2868619686",
-        "path": "outstatic/content/pages/contact.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-02-15T16:28:07.343Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
-        "hash": "1389382241",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
         "commit": "a78ef9029b9829e6c0732daeeade49b513b0e4d9",
         "hash": "4003434870",
         "path": "outstatic/content/pages/home.md"
@@ -73,6 +37,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "68b37542b7944a543650199a5c8fe93fa8753498",
+        "hash": "2868619686",
+        "path": "outstatic/content/pages/contact.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-15T16:28:07.343Z",
+      "slug": "contact",
+      "status": "published",
+      "title": "Contact"
     },
     {
       "__outstatic": {
@@ -94,37 +76,21 @@
     },
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "outstatic/content/posts/nothing-wrong.md"
+        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
+        "hash": "1389382241",
+        "path": "outstatic/content/pages/about.md"
       },
       "author": {
-        "name": "Andre Vitorio"
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
       "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
+      "title": "About"
     },
     {
       "__outstatic": {
@@ -159,6 +125,40 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit at the New York Times",
       "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+    },
+    {
+      "__outstatic": {
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
+        "hash": "4086614036",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "title": "Nothing is wrong. Everything is perfect"
     },
     {
       "__outstatic": {
@@ -238,6 +238,44 @@
       "status": "published",
       "title": "The Durrs of Montgomery",
       "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "46c0ad072e5e4a80390eed700b4a2982a465fef4",
+        "hash": "4216099240",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -351,6 +389,43 @@
     },
     {
       "__outstatic": {
+        "commit": "4480c348e20e0ced9924ffcdcbd712f285f036cc",
+        "hash": "791302676",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "health-for-all.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/hfa-2-IxMj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "https://healthforallstory.org/",
+      "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
         "commit": "c7f4623a723cc1f897a86b8af7cba4c44aa2aab4",
         "hash": "709846482",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -386,43 +461,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "4480c348e20e0ced9924ffcdcbd712f285f036cc",
-        "hash": "791302676",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "additionalImages": "hfa-2.webp,  hfa-3.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "health-for-all.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
-      "status": "published",
-      "title": "Health For All ",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "https://healthforallstory.org/",
-      "websiteUrl": "https://healthforallstory.org/"
     },
     {
       "__outstatic": {
@@ -534,45 +572,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
-        "commit": "18431587f9e98a176a35417914f91720c280f33f",
-        "hash": "3345264461",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "Solo music album",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Lamb Alley",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     },
     {
       "__outstatic": {
@@ -690,6 +689,45 @@
     },
     {
       "__outstatic": {
+        "commit": "18431587f9e98a176a35417914f91720c280f33f",
+        "hash": "3345264461",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo music album",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+    },
+    {
+      "__outstatic": {
         "commit": "b18e74a8bf7e72bb2908268e1c86ff2da1c79a1c",
         "hash": "294409804",
         "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
@@ -765,6 +803,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "4efad2ad8cbf6b16c7c0a067cfc31bd56e70bd3d",
+        "hash": "1480834096",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "vector-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "An online virus shop",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectOrder": "29",
+      "projectTags": [
+        {
+          "label": "Website",
+          "value": "website"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Code",
+          "value": "code"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
+      "status": "published",
+      "title": "Vector",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the site",
+      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
     },
     {
       "__outstatic": {
@@ -872,87 +952,6 @@
       "title": "Spark",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "4efad2ad8cbf6b16c7c0a067cfc31bd56e70bd3d",
-        "hash": "1480834096",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "vector-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "An online virus shop",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectOrder": "29",
-      "projectTags": [
-        {
-          "label": "Website",
-          "value": "website"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Code",
-          "value": "code"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the site",
-      "websiteUrl": "https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/"
-    },
-    {
-      "__outstatic": {
-        "commit": "b12ca30815ff628471ad91d7591e57244ff3631d",
-        "hash": "2516985445",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
-      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
