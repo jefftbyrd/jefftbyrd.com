@@ -61,17 +61,23 @@ html {
 }
 
 .projectContent {
+  /* @apply grid gap-12; */
+  p {
+    @apply mb-6;
+  }
   ul {
     list-style: square;
-    margin-left: 15px;
+    @apply ml-4;
+    li {
+      @apply mb-1;
+    }
   }
   h2 {
-    @apply text-2xl;
+    @apply text-3xl font-bold uppercase tracking-wider mb-1;
   }
 }
 
 .bigMenu {
-  @apply flex gap-12;
   ul {
     li {
       border-bottom: solid var(--color-background) 20px;
