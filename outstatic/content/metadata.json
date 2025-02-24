@@ -1,6 +1,6 @@
 {
-  "commit": "e286673211bd715837686c39ff8e50583964c0c7",
-  "generated": "2025-02-24T19:52:45.536Z",
+  "commit": "ee4ade521f5fb9bef9c95c26b9579ec92b27ea9d",
+  "generated": "2025-02-24T19:53:37.660Z",
   "metadata": [
     {
       "__outstatic": {
@@ -877,45 +877,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e937179452fde532da27950d6e215f3d577b4865",
-        "hash": "255528355",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "3",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "e286673211bd715837686c39ff8e50583964c0c7",
         "hash": "2510178807",
         "path": "outstatic/content/projects/earthsong.md"
@@ -957,6 +918,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "ee4ade521f5fb9bef9c95c26b9579ec92b27ea9d",
+        "hash": "2001312644",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
