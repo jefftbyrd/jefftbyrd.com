@@ -1,6 +1,6 @@
 {
-  "commit": "b3ab81b84abbdad6ccd7bde44f36f26586968e1f",
-  "generated": "2025-02-24T19:56:20.856Z",
+  "commit": "d051d535524c46f450bbfef1425c88a248a3b402",
+  "generated": "2025-02-24T19:56:49.963Z",
   "metadata": [
     {
       "__outstatic": {
@@ -848,45 +848,6 @@
     },
     {
       "__outstatic": {
-        "commit": "452ea4ac20644385de1c5d3e349de6942b3abc75",
-        "hash": "2582650268",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "2",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "6158365877e774d049ac334fd0c6208a1c49d40e",
         "hash": "3662419368",
         "path": "outstatic/content/projects/are-you-sick.md"
@@ -955,6 +916,45 @@
       "status": "published",
       "title": "Nighty Night",
       "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "d051d535524c46f450bbfef1425c88a248a3b402",
+        "hash": "3762348889",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "-1",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
