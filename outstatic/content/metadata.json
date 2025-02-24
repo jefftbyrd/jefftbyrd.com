@@ -1,6 +1,6 @@
 {
-  "commit": "91f55d6f4d09adc1132b9613018153fa5a409b0a",
-  "generated": "2025-02-24T09:45:43.131Z",
+  "commit": "67be08c683760982cacf323b6fe84ddfc363c3c5",
+  "generated": "2025-02-24T09:47:34.535Z",
   "metadata": [
     {
       "__outstatic": {
@@ -913,8 +913,8 @@
     },
     {
       "__outstatic": {
-        "commit": "91f55d6f4d09adc1132b9613018153fa5a409b0a",
-        "hash": "2366377646",
+        "commit": "67be08c683760982cacf323b6fe84ddfc363c3c5",
+        "hash": "3713540193",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
