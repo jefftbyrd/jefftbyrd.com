@@ -1,6 +1,6 @@
 {
-  "commit": "d14f48c757f33860af6c249723c5006412af8f73",
-  "generated": "2025-02-24T19:57:23.323Z",
+  "commit": "8045b9e85a7f3e1a3c86fd09feb5d18933d4d554",
+  "generated": "Mon, 24 Feb 2025 19:58:13 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -211,6 +211,80 @@
     },
     {
       "__outstatic": {
+        "commit": "65f72263e6e2dcfd0b0fac046e1feb4f1f4ece42",
+        "hash": "2582650268",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "2",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "d9ec111939434f6dce4f10d5f5c4758bc0ab5b11",
+        "hash": "3662419368",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "26",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Are You Sick?",
+      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "f285860e2a03e29a95e646b42c9b9ebe09cd6058",
         "hash": "3198860090",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
@@ -313,6 +387,39 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the project",
       "websiteUrl": "https://whatcomesafter.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "f40f0cd8c8621b0ed7907099c5e4452c69bca74e",
+        "hash": "3704963259",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "slug": "edinburgh-international-film-festival",
+      "status": "published",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -425,6 +532,88 @@
     },
     {
       "__outstatic": {
+        "commit": "92338e77d58a9deaf9f2efc0d7d0290db3818728",
+        "hash": "2510178807",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "earthsong-sound-portal-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Listen to the planet",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "30",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "570cdba5d047909a4533b752a73e5346938f64cd",
+        "hash": "906185432",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "e89d8f3a1aba9cf47adc2bbee6d044939dd37da1",
         "hash": "1058670663",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -460,44 +649,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Reviewed by THE QUIETUS",
       "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
-    },
-    {
-      "__outstatic": {
-        "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
-        "hash": "505506767",
-        "path": "outstatic/content/projects/rouler-sonner.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/rouler-sonner-IwNj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "rouler-sonner",
-      "status": "published",
-      "title": "Rouler, Sonner",
-      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -537,6 +688,44 @@
       "vimeoUrl": "",
       "websiteLinkText": "Lamb Alley on Bandcamp",
       "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+    },
+    {
+      "__outstatic": {
+        "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
+        "hash": "505506767",
+        "path": "outstatic/content/projects/rouler-sonner.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/rouler-sonner-IwNj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "slug": "rouler-sonner",
+      "status": "published",
+      "title": "Rouler, Sonner",
+      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -660,6 +849,45 @@
     },
     {
       "__outstatic": {
+        "commit": "9285cb153724c2425f2351bd6470ed9f6ded4147",
+        "hash": "2001312644",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "b84e4eaa31d2c13d5ad07c8bd8c9187353fc83af",
         "hash": "2829898521",
         "path": "outstatic/content/projects/texas.md"
@@ -727,237 +955,6 @@
       "title": "Spark",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "e286673211bd715837686c39ff8e50583964c0c7",
-        "hash": "2510178807",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-sound-portal-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Listen to the planet",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "30",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
-        "commit": "ee4ade521f5fb9bef9c95c26b9579ec92b27ea9d",
-        "hash": "2001312644",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "6158365877e774d049ac334fd0c6208a1c49d40e",
-        "hash": "3662419368",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "26",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "b3ab81b84abbdad6ccd7bde44f36f26586968e1f",
-        "hash": "4108585080",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "23",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "d051d535524c46f450bbfef1425c88a248a3b402",
-        "hash": "3762348889",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "-1",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "d14f48c757f33860af6c249723c5006412af8f73",
-        "hash": "779942602",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "9",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
-      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
