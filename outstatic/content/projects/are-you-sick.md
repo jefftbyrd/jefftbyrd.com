@@ -12,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX'
 projectTags: [{"value":"album","label":"Album"}]
 coverImage: '/images/are-you-sick-M2OD.jpg'
-description: ''
+description: 'Budokan Boys album'
 slug: 'are-you-sick'
 author:
   name: 'Jeff T Byrd'
