@@ -1,6 +1,6 @@
 {
-  "commit": "55697788d9aecaa21953a52bb997df91920496c7",
-  "generated": "Mon, 24 Feb 2025 12:54:06 GMT",
+  "commit": "b6c071825516c620afd578d7a544d5c78ca22e1a",
+  "generated": "Mon, 24 Feb 2025 19:50:36 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "68b37542b7944a543650199a5c8fe93fa8753498",
-        "hash": "2868619686",
-        "path": "outstatic/content/pages/contact.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-02-15T16:28:07.343Z",
-      "slug": "contact",
-      "status": "published",
-      "title": "Contact"
-    },
-    {
-      "__outstatic": {
         "commit": "a78ef9029b9829e6c0732daeeade49b513b0e4d9",
         "hash": "4003434870",
         "path": "outstatic/content/pages/home.md"
@@ -58,21 +40,21 @@
     },
     {
       "__outstatic": {
-        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
-        "hash": "1389382241",
-        "path": "outstatic/content/pages/about.md"
+        "commit": "68b37542b7944a543650199a5c8fe93fa8753498",
+        "hash": "2868619686",
+        "path": "outstatic/content/pages/contact.md"
       },
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "coverImage": "",
       "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
+      "publishedAt": "2025-02-15T16:28:07.343Z",
+      "slug": "contact",
       "status": "published",
-      "title": "About"
+      "title": "Contact"
     },
     {
       "__outstatic": {
@@ -91,6 +73,24 @@
       "slug": "another",
       "status": "published",
       "title": "Another page"
+    },
+    {
+      "__outstatic": {
+        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
+        "hash": "1389382241",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     },
     {
       "__outstatic": {
@@ -162,24 +162,6 @@
     },
     {
       "__outstatic": {
-        "commit": "5ef708eede2c6ba1139711dcd514898a33977c72",
-        "hash": "4065770421",
-        "path": "outstatic/content/pages/weird.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-17T15:44:21.617Z",
-      "slug": "weird",
-      "status": "published",
-      "title": "weird"
-    },
-    {
-      "__outstatic": {
         "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
         "hash": "2506648264",
         "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
@@ -211,8 +193,59 @@
     },
     {
       "__outstatic": {
-        "commit": "8032311beaf796c312aba30b5f63e4dff3a7c9c9",
-        "hash": "1305710176",
+        "commit": "5ef708eede2c6ba1139711dcd514898a33977c72",
+        "hash": "4065770421",
+        "path": "outstatic/content/pages/weird.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-17T15:44:21.617Z",
+      "slug": "weird",
+      "status": "published",
+      "title": "weird"
+    },
+    {
+      "__outstatic": {
+        "commit": "f285860e2a03e29a95e646b42c9b9ebe09cd6058",
+        "hash": "3198860090",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/durrs-kxMT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "ef7d5dcb87f9779aec79254a95a745ee5ceb0de9",
+        "hash": "1742361932",
         "path": "outstatic/content/projects/dad-is-bad.md"
       },
       "additionalImages": "",
@@ -357,39 +390,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f285860e2a03e29a95e646b42c9b9ebe09cd6058",
-        "hash": "3198860090",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/durrs-kxMT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "4480c348e20e0ced9924ffcdcbd712f285f036cc",
         "hash": "791302676",
         "path": "outstatic/content/projects/health-for-all.md"
@@ -427,33 +427,38 @@
     },
     {
       "__outstatic": {
-        "commit": "f79c423f787ae8ab0b39d3495e08049dec639f6b",
-        "hash": "3704963259",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+        "commit": "c7f4623a723cc1f897a86b8af7cba4c44aa2aab4",
+        "hash": "709846482",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bigImage": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "goodwater-alabama-1982.webp",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
       "description": "",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "27",
       "projectTags": [
         {
-          "label": "Soundtrack",
-          "value": "soundtrack"
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
       "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -494,38 +499,33 @@
     },
     {
       "__outstatic": {
-        "commit": "c7f4623a723cc1f897a86b8af7cba4c44aa2aab4",
-        "hash": "709846482",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+        "commit": "f79c423f787ae8ab0b39d3495e08049dec639f6b",
+        "hash": "3704963259",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
+      "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "coverImage": "/images/eiff-2-gzMj.webp",
       "description": "",
       "gitHubUrl": "",
-      "projectOrder": "27",
+      "projectOrder": "",
       "projectTags": [
         {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
+          "label": "Soundtrack",
+          "value": "soundtrack"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "slug": "edinburgh-international-film-festival",
       "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -573,6 +573,82 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "e89d8f3a1aba9cf47adc2bbee6d044939dd37da1",
+        "hash": "1058670663",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
+      "vimeoUrl": "",
+      "websiteLinkText": "Reviewed by THE QUIETUS",
+      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
+    },
+    {
+      "__outstatic": {
+        "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
+        "hash": "505506767",
+        "path": "outstatic/content/projects/rouler-sonner.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/rouler-sonner-IwNj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "slug": "rouler-sonner",
+      "status": "published",
+      "title": "Rouler, Sonner",
+      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -695,47 +771,9 @@
     },
     {
       "__outstatic": {
-        "commit": "e89d8f3a1aba9cf47adc2bbee6d044939dd37da1",
-        "hash": "1058670663",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "sbuayd-wide.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
-      "vimeoUrl": "",
-      "websiteLinkText": "Reviewed by THE QUIETUS",
-      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
-    },
-    {
-      "__outstatic": {
-        "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
-        "hash": "505506767",
-        "path": "outstatic/content/projects/rouler-sonner.md"
+        "commit": "58e73ff1fe2ed8cd34a99b0f20e66c0019494042",
+        "hash": "48705045",
+        "path": "outstatic/content/projects/white-lies.md"
       },
       "additionalImages": "",
       "author": {
@@ -743,31 +781,29 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
+      "bigImage": "white-lies-2.webp",
+      "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/rouler-sonner-IwNj.webp",
-      "description": "",
+      "coverImage": "/images/white-lies-square-QyMD.jpg",
+      "description": "Documentary podcast series from National Public Radio (NPR)",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "28",
       "projectTags": [
         {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
+          "label": "Soundtrack",
+          "value": "soundtrack"
         }
       ],
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "slug": "rouler-sonner",
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "slug": "white-lies",
+      "spotifyEmbed": "",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
       "status": "published",
-      "title": "Rouler, Sonner",
-      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "title": "White Lies",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "White Lies at NPR",
+      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
     },
     {
       "__outstatic": {
@@ -813,39 +849,40 @@
     },
     {
       "__outstatic": {
-        "commit": "58e73ff1fe2ed8cd34a99b0f20e66c0019494042",
-        "hash": "48705045",
-        "path": "outstatic/content/projects/white-lies.md"
+        "commit": "976c67f345d57e946a5d005ca6183cad85bad5b9",
+        "hash": "2375112525",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "",
-      "bigImage": "white-lies-2.webp",
-      "bigVideo": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/white-lies-square-QyMD.jpg",
-      "description": "Documentary podcast series from National Public Radio (NPR)",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "",
       "gitHubUrl": "",
-      "projectOrder": "28",
+      "projectOrder": "1",
       "projectTags": [
         {
-          "label": "Soundtrack",
-          "value": "soundtrack"
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
         }
       ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "slug": "white-lies",
-      "spotifyEmbed": "",
-      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
       "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
       "vimeoUrl": "",
-      "websiteLinkText": "White Lies at NPR",
-      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -882,43 +919,6 @@
       "title": "Texas",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "976c67f345d57e946a5d005ca6183cad85bad5b9",
-        "hash": "2375112525",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "1",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
