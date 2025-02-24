@@ -34,8 +34,8 @@ released May 24, 2019
 
 Recorded at Casita Mala, Las Cruces, New Mexico, winter 2017/2018.
 
-Music by Jeff T Byrd. Vocals and lyrics by Michael Lee except for "Dad is Bad" and "My Old Friend" (lyrics by Michael and Patrick Lee).\
+Music by Jeff T Byrd. Vocals and lyrics by Michael Lee except for "Dad is Bad" and "My Old Friend" (lyrics by Michael and Patrick Lee).
 
 Mastered by James Plotkin.
-Artwork by Tiny [Little Hammers](http://Hammers.Design).
+Artwork by Tiny Little Hammers.
 Design by Margaréta Feherová.
