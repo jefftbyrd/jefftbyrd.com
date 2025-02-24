@@ -1,7 +1,9 @@
 ---
+spotifyEmbedUrl: ''
+bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
-projectOrder: ''
+projectOrder: '9'
 websiteLinkText: ''
 bigImage: ''
 additionalImages: ''
