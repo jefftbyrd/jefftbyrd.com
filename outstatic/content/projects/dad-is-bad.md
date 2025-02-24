@@ -7,8 +7,12 @@ author:
 slug: 'dad-is-bad'
 description: ''
 coverImage: '/images/dad-is-bad-kzNj.jpg'
-projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
-videoUrl: ''
+projectTags:
+  [
+    { 'value': 'album', 'label': 'Album' },
+    { 'value': 'music', 'label': 'Music' },
+  ]
+videoUrl: 'https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe'
 gitHubUrl: ''
 websiteUrl: ''
 additionalImages: ''
@@ -16,7 +20,7 @@ bigImage: ''
 websiteLinkText: ''
 projectOrder: ''
 vimeoUrl: ''
-bigVideo: ''
+bigVideo: 'true'
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/'
 publishedAt: '2025-01-30T13:35:24.711Z'
 ---
