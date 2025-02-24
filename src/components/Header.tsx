@@ -1,6 +1,9 @@
 import Link from 'next/link';
-import { Children } from 'react';
 import styles from '../styles/header.module.css';
+
+type Props = {
+  children: React.ReactNode;
+};
 
 const MenuItem = ({ children }: Props) => {
   return (

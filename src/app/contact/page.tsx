@@ -2,18 +2,19 @@ import Header from '@/components/Header';
 import PageTitle from '@/components/PageTitle';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import Image from 'next/image';
-// import 'swiper/css';
 import { load } from 'outstatic/server';
-import BigMenu from '../../components/BigMenu';
 import BlueVert from '../../components/BlueVert';
 import BlueVertGrid from '../../components/BlueVertGrid';
-import ContentGrid from '../../components/ContentGrid';
-import styles from '../../components/home.module.css';
 import Layout from '../../components/Layout';
 import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
-export function Link(props) {
+type Props = {
+  link: string;
+  text: string;
+};
+
+const ContactLink = (props: Props) => {
   return (
     <li className="">
       <a
@@ -25,7 +26,7 @@ export function Link(props) {
       </a>
     </li>
   );
-}
+};
 
 export default async function Contact() {
   const { content, allPosts, allProjects } = await getData();
@@ -44,11 +45,11 @@ export default async function Contact() {
           <div className="grid md:grid-cols-2 gap-6 px-12 py-0">
             <div className="flex flex-col gap-4 pt-5">
               <ul className="text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) font-medium tracking-wider absolute">
-                <Link
+                <ContactLink
                   link={`mailto:jefftbyrd@gmail.com`}
                   text={`jefftbyrd@gmail.com`}
                 />
-                <Link
+                <ContactLink
                   link={`https://github.com/jefftbyrd`}
                   text={`github.com/jefftbyrd`}
                 />

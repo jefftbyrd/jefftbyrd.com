@@ -14,7 +14,18 @@ import Logo from '../components/Logo';
 import markdownToHtml from '../lib/markdownToHtml';
 import styles from '../styles/home.module.css';
 
-const MenuItem = (props) => {
+type PropsMenuItem = {
+  delayTime: number;
+  title: string;
+};
+
+type PropsFeaturedProject = {
+  delayTime: number;
+  url: string;
+  image: string;
+};
+
+const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
       className={`${styles.menuItem} bg-(--color-foreground) pb-5`}
@@ -25,7 +36,7 @@ const MenuItem = (props) => {
       animate={{ y: 0 }}
       transition={{
         duration: 0.8,
-        delay: `${props.delay}`,
+        delay: props.delayTime,
         ease: [0, 0.71, 0.2, 1.01],
         // type: 'spring',
         // stiffness: 100,
@@ -50,7 +61,7 @@ const MenuItem = (props) => {
   );
 };
 
-const FeaturedProject = (props) => {
+const FeaturedProject = (props: PropsFeaturedProject) => {
   return (
     <motion.a
       className="origin-right"
@@ -67,7 +78,7 @@ const FeaturedProject = (props) => {
         animate={{ x: 0 }}
         transition={{
           duration: 0.5,
-          delay: `${props.delay}`,
+          delay: props.delayTime,
           ease: [0, 0.71, 0.2, 1.01],
           // type: 'spring',
           // stiffness: 100,
@@ -95,20 +106,20 @@ export default async function Index() {
             <FeaturedProject
               url={`/images/earthsong-slide.webp`}
               image={`/images/earthsong-slide.webp`}
-              delay={0}
+              delayTime={0}
             />
             <FeaturedProject
               url={`/images/vector-slide.webp`}
               image={`/images/vector-slide.webp`}
-              delay={0.2}
+              delayTime={0.2}
             />
           </div>
         </div>
         <div className="col-span-3">
           <div className="grid grid-cols-3 gap-4 fixed h-max bottom-0 w-1/3">
-            <MenuItem title={`Projects`} delay={0} />
-            <MenuItem title={`About`} delay={0.2} />
-            <MenuItem title={`Contact`} delay={0.4} />
+            <MenuItem title={`Projects`} delayTime={0} />
+            <MenuItem title={`About`} delayTime={0.2} />
+            <MenuItem title={`Contact`} delayTime={0.4} />
           </div>
         </div>
       </div>
