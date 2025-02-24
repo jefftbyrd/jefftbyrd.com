@@ -3,18 +3,14 @@ spotifyEmbedUrl: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/'
 bigVideo: 'true'
 vimeoUrl: ''
-projectOrder: ''
+projectOrder: '2'
 websiteLinkText: ''
 bigImage: ''
 additionalImages: ''
 websiteUrl: ''
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe'
-projectTags:
-  [
-    { 'value': 'album', 'label': 'Album' },
-    { 'value': 'music', 'label': 'Music' },
-  ]
+projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 coverImage: '/images/dad-is-bad-kzNj.jpg'
 description: ''
 slug: 'dad-is-bad'
@@ -36,6 +32,4 @@ Recorded at Casita Mala, Las Cruces, New Mexico, winter 2017/2018.
 
 Music by Jeff T Byrd. Vocals and lyrics by Michael Lee except for "Dad is Bad" and "My Old Friend" (lyrics by Michael and Patrick Lee).
 
-Mastered by James Plotkin.
-Artwork by Tiny Little Hammers.
-Design by Margaréta Feherová.
+Mastered by James Plotkin. Artwork by Tiny Little Hammers. Design by Margaréta Feherová.
