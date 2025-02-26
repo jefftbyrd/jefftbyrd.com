@@ -1,6 +1,6 @@
 {
-  "commit": "e6e442163c303b85d1d40cfaf09b0d45c765d00d",
-  "generated": "2025-02-26T14:32:53.933Z",
+  "commit": "c1ea424c5b392f7d637bce39ef0ace356cf70653",
+  "generated": "2025-02-26T14:34:39.994Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "another",
       "status": "published",
       "title": "Another page"
-    },
-    {
-      "__outstatic": {
-        "commit": "0990ddbb9896d9270bc052cf75c67b70cfbb3714",
-        "hash": "1389382241",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -963,6 +945,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1ea424c5b392f7d637bce39ef0ace356cf70653",
+        "hash": "3272267710",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
