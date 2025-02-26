@@ -1,6 +1,6 @@
 {
-  "commit": "6a63299c8d1fc7cc9a46b0fe4fe04ac29b3dadec",
-  "generated": "2025-02-26T14:32:09.086Z",
+  "commit": "e6e442163c303b85d1d40cfaf09b0d45c765d00d",
+  "generated": "2025-02-26T14:32:53.933Z",
   "metadata": [
     {
       "__outstatic": {
@@ -927,8 +927,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6a63299c8d1fc7cc9a46b0fe4fe04ac29b3dadec",
-        "hash": "2753374745",
+        "commit": "e6e442163c303b85d1d40cfaf09b0d45c765d00d",
+        "hash": "120023969",
         "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
@@ -941,7 +941,7 @@
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
+      "description": "Solo album",
       "gitHubUrl": "",
       "projectOrder": "23",
       "projectTags": [

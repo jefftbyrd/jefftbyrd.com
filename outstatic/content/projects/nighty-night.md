@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'nighty-night'
-description: ''
+description: 'Solo album'
 coverImage: '/images/nighty-night-U2OD.webp'
 videoUrl: ''
 gitHubUrl: ''
