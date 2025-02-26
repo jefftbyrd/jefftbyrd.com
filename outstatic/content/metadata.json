@@ -1,6 +1,6 @@
 {
-  "commit": "449f73529cdf1bcfa636be946f5bc3ed6546c2cc",
-  "generated": "2025-02-26T14:28:26.688Z",
+  "commit": "ae28f2ed8a5235ddf114144e19d99ee4c2eb5a3d",
+  "generated": "2025-02-26T14:29:19.006Z",
   "metadata": [
     {
       "__outstatic": {
@@ -927,8 +927,8 @@
     },
     {
       "__outstatic": {
-        "commit": "449f73529cdf1bcfa636be946f5bc3ed6546c2cc",
-        "hash": "3122649004",
+        "commit": "ae28f2ed8a5235ddf114144e19d99ee4c2eb5a3d",
+        "hash": "1709485235",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
       "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
@@ -961,7 +961,7 @@
       "title": "Goodwater, Alabama 1982",
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "vimeoUrl": "",
-      "websiteLinkText": "Nighty Night at Fort Evil Fruit",
+      "websiteLinkText": "Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
