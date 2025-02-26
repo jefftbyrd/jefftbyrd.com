@@ -1,6 +1,6 @@
 {
-  "commit": "45aa2fd4459ec9ce9b1580555a12d5517101c894",
-  "generated": "2025-02-26T14:00:21.512Z",
+  "commit": "d99f71e67352b5949857b6f0dd6ff56c7d8c3a34",
+  "generated": "2025-02-26T14:20:47.524Z",
   "metadata": [
     {
       "__outstatic": {
@@ -892,45 +892,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f0b684bf3e71b2325e422dd92178a6c0bc94e49c",
-        "hash": "2005778610",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "27",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "45aa2fd4459ec9ce9b1580555a12d5517101c894",
         "hash": "2659667008",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
@@ -963,6 +924,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "More about the Durrs",
       "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
+    },
+    {
+      "__outstatic": {
+        "commit": "d99f71e67352b5949857b6f0dd6ff56c7d8c3a34",
+        "hash": "3480733065",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "goodwater-alabama-1982.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "Nighty Night at Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
 }
