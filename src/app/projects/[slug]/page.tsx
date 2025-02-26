@@ -171,7 +171,7 @@ export default async function Project(params: Params) {
               </div>
               {project.websiteUrl ? (
                 <div
-                  className={` ${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out`}
+                  className={` ${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -184,7 +184,7 @@ export default async function Project(params: Params) {
               ) : null}
               {project.gitHubUrl ? (
                 <div
-                  className={`${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 origin-left transition-all ease-in-out`}
+                  className={`${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -200,7 +200,7 @@ export default async function Project(params: Params) {
                   ? project.projectTags.map(({ label }) => (
                       <span
                         key={label}
-                        className="inline-block uppercase bg-white rounded-full px-3 py-1 text-md font-medium text-xl text-(--color-background) mr-2 mb-2"
+                        className="inline-block uppercase bg-white rounded-full px-4 py-2 text-md font-medium text-xl text-(--color-foreground) mr-2 mb-2"
                       >
                         {label}
                       </span>

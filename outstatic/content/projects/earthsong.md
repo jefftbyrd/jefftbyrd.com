@@ -7,7 +7,12 @@ author:
 slug: 'earthsong'
 description: 'Listen to the planet'
 coverImage: '/images/earthsong-2-c0NT.webp'
-projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
+projectTags:
+  [
+    { 'value': 'code', 'label': 'Code' },
+    { 'value': 'design', 'label': 'Design' },
+    { 'label': 'Sound', 'value': 'sound' },
+  ]
 videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
 websiteUrl: 'https://earthsong.world/'
@@ -23,7 +28,7 @@ spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
-Earthsong is a full stack web application allowing users to explore the sounds of distant places. After choosing a point on the globe, Earthsong finds sounds recorded nearby and teleports the user to the Earthsong Sound Portal, a spatial sonic playground where they can audition, manipulate and mix sounds to create their own sonic environment.
+**Earthsong** is a full stack web application allowing users to explore the sounds of distant places. After choosing a point on the globe, Earthsong finds sounds recorded nearby and teleports the user to the _Earthsong Sound Portal_, a spatial sonic playground where they can audition, manipulate and mix sounds to create their own sonic environment.
 
 ## Features
 

@@ -43,11 +43,13 @@ body::-webkit-scrollbar {
 
 body::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  /* @apply bg-1 bg-solid bg-(--color-vivid); */
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
-  outline: 1px solid slategrey;
+  @apply bg-(--color-foreground);
+  /* background-color: darkgrey; */
+  /* @apply outline: 42px solid ; */
 }
 
 html {
@@ -78,6 +80,13 @@ strong {
   }
   h2 {
     @apply text-3xl font-bold uppercase tracking-wider mb-1;
+  }
+  blockquote {
+    @apply italic font-light bg-[rgba(0,0,0,0.2)] p-4 mx-4 border-s-4 border-(--color-vivid) mb-6;
+
+    p {
+      @apply mb-0;
+    }
   }
 }
 

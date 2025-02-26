@@ -28,7 +28,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-8`}
+      className={`${styles.menuItem} bg-(--color-foreground) pb-8 `}
       // hover:pb-30 transition-all
       // initial={{ opacity: 0, scale: 0.5 }}
       // animate={{ opacity: 1, scale: 1 }}
@@ -102,15 +102,15 @@ export default async function Index() {
 
       <div className="grid grid-cols-7 gap-4 px-24 align-items-start relative">
         <div className="col-span-4">
-          <div className="grid gap-4 mb-4">
+          <div className="grid gap-4 mb-18">
             <FeaturedProject
-              url={`/images/earthsong-slide.webp`}
-              image={`/images/earthsong-slide.webp`}
+              url={`/projects/earthsong/`}
+              image={`/images/featured/earthsong-featured.webp`}
               delayTime={0}
             />
             <FeaturedProject
-              url={`/images/vector-slide.webp`}
-              image={`/images/vector-slide.webp`}
+              url={`/projects/vector/`}
+              image={`/images/featured/vector-1.webp`}
               delayTime={0.2}
             />
           </div>

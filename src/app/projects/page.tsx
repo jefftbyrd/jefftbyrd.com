@@ -1,4 +1,5 @@
 import Header from '@/components/Header';
+import HeaderNew from '@/components/HeaderNew';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
@@ -16,6 +17,7 @@ export default async function Projects() {
     <Layout>
       <div className="w-full mx-auto px-0 pb-16">
         <Header />
+        {/* <HeaderNew /> */}
         <div className="relative pb-6">
           {/* <BlueMinimum /> */}
           <PageTitle pageTitle={`Projects`} />

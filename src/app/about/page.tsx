@@ -42,12 +42,23 @@ export default async function About() {
               </div>
             </div>
 
-            <div className="flex flex-col gap-1">
-              <div className=" px-5 mr-16 ">
+            <div className="px-5 relative">
+              <div className=" fixed mr-30 grid gap-8 -mt-4">
                 <div
-                  className=" text-white text-base fixed mr-36"
+                  className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
+                <div>
+                  <iframe
+                    className="aspect-16/9 w-full"
+                    src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                  ></iframe>
+                </div>
               </div>
             </div>
           </div>
