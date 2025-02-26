@@ -1,25 +1,7 @@
 {
   "commit": "06519c785744c50ae868651d1dfac00a9637e7a1",
-  "generated": "Wed, 26 Feb 2025 14:36:02 GMT",
+  "generated": "Wed, 26 Feb 2025 14:42:27 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "29b9395aa040c2b4e939851cd2b05c820abbba96",
-        "hash": "1389382241",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
     {
       "__outstatic": {
         "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
@@ -91,6 +73,24 @@
       "slug": "another",
       "status": "published",
       "title": "Another page"
+    },
+    {
+      "__outstatic": {
+        "commit": "29b9395aa040c2b4e939851cd2b05c820abbba96",
+        "hash": "2367515716",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     },
     {
       "__outstatic": {
@@ -429,40 +429,6 @@
     },
     {
       "__outstatic": {
-        "commit": "8314b3aff86821454dc533225f40dfae71bfa9b6",
-        "hash": "313015154",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/god-today-EwND.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "269aac0fc818c3a346841180e68c02d11911a23f",
         "hash": "1709485235",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -499,6 +465,40 @@
       "vimeoUrl": "",
       "websiteLinkText": "Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "8314b3aff86821454dc533225f40dfae71bfa9b6",
+        "hash": "313015154",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -581,45 +581,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
-        "hash": "2753374745",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "23",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Released by Fort Evil Fruit",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
         "commit": "e89d8f3a1aba9cf47adc2bbee6d044939dd37da1",
         "hash": "1058670663",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -696,28 +657,24 @@
     },
     {
       "__outstatic": {
-        "commit": "b18e74a8bf7e72bb2908268e1c86ff2da1c79a1c",
-        "hash": "294409804",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
+        "hash": "2753374745",
+        "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "coverImage": "/images/nighty-night-U2OD.webp",
       "description": "",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "23",
       "projectTags": [
-        {
-          "label": "Design",
-          "value": "design"
-        },
         {
           "label": "Album",
           "value": "album"
@@ -727,14 +684,15 @@
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "I Became a Bird of Prey",
+      "title": "Nighty Night",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Released by Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     },
     {
       "__outstatic": {
@@ -774,6 +732,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Lamb Alley on Bandcamp",
       "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+    },
+    {
+      "__outstatic": {
+        "commit": "b18e74a8bf7e72bb2908268e1c86ff2da1c79a1c",
+        "hash": "294409804",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
