@@ -22,4 +22,4 @@ title: 'The Durrs of Montgomery'
 publishedAt: '2025-01-27T21:47:00.739Z'
 ---
 
-Durrs
+From the Depression to the New Deal to the Anti-Communist Hunt to the Civil Rights Movement, the Alabama natives Clifford and Virginia Durr were active participants in some of the most important historical events of the 20th century.
