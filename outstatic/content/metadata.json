@@ -1,6 +1,6 @@
 {
-  "commit": "d99f71e67352b5949857b6f0dd6ff56c7d8c3a34",
-  "generated": "2025-02-26T14:20:47.524Z",
+  "commit": "449f73529cdf1bcfa636be946f5bc3ed6546c2cc",
+  "generated": "2025-02-26T14:28:26.688Z",
   "metadata": [
     {
       "__outstatic": {
@@ -927,11 +927,11 @@
     },
     {
       "__outstatic": {
-        "commit": "d99f71e67352b5949857b6f0dd6ff56c7d8c3a34",
-        "hash": "3480733065",
+        "commit": "449f73529cdf1bcfa636be946f5bc3ed6546c2cc",
+        "hash": "3122649004",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
-      "additionalImages": "",
+      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
