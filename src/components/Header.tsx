@@ -21,8 +21,13 @@ const Header = () => {
   });
   const [logoScale, setLogoScale] = useState(1);
 
-  const mapNumRange = (num, inMin, inMax, outMin, outMax) =>
-    ((num - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin;
+  const mapNumRange = (
+    num: number,
+    inMin: number,
+    inMax: number,
+    outMin: number,
+    outMax: number,
+  ): number => ((num - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin;
 
   useMotionValueEvent(scrollYProgress, 'change', (current) => {
     let newScale = current;

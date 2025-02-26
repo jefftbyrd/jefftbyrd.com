@@ -53,9 +53,9 @@ export default async function About() {
                     className="aspect-16/9 w-full"
                     src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
                     title="YouTube video player"
-                    frameborder="0"
+                    // frameBorder={0}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin"
+                    referrerPolicy="strict-origin-when-cross-origin"
                     allowFullScreen
                   ></iframe>
                 </div>
