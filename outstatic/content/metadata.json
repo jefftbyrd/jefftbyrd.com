@@ -1,6 +1,6 @@
 {
-  "commit": "ae28f2ed8a5235ddf114144e19d99ee4c2eb5a3d",
-  "generated": "2025-02-26T14:29:19.006Z",
+  "commit": "0863be751513de7ed60a8a80bab087bc176eb8a0",
+  "generated": "2025-02-26T14:31:03.602Z",
   "metadata": [
     {
       "__outstatic": {
@@ -548,45 +548,6 @@
     },
     {
       "__outstatic": {
-        "commit": "570cdba5d047909a4533b752a73e5346938f64cd",
-        "hash": "4108585080",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "23",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "c255867b4417662b9ad76080b6e2aa3877dbe221",
         "hash": "3807202063",
         "path": "outstatic/content/projects/lamb-alley.md"
@@ -962,6 +923,45 @@
       "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "vimeoUrl": "",
       "websiteLinkText": "Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "0863be751513de7ed60a8a80bab087bc176eb8a0",
+        "hash": "743154133",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "23",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
