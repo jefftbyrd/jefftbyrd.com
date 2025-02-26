@@ -1,16 +1,18 @@
 ---
+spotifyEmbedUrl: ''
+bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
 projectOrder: ''
-websiteLinkText: ''
+websiteLinkText: 'More about the Durrs'
 bigImage: ''
 additionalImages: ''
-websiteUrl: ''
+websiteUrl: 'https://www.durrlectures.org/the-durrs-of-montgomery'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 coverImage: '/images/durrs-kxMT.webp'
-description: ''
+description: 'Documentary film about the Civil Rights Movement'
 slug: 'durrs-of-montgomery'
 author:
   name: 'Jeff T Byrd'
