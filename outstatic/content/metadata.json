@@ -1,6 +1,6 @@
 {
-  "commit": "0863be751513de7ed60a8a80bab087bc176eb8a0",
-  "generated": "2025-02-26T14:31:03.602Z",
+  "commit": "6a63299c8d1fc7cc9a46b0fe4fe04ac29b3dadec",
+  "generated": "2025-02-26T14:32:09.086Z",
   "metadata": [
     {
       "__outstatic": {
@@ -927,8 +927,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0863be751513de7ed60a8a80bab087bc176eb8a0",
-        "hash": "743154133",
+        "commit": "6a63299c8d1fc7cc9a46b0fe4fe04ac29b3dadec",
+        "hash": "2753374745",
         "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
