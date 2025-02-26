@@ -1,6 +1,6 @@
 {
-  "commit": "17347ab69cc80a561668c3d13345da35dd33c237",
-  "generated": "2025-02-24T20:22:27.859Z",
+  "commit": "f0b684bf3e71b2325e422dd92178a6c0bc94e49c",
+  "generated": "2025-02-26T09:12:48.631Z",
   "metadata": [
     {
       "__outstatic": {
@@ -471,44 +471,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c7f4623a723cc1f897a86b8af7cba4c44aa2aab4",
-        "hash": "709846482",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "27",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "8314b3aff86821454dc533225f40dfae71bfa9b6",
         "hash": "313015154",
         "path": "outstatic/content/projects/god-today.md"
@@ -957,6 +919,45 @@
       "status": "published",
       "title": "Edinburgh International Film Festival",
       "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f0b684bf3e71b2325e422dd92178a6c0bc94e49c",
+        "hash": "2005778610",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "goodwater-alabama-1982.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "slug": "goodwater-alabama-1982",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
