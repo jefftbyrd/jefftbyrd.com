@@ -30,11 +30,11 @@ const ProjectGrid = ({
         {/* <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
         {title}
       </h2> */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-5 sm:gap-y-6 lg:gap-y-8 pt-6">
+        <div className="grid grid-cols-1 mx-4 lg:mx-0 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-4 sm:gap-y-6 lg:gap-y-8 pt-8">
           {items.map((item, id) => (
             <Link key={item.slug} href={`/${collection}/${item.slug}`}>
               <div
-                className={`${styles.projectLink} cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
+                className={`${styles.projectLink} cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
               >
                 <div className={styles.gridItem}>
                   <Image

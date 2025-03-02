@@ -20,7 +20,7 @@ export default function Logo(props) {
       <motion.h1
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
-        className={styles.logo}
+        className={`lg:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} z-100`}
       >
         Jeff <span className={styles.bump}>T</span> Byrd
       </motion.h1>

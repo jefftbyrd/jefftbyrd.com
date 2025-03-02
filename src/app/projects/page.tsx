@@ -1,5 +1,4 @@
 import Header from '@/components/Header';
-import HeaderNew from '@/components/HeaderNew';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
 import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
@@ -24,7 +23,7 @@ export default async function Projects() {
           <BlueAbsolute />
         </div>
         {/* <BlueAbsolute /> */}
-        <div className="px-16">
+        <div className="lg:px-16">
           {allProjects.length > 0 && (
             <ProjectGrid
               title="Projects"

@@ -1,18 +1,9 @@
 import Header from '@/components/Header';
 import PageTitle from '@/components/PageTitle';
-import ProjectBlueVert from '@/components/ProjectBlueVert';
 import Image from 'next/image';
-// import 'swiper/css';
 import { load } from 'outstatic/server';
-import BigMenu from '../../components/BigMenu';
 import BlueAbsolute from '../../components/BlueAbsolute';
-// import { Swiper, SwiperSlide } from 'swiper/react';
-// import Slider from 'react-slick';
-import BlueVert from '../../components/BlueVert';
-import ContentGrid from '../../components/ContentGrid';
-import styles from '../../components/home.module.css';
 import Layout from '../../components/Layout';
-import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
 export default async function About() {
@@ -29,7 +20,7 @@ export default async function About() {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 px-16  py-0">
+          <div className="grid md:grid-cols-2 gap-6 px-16 py-0">
             <div className="flex flex-col gap-4 pt-5">
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image
@@ -42,8 +33,8 @@ export default async function About() {
               </div>
             </div>
 
-            <div className="px-5 relative">
-              <div className=" fixed mr-30 grid gap-8 -mt-4">
+            <div className="lg:px-5 relative">
+              <div className="lg:fixed lg:mr-30 grid lg:gap-8 -mt-4">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}

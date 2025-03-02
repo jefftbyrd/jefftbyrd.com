@@ -2,33 +2,17 @@
 
 .logo {
   font-family: var(--font-karrik);
-  font-size: calc(24px + (200 - 24) * ((100vw - 300px) / (1600 - 300)));
-  /* font-weight: var(--font-weight-normal); */
-  /* font-weight: 600; */
-  text-transform: uppercase;
+  /* font-size: calc(24px + (200 - 24) * ((100vw - 300px) / (1600 - 300))); */
   text-align: center;
-  /* color: #070707; */
-  /* color: white; */
   line-height: 100%;
-  /* position: fixed; */
-  /* top: 0; */
-  z-index: 100;
-  /* transform: scale min(10vw, 100px) !important; */
-  /* text-shadow: var(--color-vivid) 0px 6px; */
+  /* z-index: 100; */
+  /* white-space: nowrap;
+  overflow: hidden; */
 }
 
 .jtbHeader {
   position: relative;
 }
-
-/* .logo-original {
-  font-family: var(--font-karrik);
-  font-size: calc(24px + (200 - 24) * ((100vw - 300px) / (1600 - 300)));
-  text-transform: uppercase;
-  text-align: center;
-  color: #070707;
-  line-height: 100%;
-} */
 
 .bump {
   position: relative;
@@ -72,5 +56,5 @@
   /* height: 100vh; */
   /* padding-bottom: 30px; */
   padding-top: 15px;
-  font-size: 4.1em;
+  /* font-size: 4.1em; */
 }

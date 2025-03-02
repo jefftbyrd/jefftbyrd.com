@@ -1,4 +1,3 @@
-import ContentGrid from '@/components/ContentGrid';
 import DateFormatter from '@/components/DateFormatter';
 import Header from '@/components/Header';
 import Layout from '@/components/Layout';
@@ -116,9 +115,9 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="pb-16 bg-(--color-background)">
-          <div className="grid md:grid-cols-2 gap-6 px-24 py-0">
-            <div className="flex flex-col gap-4 pt-5">
+        <article className="lg:pb-16 bg-(--color-background)">
+          <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
+            <div className="flex flex-col lg:gap-4 pt-2 lg:pt-5">
               {project.bandcampEmbedUrl ? (
                 <EmbedBandcamp bandcampEmbedUrl={project.bandcampEmbedUrl} />
               ) : null}
@@ -142,36 +141,16 @@ export default async function Project(params: Params) {
               ) : null}
             </div>
 
-            <div className="flex flex-col gap-2">
-              <div className="bg-(--color-foreground) px-5 py-3">
+            <div className="flex flex-col lg:gap-2">
+              <div className="bg-(--color-foreground) px-5 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
-                {/* <div className="w-full h-full">
-                  <iframe
-                    // style="border: 0; width: 100%; height: 120px;"
-                    className="w-full h-[500px]"
-                    src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=true/artwork=small/transparent=true/"
-                    seamless
-                  >
-                    <a href="https://fortevilfruit.bandcamp.com/album/nighty-night">
-                      Nighty Night by Jeff T Byrd
-                    </a>
-                  </iframe>
-                </div> */}
-                {/* <div className="w-full h-full">
-                  <iframe
-                    // style={{ border: '0', width: '350px', height: '654px' }}
-                    className="w-full h-[900px]"
-                    src="https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/"
-                    seamless
-                  ></iframe>
-                </div> */}
               </div>
               {project.websiteUrl ? (
                 <div
-                  className={` ${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out`}
+                  className={`bg-(--color-vivid) text-(--color-foreground) font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-2 lg:mx-0 border-3 lg:border-6 border-solid border-(--color-foreground)`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -184,7 +163,7 @@ export default async function Project(params: Params) {
               ) : null}
               {project.gitHubUrl ? (
                 <div
-                  className={`${styles.bigLink} bg-(--color-foreground)  text-white font-medium uppercase tracking-wide text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out`}
+                  className={`bg-(--color-vivid) text-(--color-foreground) font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-2 lg:mx-0 border-3 lg:border-6 border-solid border-(--color-foreground)`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -200,7 +179,7 @@ export default async function Project(params: Params) {
                   ? project.projectTags.map(({ label }) => (
                       <span
                         key={label}
-                        className="inline-block uppercase bg-white rounded-full px-4 py-2 text-md font-medium text-xl text-(--color-foreground) mr-2 mb-2"
+                        className="inline-block uppercase bg-white rounded-full px-4 py-2 text-md font-medium text-xl text-(--color-foreground) mr-2 mb-2 "
                       >
                         {label}
                       </span>

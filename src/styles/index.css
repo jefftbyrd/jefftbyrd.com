@@ -56,10 +56,10 @@ html {
   font-family: var(--font-space);
   font-weight: 300;
   background-color: var(--color-background);
-  font-size: 20px;
+  /* font-size: 20px; */
   /* overflow: scroll; */
-  /* scrollbar-color: #fff #000;
-  scrollbar-width: auto; */
+  /* scrollbar-color: #fff #000; */
+  /* scrollbar-width: auto; */
 }
 
 strong {
@@ -97,7 +97,3 @@ strong {
     }
   }
 }
-
-/* h1 {
-  font-family: var(--font-karrik);
-} */

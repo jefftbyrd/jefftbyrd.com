@@ -59,7 +59,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${karrik.variable} ${space.variable} ${hanken.variable}`}
+      className={`${karrik.variable} ${space.variable} ${hanken.variable} text-[15px] sm:text-[20px]`}
     >
       <body>{children}</body>
     </html>
