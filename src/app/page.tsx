@@ -80,9 +80,9 @@ export default async function Index() {
 
   return (
     <Layout>
-      {/* <div
-        className={`bg-(--color-foreground) w-xl sticky top-0 -z-100 md:h-6 h-2 justify-self-center`}
-      /> */}
+      <div
+        className={`bg-(--color-foreground) w-xl sticky top-0 -z-100 md:h-6 h-3 justify-self-center`}
+      />
       <div className="max-w-none mx-auto px-0">
         <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8">
           <Logo />
