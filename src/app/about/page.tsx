@@ -11,7 +11,6 @@ export default async function About() {
 
   return (
     <Layout>
-      {/* <BlueAbsolute /> */}
       <div className="w-full mx-auto px-0">
         <Header />
         <div className="relative pb-12">
@@ -20,7 +19,7 @@ export default async function About() {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 px-16 py-0">
+          <div className="grid md:grid-cols-2 gap-6 lg:px-16 py-0">
             <div className="flex flex-col gap-4 pt-5">
               <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
                 <Image
@@ -34,7 +33,7 @@ export default async function About() {
             </div>
 
             <div className="lg:px-5 relative">
-              <div className="lg:fixed lg:mr-30 grid lg:gap-8 -mt-4">
+              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}

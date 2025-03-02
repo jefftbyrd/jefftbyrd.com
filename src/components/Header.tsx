@@ -42,7 +42,7 @@ const Header = () => {
   const MenuItem = ({ children }: Props) => {
     return (
       <li
-        className={` transition-all text-xl font-semibold xl:text-3xl lg:text-2xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
+        className={` transition-all text-xl xl:text-3xl lg:text-2xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
       >
         {children}
       </li>
@@ -53,10 +53,10 @@ const Header = () => {
     <header className="sticky z-100 top-0 bg-(--color-background) border-b-1 border-solid border-(--color-background)">
       <nav>
         <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-24 py-0 border-b-1 border-solid border-(--color-foreground) ">
-          <div className="grid lg:items-end px-4">
+          <div className="grid lg:items-end px-4 py-2 lg:py-0">
             <Link href="/">
               <h1
-                className={`${styles.logo} uppercase text-6xl lg:text-3xl text-black opacity-70 transition-all delay-100 duration-300 ease-in-out hover:tracking-widest active:tracking-tight hover:opacity-100 text-center lg:text-left mt-2 lg:mt-0 `}
+                className={`${styles.logo} uppercase text-5xl lg:text-3xl text-black opacity-70 transition-all delay-100 duration-300 ease-in-out hover:tracking-widest active:tracking-tight hover:opacity-100 text-center lg:text-left mt-2 lg:mt-0`}
               >
                 Jeff <span className={styles.bump}>T</span> Byrd
               </h1>
