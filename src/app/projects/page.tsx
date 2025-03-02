@@ -14,7 +14,7 @@ export default async function Projects() {
 
   return (
     <Layout>
-      <div className="w-full mx-auto px-0 pb-16">
+      <div className="w-full mx-auto px-0 pb-4 lg:pb-16">
         <Header />
         {/* <HeaderNew /> */}
         <div className="relative pb-6">

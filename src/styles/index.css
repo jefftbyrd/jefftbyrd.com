@@ -7,6 +7,7 @@
   --color-background: oklch(55.57% 0.2241 329.7);
   --color-vivid: #ff2aed;
   --color-vivid2: oklch(73.23% 0.3046 331.14);
+  /* --font-karrik: var(--font-karrik); */
   /* --karrik: var(--font-karrik); */
 }
 

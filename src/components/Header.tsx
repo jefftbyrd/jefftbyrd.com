@@ -56,7 +56,7 @@ const Header = () => {
           <div className="grid lg:items-end px-4 py-2 lg:py-0">
             <Link href="/">
               <h1
-                className={`${styles.logo} uppercase text-5xl lg:text-3xl text-black opacity-70 transition-all delay-100 duration-300 ease-in-out hover:tracking-widest active:tracking-tight hover:opacity-100 text-center lg:text-left mt-2 lg:mt-0`}
+                className={`${styles.logo} font-(--font-karrik) uppercase text-5xl lg:text-3xl text-black opacity-70 transition-all delay-100 duration-300 ease-in-out hover:tracking-widest active:tracking-tight hover:opacity-100 text-center lg:text-left mt-2 lg:mt-0`}
               >
                 Jeff <span className={styles.bump}>T</span> Byrd
               </h1>

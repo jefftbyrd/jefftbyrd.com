@@ -84,7 +84,7 @@ export default async function Project(params: Params) {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="relative pb-12">
+        <div className="relative pb-8 md:pb-12">
           <PageTitle pageTitle={project.title} />
           <BlueAbsolute />
         </div>
@@ -103,8 +103,7 @@ export default async function Project(params: Params) {
             <Image
               src={
                 project.bigImage
-                  ? // ? `/images/projects/${project.bigImage ?? ''}`
-                    `/images/projects/${project?.bigImage ?? ''}`
+                  ? `/images/projects/${project?.bigImage ?? ''}`
                   : `${project?.coverImage || ''}`
               }
               alt={`Cover Image for ${project.title}`}
@@ -115,9 +114,9 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="lg:pb-16 bg-(--color-background)">
+        <article className="lg:pb-16 md:bg-(--color-background)">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
-            <div className="flex flex-col lg:gap-4 pt-2 lg:pt-5">
+            <div className="flex flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
               {project.bandcampEmbedUrl ? (
                 <EmbedBandcamp bandcampEmbedUrl={project.bandcampEmbedUrl} />
               ) : null}
@@ -141,7 +140,7 @@ export default async function Project(params: Params) {
               ) : null}
             </div>
 
-            <div className="flex flex-col lg:gap-2">
+            <div className="flex flex-col gap-2">
               <div className="bg-(--color-foreground) px-5 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent`}
