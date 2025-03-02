@@ -28,7 +28,7 @@ export default function Logo(props) {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={`${styles.subtitle} uppercase z-100 mb-2 md:mb-0`}
+        className={`${styles.subtitle} text-center uppercase z-100 mb-2 md:mb-0 text-2xl md:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))]`}
       >
         Web developer, composer & sound designer
       </motion.h2>

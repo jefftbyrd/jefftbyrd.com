@@ -91,7 +91,7 @@ export default async function Index() {
       </div>
 
       <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed bottom-0">
-        <div className="flex flex-col gap-2 lg:mb-18 md:col-span-4 justify-start">
+        <div className="flex flex-col gap-2 lg:mb-18 md:col-span-4 justify-center">
           <FeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
