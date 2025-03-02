@@ -81,7 +81,7 @@ export default async function Index() {
   return (
     <Layout>
       <div
-        className={`bg-(--color-foreground) w-xl sticky top-0 -z-100 md:h-6 h-3 justify-self-center`}
+        className={`bg-(--color-foreground) w-full md:w-xl md:sticky top-0 -z-100 md:h-6 h-3 justify-self-center`}
       />
       <div className="max-w-none mx-auto px-0">
         <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8">
@@ -89,8 +89,8 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end ">
-        <div className="grid gap-2 lg:mb-18 md:col-span-4">
+      <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed bottom-0">
+        <div className="grid gap-2 lg:mb-18 md:col-span-4 justify-items-start">
           <FeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
@@ -103,8 +103,8 @@ export default async function Index() {
           />
         </div>
 
-        <div className="">
-          <div className="grid grid-cols-3 gap-2 md:gap-4 fixed bottom-0 md:w-1/3 md:col-span-3">
+        <div className="relative">
+          <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 absolute w-full">
             <MenuItem title={`Projects`} delayTime={0} />
             <MenuItem title={`About`} delayTime={0.2} />
             <MenuItem title={`Contact`} delayTime={0.4} />
