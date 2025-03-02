@@ -116,7 +116,7 @@ export default async function Project(params: Params) {
 
         <article className="lg:pb-16 md:bg-(--color-background)">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
-            <div className="flex flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
+            <div className="flex gap-2 flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
               {project.bandcampEmbedUrl ? (
                 <EmbedBandcamp bandcampEmbedUrl={project.bandcampEmbedUrl} />
               ) : null}
@@ -141,7 +141,7 @@ export default async function Project(params: Params) {
             </div>
 
             <div className="flex flex-col gap-2">
-              <div className="bg-(--color-foreground) px-5 lg:py-3">
+              <div className="bg-(--color-foreground) w-90 sm:w-auto px-5 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent`}
                   dangerouslySetInnerHTML={{ __html: content }}

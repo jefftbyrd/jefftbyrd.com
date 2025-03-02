@@ -33,7 +33,7 @@ export default async function About() {
             </div>
 
             <div className="lg:px-5 relative">
-              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4">
+              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4 w-90 sm:w-auto">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
