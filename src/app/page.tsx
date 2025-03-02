@@ -25,7 +25,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-4xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] w-full bottom-0`}
+      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] bottom-0`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{
@@ -89,7 +89,7 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="grid grid-cols-2 gap-4 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-start relative">
+      <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end ">
         <div className="grid gap-2 lg:mb-18 md:col-span-4">
           <FeaturedProject
             url={`/projects/earthsong/`}
