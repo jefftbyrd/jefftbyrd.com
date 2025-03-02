@@ -25,7 +25,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-4xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px]`}
+      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-4xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] w-full bottom-0`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{
@@ -80,32 +80,31 @@ export default async function Index() {
 
   return (
     <Layout>
-      <div
+      {/* <div
         className={`bg-(--color-foreground) w-xl sticky top-0 -z-100 md:h-6 h-2 justify-self-center`}
-      />
+      /> */}
       <div className="max-w-none mx-auto px-0">
         <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8">
           <Logo />
         </section>
       </div>
 
-      <div className="grid grid-cols-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-start relative">
-        <div className="md:col-span-4">
-          <div className="grid gap-2 lg:mb-18">
-            <FeaturedProject
-              url={`/projects/earthsong/`}
-              image={`/images/featured/earthsong-featured.webp`}
-              delayTime={0}
-            />
-            <FeaturedProject
-              url={`/projects/vector/`}
-              image={`/images/featured/vector-1.webp`}
-              delayTime={0.2}
-            />
-          </div>
+      <div className="grid grid-cols-2 gap-4 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-start relative">
+        <div className="grid gap-2 lg:mb-18 md:col-span-4">
+          <FeaturedProject
+            url={`/projects/earthsong/`}
+            image={`/images/featured/earthsong-featured.webp`}
+            delayTime={0}
+          />
+          <FeaturedProject
+            url={`/projects/vector/`}
+            image={`/images/featured/vector-1.webp`}
+            delayTime={0.2}
+          />
         </div>
-        <div className="md:col-span-3 w-max">
-          <div className="grid grid-cols-3 gap-2 md:gap-4 fixed h-max bottom-0 md:w-1/3">
+
+        <div className="">
+          <div className="grid grid-cols-3 gap-2 md:gap-4 fixed bottom-0 md:w-1/3 md:col-span-3">
             <MenuItem title={`Projects`} delayTime={0} />
             <MenuItem title={`About`} delayTime={0.2} />
             <MenuItem title={`Contact`} delayTime={0.4} />
