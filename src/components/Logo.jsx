@@ -20,7 +20,7 @@ export default function Logo(props) {
       <motion.h1
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
-        className={`lg:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} z-100`}
+        className={`py-2 sm:py-0 lg:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} z-100`}
       >
         Jeff <span className={styles.bump}>T</span> Byrd
       </motion.h1>
@@ -28,7 +28,7 @@ export default function Logo(props) {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={styles.subtitle}
+        className={`${styles.subtitle} uppercase z-100 mb-2 md:mb-0`}
       >
         Web developer, composer & sound designer
       </motion.h2>

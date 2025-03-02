@@ -20,7 +20,7 @@
 }
 
 .subtitle {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-family: var(--font-space);
   font-size: calc(16px + (38 - 16) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 300;
@@ -28,8 +28,8 @@
   line-height: 100%;
   /* color: white; */
   /* display: block; */
-  position: relative;
-  z-index: 100;
+  /* position: relative; */
+  /* z-index: 100; */
 }
 
 .blueVert {
@@ -40,8 +40,8 @@
   writing-mode: vertical-rl;
   text-orientation: upright;
   /* line-height: 0px; */
-  letter-spacing: -28px;
-  text-transform: uppercase;
+  /* letter-spacing: -28px; */
+  /* text-transform: uppercase; */
   font-weight: 600;
   color: var(--color-vivid);
   /* background-color: yellow; */
