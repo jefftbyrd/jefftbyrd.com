@@ -25,7 +25,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-6xl uppercase tracking-[-15px] md:tracking-[-28px]`}
+      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-4xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px]`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{
