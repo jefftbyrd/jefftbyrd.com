@@ -72,7 +72,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 // const additionalImagesSeparate = project.additionalImages.split(',');
 
 export default async function Project(params: Params) {
-  const { project, moreProjects, content } = await getData(
+  const { project, content } = await getData(
     /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
     params,
   );

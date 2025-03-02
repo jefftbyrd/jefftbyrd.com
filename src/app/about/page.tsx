@@ -21,7 +21,7 @@ interface Params {
   };
 }
 
-export async function generateMetadata(params: Params): Promise<Metadata> {
+export async function generateMetadata(): Promise<Metadata> {
   const { page } = await getData();
   /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
   // params,
