@@ -25,7 +25,7 @@ type PropsFeaturedProject = {
 const MenuItem = (props: PropsMenuItem) => {
   return (
     <motion.div
-      className={`${styles.menuItem} bg-(--color-foreground) pb-8 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] bottom-0`}
+      className={`${styles.menuItem} pt-2 bg-(--color-foreground) pb-4 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] bottom-0`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{
@@ -53,7 +53,7 @@ const MenuItem = (props: PropsMenuItem) => {
 const FeaturedProject = (props: PropsFeaturedProject) => {
   return (
     <motion.a
-      className="origin-right"
+      className=""
       href={props.url}
       whileHover={{
         scale: 1.05,
@@ -62,6 +62,7 @@ const FeaturedProject = (props: PropsFeaturedProject) => {
       whileTap={{ scale: 0.95 }}
     >
       <motion.img
+        className=""
         src={props.image}
         initial={{ x: -1000 }}
         animate={{ x: 0 }}
@@ -90,7 +91,7 @@ export default async function Index() {
       </div>
 
       <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed bottom-0">
-        <div className="grid gap-2 lg:mb-18 md:col-span-4 justify-items-start">
+        <div className="flex flex-col gap-2 lg:mb-18 md:col-span-4 justify-start">
           <FeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
@@ -103,8 +104,8 @@ export default async function Index() {
           />
         </div>
 
-        <div className="relative">
-          <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 absolute w-full">
+        <div className="">
+          <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 w-full">
             <MenuItem title={`Projects`} delayTime={0} />
             <MenuItem title={`About`} delayTime={0.2} />
             <MenuItem title={`Contact`} delayTime={0.4} />
