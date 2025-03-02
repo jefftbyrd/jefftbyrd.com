@@ -4,14 +4,10 @@ import { Metadata } from 'next';
 import { Hanken_Grotesk, Space_Grotesk } from 'next/font/google';
 import localFont from 'next/font/local';
 
-// import { Hanken+Grotesk } from 'next/font/google';
-
-// const chivo = Chivo({ subsets: ['latin'], display: 'swap' });
-
-const hanken = Hanken_Grotesk({
-  subsets: ['latin'],
-  variable: '--font-hanken',
-});
+// const hanken = Hanken_Grotesk({
+//   subsets: ['latin'],
+//   variable: '--font-hanken',
+// });
 
 const space = Space_Grotesk({
   subsets: ['latin'],
@@ -24,17 +20,17 @@ const karrik = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https://jefftbyrd.com'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic',
+    default: 'Jeff T Byrd',
+    template: '%s | Jeff T Byrd',
   },
   description: 'A blog starter built with Outstatic.',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
+    title: 'Jeff T Byrd - Web Developer, Composer & Sound Designer',
+    description: 'A portfolio site.',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'Jeff T Byrd',
     images: [
       {
         url: absoluteUrl('/images/og-image.png'),
@@ -59,7 +55,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${karrik.variable} ${space.variable} ${hanken.variable} text-[15px] sm:text-[20px]`}
+      className={`${karrik.variable} ${space.variable} text-[15px] sm:text-[20px]`}
     >
       <body>{children}</body>
     </html>

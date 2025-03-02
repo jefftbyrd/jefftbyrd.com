@@ -1,6 +1,8 @@
 import Header from '@/components/Header';
 import PageTitle from '@/components/PageTitle';
 import ProjectBlueVert from '@/components/ProjectBlueVert';
+import { absoluteUrl } from '@/lib/utils';
+import { Metadata } from 'next';
 import Image from 'next/image';
 import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
@@ -29,8 +31,44 @@ const ContactLink = (props: Props) => {
   );
 };
 
+export async function generateMetadata(params: Params): Promise<Metadata> {
+  const { page } = await getData();
+  /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  // params,
+  // page,
+
+  if (!page) {
+    return {};
+  }
+
+  return {
+    title: page.title,
+    description: page.description,
+    openGraph: {
+      title: page.title,
+      description: page.description,
+      type: 'article',
+      url: absoluteUrl(`/${page.slug}`),
+      images: [
+        {
+          url: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+          width: 1200,
+          height: 630,
+          alt: page.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: page.title,
+      description: page.description,
+      images: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+    },
+  };
+}
+
 export default async function Contact() {
-  const { content, allPosts, allProjects } = await getData();
+  const { page, content } = await getData();
 
   return (
     <Layout>
@@ -69,7 +107,13 @@ async function getData() {
   const db = await load();
 
   const page = await db
-    .find({ collection: 'pages', slug: 'contact' }, ['content'])
+    .find({ collection: 'pages', slug: 'contact' }, [
+      'content',
+      'title',
+      'slug',
+      'coverImage',
+      'description',
+    ])
     .first();
 
   const content = await markdownToHtml(page.content);
@@ -92,8 +136,9 @@ async function getData() {
     .toArray();
 
   return {
+    page,
     content,
-    allPosts,
-    allProjects,
+    // allPosts,
+    // allProjects,
   };
 }

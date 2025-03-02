@@ -20,6 +20,7 @@ const Header = () => {
     offset: ['end end', 'start start'],
   });
   const [logoScale, setLogoScale] = useState(1);
+  const [logoScale2, setLogoScale2] = useState(1);
 
   const mapNumRange = (
     num: number,
@@ -35,6 +36,7 @@ const Header = () => {
       newScale = 0.8;
     }
     setLogoScale(mapNumRange(newScale, 0.8, 1, 0, 1));
+    setLogoScale2(mapNumRange(newScale, 0.8, 1, 0.7, 1));
   });
 
   console.log('logoScale', logoScale);
@@ -53,7 +55,14 @@ const Header = () => {
     <header className="sticky z-100 top-0 bg-(--color-background) border-b-1 border-solid border-(--color-background)">
       <nav>
         <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-24 py-0 border-b-1 border-solid border-(--color-foreground) ">
-          <div className="grid lg:items-end px-4 py-2 lg:py-0">
+          <motion.div
+            style={{
+              scale: logoScale2,
+              paddingTop: logoScale * 15,
+              paddingBottom: logoScale * 15,
+            }}
+            className="grid lg:items-end px-4 py-2 lg:py-0"
+          >
             <Link href="/">
               <h1
                 className={`${styles.logo} font-(--font-karrik) uppercase text-5xl lg:text-3xl text-black opacity-70 transition-all delay-100 duration-300 ease-in-out hover:tracking-widest active:tracking-tight hover:opacity-100 text-center lg:text-left mt-2 lg:mt-0`}
@@ -61,7 +70,7 @@ const Header = () => {
                 Jeff <span className={styles.bump}>T</span> Byrd
               </h1>
             </Link>
-          </div>
+          </motion.div>
           <motion.div
             style={{
               paddingTop: logoScale * 25,

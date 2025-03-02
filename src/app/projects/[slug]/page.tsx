@@ -11,13 +11,10 @@ import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
 import AdditionalImages from '../../../components/AdditionalImages';
 import BlueAbsolute from '../../../components/BlueAbsolute';
-import BlueMinimum from '../../../components/BlueMinimum';
 import EmbedBandcamp from '../../../components/EmbedBandcamp';
 import EmbedSpotify from '../../../components/EmbedSpotify';
 import EmbedVimeo from '../../../components/EmbedVimeo';
 import EmbedYoutube from '../../../components/EmbedYoutube';
-import ProjectBlueVert from '../../../components/ProjectBlueVert';
-import styles from '../../../styles/projectSingle.module.css';
 
 type Project = {
   tags: { value: string; label: string }[];
@@ -114,7 +111,7 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="lg:pb-16 md:bg-(--color-background)">
+        <article className="pb-6 lg:pb-16 md:bg-(--color-background)">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
             <div className="flex gap-2 flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
               {project.bandcampEmbedUrl ? (
@@ -224,18 +221,18 @@ async function getData({ params }: Params) {
 
   const content = await markdownToHtml(project.content);
 
-  const moreProjects = await db
-    .find({ collection: 'projects', slug: { $ne: params.slug } }, [
-      'title',
-      'slug',
-      'coverImage',
-    ])
-    .toArray();
+  // const moreProjects = await db
+  //   .find({ collection: 'projects', slug: { $ne: params.slug } }, [
+  //     'title',
+  //     'slug',
+  //     'coverImage',
+  //   ])
+  //   .toArray();
 
   return {
     project,
     content,
-    moreProjects,
+    // moreProjects,
   };
 }
 

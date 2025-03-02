@@ -1,20 +1,71 @@
+// import DateFormatter from '@/components/DateFormatter';
 import Header from '@/components/Header';
 import PageTitle from '@/components/PageTitle';
+import { absoluteUrl } from '@/lib/utils';
+import { Metadata } from 'next';
 import Image from 'next/image';
-import { load } from 'outstatic/server';
+// import { notFound } from 'next/navigation';
+import { OstDocument } from 'outstatic';
+import { getDocumentSlugs, load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import markdownToHtml from '../../lib/markdownToHtml';
 
+type Post = {
+  tags: { value: string; label: string }[];
+} & OstDocument;
+
+interface Params {
+  params: {
+    slug: string;
+  };
+}
+
+export async function generateMetadata(params: Params): Promise<Metadata> {
+  const { page } = await getData();
+  /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+  // params,
+  // page,
+
+  if (!page) {
+    return {};
+  }
+
+  return {
+    title: page.title,
+    description: page.description,
+    openGraph: {
+      title: page.title,
+      description: page.description,
+      type: 'article',
+      url: absoluteUrl(`/${page.slug}`),
+      images: [
+        {
+          url: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+          width: 1200,
+          height: 630,
+          alt: page.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: page.title,
+      description: page.description,
+      images: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+    },
+  };
+}
+
 export default async function About() {
-  const { content, allPosts, allProjects } = await getData();
+  const { content, page } = await getData();
 
   return (
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
         <div className="relative pb-12">
-          <PageTitle pageTitle={'About'} />
+          <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>
 
@@ -62,7 +113,13 @@ async function getData() {
   const db = await load();
 
   const page = await db
-    .find({ collection: 'pages', slug: 'about' }, ['content'])
+    .find({ collection: 'pages', slug: 'about' }, [
+      'content',
+      'title',
+      'slug',
+      'coverImage',
+      'description',
+    ])
     .first();
 
   const content = await markdownToHtml(page.content);
@@ -85,8 +142,9 @@ async function getData() {
     .toArray();
 
   return {
+    page,
     content,
-    allPosts,
-    allProjects,
+    // allPosts,
+    // allProjects,
   };
 }

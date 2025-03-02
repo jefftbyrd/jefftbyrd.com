@@ -6,9 +6,6 @@ import {
   useSpring,
 } from 'motion/react';
 // import { load } from 'outstatic/server';
-import BigMenu from '../components/BigMenu';
-import BlueVert from '../components/BlueVert';
-import HeaderNew from '../components/HeaderNew';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import markdownToHtml from '../lib/markdownToHtml';
