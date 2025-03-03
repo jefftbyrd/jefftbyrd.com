@@ -13,13 +13,17 @@ gitHubUrl: ''
 websiteUrl: 'https://healthforallstory.org/'
 additionalImages: 'hfa-2.webp,  hfa-3.webp'
 bigImage: 'health-for-all.webp'
-websiteLinkText: 'https://healthforallstory.org/'
+websiteLinkText: 'Visit the project'
 projectOrder: ''
 vimeoUrl: ''
 bigVideo: ''
+bandcampEmbedUrl: ''
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:48:47.059Z'
 ---
 
-soundtrack and sound design
+*Health for All* is an interactive documentary that uncovers the past, present, and future of the global movement for universal health coverage.
 
-[Helios Design Labs](https://heliosdesignlabs.com/work/health-for-all/)
+Released on Universal Health Coverage Day, the project marks the 30-year anniversary of the Declaration of Alma-Ata, the first international declaration underlining the importance of primary health care.
+
+The documentary was a co-production between [Global Health Strategies](http://globalhealthstrategies.com/) and Helios Design Labs and was commissioned by [The Rockefeller Foundation](https://www.rockefellerfoundation.org/).

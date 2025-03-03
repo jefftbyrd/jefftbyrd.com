@@ -1,6 +1,6 @@
 {
-  "commit": "908daba681c09e6718939934eaa5f87a49d205a7",
-  "generated": "2025-03-03T07:43:14.465Z",
+  "commit": "9cac37f0aad797ab4ef760a0526b9f0db3f5b743",
+  "generated": "2025-03-03T08:43:05.117Z",
   "metadata": [
     {
       "__outstatic": {
@@ -353,43 +353,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the project",
       "websiteUrl": "https://whatcomesafter.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "4480c348e20e0ced9924ffcdcbd712f285f036cc",
-        "hash": "791302676",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "additionalImages": "hfa-2.webp,  hfa-3.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bigImage": "health-for-all.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
-      "status": "published",
-      "title": "Health For All ",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "https://healthforallstory.org/",
-      "websiteUrl": "https://healthforallstory.org/"
     },
     {
       "__outstatic": {
@@ -942,6 +905,45 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "9cac37f0aad797ab4ef760a0526b9f0db3f5b743",
+        "hash": "1132959554",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "health-for-all.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/hfa-2-IxMj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://healthforallstory.org/"
     }
   ]
 }
