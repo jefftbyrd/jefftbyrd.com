@@ -1,10 +1,8 @@
 import Header from '@/components/Header';
-import ProjectBlueVert from '@/components/ProjectBlueVert';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
 import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
-import BlueMinimum from '../../components/BlueMinimum';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
 import ProjectGrid from '../../components/ProjectGrid';
@@ -52,7 +50,7 @@ export default async function Projects() {
     <Layout>
       <div className="w-full mx-auto px-0 pb-4 lg:pb-16">
         <Header />
-        <div className="relative pb-6">
+        <div className="relative pb-0">
           <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>

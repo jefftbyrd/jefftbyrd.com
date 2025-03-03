@@ -11,9 +11,9 @@ import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import markdownToHtml from '../../lib/markdownToHtml';
 
-type Post = {
-  tags: { value: string; label: string }[];
-} & OstDocument;
+// type Post = {
+//   tags: { value: string; label: string }[];
+// } & OstDocument;
 
 interface Params {
   params: {
@@ -64,7 +64,7 @@ export default async function About() {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="relative pb-12">
+        <div className="relative pb-8 md:pb-12">
           <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>
@@ -84,7 +84,7 @@ export default async function About() {
             </div>
 
             <div className="lg:px-5 relative">
-              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4 w-90 sm:w-auto">
+              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4 w-90 sm:w-auto bg-(--color-foreground) ">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
@@ -124,17 +124,17 @@ async function getData() {
 
   const content = await markdownToHtml(page.content);
 
-  const allPosts = await db
-    .find({ collection: 'posts' }, [
-      'title',
-      'publishedAt',
-      'slug',
-      'coverImage',
-      'description',
-      'tags',
-    ])
-    .sort({ publishedAt: -1 })
-    .toArray();
+  // const allPosts = await db
+  //   .find({ collection: 'posts' }, [
+  //     'title',
+  //     'publishedAt',
+  //     'slug',
+  //     'coverImage',
+  //     'description',
+  //     'tags',
+  //   ])
+  //   .sort({ publishedAt: -1 })
+  //   .toArray();
 
   const allProjects = await db
     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])

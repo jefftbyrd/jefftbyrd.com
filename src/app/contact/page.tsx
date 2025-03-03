@@ -22,7 +22,7 @@ const ContactLink = (props: Props) => {
     <li className="">
       <a
         href={props.link}
-        className="scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-8 py-10 bg-(--color-foreground) shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
+        className="bg-(--color-vivid) scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-8 py-10 shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
         target="_blank"
       >
         &gt; {props.text}
@@ -82,7 +82,7 @@ export default async function Contact() {
           <div className="grid md:grid-cols-3">
             <div></div>
             <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-2xl lg:text-6xl flex flex-col gap-10 p-5 text-(--color-vivid) font-medium tracking-wider absolute">
+              <ul className="text-2xl lg:text-6xl flex flex-col gap-10 p-5  text-(--color-foreground) font-medium tracking-wider absolute">
                 <ContactLink
                   link={`mailto:jefftbyrd@gmail.com`}
                   text={`jefftbyrd@gmail.com`}
@@ -116,22 +116,22 @@ async function getData() {
 
   const content = await markdownToHtml(page.content);
 
-  const allPosts = await db
-    .find({ collection: 'posts' }, [
-      'title',
-      'publishedAt',
-      'slug',
-      'coverImage',
-      'description',
-      'tags',
-    ])
-    .sort({ publishedAt: -1 })
-    .toArray();
+  // const allPosts = await db
+  //   .find({ collection: 'posts' }, [
+  //     'title',
+  //     'publishedAt',
+  //     'slug',
+  //     'coverImage',
+  //     'description',
+  //     'tags',
+  //   ])
+  //   .sort({ publishedAt: -1 })
+  //   .toArray();
 
-  const allProjects = await db
-    .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
-    .sort({ publishedAt: -1 })
-    .toArray();
+  // const allProjects = await db
+  //   .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
+  //   .sort({ publishedAt: -1 })
+  //   .toArray();
 
   return {
     page,
