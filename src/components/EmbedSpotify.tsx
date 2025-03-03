@@ -1,4 +1,8 @@
-export default function EmbedSpotify(props) {
+type Props = {
+  spotifyEmbedUrl: string;
+};
+
+export default function EmbedSpotify(props: Props) {
   return (
     <div className="w-full h-full m-0 p-0">
       <iframe
@@ -7,7 +11,7 @@ export default function EmbedSpotify(props) {
         width="100%"
         height="352"
         frameBorder="0"
-        allowfullscreen=""
+        allowFullScreen
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         loading="lazy"
       ></iframe>

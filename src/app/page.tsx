@@ -1,80 +1,9 @@
-'use client';
-import {
-  motion,
-  useMotionValueEvent,
-  useScroll,
-  useSpring,
-} from 'motion/react';
-// import { load } from 'outstatic/server';
+import { load } from 'outstatic/server';
+import HomeFeaturedProject from '../components/HomeFeaturedProject';
+import HomeMenuItem from '../components/HomeMenuItem';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import markdownToHtml from '../lib/markdownToHtml';
-import styles from '../styles/home.module.css';
-
-type PropsMenuItem = {
-  delayTime: number;
-  title: string;
-};
-
-type PropsFeaturedProject = {
-  delayTime: number;
-  url: string;
-  image: string;
-};
-
-const MenuItem = (props: PropsMenuItem) => {
-  return (
-    <motion.div
-      className={`${styles.menuItem} pt-2 bg-(--color-foreground) pb-4 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-10px] md:tracking-[-28px] bottom-0`}
-      initial={{ y: 1000 }}
-      animate={{ y: 0 }}
-      transition={{
-        duration: 0.8,
-        delay: props.delayTime,
-        ease: [0, 0.71, 0.2, 1.01],
-      }}
-    >
-      <motion.a
-        href={`/${props.title.toLowerCase()}`}
-        className=" w-full text-center grid items-center"
-        whileHover={{
-          paddingBottom: 100,
-          color: '#fff',
-          transition: { duration: 0.2, delay: 0 },
-        }}
-        whileTap={{ scale: 0.95 }}
-      >
-        {props.title}
-      </motion.a>
-    </motion.div>
-  );
-};
-
-const FeaturedProject = (props: PropsFeaturedProject) => {
-  return (
-    <motion.a
-      className=""
-      href={props.url}
-      whileHover={{
-        scale: 1.05,
-        transition: { duration: 0.2, delay: 0 },
-      }}
-      whileTap={{ scale: 0.95 }}
-    >
-      <motion.img
-        className=""
-        src={props.image}
-        initial={{ x: -1000 }}
-        animate={{ x: 0 }}
-        transition={{
-          duration: 0.5,
-          delay: props.delayTime,
-          ease: [0, 0.71, 0.2, 1.01],
-        }}
-      />
-    </motion.a>
-  );
-};
 
 export default async function Index() {
   // const { content, allPosts, allProjects } = await getData();
@@ -92,12 +21,12 @@ export default async function Index() {
 
       <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed bottom-0">
         <div className="flex flex-col gap-2 lg:mb-18 md:col-span-4 justify-center">
-          <FeaturedProject
+          <HomeFeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
             delayTime={0}
           />
-          <FeaturedProject
+          <HomeFeaturedProject
             url={`/projects/vector/`}
             image={`/images/featured/vector-1.webp`}
             delayTime={0.2}
@@ -106,9 +35,9 @@ export default async function Index() {
 
         <div className="">
           <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 w-full">
-            <MenuItem title={`Projects`} delayTime={0} />
-            <MenuItem title={`About`} delayTime={0.2} />
-            <MenuItem title={`Contact`} delayTime={0.4} />
+            <HomeMenuItem title={`Projects`} delayTime={0} />
+            <HomeMenuItem title={`About`} delayTime={0.2} />
+            <HomeMenuItem title={`Contact`} delayTime={0.4} />
           </div>
         </div>
       </div>

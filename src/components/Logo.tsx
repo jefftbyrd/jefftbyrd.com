@@ -8,7 +8,7 @@ import {
 import { useRef, useState } from 'react';
 import styles from '../styles/home.module.css';
 
-export default function Logo(props) {
+export default function Logo() {
   // const ref = useRef(null);
   // const { scrollYProgress } = useScroll({
   //   // target: ref,
