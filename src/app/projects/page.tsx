@@ -50,7 +50,7 @@ export default async function Projects() {
     <Layout>
       <div className="w-full mx-auto px-0 pb-4 lg:pb-16">
         <Header />
-        <div className="relative pb-0">
+        <div className="relative pb-0 lg:pb-4">
           <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>

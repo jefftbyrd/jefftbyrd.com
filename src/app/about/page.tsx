@@ -64,15 +64,15 @@ export default async function About() {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="relative pb-8 md:pb-12">
+        <div className="relative pb-8 lg:pb-12">
           <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-2 gap-6 lg:px-16 py-0">
+          <div className="grid lg:grid-cols-2 gap-6 lg:px-16 py-0">
             <div className="flex flex-col gap-4">
-              <div className="relative mb-2 md:mb-4 sm:mx-0 aspect-square">
+              <div className="relative mb-2 lg:mb-4 lg:mx-0 aspect-square">
                 <Image
                   alt="Jeff T Byrd"
                   src="/images/jefftbyrd-3.webp"
@@ -84,7 +84,7 @@ export default async function About() {
             </div>
 
             <div className="lg:px-5 relative">
-              <div className="px-4 md:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4 w-90 sm:w-auto bg-(--color-foreground) ">
+              <div className="px-4 lg:px-0 lg:fixed gap-5 lg:mr-30 grid lg:gap-8 -mt-4 w-9/10 lg:w-auto bg-(--color-foreground) ">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}

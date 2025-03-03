@@ -82,7 +82,7 @@ export default async function Contact() {
           <div className="grid md:grid-cols-3">
             <div></div>
             <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-2xl lg:text-6xl flex flex-col gap-10 p-5  text-(--color-foreground) font-medium tracking-wider absolute">
+              <ul className="text-2xl md:text-3xl lg:text-4xl 2xl:text-6xl flex flex-col gap-10 lg:p-5  text-(--color-foreground) font-medium tracking-wider absolute">
                 <ContactLink
                   link={`mailto:jefftbyrd@gmail.com`}
                   text={`jefftbyrd@gmail.com`}

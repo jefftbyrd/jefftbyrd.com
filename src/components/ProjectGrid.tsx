@@ -30,7 +30,7 @@ const ProjectGrid = ({
         {/* <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
         {title}
       </h2> */}
-        <div className="grid grid-cols-1 mx-4 lg:mx-0 sm:grid-cols-2 lg:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-4 sm:gap-y-6 lg:gap-y-8 pt-8">
+        <div className="grid grid-cols-1 mx-4 lg:mx-0 sm:grid-cols-2 xl:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-4 sm:gap-y-6 lg:gap-y-8 pt-8">
           {items.map((item, id) => (
             <Link key={item.slug} href={`/${collection}/${item.slug}`}>
               <div

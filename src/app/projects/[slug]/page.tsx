@@ -83,7 +83,7 @@ export default async function Project(params: Params) {
     <Layout>
       <div className="w-full mx-auto px-0">
         <Header />
-        <div className="relative pb-8 md:pb-12">
+        <div className="relative pb-8 lg:pb-12">
           <PageTitle pageTitle={project.title} />
           <BlueAbsolute />
         </div>
@@ -113,7 +113,7 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="pb-6 lg:pb-16 md:bg-(--color-background)">
+        <article className="pb-6 lg:pb-16 lg:bg-(--color-background)">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
             <div className="flex gap-2 flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
               {project.bandcampEmbedUrl ? (
@@ -140,7 +140,7 @@ export default async function Project(params: Params) {
             </div>
 
             <div className="flex flex-col gap-2">
-              <div className="bg-(--color-foreground) w-90 sm:w-auto px-5 lg:py-3">
+              <div className="bg-(--color-foreground) w-9/10 lg:w-auto px-5 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent`}
                   dangerouslySetInnerHTML={{ __html: content }}
