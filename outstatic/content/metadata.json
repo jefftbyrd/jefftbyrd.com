@@ -1,6 +1,6 @@
 {
-  "commit": "06519c785744c50ae868651d1dfac00a9637e7a1",
-  "generated": "Wed, 26 Feb 2025 14:42:27 GMT",
+  "commit": "28bf4211247cb6f0f1112d404340a01df9687f21",
+  "generated": "2025-03-03T07:42:29.921Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "9b2ae062c8390a080d90db7f17dd5697f60b4cb6",
-        "hash": "782367404",
-        "path": "outstatic/content/pages/another.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-17T15:34:15.314Z",
-      "slug": "another",
-      "status": "published",
-      "title": "Another page"
     },
     {
       "__outstatic": {
