@@ -1,3 +1,3 @@
-# jefftbyrd.com REBOOT
+# jefftbyrd.com
 
-A completely new jefftbyrd.com!
+My portfolio website. Built with NextJS, Outstatic CMS and Tailwind.
