@@ -15,7 +15,7 @@ type Props = {
 export default function HomeMenuItem(props: Props) {
   return (
     <motion.div
-      className={`${styles.menuItem} pt-2 bg-(--color-foreground) pb-4 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-17px] md:tracking-[-28px] bottom-0`}
+      className={`${styles.menuItem} pt-2 md:pt-4 bg-(--color-foreground) pb-4 md:pb-8 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-17px] md:tracking-[-28px] bottom-0`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{

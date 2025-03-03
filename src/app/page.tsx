@@ -1,3 +1,5 @@
+import { absoluteUrl } from '@/lib/utils';
+import { Metadata } from 'next';
 import { load } from 'outstatic/server';
 import HomeFeaturedProject from '../components/HomeFeaturedProject';
 import HomeMenuItem from '../components/HomeMenuItem';
@@ -5,8 +7,43 @@ import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import markdownToHtml from '../lib/markdownToHtml';
 
+export async function generateMetadata(): Promise<Metadata> {
+  const { page } = await getData();
+  /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+
+  if (!page) {
+    return {};
+  }
+
+  return {
+    title: page.title + ` | Jeff T Byrd`,
+    description: page.description,
+    openGraph: {
+      title: page.title,
+      description: page.description,
+      type: 'article',
+      url: absoluteUrl(`/${page.slug}`),
+      images: [
+        {
+          url: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+          width: 1200,
+          height: 630,
+          alt: page.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: page.title,
+      description: page.description,
+      images: absoluteUrl(page?.coverImage || '/images/og-image.png'),
+    },
+  };
+}
+
 export default async function Index() {
   // const { content, allPosts, allProjects } = await getData();
+  const { page, content } = await getData();
 
   return (
     <Layout>
@@ -19,7 +56,7 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed bottom-0">
+      <div className="grid grid-cols-2 gap-2 md:grid-cols-7 md:gap-4 px-4 md:px-24 align-items-end fixed md:static bottom-0">
         <div className="flex flex-col gap-2 lg:mb-18 md:col-span-4 justify-center">
           <HomeFeaturedProject
             url={`/projects/earthsong/`}
@@ -34,7 +71,7 @@ export default async function Index() {
         </div>
 
         <div className="">
-          <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 w-full">
+          <div className="grid grid-cols-3 gap-2 md:gap-4 bottom-0 md:w-1/3 md:col-span-3 w-full md:fixed">
             <HomeMenuItem title={`Projects`} delayTime={0} />
             <HomeMenuItem title={`About`} delayTime={0.2} />
             <HomeMenuItem title={`Contact`} delayTime={0.4} />
@@ -45,35 +82,42 @@ export default async function Index() {
   );
 }
 
-// async function getData() {
-//   const db = await load();
+async function getData() {
+  const db = await load();
 
-//   const page = await db
-//     .find({ collection: 'pages', slug: 'home' }, ['content'])
-//     .first();
+  const page = await db
+    .find({ collection: 'pages', slug: 'home' }, [
+      'content',
+      'title',
+      'slug',
+      'coverImage',
+      'description',
+    ])
+    .first();
 
-//   const content = await markdownToHtml(page.content);
+  const content = await markdownToHtml(page.content);
 
-//   const allPosts = await db
-//     .find({ collection: 'posts' }, [
-//       'title',
-//       'publishedAt',
-//       'slug',
-//       'coverImage',
-//       'description',
-//       'tags',
-//     ])
-//     .sort({ publishedAt: -1 })
-//     .toArray();
+  //   const allPosts = await db
+  //     .find({ collection: 'posts' }, [
+  //       'title',
+  //       'publishedAt',
+  //       'slug',
+  //       'coverImage',
+  //       'description',
+  //       'tags',
+  //     ])
+  //     .sort({ publishedAt: -1 })
+  //     .toArray();
 
-//   const allProjects = await db
-//     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
-//     .sort({ publishedAt: -1 })
-//     .toArray();
+  //   const allProjects = await db
+  //     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
+  //     .sort({ publishedAt: -1 })
+  //     .toArray();
 
-//   return {
-//     content,
-//     allPosts,
-//     allProjects,
-//   };
-// }
+  return {
+    page,
+    content,
+    // allPosts,
+    // allProjects,
+  };
+}
