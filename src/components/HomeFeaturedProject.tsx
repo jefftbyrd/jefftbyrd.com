@@ -16,7 +16,7 @@ type Props = {
 export default function HomeFeaturedProject(props: Props) {
   return (
     <motion.a
-      className=""
+      className="origin-bottom-right"
       href={props.url}
       whileHover={{
         scale: 1.05,
