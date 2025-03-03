@@ -10,7 +10,7 @@ coverImage: '/images/vector-thumbnail-QxND.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"}]
 videoUrl: ''
 gitHubUrl: 'https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store'
-websiteUrl: 'https://next-js-ecommerce-store-52gjqbvc4-jeff-t-byrd.vercel.app/'
+websiteUrl: 'https://vector-virus-shop.vercel.app/'
 additionalImages: 'vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp'
 bigImage: 'vector-2.webp'
 websiteLinkText: 'Visit the site'
