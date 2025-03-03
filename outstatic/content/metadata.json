@@ -1,6 +1,6 @@
 {
-  "commit": "28bf4211247cb6f0f1112d404340a01df9687f21",
-  "generated": "2025-03-03T07:42:34.257Z",
+  "commit": "908daba681c09e6718939934eaa5f87a49d205a7",
+  "generated": "2025-03-03T07:43:14.465Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "projects",
       "status": "published",
       "title": "Projects"
-    },
-    {
-      "__outstatic": {
-        "commit": "a78ef9029b9829e6c0732daeeade49b513b0e4d9",
-        "hash": "4003434870",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
@@ -942,6 +924,24 @@
       "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "908daba681c09e6718939934eaa5f87a49d205a7",
+        "hash": "459757634",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Jeff T Byrd -- Web Developer, Composer & Sound Designer",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

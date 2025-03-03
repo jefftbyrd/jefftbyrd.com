@@ -5,13 +5,9 @@ author:
   name: 'Andre Vitorio'
   picture: ''
 slug: 'home'
-description: 'This is my blog.'
+description: 'Jeff T Byrd -- Web Developer, Composer & Sound Designer'
 coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
-## Hello!
-
-# I'm Jeff, nice to meet you.
-
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+Jeff T Byrd -- Web Developer, Composer & Sound Designer
