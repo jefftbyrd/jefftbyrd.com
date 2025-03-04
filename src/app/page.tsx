@@ -51,7 +51,7 @@ export default async function Index() {
         className={`bg-(--color-foreground) w-full lg:w-xl lg:sticky top-0 -z-100 lg:h-6 h-3 justify-self-center`}
       />
       <div className="max-w-none mx-auto px-0">
-        <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8">
+        <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8 z-100 relative">
           <Logo />
         </section>
       </div>
