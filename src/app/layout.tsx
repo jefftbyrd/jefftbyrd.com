@@ -1,7 +1,8 @@
 import '../styles/index.css';
 import { absoluteUrl } from '@/lib/utils';
+import { Analytics } from '@vercel/analytics/react';
 import { Metadata } from 'next';
-import { Hanken_Grotesk, Space_Grotesk } from 'next/font/google';
+import { Space_Grotesk } from 'next/font/google';
 import localFont from 'next/font/local';
 
 // const hanken = Hanken_Grotesk({
@@ -57,7 +58,10 @@ export default function RootLayout({
       lang="en"
       className={`${karrik.variable} ${space.variable} text-[15px] sm:text-[20px]`}
     >
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
