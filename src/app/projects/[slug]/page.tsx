@@ -55,7 +55,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
       url: absoluteUrl(`/projects/${project.slug}`),
       images: [
         {
-          url: absoluteUrl(project?.coverImage || '/images/og-image.png'),
+          url: absoluteUrl(project?.coverImage || '/images/jefftbyrd.png'),
           width: 1200,
           height: 630,
           alt: project.title,
@@ -66,7 +66,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
       card: 'summary_large_image',
       title: project.title,
       description: project.description,
-      images: absoluteUrl(project?.coverImage || '/images/og-image.png'),
+      images: absoluteUrl(project?.coverImage || '/images/jefftbyrd.png'),
     },
   };
 }

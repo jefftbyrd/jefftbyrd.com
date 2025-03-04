@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: 'Jeff T Byrd',
     images: [
       {
-        url: absoluteUrl('/images/og-image.png'),
+        url: absoluteUrl('/images/jefftbyrd.png'),
         width: 1800,
         height: 1600,
       },
