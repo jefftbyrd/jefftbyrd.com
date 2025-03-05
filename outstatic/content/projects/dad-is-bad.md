@@ -12,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe'
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 coverImage: '/images/dad-is-bad-kzNj.jpg'
-description: ''
+description: 'Budokan Boys album'
 slug: 'dad-is-bad'
 author:
   name: 'Jeff T Byrd'
