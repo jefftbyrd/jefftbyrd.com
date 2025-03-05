@@ -1,6 +1,6 @@
 {
-  "commit": "9432ff9dfd2254b2a8b5b5fbd428e2e1ba4bffec",
-  "generated": "2025-03-03T09:39:55.891Z",
+  "commit": "5966f1e1f4c842cf068f21fa7c199bdf9a0cbda1",
+  "generated": "2025-03-05T16:28:40.566Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "another",
       "status": "published",
       "title": "Another page"
-    },
-    {
-      "__outstatic": {
-        "commit": "29b9395aa040c2b4e939851cd2b05c820abbba96",
-        "hash": "2367515716",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -945,6 +927,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "5966f1e1f4c842cf068f21fa7c199bdf9a0cbda1",
+        "hash": "3839997948",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
