@@ -1,6 +1,6 @@
 {
-  "commit": "9432ff9dfd2254b2a8b5b5fbd428e2e1ba4bffec",
-  "generated": "2025-03-03T09:39:55.891Z",
+  "commit": "0d0037827272c61fb08398403e51eeb4856e179f",
+  "generated": "2025-03-05T16:39:39.874Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "another",
       "status": "published",
       "title": "Another page"
-    },
-    {
-      "__outstatic": {
-        "commit": "29b9395aa040c2b4e939851cd2b05c820abbba96",
-        "hash": "2367515716",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -207,45 +189,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "More about the Durrs",
       "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
-    },
-    {
-      "__outstatic": {
-        "commit": "65f72263e6e2dcfd0b0fac046e1feb4f1f4ece42",
-        "hash": "3762348889",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "-1",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -429,41 +372,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f2a794476d3ee4d2d869fd233ecc7ba8105a69a2",
-        "hash": "1087557399",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "2",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "92338e77d58a9deaf9f2efc0d7d0290db3818728",
         "hash": "2510178807",
         "path": "outstatic/content/projects/earthsong.md"
@@ -621,48 +529,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Lamb Alley on Bandcamp",
       "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
-    },
-    {
-      "__outstatic": {
-        "commit": "b18e74a8bf7e72bb2908268e1c86ff2da1c79a1c",
-        "hash": "294409804",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
-      "status": "published",
-      "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -945,6 +811,141 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "85b06bbe4e2fb86f42117e52b83eee3b155c8567",
+        "hash": "2469815638",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "d8d40417bbd75ca299f5a90640652439d3171cd1",
+        "hash": "724571112",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "Budokan Boys live album recorded at Château Rouge Kunstraum in Vienna",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "I Became a Bird of Prey",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "878d0f022c5083eb432daf50bc04db210d4bbad0",
+        "hash": "1791836994",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "-1",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "0d0037827272c61fb08398403e51eeb4856e179f",
+        "hash": "2550523468",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "Opening animation for the 69th Edinburgh International Film Festival",
+      "gitHubUrl": "",
+      "projectOrder": "2",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "slug": "edinburgh-international-film-festival",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
