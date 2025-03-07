@@ -44,7 +44,7 @@ const Header = () => {
   const MenuItem = ({ children }: Props) => {
     return (
       <li
-        className={`tracking-wide transition-all text-xl xl:text-3xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
+        className={`tracking-wide transition-all text-xl xl:text-2xl 2xl:text-3xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
       >
         {children}
       </li>
@@ -79,7 +79,7 @@ const Header = () => {
             className="lg:px-4 lg:py-5 bg-(--color-foreground) py-[logoScale*25]"
           >
             <nav className="layout flex items-center justify-center py-0">
-              <ul className="flex items-center justify-between space-x-3 2xl:space-x-4 md:text-base font-light uppercase text-white ">
+              <ul className="flex items-center justify-between space-x-2 lg:space-x-0 xl:space-x-2 2xl:space-x-4 md:text-base font-light xl:font-extralight uppercase text-white ">
                 <MenuItem>
                   <Link href="/projects">
                     Projec<span className={styles.t}>t</span>s
