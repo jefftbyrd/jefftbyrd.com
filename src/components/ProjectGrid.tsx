@@ -54,7 +54,7 @@ const ProjectGrid = ({
                         {item.title}
                       </h2>
                       <h3
-                        className={`${styles.projectDescription} pl-2 pr-6 bg-opacity-0 text-left whitespace-normal font-medium tracking-normal text-md`}
+                        className={`${styles.projectDescription} pl-2 pr-6 bg-opacity-0 text-left whitespace-normal font-medium tracking-wide text-md`}
                       >
                         {item.description}
                       </h3>
