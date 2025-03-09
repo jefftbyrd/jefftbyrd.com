@@ -1,4 +1,5 @@
 ---
+spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
@@ -11,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F'
 projectTags: [{"label":"Music Video","value":"musicVideo"}]
 coverImage: '/images/god-today-EwND.webp'
-description: ''
+description: 'Budokan Boys music video'
 slug: 'god-today'
 author:
   name: 'Jeff T Byrd'
