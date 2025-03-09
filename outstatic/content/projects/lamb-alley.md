@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'lamb-alley'
-description: 'Solo music album'
+description: 'Solo album'
 coverImage: '/images/lamb-alley-IwNT.jpg'
 videoUrl: ''
 gitHubUrl: ''

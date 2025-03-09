@@ -1,6 +1,6 @@
 {
-  "commit": "2ee727769db2279c2816f61ff9c992bacdd31fe2",
-  "generated": "2025-03-09T08:24:14.499Z",
+  "commit": "c4f94c0132b40e9067145ec7a6d08fb8e08b1fb9",
+  "generated": "2025-03-09T08:24:58.015Z",
   "metadata": [
     {
       "__outstatic": {
@@ -624,45 +624,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c255867b4417662b9ad76080b6e2aa3877dbe221",
-        "hash": "3807202063",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "Solo music album",
-      "gitHubUrl": "",
-      "projectOrder": "21",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Lamb Alley",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
-    },
-    {
-      "__outstatic": {
         "commit": "bf824d5d1b88b98d1b5aac0e2ad1ecf1055113bd",
         "hash": "724571112",
         "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
@@ -928,6 +889,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "c4f94c0132b40e9067145ec7a6d08fb8e08b1fb9",
+        "hash": "2786726488",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "21",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     }
   ]
 }
