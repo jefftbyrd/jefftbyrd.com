@@ -12,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r'
 projectTags: [{"value":"album","label":"Album"},{"value":"music","label":"Music"}]
 coverImage: '/images/sbuayd-2-YyMD.webp'
-description: ''
+description: 'Budokan Boys album'
 slug: 'so-broken-up-about-you-dying'
 author:
   name: 'Jeff T Byrd'

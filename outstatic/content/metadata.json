@@ -1,24 +1,24 @@
 {
-  "commit": "0d0037827272c61fb08398403e51eeb4856e179f",
-  "generated": "2025-03-05T16:39:39.874Z",
+  "commit": "70029a5074576736c9620049051ca0489af6b583",
+  "generated": "2025-03-09T08:29:20.965Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
-        "hash": "981293699",
-        "path": "outstatic/content/pages/projects.md"
+        "commit": "7017dc3a05f93741d7e76620c7e97561e92b1756",
+        "hash": "459757634",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+        "name": "Andre Vitorio",
+        "picture": ""
       },
       "collection": "pages",
       "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-02-16T08:21:11.306Z",
-      "slug": "projects",
+      "description": "Jeff T Byrd -- Web Developer, Composer & Sound Designer",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
       "status": "published",
-      "title": "Projects"
+      "title": "Home"
     },
     {
       "__outstatic": {
@@ -40,21 +40,21 @@
     },
     {
       "__outstatic": {
-        "commit": "9b2ae062c8390a080d90db7f17dd5697f60b4cb6",
-        "hash": "782367404",
-        "path": "outstatic/content/pages/another.md"
+        "commit": "2e187626b44b9235817291ff3d51dbe415c80e1a",
+        "hash": "2469815638",
+        "path": "outstatic/content/pages/about.md"
       },
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "collection": "pages",
-      "coverImage": "",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
       "description": "",
-      "publishedAt": "2025-01-17T15:34:15.314Z",
-      "slug": "another",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
       "status": "published",
-      "title": "Another page"
+      "title": "About"
     },
     {
       "__outstatic": {
@@ -157,6 +157,24 @@
     },
     {
       "__outstatic": {
+        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
+        "hash": "981293699",
+        "path": "outstatic/content/pages/projects.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-16T08:21:11.306Z",
+      "slug": "projects",
+      "status": "published",
+      "title": "Projects"
+    },
+    {
+      "__outstatic": {
         "commit": "dd3e80ff4a61426b6663eb6a1b9724eb50fc98fe",
         "hash": "2659667008",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
@@ -189,6 +207,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "More about the Durrs",
       "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
+    },
+    {
+      "__outstatic": {
+        "commit": "fe4e54573ea53efae26b19168b3ae637eb18253e",
+        "hash": "1791836994",
+        "path": "outstatic/content/projects/dad-is-bad.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "-1",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:24.711Z",
+      "slug": "dad-is-bad",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -299,6 +356,45 @@
     },
     {
       "__outstatic": {
+        "commit": "fff61e58ef84fd2b99a6a983a5eb28617adfd330",
+        "hash": "1132959554",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "health-for-all.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/hfa-2-IxMj.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "slug": "health-for-all",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
         "commit": "269aac0fc818c3a346841180e68c02d11911a23f",
         "hash": "1709485235",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -338,9 +434,9 @@
     },
     {
       "__outstatic": {
-        "commit": "8314b3aff86821454dc533225f40dfae71bfa9b6",
-        "hash": "313015154",
-        "path": "outstatic/content/projects/god-today.md"
+        "commit": "3ecb1b0b4e3d1cd122fb4f6063dab2b9a5ca511b",
+        "hash": "2550523468",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
       "author": {
@@ -351,29 +447,30 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/god-today-EwND.webp",
-      "description": "",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "Opening animation for the 69th Edinburgh International Film Festival",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "2",
       "projectTags": [
         {
-          "label": "Music Video",
-          "value": "musicVideo"
+          "label": "Soundtrack",
+          "value": "soundtrack"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "slug": "edinburgh-international-film-festival",
+      "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "92338e77d58a9deaf9f2efc0d7d0290db3818728",
-        "hash": "2510178807",
+        "commit": "685f5ad9cda095045dcc061f7a10d4e822fe9c52",
+        "hash": "1854251704",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
@@ -454,24 +551,28 @@
     },
     {
       "__outstatic": {
-        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
-        "hash": "2753374745",
-        "path": "outstatic/content/projects/nighty-night.md"
+        "commit": "bf824d5d1b88b98d1b5aac0e2ad1ecf1055113bd",
+        "hash": "724571112",
+        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "",
+      "coverImage": "/images/ibabop-2-U2MT.webp",
+      "description": "Budokan Boys live album recorded at Château Rouge Kunstraum in Vienna",
       "gitHubUrl": "",
-      "projectOrder": "23",
+      "projectOrder": "",
       "projectTags": [
+        {
+          "label": "Design",
+          "value": "design"
+        },
         {
           "label": "Album",
           "value": "album"
@@ -481,54 +582,15 @@
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
+      "publishedAt": "2025-01-27T21:45:57.528Z",
+      "slug": "i-became-a-bird-of-prey",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Nighty Night",
+      "title": "I Became a Bird of Prey",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "Released by Fort Evil Fruit",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "c255867b4417662b9ad76080b6e2aa3877dbe221",
-        "hash": "3807202063",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "Solo music album",
-      "gitHubUrl": "",
-      "projectOrder": "21",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Lamb Alley",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -568,42 +630,42 @@
     },
     {
       "__outstatic": {
-        "commit": "9285cb153724c2425f2351bd6470ed9f6ded4147",
-        "hash": "2001312644",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
+        "commit": "7b583dbe95c3849aaa88be798d4d6174454663f4",
+        "hash": "618742116",
+        "path": "outstatic/content/projects/vector.md"
       },
-      "additionalImages": "",
+      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
+      "bigImage": "vector-2.webp",
+      "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "An online virus shop",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectOrder": "29",
       "projectTags": [
         {
-          "label": "Sound Design",
-          "value": "soundDesign"
+          "label": "Code",
+          "value": "code"
         },
         {
-          "label": "Audio Post",
-          "value": "audioPost"
+          "label": "Design",
+          "value": "design"
         }
       ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "slug": "vector",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "title": "Vector",
+      "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Visit the site",
+      "websiteUrl": "https://vector-virus-shop.vercel.app/"
     },
     {
       "__outstatic": {
@@ -679,65 +741,121 @@
     },
     {
       "__outstatic": {
-        "commit": "908daba681c09e6718939934eaa5f87a49d205a7",
-        "hash": "459757634",
-        "path": "outstatic/content/pages/home.md"
+        "commit": "2ee727769db2279c2816f61ff9c992bacdd31fe2",
+        "hash": "120023969",
+        "path": "outstatic/content/projects/nighty-night.md"
       },
+      "additionalImages": "",
       "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Jeff T Byrd -- Web Developer, Composer & Sound Designer",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "23",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Home"
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Released by Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     },
     {
       "__outstatic": {
-        "commit": "9cac37f0aad797ab4ef760a0526b9f0db3f5b743",
-        "hash": "1132959554",
-        "path": "outstatic/content/projects/health-for-all.md"
+        "commit": "c4f94c0132b40e9067145ec7a6d08fb8e08b1fb9",
+        "hash": "2786726488",
+        "path": "outstatic/content/projects/lamb-alley.md"
       },
-      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "21",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+    },
+    {
+      "__outstatic": {
+        "commit": "373c6512bd5d807833d082fea0031bdb6f6c2a14",
+        "hash": "2719030624",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bandcampEmbedUrl": "",
-      "bigImage": "health-for-all.webp",
-      "bigVideo": "",
+      "bigImage": "",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "Budokan Boys music video",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
         {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
+          "label": "Music Video",
+          "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "slug": "health-for-all",
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Health For All ",
-      "videoUrl": "",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
-      "websiteLinkText": "Visit the project",
-      "websiteUrl": "https://healthforallstory.org/"
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
-        "commit": "7a0bd53a43fdf81f912bef1a7447e402968d2947",
-        "hash": "809821568",
+        "commit": "5d85accfb246612bdfd05149576265ef31d6776f",
+        "hash": "1284351519",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
       },
       "additionalImages": "",
@@ -750,7 +868,7 @@
       "bigVideo": "true",
       "collection": "projects",
       "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
+      "description": "Budokan Boys album",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
@@ -775,174 +893,39 @@
     },
     {
       "__outstatic": {
-        "commit": "9432ff9dfd2254b2a8b5b5fbd428e2e1ba4bffec",
-        "hash": "618742116",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "vector-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "An online virus shop",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectOrder": "29",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "slug": "vector",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the site",
-      "websiteUrl": "https://vector-virus-shop.vercel.app/"
-    },
-    {
-      "__outstatic": {
-        "commit": "85b06bbe4e2fb86f42117e52b83eee3b155c8567",
-        "hash": "2469815638",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "d8d40417bbd75ca299f5a90640652439d3171cd1",
-        "hash": "724571112",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+        "commit": "70029a5074576736c9620049051ca0489af6b583",
+        "hash": "3174183020",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/ibabop-2-U2MT.webp",
-      "description": "Budokan Boys live album recorded at Château Rouge Kunstraum in Vienna",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
         {
-          "label": "Design",
-          "value": "design"
+          "label": "Sound Design",
+          "value": "soundDesign"
         },
         {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
+          "label": "Audio Post",
+          "value": "audioPost"
         }
       ],
-      "publishedAt": "2025-01-27T21:45:57.528Z",
-      "slug": "i-became-a-bird-of-prey",
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "I Became a Bird of Prey",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "878d0f022c5083eb432daf50bc04db210d4bbad0",
-        "hash": "1791836994",
-        "path": "outstatic/content/projects/dad-is-bad.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
-      "description": "Budokan Boys album",
-      "gitHubUrl": "",
-      "projectOrder": "-1",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "0d0037827272c61fb08398403e51eeb4856e179f",
-        "hash": "2550523468",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "Opening animation for the 69th Edinburgh International Film Festival",
-      "gitHubUrl": "",
-      "projectOrder": "2",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""

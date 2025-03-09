@@ -12,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1'
 projectTags: [{"value":"soundDesign","label":"Sound Design"},{"value":"audioPost","label":"Audio Post"}]
 coverImage: '/images/vanishing-pearls-2-A0Mj.webp'
-description: ''
+description: 'Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen'
 slug: 'vanishing-pearls'
 author:
   name: 'Jeff T Byrd'
