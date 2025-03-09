@@ -22,7 +22,7 @@ const ContactLink = (props: Props) => {
     <li className="">
       <a
         href={props.link}
-        className="bg-(--color-vivid) scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-8 py-10 shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
+        className="bg-(--color-vivid) scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-4 lg:px-8 py-6 lg:py-10 mx-6 lg:mx-0 shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
         target="_blank"
       >
         &gt; {props.text}
@@ -79,10 +79,10 @@ export default async function Contact() {
         </div>
 
         <article className="mb-8">
-          <div className="grid md:grid-cols-3">
+          <div className="grid lg:grid-cols-3">
             <div></div>
             <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-2xl md:text-3xl lg:text-4xl 2xl:text-6xl flex flex-col gap-10 lg:p-5  text-(--color-foreground) font-medium tracking-wider absolute">
+              <ul className="text-2xl md:text-3xl lg:text-4xl 2xl:text-6xl flex flex-col gap-10 lg:p-5  text-(--color-foreground) font-medium tracking-wider lg:absolute">
                 <ContactLink
                   link={`mailto:jefftbyrd@gmail.com`}
                   text={`jefftbyrd@gmail.com`}
