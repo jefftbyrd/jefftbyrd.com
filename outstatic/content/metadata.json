@@ -1,6 +1,6 @@
 {
-  "commit": "373c6512bd5d807833d082fea0031bdb6f6c2a14",
-  "generated": "2025-03-09T08:26:08.994Z",
+  "commit": "5d85accfb246612bdfd05149576265ef31d6776f",
+  "generated": "2025-03-09T08:26:33.621Z",
   "metadata": [
     {
       "__outstatic": {
@@ -513,45 +513,6 @@
     },
     {
       "__outstatic": {
-        "commit": "a3647cc9bb32e2b863b4092f050bd901af40c37d",
-        "hash": "809821568",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "sbuayd-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
-      "vimeoUrl": "",
-      "websiteLinkText": "Reviewed by THE QUIETUS",
-      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
-    },
-    {
-      "__outstatic": {
         "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
         "hash": "505506767",
         "path": "outstatic/content/projects/rouler-sonner.md"
@@ -929,6 +890,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "5d85accfb246612bdfd05149576265ef31d6776f",
+        "hash": "1284351519",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
+      "vimeoUrl": "",
+      "websiteLinkText": "Reviewed by THE QUIETUS",
+      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
     }
   ]
 }
