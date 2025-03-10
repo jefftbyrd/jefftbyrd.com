@@ -70,7 +70,7 @@ export default async function About() {
         </div>
 
         <article className="pb-6 lg:pb-6">
-          <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
+          <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-16 py-0 lg:absolute">
             <div className="flex flex-col gap-4">
               <div className="relative mb-2 lg:mb-4 lg:mx-0 aspect-square">
                 <Image
@@ -83,25 +83,23 @@ export default async function About() {
               </div>
             </div>
 
-            <div className="lg:px-5 relative">
-              <div className="">
-                <div className="lg:px-0 lg:w-auto px-5 lg:py-3 bg-(--color-foreground) w-9/10 mt-2 lg:-mt-8">
-                  <div
-                    className=" text-white text-base"
-                    dangerouslySetInnerHTML={{ __html: content }}
-                  />
-                </div>
-                <div className="px-2 lg:px-0 pt-2 lg:pt-5 mt-4 lg:mt-0">
-                  <iframe
-                    className="aspect-16/9 w-full"
-                    src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
-                    title="YouTube video player"
-                    // frameBorder={0}
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerPolicy="strict-origin-when-cross-origin"
-                    allowFullScreen
-                  ></iframe>
-                </div>
+            <div className="lg:px-5 relative lg:mr-8 ">
+              <div className="lg:px-0 lg:w-auto px-5 lg:py-3 w-9/10 mt-2 lg:-mt-8 ">
+                <div
+                  className=" text-white text-base"
+                  dangerouslySetInnerHTML={{ __html: content }}
+                />
+              </div>
+              <div className="px-2 lg:px-0 pt-2 lg:pt-5 mt-4 lg:mt-0">
+                <iframe
+                  className="aspect-16/9 w-full"
+                  src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
+                  title="YouTube video player"
+                  // frameBorder={0}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                ></iframe>
               </div>
             </div>
           </div>
