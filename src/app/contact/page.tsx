@@ -1,15 +1,11 @@
 import Header from '@/components/Header';
 import PageTitle from '@/components/PageTitle';
-import ProjectBlueVert from '@/components/ProjectBlueVert';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
 import Image from 'next/image';
 import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
-import BlueVert from '../../components/BlueVert';
-import BlueVertGrid from '../../components/BlueVertGrid';
 import Layout from '../../components/Layout';
-import SimpleSlider from '../../components/SimpleSlider';
 import markdownToHtml from '../../lib/markdownToHtml';
 
 type Props = {
