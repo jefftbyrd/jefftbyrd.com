@@ -44,7 +44,7 @@ const Header = () => {
   const MenuItem = ({ children }: Props) => {
     return (
       <li
-        className={`tracking-wide transition-all text-xl xl:text-2xl 2xl:text-3xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
+        className={`tracking-wide transition-all text-lg xl:text-2xl ${styles.menuItem} px-3 hover:scale-[1.2] active:scale-[0.97] transition-all delay-0 duration-300 ease-in-out`}
       >
         {children}
       </li>
