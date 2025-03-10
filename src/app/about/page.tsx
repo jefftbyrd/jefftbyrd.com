@@ -83,8 +83,8 @@ export default async function About() {
               </div>
             </div>
 
-            <div className="lg:px-5 relative lg:mr-8 ">
-              <div className="lg:px-0 lg:w-auto px-5 lg:py-3 w-9/10 mt-2 lg:-mt-8 ">
+            <div className="lg:px-5 relative lg:mr-8">
+              <div className="lg:px-0 lg:w-auto px-5 lg:py-3 w-9/10 mt-2 lg:-mt-8 bg-(--color-foreground) ">
                 <div
                   className=" text-white text-base"
                   dangerouslySetInnerHTML={{ __html: content }}
