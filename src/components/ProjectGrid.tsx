@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import type { OstDocument } from 'outstatic';
-import BlueVertGrid from '../components/BlueVertGrid';
 import styles from '../styles/projects.module.css';
-import BlueAbsolute from './BlueAbsolute';
+
+// import BlueAbsolute from './BlueAbsolute';
 
 type Item = {
   tags?: { value: string; label: string }[];
