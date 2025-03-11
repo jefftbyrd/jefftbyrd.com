@@ -1,6 +1,6 @@
 {
-  "commit": "e77c04637596c23ff958deadd74041740c05cbed",
-  "generated": "2025-03-11T07:34:58.835Z",
+  "commit": "daa96295537432358b4cf5c777cc6b863ef5181a",
+  "generated": "2025-03-11T07:58:04.330Z",
   "metadata": [
     {
       "__outstatic": {
@@ -315,44 +315,6 @@
       "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "87a368058ec0a6bdb7743d8f37cbc156456497a8",
-        "hash": "421536797",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "after-the-storm.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "Interactive documentary",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "status": "published",
-      "title": "After the Storm",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the project",
-      "websiteUrl": "https://whatcomesafter.org/"
     },
     {
       "__outstatic": {
@@ -930,6 +892,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "daa96295537432358b4cf5c777cc6b863ef5181a",
+        "hash": "4343259",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "Interactive documentary",
+      "gitHubUrl": "",
+      "projectOrder": "22",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://whatcomesafter.org/"
     }
   ]
 }
