@@ -142,7 +142,7 @@ export default async function Project(params: Params) {
             <div className="flex flex-col gap-2">
               <div className="bg-(--color-foreground) w-9/10 lg:w-auto px-5 lg:py-3">
                 <div
-                  className={`text-white text-base my-4 projectContent`}
+                  className={`text-white text-base my-4 projectContent contentArea`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>

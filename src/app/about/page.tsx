@@ -86,7 +86,7 @@ export default async function About() {
             <div className=" relative  lg:bg-(--color-foreground) -mt-2 lg:-mt-8  lg:w-auto">
               <div className="lg:px-0 lg:w-auto px-5 lg:py-3 pt-4 w-9/10 bg-(--color-foreground) lg:bg-transparent">
                 <div
-                  className=" text-white text-base px-4"
+                  className={`contentArea text-white text-base px-4`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
