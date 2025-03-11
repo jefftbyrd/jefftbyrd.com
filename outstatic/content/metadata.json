@@ -1,6 +1,6 @@
 {
-  "commit": "70029a5074576736c9620049051ca0489af6b583",
-  "generated": "2025-03-09T08:29:20.965Z",
+  "commit": "255a63537eeebc7352558997a63d641bbfa5d027",
+  "generated": "2025-03-11T08:28:40.178Z",
   "metadata": [
     {
       "__outstatic": {
@@ -126,37 +126,6 @@
     },
     {
       "__outstatic": {
-        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
-        "hash": "2506648264",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
         "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
         "hash": "981293699",
         "path": "outstatic/content/pages/projects.md"
@@ -175,8 +144,8 @@
     },
     {
       "__outstatic": {
-        "commit": "dd3e80ff4a61426b6663eb6a1b9724eb50fc98fe",
-        "hash": "2659667008",
+        "commit": "5994ba01df1ddc89920fffee76925b90721abdec",
+        "hash": "2931914222",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
       },
       "additionalImages": "",
@@ -191,7 +160,7 @@
       "coverImage": "/images/durrs-kxMT.webp",
       "description": "Documentary film about the Civil Rights Movement",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "20",
       "projectTags": [
         {
           "label": "Soundtrack",
@@ -318,8 +287,8 @@
     },
     {
       "__outstatic": {
-        "commit": "87a368058ec0a6bdb7743d8f37cbc156456497a8",
-        "hash": "421536797",
+        "commit": "d34c83406a25d74dd7bf5e1665c62d1e58cf8e4a",
+        "hash": "4343259",
         "path": "outstatic/content/projects/after-the-storm.md"
       },
       "additionalImages": "",
@@ -334,7 +303,7 @@
       "coverImage": "/images/after-the-storm-2-g2OD.webp",
       "description": "Interactive documentary",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "22",
       "projectTags": [
         {
           "label": "Soundtrack",
@@ -347,6 +316,7 @@
       ],
       "publishedAt": "2025-01-27T21:49:13.188Z",
       "slug": "after-the-storm",
+      "spotifyEmbedUrl": "",
       "status": "published",
       "title": "After the Storm",
       "videoUrl": "",
@@ -356,8 +326,8 @@
     },
     {
       "__outstatic": {
-        "commit": "fff61e58ef84fd2b99a6a983a5eb28617adfd330",
-        "hash": "1132959554",
+        "commit": "f69b7e73c9f16094dfe14b1b0c7943884f71b940",
+        "hash": "216964668",
         "path": "outstatic/content/projects/health-for-all.md"
       },
       "additionalImages": "hfa-2.webp,  hfa-3.webp",
@@ -370,7 +340,7 @@
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "",
+      "description": "Interactive documentary",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
@@ -434,8 +404,43 @@
     },
     {
       "__outstatic": {
-        "commit": "3ecb1b0b4e3d1cd122fb4f6063dab2b9a5ca511b",
-        "hash": "2550523468",
+        "commit": "70800303c41fb99204b2dd0bcb8c9f569a28d63d",
+        "hash": "2322448948",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "Budokan Boys music video",
+      "gitHubUrl": "",
+      "projectOrder": "18",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "11ebfc5266056d68560ce06434ffb701d3b5169d",
+        "hash": "3558051905",
         "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
@@ -450,7 +455,7 @@
       "coverImage": "/images/eiff-2-gzMj.webp",
       "description": "Opening animation for the 69th Edinburgh International Film Festival",
       "gitHubUrl": "",
-      "projectOrder": "2",
+      "projectOrder": "-4",
       "projectTags": [
         {
           "label": "Soundtrack",
@@ -513,8 +518,47 @@
     },
     {
       "__outstatic": {
-        "commit": "da358f0a9ddcc24d5664308a5f1b8ff7ed63da84",
-        "hash": "505506767",
+        "commit": "4c98a2d0ae9f68b2e56c3a3f98cbe52ca13e8089",
+        "hash": "560984951",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "19",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:59.278Z",
+      "slug": "so-broken-up-about-you-dying",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
+      "vimeoUrl": "",
+      "websiteLinkText": "Reviewed by THE QUIETUS",
+      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
+    },
+    {
+      "__outstatic": {
+        "commit": "3767ed441a9491d68272830a7557001b57961ae1",
+        "hash": "975302910",
         "path": "outstatic/content/projects/rouler-sonner.md"
       },
       "additionalImages": "",
@@ -527,7 +571,7 @@
       "bigVideo": "true",
       "collection": "projects",
       "coverImage": "/images/rouler-sonner-IwNj.webp",
-      "description": "",
+      "description": "Short narrative film",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
@@ -542,12 +586,91 @@
       ],
       "publishedAt": "2025-01-27T21:48:12.284Z",
       "slug": "rouler-sonner",
+      "spotifyEmbedUrl": "",
       "status": "published",
       "title": "Rouler, Sonner",
       "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
+        "hash": "120023969",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "23",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Released by Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "c65e17e9d195ef4260efcfb89a795a5c5ff68410",
+        "hash": "2786726488",
+        "path": "outstatic/content/projects/lamb-alley.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "21",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Lamb Alley",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     },
     {
       "__outstatic": {
@@ -630,11 +753,11 @@
     },
     {
       "__outstatic": {
-        "commit": "7b583dbe95c3849aaa88be798d4d6174454663f4",
-        "hash": "618742116",
+        "commit": "8ef1a81c61b6f4f6e69890a3695d1698387b897c",
+        "hash": "2612212203",
         "path": "outstatic/content/projects/vector.md"
       },
-      "additionalImages": "vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp",
+      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
@@ -666,6 +789,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "daef5589fd8f48a86aa701fed032e043bc66c1e9",
+        "hash": "3174183020",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "slug": "vanishing-pearls",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -736,197 +898,6 @@
       "title": "Spark",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "2ee727769db2279c2816f61ff9c992bacdd31fe2",
-        "hash": "120023969",
-        "path": "outstatic/content/projects/nighty-night.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "Solo album",
-      "gitHubUrl": "",
-      "projectOrder": "23",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Released by Fort Evil Fruit",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "c4f94c0132b40e9067145ec7a6d08fb8e08b1fb9",
-        "hash": "2786726488",
-        "path": "outstatic/content/projects/lamb-alley.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
-      "description": "Solo album",
-      "gitHubUrl": "",
-      "projectOrder": "21",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
-      "slug": "lamb-alley",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Lamb Alley",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
-    },
-    {
-      "__outstatic": {
-        "commit": "373c6512bd5d807833d082fea0031bdb6f6c2a14",
-        "hash": "2719030624",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/god-today-EwND.webp",
-      "description": "Budokan Boys music video",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "5d85accfb246612bdfd05149576265ef31d6776f",
-        "hash": "1284351519",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "sbuayd-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "Budokan Boys album",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
-      "vimeoUrl": "",
-      "websiteLinkText": "Reviewed by THE QUIETUS",
-      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
-    },
-    {
-      "__outstatic": {
-        "commit": "70029a5074576736c9620049051ca0489af6b583",
-        "hash": "3174183020",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "slug": "vanishing-pearls",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }

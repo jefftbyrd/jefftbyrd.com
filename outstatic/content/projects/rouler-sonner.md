@@ -1,4 +1,5 @@
 ---
+spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: 'https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479'
@@ -11,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479'
 projectTags: [{"value":"soundDesign","label":"Sound Design"},{"value":"audioPost","label":"Audio Post"}]
 coverImage: '/images/rouler-sonner-IwNj.webp'
-description: ''
+description: 'Short narrative film'
 slug: 'rouler-sonner'
 author:
   name: 'Jeff T Byrd'
@@ -21,7 +22,7 @@ title: 'Rouler, Sonner'
 publishedAt: '2025-01-27T21:48:12.284Z'
 ---
 
-A young man recalls a strange day delivering a tiny box of radiant contents to the swampy outskirts of town.
+> A young man recalls a strange day delivering a tiny box of radiant contents to the swampy outskirts of town.
 
 With Bennett Kirschner, Eric Gabourel, Alexandra Kennon, Roger Vairat, Frieda Brown.
 
@@ -30,14 +31,6 @@ Written and Directed by Harry Bartle
 Produced by Hannah Swenson and Thomas Waltcher
 
 Cinematography by Justin Zweifach
-
-Production Design by Anna McKinsey and Max Skelton
-
-Producer/Assistant Director Sam Bass
-
-Original Music by Howe Pearson
-
-Edited by Bob Weisz
 
 Winner of the New Orleans Film Society's Pitch Perfect Competition, 2014.
 

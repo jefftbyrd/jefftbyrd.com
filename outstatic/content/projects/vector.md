@@ -11,7 +11,7 @@ projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"
 videoUrl: ''
 gitHubUrl: 'https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store'
 websiteUrl: 'https://vector-virus-shop.vercel.app/'
-additionalImages: 'vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp'
+additionalImages: 'vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp'
 bigImage: 'vector-2.webp'
 websiteLinkText: 'Visit the site'
 projectOrder: '29'
@@ -22,4 +22,4 @@ spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
-Vector is an e-commerce store where visitors can browse the selection of available viruses, add viruses to their cart and place orders.
+**Vector** is an e-commerce store where visitors can browse the selection of available viruses, add viruses to their cart and place orders.

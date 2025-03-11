@@ -14,10 +14,11 @@ websiteUrl: 'https://whatcomesafter.org/'
 additionalImages: ''
 bigImage: 'after-the-storm.webp'
 websiteLinkText: 'Visit the project'
-projectOrder: ''
+projectOrder: '22'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
+spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 
