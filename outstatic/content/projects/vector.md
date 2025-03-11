@@ -11,7 +11,8 @@ projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"
 videoUrl: ''
 gitHubUrl: 'https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store'
 websiteUrl: 'https://vector-virus-shop.vercel.app/'
-additionalImages: 'vector-cart-screen.webp, vector-home-screen.webp, vector-influenza-screen.webp'
+additionalImages: 'vector-home-screen.webp, vector-influenza-screen.webp,
+vector-cart-screen.webp'
 bigImage: 'vector-2.webp'
 websiteLinkText: 'Visit the site'
 projectOrder: '29'
