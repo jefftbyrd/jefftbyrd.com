@@ -12,7 +12,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI'
 projectTags: [{"value":"musicVideo","label":"Music Video"},{"label":"Music","value":"music"}]
 coverImage: '/images/goodwater-hic-Y2OT.webp'
-description: ''
+description: 'Music video for Goodwater, Alabama 1982, a track from the album Nighty Night'
 slug: 'goodwater-alabama-1982'
 author:
   name: 'Jeff T Byrd'
