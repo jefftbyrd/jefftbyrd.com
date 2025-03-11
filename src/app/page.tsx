@@ -1,49 +1,50 @@
-import { absoluteUrl } from '@/lib/utils';
-import { Metadata } from 'next';
-import { load } from 'outstatic/server';
+// import { absoluteUrl } from '@/lib/utils';
+// import { Metadata } from 'next';
+// import { load } from 'outstatic/server';
 import HomeFeaturedProject from '../components/HomeFeaturedProject';
 import HomeMenuItem from '../components/HomeMenuItem';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
-import markdownToHtml from '../lib/markdownToHtml';
 
-export async function generateMetadata(): Promise<Metadata> {
-  const { page } = await getData();
-  /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
+// import markdownToHtml from '../lib/markdownToHtml';
 
-  if (!page) {
-    return {};
-  }
+// export async function generateMetadata(): Promise<Metadata> {
+//   const { page } = await getData();
+//   /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
 
-  return {
-    title: page.title + ` | Jeff T Byrd`,
-    description: page.description,
-    openGraph: {
-      title: page.title,
-      description: page.description,
-      type: 'article',
-      url: absoluteUrl(`/${page.slug}`),
-      images: [
-        {
-          url: absoluteUrl(page?.coverImage || '/images/jefftbyrd.png'),
-          width: 1200,
-          height: 630,
-          alt: page.title,
-        },
-      ],
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: page.title,
-      description: page.description,
-      images: absoluteUrl(page?.coverImage || '/images/jefftbyrd.png'),
-    },
-  };
-}
+//   if (!page) {
+//     return {};
+//   }
+
+//   return {
+//     title: page.title + ` | Jeff T Byrd`,
+//     description: page.description,
+//     openGraph: {
+//       title: page.title,
+//       description: page.description,
+//       type: 'article',
+//       url: absoluteUrl(`/${page.slug}`),
+//       images: [
+//         {
+//           url: absoluteUrl(page?.coverImage || '/images/jefftbyrd.png'),
+//           width: 1200,
+//           height: 630,
+//           alt: page.title,
+//         },
+//       ],
+//     },
+//     twitter: {
+//       card: 'summary_large_image',
+//       title: page.title,
+//       description: page.description,
+//       images: absoluteUrl(page?.coverImage || '/images/jefftbyrd.png'),
+//     },
+//   };
+// }
 
 export default async function Index() {
-  // const { content, allPosts, allProjects } = await getData();
-  const { page, content } = await getData();
+  // const { page, content } = await getData();
+  // const { content } = await getData();
 
   return (
     <Layout>
@@ -82,42 +83,42 @@ export default async function Index() {
   );
 }
 
-async function getData() {
-  const db = await load();
+// async function getData() {
+//   const db = await load();
 
-  const page = await db
-    .find({ collection: 'pages', slug: 'home' }, [
-      'content',
-      'title',
-      'slug',
-      'coverImage',
-      'description',
-    ])
-    .first();
+//   // const page = await db
+//   //   .find({ collection: 'pages', slug: 'home' }, [
+//   //     'content',
+//   //     'title',
+//   //     'slug',
+//   //     'coverImage',
+//   //     'description',
+//   //   ])
+//   //   .first();
 
-  const content = await markdownToHtml(page.content);
+//   // const content = await markdownToHtml(page.content);
 
-  //   const allPosts = await db
-  //     .find({ collection: 'posts' }, [
-  //       'title',
-  //       'publishedAt',
-  //       'slug',
-  //       'coverImage',
-  //       'description',
-  //       'tags',
-  //     ])
-  //     .sort({ publishedAt: -1 })
-  //     .toArray();
+//   //   const allPosts = await db
+//   //     .find({ collection: 'posts' }, [
+//   //       'title',
+//   //       'publishedAt',
+//   //       'slug',
+//   //       'coverImage',
+//   //       'description',
+//   //       'tags',
+//   //     ])
+//   //     .sort({ publishedAt: -1 })
+//   //     .toArray();
 
-  //   const allProjects = await db
-  //     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
-  //     .sort({ publishedAt: -1 })
-  //     .toArray();
+//   //   const allProjects = await db
+//   //     .find({ collection: 'projects' }, ['title', 'slug', 'coverImage'])
+//   //     .sort({ publishedAt: -1 })
+//   //     .toArray();
 
-  return {
-    page,
-    content,
-    // allPosts,
-    // allProjects,
-  };
-}
+//   return {
+//     // page,
+//     // content,
+//     // allPosts,
+//     // allProjects,
+//   };
+// }

@@ -26,10 +26,10 @@ export const metadata: Metadata = {
     default: 'Jeff T Byrd',
     template: '%s | Jeff T Byrd',
   },
-  description: 'A blog starter built with Outstatic.',
+  description: 'Jeff T Byrd - Web Developer, Composer & Sound Designer',
   openGraph: {
-    title: 'Jeff T Byrd - Web Developer, Composer & Sound Designer',
-    description: 'A portfolio site.',
+    title: 'Jeff T Byrd',
+    description: 'Web Developer, Composer & Sound Designer',
     url: absoluteUrl('/'),
     siteName: 'Jeff T Byrd',
     images: [
