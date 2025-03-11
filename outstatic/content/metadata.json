@@ -1,6 +1,6 @@
 {
   "commit": "c5eb751aac2088cda4f807c89adcfd8b52a1f645",
-  "generated": "2025-03-11T08:36:36.779Z",
+  "generated": "2025-03-11T08:38:47.777Z",
   "metadata": [
     {
       "__outstatic": {
@@ -865,7 +865,7 @@
     {
       "__outstatic": {
         "commit": "c5eb751aac2088cda4f807c89adcfd8b52a1f645",
-        "hash": "1922011937",
+        "hash": "894233192",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
       "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
@@ -878,7 +878,7 @@
       "bigVideo": "true",
       "collection": "projects",
       "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "Music video for Goodwater, Alabama 1982, a track from the album Nighty Night",
+      "description": "Music video for a track from the album Nighty Night",
       "gitHubUrl": "",
       "projectOrder": "27",
       "projectTags": [
