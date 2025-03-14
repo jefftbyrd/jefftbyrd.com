@@ -4,8 +4,10 @@
 
 @theme {
   --color-foreground: oklch(45.79% 0.271 271.41);
-  --color-background: oklch(55.57% 0.2241 329.7);
-  --color-vivid: #ff2aed;
+  /* --color-background: oklch(55.57% 0.2241 329.7); */
+  --color-background: oklch(60.05% 0.2465 329.7);
+  /* --color-vivid: #ff2aed; */
+  --color-vivid: oklch(75.29% 0.3085 330.89);
   --color-vivid2: oklch(73.23% 0.3046 331.14);
   /* --font-karrik: var(--font-karrik); */
   /* --karrik: var(--font-karrik); */
