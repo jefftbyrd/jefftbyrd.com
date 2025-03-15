@@ -1,3 +1,10 @@
+'use client';
+import {
+  motion,
+  useMotionValueEvent,
+  useScroll,
+  useSpring,
+} from 'motion/react';
 // import { absoluteUrl } from '@/lib/utils';
 // import { Metadata } from 'next';
 // import { load } from 'outstatic/server';
@@ -56,7 +63,17 @@ export default async function Index() {
       </div>
 
       <div className="grid grid-cols-2 gap-2 lg:grid-cols-7 lg:gap-4 px-4 lg:px-24 align-items-end fixed lg:static bottom-0">
-        <div className="flex flex-col gap-2 lg:gap-4 lg:mb-18 lg:col-span-4 justify-center ">
+        <div className="flex flex-col gap-2 lg:gap-4 lg:mb-18 lg:col-span-4 justify-center">
+          <motion.div
+            initial={{ y: -1000 }}
+            animate={{ y: 0 }}
+            transition={{
+              duration: 0.8,
+              delay: 0,
+              ease: [0, 0.71, 0.2, 1.01],
+            }}
+            className="w-0 h-0 border-x-[50px] border-x-transparent border-t-[65px] border-t-(--color-foreground) self-center lg:border-x-[100px] lg:border-t-[120px] xl:border-x-[150px] xl:border-t-[200px]"
+          />
           <HomeFeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
