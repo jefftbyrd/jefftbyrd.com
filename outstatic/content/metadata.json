@@ -1,6 +1,6 @@
 {
-  "commit": "c5eb751aac2088cda4f807c89adcfd8b52a1f645",
-  "generated": "2025-03-11T08:38:47.777Z",
+  "commit": "25c5c689c10d89dcb6534fd2b9a0a3f512c52d0c",
+  "generated": "2025-03-15T09:21:03.823Z",
   "metadata": [
     {
       "__outstatic": {
@@ -820,50 +820,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7a1f4a63f309792fd7610b0ff28a5872a91f5b34",
-        "hash": "477336469",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "additionalImages": "earthsong-logo.webp, earthsong-help.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-sound-portal-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Listen to the planet",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "30",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
         "commit": "c5eb751aac2088cda4f807c89adcfd8b52a1f645",
         "hash": "894233192",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -900,6 +856,50 @@
       "vimeoUrl": "",
       "websiteLinkText": "Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "25c5c689c10d89dcb6534fd2b9a0a3f512c52d0c",
+        "hash": "2592139642",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "additionalImages": "earthsong-globe.webp, earthsong-help.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "earthsong-sound-portal-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Listen to the planet",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "30",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }

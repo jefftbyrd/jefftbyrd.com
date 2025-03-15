@@ -11,7 +11,7 @@ projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"
 videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
 websiteUrl: 'https://earthsong.world/'
-additionalImages: 'earthsong-logo.webp, earthsong-help.webp'
+additionalImages: 'earthsong-globe.webp, earthsong-help.webp'
 thumbnailImage: 'earthsong-thumb.webp'
 bigImage: 'earthsong-sound-portal-2.webp'
 websiteLinkText: 'Visit earthsong.world'
