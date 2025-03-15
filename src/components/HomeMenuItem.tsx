@@ -26,7 +26,7 @@ export default function HomeMenuItem(props: Props) {
     >
       <motion.a
         href={`/${props.title.toLowerCase()}`}
-        className=" w-full text-center grid items-center tracking-[-17px] md:tracking-[-28px]"
+        className=" w-full text-center grid items-center tracking-[-12px] md:tracking-[-28px]"
         whileHover={{
           paddingBottom: 60,
           color: '#fff',
