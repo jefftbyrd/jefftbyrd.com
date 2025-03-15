@@ -15,7 +15,7 @@ type Props = {
 export default function HomeMenuItem(props: Props) {
   return (
     <motion.div
-      className={`${styles.menuItem} pt-2 lg:pt-6 bg-(--color-foreground) pb-4 md:pb-8 lg:text-[4.1em] text-5xl md:text-6xl uppercase tracking-[-17px] hover:tracking-[-7px] md:tracking-[-28px] hover:md:tracking-[-16px] bottom-0 transition-all`}
+      className={`${styles.menuItem} pt-2 lg:pt-6 bg-(--color-foreground) pb-4 md:pb-8 lg:text-[4.1em] text-5xl md:text-6xl uppercase bottom-0`}
       initial={{ y: 1000 }}
       animate={{ y: 0 }}
       transition={{
@@ -26,11 +26,13 @@ export default function HomeMenuItem(props: Props) {
     >
       <motion.a
         href={`/${props.title.toLowerCase()}`}
-        className=" w-full text-center grid items-center"
+        className=" w-full text-center grid items-center tracking-[-17px] md:tracking-[-28px]"
         whileHover={{
-          paddingBottom: 100,
+          paddingBottom: 60,
           color: '#fff',
           transition: { duration: 0.2, delay: 0 },
+          // className: 'tracking-[-7px] md:tracking-[-16px]',
+          letterSpacing: '-14px',
         }}
         whileTap={{ scale: 0.95 }}
       >
