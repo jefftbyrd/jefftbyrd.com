@@ -91,7 +91,6 @@ export default async function Contact() {
               <div></div>
             </div>
           </div>
-          <p>This is a test.</p>
         </article>
       </div>
     </Layout>
