@@ -5,9 +5,6 @@
     "projectTags": {
       "required": false,
       "description": "Project tags",
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "project tags",
       "values": [
         {
           "value": "soundtrack",
@@ -52,12 +49,11 @@
         {
           "value": "sound",
           "label": "Sound"
-        },
-        {
-          "value": "music",
-          "label": "Music"
         }
-      ]
+      ],
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "project tags"
     },
     "videoUrl": {
       "required": false,
