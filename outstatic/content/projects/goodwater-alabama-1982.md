@@ -10,7 +10,7 @@ additionalImages: 'goodwater-additional-1.webp, goodwater-additional-2.webp'
 websiteUrl: 'https://fortevilfruit.bandcamp.com/album/nighty-night'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI'
-projectTags: [{"value":"musicVideo","label":"Music Video"},{"label":"Music","value":"music"}]
+projectTags: [{"value":"musicVideo","label":"Music Video"}]
 coverImage: '/images/goodwater-hic-Y2OT.webp'
 description: 'Music video for a track from the album Nighty Night'
 slug: 'goodwater-alabama-1982'
