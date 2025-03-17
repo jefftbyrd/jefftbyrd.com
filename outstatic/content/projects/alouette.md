@@ -1,4 +1,5 @@
 ---
+spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: 'https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479'
@@ -9,7 +10,7 @@ additionalImages: ''
 websiteUrl: ''
 gitHubUrl: ''
 videoUrl: ''
-projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"value":"soundDesign","label":"Sound Design"}]
 coverImage: '/images/alouette-kzNz.jpg'
 description: 'A 5-episode series set in New Orleans'
 slug: 'alouette'
