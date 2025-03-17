@@ -39,7 +39,7 @@ const Header = () => {
     setLogoScale2(mapNumRange(newScale, 0.8, 1, 0.7, 1));
   });
 
-  console.log('logoScale', logoScale);
+  // console.log('logoScale', logoScale);
 
   const MenuItem = ({ children }: Props) => {
     return (
