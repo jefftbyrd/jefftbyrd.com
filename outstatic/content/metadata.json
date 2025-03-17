@@ -1,6 +1,6 @@
 {
-  "commit": "179760ad3082eb27dea682608856d7e965ac5714",
-  "generated": "2025-03-17T13:49:14.591Z",
+  "commit": "8de56149f45d277bea174bb85aab2a9123ed2203",
+  "generated": "2025-03-17T13:52:55.349Z",
   "metadata": [
     {
       "__outstatic": {
@@ -248,40 +248,6 @@
       "title": "Are You Sick?",
       "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "39bfe14e2899024d0b01660153de8c7d9d063eab",
-        "hash": "1262001387",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "A 5-episode series set in New Orleans",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
@@ -896,6 +862,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "8de56149f45d277bea174bb85aab2a9123ed2203",
+        "hash": "874792961",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "A 5-episode series set in New Orleans",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
