@@ -71,8 +71,6 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
   };
 }
 
-// const additionalImagesSeparate = project.additionalImages.split(',');
-
 export default async function Project(params: Params) {
   const { project, content } = await getData(
     /* @next-codemod-error 'params' is passed as an argument. Any asynchronous properties of 'props' must be awaited when accessed. */
@@ -223,18 +221,9 @@ async function getData({ params }: Params) {
 
   const content = await markdownToHtml(project.content);
 
-  // const moreProjects = await db
-  //   .find({ collection: 'projects', slug: { $ne: params.slug } }, [
-  //     'title',
-  //     'slug',
-  //     'coverImage',
-  //   ])
-  //   .toArray();
-
   return {
     project,
     content,
-    // moreProjects,
   };
 }
 

@@ -1,8 +1,10 @@
 import Header from '@/components/Header';
 // import TagsFilter from '@/components/TagsFilter';
+// import TagsFilter from '@/components/TagsFilter';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
 import { load } from 'outstatic/server';
+// import { useRef, useState } from 'react';
 // import { useRef, useState } from 'react';
 import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
@@ -46,8 +48,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function Projects() {
-  // const { content, allPosts, allProjects } = await getData();
-  const { page, content, allProjects, allCode, allTags } = await getData();
+  const { page, allProjects } = await getData();
 
   return (
     <Layout>
@@ -58,41 +59,7 @@ export default async function Projects() {
           <BlueAbsolute />
         </div>
         <div className="lg:px-16">
-          {/* {allProjects.length > 0 && (
-            <TagsList
-              title="Projects"
-              items={musicVideos}
-              collection="projects"
-            />
-          )} */}
-
           <TagsFilter allProjects={allProjects} />
-
-          {/* {allTags.map((item) => (
-            <span
-              key={item.id}
-              className="inline-block uppercase bg-white rounded-full px-4 py-2 text-md font-medium text-xl text-(--color-foreground) mr-2 mb-2 "
-            >
-              {item[0].label}
-            </span>
-          ))} */}
-
-          {/* {allProjects.map((project) => {
-            <div>{project.title}</div>;
-            // project.projectTags.map(({ label }) => (
-            //   <span key={label}>
-            //     {label} {project.title}
-            //   </span>
-            // ));
-          })} */}
-
-          {/* {allProjects.length > 0 && (
-            <ProjectGrid
-              title="Projects"
-              items={allProjects}
-              collection="projects"
-            />
-          )} */}
         </div>
       </div>
     </Layout>
@@ -114,28 +81,10 @@ async function getData() {
 
   const content = await markdownToHtml(page.content);
 
-  // const allPosts = await db
-  //   .find({ collection: 'posts' }, [
-  //     'title',
-  //     'publishedAt',
-  //     'slug',
-  //     'coverImage',
-  //     'description',
-  //     'tags',
-  //   ])
-  //   .sort({ publishedAt: -1 })
-  //   .toArray();
-
   const allProjects = await db
     .find(
       {
         collection: 'projects',
-        // projectTags: [{ value: 'soundDesign' }, { value: 'soundtrack' }],
-        // projectTags: [{ value: 'soundtrack' }],
-        // projectTags: [
-        //   { value: 'soundtrack', label: 'Soundtrack' },
-        //   // { label: 'Sound Design', value: 'soundDesign' },
-        // ],
       },
       [
         'title',
@@ -149,74 +98,11 @@ async function getData() {
     .sort({ projectOrder: -1 })
     .toArray();
 
-  const allCode = allProjects.filter((project) => {
-    // console.log(eachVal);
-    let selected = project.projectTags.some(({ value }) =>
-      value.includes('code'),
-    );
-    return selected;
-  });
-
-  // const allCode2 = allProjects.filter((project) =>
-  //   project.projectTags.some(({ value }) =>
-  //     project.projectTags.includes('code'),
-  //   ),
-  // );
-
-  // const allCode3 = allProjects.filter((project) =>
-  //   checkedTags.some((tag) => project.projectTags.includes(tag)),
-  // );
-
-  // console.log(output);
-  // console.log('projectTags', Projects.projectTags);
-
-  const allTags = allProjects.map((project) => project.projectTags);
-  // console.log('allTags', allTags);
-
-  // const allTags = allProjects.filter((project) => {
-  //   project.projectTags.map(({ label }) => (
-  //       <span
-  //         key={label}
-
-  //       >
-  //         {label}
-  //       </span>
-  //     ))
-  //   : null}
-
-  // result = allProjects.flatMap(({ some_data }) =>
-  //   Object.keys(some_data)
-  //     .filter((k) => k.startsWith('color_'))
-  //     .map((k) => some_data[k].value),
-  // );
-
-  // const desiredOutput = allProjects
-  //   .map(({ projectTags }) =>
-  //     Object.entries(projectTags)
-  //       .filter(([key, { value }]) => key.startsWith('value'))
-  //       .map(([key, { value }]) => value),
-  //   )
-  //   .flat();
-  // console.log('desiredOutput', desiredOutput);
-  // console.log('allProjects', allProjects);
-
-  const musicVideos = await db
-    .find({ collection: 'projects', projectTags: 'musicVideo' }, [
-      'title',
-      'slug',
-      'coverImage',
-      'projectOrder',
-      'projectTags',
-      'description',
-    ])
-    .toArray();
-
   // console.log('allSoundtracks', allSoundtracks);
 
   return {
     page,
     content,
-    // allPosts,
     allProjects,
     // musicVideos,
     allCode,
@@ -224,3 +110,4 @@ async function getData() {
     // allSoundtracks,
   };
 }
+0;
