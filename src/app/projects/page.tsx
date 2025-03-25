@@ -1,15 +1,10 @@
 import Header from '@/components/Header';
-// import TagsFilter from '@/components/TagsFilter';
-// import TagsFilter from '@/components/TagsFilter';
 import { absoluteUrl } from '@/lib/utils';
 import { Metadata } from 'next';
 import { load } from 'outstatic/server';
-// import { useRef, useState } from 'react';
-// import { useRef, useState } from 'react';
 import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
-import ProjectGrid from '../../components/ProjectGrid';
 import TagsFilter from '../../components/TagsFilter';
 import markdownToHtml from '../../lib/markdownToHtml';
 
@@ -98,16 +93,9 @@ async function getData() {
     .sort({ projectOrder: -1 })
     .toArray();
 
-  // console.log('allSoundtracks', allSoundtracks);
-
   return {
     page,
     content,
     allProjects,
-    // musicVideos,
-    allCode,
-    allTags,
-    // allSoundtracks,
   };
 }
-0;

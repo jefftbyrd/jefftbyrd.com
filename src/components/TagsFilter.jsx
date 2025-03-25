@@ -15,6 +15,7 @@ const TagsFilter = ({ allProjects }) => {
       );
       return selected;
     });
+  console.log('tagFilter', tagFilter);
   const TagItem = (props) => {
     return (
       <motion.button

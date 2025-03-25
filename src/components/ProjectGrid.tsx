@@ -1,8 +1,16 @@
-import { AnimatePresence, motion } from 'motion/react';
+import {
+  AnimatePresence,
+  motion,
+  useMotionValueEvent,
+  useScroll,
+  useSpring,
+} from 'motion/react';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { OstDocument } from 'outstatic';
 import styles from '../styles/projects.module.css';
+
+// import BlueAbsolute from './BlueAbsolute';
 
 type Item = {
   tags?: { value: string; label: string }[];
@@ -23,7 +31,12 @@ const ProjectGrid = ({
 }: Props) => {
   return (
     <div className="relative">
+      {/* <BlueAbsolute /> */}
+      {/* <BlueVertGrid height={'h-screen'} /> */}
       <section id={collection}>
+        {/* <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
+        {title}
+      </h2> */}
         <div className="grid grid-cols-1 mx-4 lg:mx-0 sm:grid-cols-2 xl:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-4 sm:gap-y-6 lg:gap-y-8 pt-8">
           {items.map((item, id) => (
             <AnimatePresence mode="popLayout">
@@ -32,6 +45,8 @@ const ProjectGrid = ({
                 initial={{ opacity: 0, scale: 0 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0 }}
+                // style={box}
+                // key="box"
               >
                 <Link href={`/${collection}/${item.slug}`}>
                   <div
@@ -78,6 +93,20 @@ const ProjectGrid = ({
                         </div>
                       )}
                     </div>
+                    {/* {collection === 'projects' && (
+                  <div className="p-4">
+                    {Array.isArray(item?.projectTags)
+                      ? item.projectTags.map(({ label }) => (
+                          <span
+                            key={label}
+                            className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+                          >
+                            {label}
+                          </span>
+                        ))
+                      : null}
+                  </div>
+                )} */}
                   </div>
                 </Link>
               </motion.div>
