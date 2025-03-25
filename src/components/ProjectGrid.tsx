@@ -1,16 +1,8 @@
-import {
-  AnimatePresence,
-  motion,
-  useMotionValueEvent,
-  useScroll,
-  useSpring,
-} from 'motion/react';
+import { AnimatePresence, motion } from 'motion/react';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { OstDocument } from 'outstatic';
 import styles from '../styles/projects.module.css';
-
-// import BlueAbsolute from './BlueAbsolute';
 
 type Item = {
   tags?: { value: string; label: string }[];
@@ -31,12 +23,7 @@ const ProjectGrid = ({
 }: Props) => {
   return (
     <div className="relative">
-      {/* <BlueAbsolute /> */}
-      {/* <BlueVertGrid height={'h-screen'} /> */}
       <section id={collection}>
-        {/* <h2 className="mb-8 text-5xl md:text-6xl font-bold tracking-tighter leading-tight">
-        {title}
-      </h2> */}
         <div className="grid grid-cols-1 mx-4 lg:mx-0 sm:grid-cols-2 xl:grid-cols-3 sm:gap-x-6 lg:gap-x-8 gap-y-4 sm:gap-y-6 lg:gap-y-8 pt-8">
           {items.map((item, id) => (
             <AnimatePresence mode="popLayout">
@@ -45,8 +32,6 @@ const ProjectGrid = ({
                 initial={{ opacity: 0, scale: 0 }}
                 animate={{ opacity: 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0 }}
-                // style={box}
-                // key="box"
               >
                 <Link href={`/${collection}/${item.slug}`}>
                   <div
@@ -65,12 +50,12 @@ const ProjectGrid = ({
                       {collection === 'projects' && (
                         <div className="text-white absolute top-3 left-3 -translate-y-0 -translate-x-0">
                           <h2
-                            className={`${styles.projectTitle} p-2 bg-opacity-0 text-left whitespace-normal font-bold tracking-wide text-4xl uppercase  leading-12`}
+                            className={`${styles.projectTitle} p-2 bg-opacity-0 text-left whitespace-normal font-bold tracking-wide text-4xl xl:text-3xl 2xl:text-4xl uppercase  leading-12`}
                           >
                             {item.title}
                           </h2>
                           <h3
-                            className={`${styles.projectDescription} pl-2 pr-6 bg-opacity-0 text-left whitespace-normal font-medium tracking-wide text-md`}
+                            className={`${styles.projectDescription} pl-2 pr-6 bg-opacity-0 text-left whitespace-normal font-medium tracking-wide text-base xl:text-sm 2xl:text-base`}
                           >
                             {item.description}
                           </h3>
@@ -84,7 +69,7 @@ const ProjectGrid = ({
                             ? item.projectTags.map(({ label }) => (
                                 <span
                                   key={label}
-                                  className="uppercase inline-block bg-white rounded-full px-3 py-1 text-md font-semibold text-((gray-700) mr-2 mb-2)"
+                                  className="uppercase inline-block bg-white rounded-full px-3 py-1 text-base font-semibold text-((gray-700) mr-2 mb-2)"
                                 >
                                   {label}
                                 </span>
@@ -93,20 +78,6 @@ const ProjectGrid = ({
                         </div>
                       )}
                     </div>
-                    {/* {collection === 'projects' && (
-                  <div className="p-4">
-                    {Array.isArray(item?.projectTags)
-                      ? item.projectTags.map(({ label }) => (
-                          <span
-                            key={label}
-                            className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
-                          >
-                            {label}
-                          </span>
-                        ))
-                      : null}
-                  </div>
-                )} */}
                   </div>
                 </Link>
               </motion.div>
