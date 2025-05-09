@@ -69,7 +69,7 @@ const ProjectGrid = ({
                             ? item.projectTags.map(({ label }) => (
                                 <span
                                   key={label}
-                                  className="uppercase inline-block bg-white rounded-full px-3 py-1 text-base font-semibold text-((gray-700) mr-2 mb-2)"
+                                  className="uppercase inline-block bg-white rounded-full px-3 py-1 text-md font-semibold text-((gray-700) mr-2 mb-2)"
                                 >
                                   {label}
                                 </span>
