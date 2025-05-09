@@ -1,6 +1,6 @@
 {
   "commit": "345ff997fc17c3e18b0d21591c3b680696b18f34",
-  "generated": "2025-05-09T08:00:39.718Z",
+  "generated": "2025-05-09T08:01:07.642Z",
   "metadata": [
     {
       "__outstatic": {
@@ -870,7 +870,7 @@
     {
       "__outstatic": {
         "commit": "345ff997fc17c3e18b0d21591c3b680696b18f34",
-        "hash": "2772396362",
+        "hash": "1394508051",
         "path": "outstatic/content/projects/are-you-sick.md"
       },
       "additionalImages": "",
@@ -899,7 +899,7 @@
       "title": "Are You Sick?",
       "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
       "vimeoUrl": "",
-      "websiteLinkText": "",
+      "websiteLinkText": "Bandcamp",
       "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
     }
   ]

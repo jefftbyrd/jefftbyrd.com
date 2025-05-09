@@ -4,7 +4,7 @@ bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=lar
 bigVideo: 'true'
 vimeoUrl: ''
 projectOrder: '26'
-websiteLinkText: ''
+websiteLinkText: 'Bandcamp'
 bigImage: ''
 additionalImages: ''
 websiteUrl: 'https://strategictapereserve.bandcamp.com/album/are-you-sick'
