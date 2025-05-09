@@ -1,6 +1,6 @@
 {
-  "commit": "ffd6a1725d8b47e27b50a7b247e7fc4a135140f0",
-  "generated": "2025-05-09T08:03:42.883Z",
+  "commit": "b5bed8c1a111ab902a2a65797c089627acbf5373",
+  "generated": "2025-05-09T08:10:26.329Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "2e187626b44b9235817291ff3d51dbe415c80e1a",
-        "hash": "2469815638",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -901,6 +883,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "Album on Bandcamp",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "b5bed8c1a111ab902a2a65797c089627acbf5373",
+        "hash": "2895506951",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
