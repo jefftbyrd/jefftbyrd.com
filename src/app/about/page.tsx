@@ -84,7 +84,7 @@ export default async function About() {
               </div>
             </div>
 
-            <div className="relative lg:bg-(--color-foreground) lg:w-auto lg:px-8 -translate-y-2">
+            <div className="relative lg:bg-(--color-foreground) lg:w-auto lg:px-8 -translate-y-8 pt-6">
               <div className="lg:px-0 lg:w-auto px-5 w-9/10 bg-(--color-foreground) lg:bg-transparent pt-4 lg:pt-0">
                 <div
                   className={`contentArea text-white text-base`}
