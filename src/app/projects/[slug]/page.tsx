@@ -175,7 +175,7 @@ export default async function Project(params: Params) {
                   ? project.projectTags.map(({ label }) => (
                       <span
                         key={label}
-                        className="inline-block uppercase bg-white rounded-full px-4 py-2 text-md font-medium text-xl text-(--color-foreground) mr-2 mb-2 "
+                        className="inline-block uppercase bg-white rounded-full border-2 border-solid border-(--color-foreground) px-4 py-2 text-md font-medium text-md text-(--color-foreground) mr-2 mb-2 "
                       >
                         {label}
                       </span>
