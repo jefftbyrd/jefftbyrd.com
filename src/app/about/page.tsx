@@ -7,6 +7,7 @@ import Image from 'next/image';
 // import { notFound } from 'next/navigation';
 import { OstDocument } from 'outstatic';
 import { getDocumentSlugs, load } from 'outstatic/server';
+import Blue2 from '../../components/Blue2';
 import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import markdownToHtml from '../../lib/markdownToHtml';
@@ -66,7 +67,7 @@ export default async function About() {
         <Header />
         <div className="relative pb-8 lg:pb-12">
           <PageTitle pageTitle={page.title} />
-          <BlueAbsolute />
+          <Blue2 />
         </div>
 
         <article className="pb-6 lg:pb-6">
@@ -83,14 +84,14 @@ export default async function About() {
               </div>
             </div>
 
-            <div className=" relative  lg:bg-(--color-foreground) -mt-2 lg:-mt-8  lg:w-auto">
-              <div className="lg:px-0 lg:w-auto px-5 lg:py-3 pt-4 w-9/10 bg-(--color-foreground) lg:bg-transparent">
+            <div className="relative lg:bg-(--color-foreground) lg:w-auto lg:px-8 -translate-y-2">
+              <div className="lg:px-0 lg:w-auto px-5 w-9/10 bg-(--color-foreground) lg:bg-transparent pt-4 lg:pt-0">
                 <div
-                  className={`contentArea text-white text-base px-4`}
+                  className={`contentArea text-white text-base`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
               </div>
-              <div className="px-2 lg:px-4 pt-2 lg:pt-5 mt-4 lg:mt-0">
+              <div className="pt-2 lg:pt-5 mt-4 lg:mt-0 px-2 lg:px-0">
                 <iframe
                   className="aspect-16/9 w-full"
                   src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
