@@ -16,7 +16,7 @@ type Props = {
 export default function HomeFeaturedProject(props: Props) {
   return (
     <motion.a
-      className="origin-bottom-right"
+      className="origin-bottom-right  "
       href={props.url}
       whileHover={{
         scale: 1.05,
@@ -25,7 +25,7 @@ export default function HomeFeaturedProject(props: Props) {
       whileTap={{ scale: 0.95 }}
     >
       <motion.img
-        className=""
+        className="shadow-lg shadow-black/10"
         src={props.image}
         initial={{ x: -1000 }}
         animate={{ x: 0 }}

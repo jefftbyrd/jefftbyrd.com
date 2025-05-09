@@ -72,7 +72,7 @@ export default async function Index() {
               delay: 0,
               ease: [0, 0.71, 0.2, 1.01],
             }}
-            className="w-0 h-0 border-x-[50px] border-x-transparent border-t-[65px] border-t-(--color-foreground) self-center lg:border-x-[100px] lg:border-t-[120px] xl:border-x-[150px] xl:border-t-[200px]"
+            className="w-0 h-0 border-x-[50px] border-x-transparent border-t-[65px] border-t-(--color-foreground) self-center lg:border-x-[100px] lg:border-t-[120px] xl:border-x-[150px] xl:border-t-[200px] "
           />
           <HomeFeaturedProject
             url={`/projects/earthsong/`}
@@ -80,8 +80,8 @@ export default async function Index() {
             delayTime={0}
           />
           <HomeFeaturedProject
-            url={`/projects/vector/`}
-            image={`/images/featured/vector-1.webp`}
+            url={`/projects/are-you-sick/`}
+            image={`/images/featured/ays-featured.webp`}
             delayTime={0.2}
           />
         </div>
