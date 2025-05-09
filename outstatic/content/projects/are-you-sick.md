@@ -7,7 +7,7 @@ projectOrder: '26'
 websiteLinkText: ''
 bigImage: ''
 additionalImages: ''
-websiteUrl: ''
+websiteUrl: 'https://strategictapereserve.bandcamp.com/album/are-you-sick'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX'
 projectTags: [{"value":"album","label":"Album"}]
