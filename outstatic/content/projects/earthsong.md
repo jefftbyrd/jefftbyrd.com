@@ -28,12 +28,13 @@ spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
-[**Earthsong**](https://earthsong.world/) is...
+## [**Earthsong**](https://earthsong.world/) is...
 
 - a vehicle for sonic teleportation.
 - a game of chance.
 - a tool for sonic inspiration.
-- an adventure, a surprise — totally unpredictable!
+- an adventure, a surprise — totally unpredictable! \
+  \
 
 ## What does it do?
 
