@@ -138,7 +138,7 @@ export default async function Project(params: Params) {
             </div>
 
             <div className="flex flex-col gap-2">
-              <div className="bg-(--color-foreground) w-9/10 lg:w-auto px-5 lg:py-3">
+              <div className="bg-(--color-foreground) w-9/10 lg:w-auto px-5 lg:px-8 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent contentArea`}
                   dangerouslySetInnerHTML={{ __html: content }}
@@ -146,7 +146,7 @@ export default async function Project(params: Params) {
               </div>
               {project.websiteUrl ? (
                 <div
-                  className={`bg-(--color-vivid) text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-6 border-solid border-(--color-foreground)`}
+                  className={`bg-(--color-vivid) text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-(--color-foreground)`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -159,7 +159,7 @@ export default async function Project(params: Params) {
               ) : null}
               {project.gitHubUrl ? (
                 <div
-                  className={`bg-(--color-vivid) text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-6 border-solid border-(--color-foreground)`}
+                  className={`bg-(--color-vivid) text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-(--color-foreground)`}
                 >
                   <a
                     className="block px-5 py-3"
