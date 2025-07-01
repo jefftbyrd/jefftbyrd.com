@@ -1,14 +1,9 @@
 import '../styles/index.css';
-import { absoluteUrl } from '@/lib/utils';
+// import { absoluteUrl } from '@/lib/utils';
 import { Analytics } from '@vercel/analytics/react';
 import { Metadata } from 'next';
 import { Space_Grotesk } from 'next/font/google';
 import localFont from 'next/font/local';
-
-// const hanken = Hanken_Grotesk({
-//   subsets: ['latin'],
-//   variable: '--font-hanken',
-// });
 
 const space = Space_Grotesk({
   subsets: ['latin'],
@@ -30,13 +25,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Jeff T Byrd',
     description: 'Web Developer, Composer & Sound Designer',
-    url: absoluteUrl('/'),
+    url: '/',
     siteName: 'Jeff T Byrd',
     images: [
       {
-        url: absoluteUrl('/images/jefftbyrd.png'),
-        width: 1800,
-        height: 1600,
+        url: '/images/jefftbyrd.png',
+        width: 1280,
+        height: 800,
       },
     ],
     locale: 'en_US',
