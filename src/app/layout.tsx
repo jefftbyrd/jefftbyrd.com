@@ -30,8 +30,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/images/jefftbyrd.png',
-        width: 1280,
-        height: 800,
+        width: 1200,
+        height: 630,
       },
     ],
     locale: 'en_US',
