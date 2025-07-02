@@ -13,7 +13,7 @@ export default function Logo() {
       <motion.h1
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
-        className={`pt-2 sm:pt-0 sm:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} z-100`}
+        className={`pt-2 sm:pt-0 sm:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} z-100 drop-shadow-[0px_0px_0.2rem_#ca2bc4]`}
       >
         Jeff <span className={styles.bump}>T</span> Byrd
       </motion.h1>
