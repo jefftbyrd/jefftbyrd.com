@@ -24,12 +24,6 @@
   font-family: var(--font-space);
   /* font-size: calc(16px + (38 - 16) * ((100vw - 300px) / (1600 - 300))); */
   font-weight: 300;
-  /* text-align: center; */
-  /* line-height: 100%; */
-  /* color: white; */
-  /* display: block; */
-  /* position: relative; */
-  /* z-index: 100; */
 }
 
 .blueVert {
