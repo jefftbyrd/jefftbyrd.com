@@ -7,7 +7,12 @@ author:
 slug: 'earthsong'
 description: 'Listen to the planet'
 coverImage: '/images/earthsong-2-c0NT.webp'
-projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"}]
+projectTags:
+  [
+    { 'value': 'code', 'label': 'Code' },
+    { 'value': 'design', 'label': 'Design' },
+    { 'label': 'Sound', 'value': 'sound' },
+  ]
 videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'
 gitHubUrl: 'https://github.com/jefftbyrd/Earthsong'
 websiteUrl: 'https://earthsong.world/'
@@ -27,7 +32,7 @@ publishedAt: '2025-01-27T21:44:17.556Z'
 
 - a portal for exploring the sounds of other places
 - a tool for sonic inspiration
-- a surprising and unpredictable sonic adventure 
+- a surprising and unpredictable sonic adventure
 
 ## What does it do?
 
