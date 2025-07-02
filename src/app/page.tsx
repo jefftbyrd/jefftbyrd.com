@@ -15,7 +15,7 @@ export default async function Index() {
     <Layout>
       <div className="max-w-none mx-auto px-0 grid">
         <div className="bg-(--color-foreground) w-full lg:w-xl lg:sticky top-0 -z-100 lg:h-6 h-3 justify-self-center" />
-        <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8 relative z-100 lg:z-auto">
+        <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8 z-100 relative">
           <Logo />
         </section>
       </div>
@@ -44,7 +44,7 @@ export default async function Index() {
           />
         </div>
 
-        <div className="-z-10">
+        <div className="">
           <div className="grid grid-cols-3 gap-2 lg:gap-4 bottom-0 lg:w-1/3 lg:col-span-3 w-full lg:fixed">
             <HomeMenuItem title={`Projects`} delayTime={0} />
             <HomeMenuItem title={`About`} delayTime={0.2} />

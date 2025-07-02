@@ -13,7 +13,7 @@ export default function Logo() {
       <motion.h1
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
-        className={`pt-2 sm:pt-0 sm:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} drop-shadow-[0px_0px_0.2rem_#ca2bc4]`}
+        className={`pt-2 sm:pt-0 sm:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} drop-shadow-[0px_0px_0.4rem_#ca2bc4]`}
       >
         Jeff <span className={styles.bump}>T</span> Byrd
       </motion.h1>
@@ -21,7 +21,7 @@ export default function Logo() {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={`${styles.subtitle} text-center uppercase mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto mix-blend-difference text-black lg:text-[#ff3bf8] drop-shadow-[0px_0px_0.2rem_#ca2bc4] lg:drop-shadow-none`}
+        className={`${styles.subtitle} text-center uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
       >
         Web developer, composer & sound designer
       </motion.h2>
