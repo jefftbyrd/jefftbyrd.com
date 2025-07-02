@@ -34,12 +34,18 @@ publishedAt: '2025-01-27T21:44:17.556Z'
 - a tool for sonic inspiration
 - a surprising and unpredictable sonic adventure
 
+&nbsp;
+&nbsp;
+
 ## What does it do?
 
 - Listen to sounds from anywhere on Earth
 - Discover surprising interactions and harmonies between sounds
 - Build your own soundscapes in EARTH SONG's interactive 3-dimensional Sound Portal
 - Mutate and transform sounds in real-time: reverse direction, change playback speed, "tune" sounds to each other
+
+&nbsp;
+&nbsp;
 
 ## How does it work?
 
