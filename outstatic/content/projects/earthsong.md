@@ -35,7 +35,6 @@ publishedAt: '2025-01-27T21:44:17.556Z'
 - a surprising and unpredictable sonic adventure
 
 &nbsp;
-&nbsp;
 
 ## What does it do?
 
@@ -44,7 +43,6 @@ publishedAt: '2025-01-27T21:44:17.556Z'
 - Build your own soundscapes in EARTH SONG's interactive 3-dimensional Sound Portal
 - Mutate and transform sounds in real-time: reverse direction, change playback speed, "tune" sounds to each other
 
-&nbsp;
 &nbsp;
 
 ## How does it work?
