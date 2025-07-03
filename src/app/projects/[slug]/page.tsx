@@ -86,7 +86,7 @@ export default async function Project(params: Params) {
           <BlueAbsolute />
         </div>
 
-        <div className="sm:mx-0 aspect-16/9 overflow-hidden relative">
+        <div className="sm:mx-0 aspect-[16/9] overflow-hidden relative">
           {project.bigVideo && project.videoUrl ? (
             <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
           ) : null}
@@ -104,9 +104,11 @@ export default async function Project(params: Params) {
                   : `${project?.coverImage || ''}`
               }
               alt={`Cover Image for ${project.title}`}
-              className="aspect-16/9 object-cover object-center w-full h-auto md:w-full scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm overflow-hidden"
+              className="object-cover object-center scale-103 hover:scale-[1.0] motion-safe:transform-gpu transition duration-2000 motion-reduce:hover:scale-100 hover:shadow-sm"
               fill
+              sizes="100vw"
               priority
+              quality={75}
             />
           ) : null}
         </div>
