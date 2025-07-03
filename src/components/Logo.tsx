@@ -15,7 +15,22 @@ export default function Logo() {
         animate={{ scale: 1 }}
         className={`pt-2 sm:pt-0 sm:text-[calc(24px+(200-24)*((100vw-300px)/(1600-300)))] text-[60px] uppercase ${styles.logo} drop-shadow-[0px_0px_0.4rem_#ca2bc4]`}
       >
-        Jeff <span className={styles.bump}>T</span> Byrd
+        Jeff{' '}
+        <motion.span
+          // key={index}
+          // className={styles.bigBump}
+          initial={{ y: 0 }}
+          className="relative inline-block"
+          animate={{ y: '-0.14em' }}
+          transition={{
+            duration: 1,
+            delay: 0.2,
+            ease: [0, 0.71, 0.2, 1.01],
+          }}
+        >
+          T
+        </motion.span>{' '}
+        Byrd
       </motion.h1>
 
       <motion.h2
