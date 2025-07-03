@@ -38,15 +38,17 @@ const ProjectGrid = ({
                     className={`${styles.projectLink} cursor-pointer project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
                   >
                     <div className={styles.gridItem}>
-                      <Image
-                        src={item.coverImage ?? ''}
-                        alt={`Cover Image for ${item.title}`}
-                        className={`${styles.projectImage} object-cover object-center w-full h-auto`}
-                        width={0}
-                        height={0}
-                        sizes="(min-width: 768px) 347px, 192px"
-                        priority={priority && id <= 2}
-                      />
+                      <div className="relative w-full aspect-square">
+                        <Image
+                          src={item.coverImage ?? ''}
+                          alt={`Cover Image for ${item.title}`}
+                          className={`${styles.projectImage} object-cover object-center`}
+                          fill
+                          sizes="(min-width: 1280px) 400px, (min-width: 768px) 350px, 100vw"
+                          priority={priority && id <= 2}
+                          quality={90}
+                        />
+                      </div>
                       {collection === 'projects' && (
                         <div className="text-white absolute top-3 left-3 -translate-y-0 -translate-x-0">
                           <h2
