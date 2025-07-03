@@ -1,3 +1,10 @@
+'use client';
+import {
+  motion,
+  useMotionValueEvent,
+  useScroll,
+  useSpring,
+} from 'motion/react';
 import styles from '../styles/pageTitle.module.css';
 
 type Props = {
@@ -9,9 +16,19 @@ export default function PageTitle(props: Props) {
     return text.split('').map((char, index) => {
       if (char.toLowerCase() === 't') {
         return (
-          <span key={index} className={styles.bigBump}>
+          <motion.span
+            key={index}
+            className={styles.bigBump}
+            initial={{ y: 0 }}
+            animate={{ y: '-0.14em' }}
+            transition={{
+              duration: 0.5,
+              delay: 0,
+              ease: [0, 0.71, 0.2, 1.01],
+            }}
+          >
             {char}
-          </span>
+          </motion.span>
         );
       }
       return char;
