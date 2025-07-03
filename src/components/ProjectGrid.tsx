@@ -46,7 +46,7 @@ const ProjectGrid = ({
                           fill
                           sizes="(min-width: 1280px) 400px, (min-width: 768px) 350px, 100vw"
                           priority={priority && id <= 2}
-                          quality={90}
+                          quality={85}
                         />
                       </div>
                       {collection === 'projects' && (
