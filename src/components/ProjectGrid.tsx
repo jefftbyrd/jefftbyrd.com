@@ -44,9 +44,9 @@ const ProjectGrid = ({
                           alt={`Cover Image for ${item.title}`}
                           className={`${styles.projectImage} object-cover object-center`}
                           fill
-                          sizes="(min-width: 1280px) 400px, (min-width: 768px) 350px, 100vw"
+                          sizes="(min-width: 3840px) 100vw, (min-width: 2560px) 850px, (min-width: 1920px) 800px, (min-width: 1280px) 430px, (min-width: 768px) 350px, 100vw"
                           priority={priority && id <= 2}
-                          quality={85}
+                          quality={75}
                         />
                       </div>
                       {collection === 'projects' && (
