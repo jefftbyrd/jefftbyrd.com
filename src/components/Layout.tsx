@@ -1,6 +1,4 @@
-import Footer from './Footer';
-
-// import LeftLine from './LeftLine';
+// import Footer from './Footer';
 
 type Props = {
   children: React.ReactNode;
@@ -10,10 +8,8 @@ const Layout = ({ children }: Props) => {
   return (
     <>
       <div className="min-h-screen">
-        {/* <LeftLine /> */}
         <main>{children}</main>
       </div>
-      {/* <Footer /> */}
     </>
   );
 };
