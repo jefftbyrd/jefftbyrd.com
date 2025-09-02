@@ -1,6 +1,6 @@
 {
-  "commit": "dbaa9c99407ecf64f018f0fbb18c2299e72e6bca",
-  "generated": "2025-07-02T07:57:31.827Z",
+  "commit": "970930d042e3f0b4858c5877f98aa3058a36b609",
+  "generated": "2025-09-02T08:16:08.054Z",
   "metadata": [
     {
       "__outstatic": {
@@ -867,6 +867,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "970930d042e3f0b4858c5877f98aa3058a36b609",
+        "hash": "2571356028",
+        "path": "outstatic/content/projects/no-show.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/no-show-AzMz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:24:03.212Z",
+      "slug": "no-show",
+      "spotifyEmbedUrl": "",
+      "status": "draft",
+      "title": "No Show",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
     }
   ]
 }
