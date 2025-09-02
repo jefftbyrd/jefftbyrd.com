@@ -1,6 +1,6 @@
 {
-  "commit": "3cd30b1c185169859fbb144ac380968a98861542",
-  "generated": "2025-09-02T08:28:56.507Z",
+  "commit": "0ec345d45bb6875f4a2fac0290317b25d7d9d9fb",
+  "generated": "2025-09-02T08:29:03.110Z",
   "metadata": [
     {
       "__outstatic": {
@@ -905,8 +905,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3cd30b1c185169859fbb144ac380968a98861542",
-        "hash": "607264514",
+        "commit": "0ec345d45bb6875f4a2fac0290317b25d7d9d9fb",
+        "hash": "3402741820",
         "path": "outstatic/content/projects/men-hate-him.md"
       },
       "additionalImages": "",
@@ -931,7 +931,7 @@
       "publishedAt": "2025-09-02T08:39:33.203Z",
       "slug": "men-hate-him",
       "spotifyEmbedUrl": "",
-      "status": "draft",
+      "status": "published",
       "title": "MEN HATE HIM [Karaoke Version]",
       "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
       "vimeoUrl": "",
