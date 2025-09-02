@@ -1,6 +1,6 @@
 {
-  "commit": "0ec345d45bb6875f4a2fac0290317b25d7d9d9fb",
-  "generated": "2025-09-02T08:30:46.169Z",
+  "commit": "1c7acecca87038a5697158977e78b717dc317d36",
+  "generated": "2025-09-02T08:35:44.706Z",
   "metadata": [
     {
       "__outstatic": {
@@ -937,6 +937,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
+    },
+    {
+      "__outstatic": {
+        "commit": "1c7acecca87038a5697158977e78b717dc317d36",
+        "hash": "3697418132",
+        "path": "outstatic/content/projects/old-man-jones.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/old-man-jones-k3Nz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:49:25.845Z",
+      "slug": "old-man-jones",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Old Man Jones",
+      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
     }
   ]
 }
