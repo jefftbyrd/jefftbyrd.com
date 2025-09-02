@@ -1,6 +1,6 @@
 {
-  "commit": "fed16ff775912fe36482c5767f1979d716b2aaeb",
-  "generated": "2025-09-02T08:16:21.470Z",
+  "commit": "3cd30b1c185169859fbb144ac380968a98861542",
+  "generated": "2025-09-02T08:28:56.507Z",
   "metadata": [
     {
       "__outstatic": {
@@ -902,6 +902,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
+    },
+    {
+      "__outstatic": {
+        "commit": "3cd30b1c185169859fbb144ac380968a98861542",
+        "hash": "607264514",
+        "path": "outstatic/content/projects/men-hate-him.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/men-hate-him-M3Mz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:39:33.203Z",
+      "slug": "men-hate-him",
+      "spotifyEmbedUrl": "",
+      "status": "draft",
+      "title": "MEN HATE HIM [Karaoke Version]",
+      "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
     }
   ]
 }
