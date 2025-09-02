@@ -1,6 +1,6 @@
 {
   "commit": "0ec345d45bb6875f4a2fac0290317b25d7d9d9fb",
-  "generated": "2025-09-02T08:29:03.110Z",
+  "generated": "2025-09-02T08:30:46.169Z",
   "metadata": [
     {
       "__outstatic": {
@@ -906,7 +906,7 @@
     {
       "__outstatic": {
         "commit": "0ec345d45bb6875f4a2fac0290317b25d7d9d9fb",
-        "hash": "3402741820",
+        "hash": "3854991264",
         "path": "outstatic/content/projects/men-hate-him.md"
       },
       "additionalImages": "",
@@ -935,7 +935,7 @@
       "title": "MEN HATE HIM [Karaoke Version]",
       "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
       "vimeoUrl": "",
-      "websiteLinkText": "",
+      "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
     }
   ]
