@@ -1,6 +1,6 @@
 {
-  "commit": "970930d042e3f0b4858c5877f98aa3058a36b609",
-  "generated": "2025-09-02T08:16:08.054Z",
+  "commit": "fed16ff775912fe36482c5767f1979d716b2aaeb",
+  "generated": "2025-09-02T08:16:21.470Z",
   "metadata": [
     {
       "__outstatic": {
@@ -870,8 +870,8 @@
     },
     {
       "__outstatic": {
-        "commit": "970930d042e3f0b4858c5877f98aa3058a36b609",
-        "hash": "2571356028",
+        "commit": "fed16ff775912fe36482c5767f1979d716b2aaeb",
+        "hash": "4170217678",
         "path": "outstatic/content/projects/no-show.md"
       },
       "additionalImages": "",
@@ -896,7 +896,7 @@
       "publishedAt": "2025-09-02T08:24:03.212Z",
       "slug": "no-show",
       "spotifyEmbedUrl": "",
-      "status": "draft",
+      "status": "published",
       "title": "No Show",
       "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
       "vimeoUrl": "",
