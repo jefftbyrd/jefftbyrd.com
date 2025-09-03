@@ -1,6 +1,6 @@
 {
-  "commit": "1c7acecca87038a5697158977e78b717dc317d36",
-  "generated": "2025-09-02T08:35:44.706Z",
+  "commit": "6c4d116f040aa8559b2485cb581394cf15f8aa4d",
+  "generated": "2025-09-03T06:51:17.789Z",
   "metadata": [
     {
       "__outstatic": {
@@ -972,6 +972,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
+    },
+    {
+      "__outstatic": {
+        "commit": "6c4d116f040aa8559b2485cb581394cf15f8aa4d",
+        "hash": "1463623012",
+        "path": "outstatic/content/projects/providence.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/providence-YxNz.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        }
+      ],
+      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "slug": "providence",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Providence",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48095297",
+      "websiteLinkText": "Watch on Vimeo",
+      "websiteUrl": "https://vimeo.com/48095297"
     }
   ]
 }
