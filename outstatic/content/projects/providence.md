@@ -11,7 +11,7 @@ websiteUrl: 'https://vimeo.com/48095297'
 gitHubUrl: ''
 videoUrl: ''
 projectTags: [{"value":"shortFilm","label":"Short Film"}]
-coverImage: '/images/providence-2-E3OD.webp'
+coverImage: '/images/providence-3-kwNT.webp'
 description: ''
 slug: 'providence'
 author:

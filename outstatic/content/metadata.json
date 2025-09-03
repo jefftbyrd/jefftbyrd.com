@@ -1,6 +1,6 @@
 {
   "commit": "583934ead03ccbad5e31c57e15a654facfceae0b",
-  "generated": "2025-09-03T06:55:53.892Z",
+  "generated": "2025-09-03T07:10:27.108Z",
   "metadata": [
     {
       "__outstatic": {
@@ -976,7 +976,7 @@
     {
       "__outstatic": {
         "commit": "583934ead03ccbad5e31c57e15a654facfceae0b",
-        "hash": "178773320",
+        "hash": "807659350",
         "path": "outstatic/content/projects/providence.md"
       },
       "additionalImages": "",
@@ -988,7 +988,7 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/providence-2-E3OD.webp",
+      "coverImage": "/images/providence-3-kwNT.webp",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "",
