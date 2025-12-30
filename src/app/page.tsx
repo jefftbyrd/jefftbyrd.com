@@ -38,8 +38,8 @@ export default async function Index() {
             delayTime={0}
           />
           <HomeFeaturedProject
-            url={`/projects/are-you-sick/`}
-            image={`/images/featured/ays-featured.webp`}
+            url={`/projects/the-ooze/`}
+            image={`/images/featured/the-ooze-featured.png`}
             delayTime={0.2}
           />
         </div>
