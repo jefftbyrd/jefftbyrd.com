@@ -23,3 +23,7 @@ publishedAt: '2025-12-30T09:30:20.700Z'
 ---
 
 **Budokan Boys** return, summoning eight tracks of surreal no-wave psychedelic folklore: creation stories, damnation stories, tales of magic and cosmic horror. The grand, wide-angle arrangements—pulsing electronics punctuated by bleating horns, hyperreal foley samples, and drunk-stumbling rhythms—conjure up a warped, dream-state sonic landscape perfectly suited to the lyrics' bent, chimerical legends and alternate mythologies. Like a trickster apparition, THE OOZE leads the listener deep into the moonlit woods of the mind—full of enchanted artefacts, malicious entities, and sublime secrets—with no real intention of bringing them back.
+
+Recorded by Budokan Boys in Berlin, Vienna, and Vlastislav.\
+Produced by Jeff T Byrd.\
+Mastering and additional mixing by James Plotkin.

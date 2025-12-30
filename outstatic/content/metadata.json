@@ -1,6 +1,6 @@
 {
   "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
-  "generated": "2025-12-30T09:45:27.259Z",
+  "generated": "2025-12-30T09:45:51.586Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1011,7 +1011,7 @@
     {
       "__outstatic": {
         "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
-        "hash": "3558381064",
+        "hash": "344733021",
         "path": "outstatic/content/projects/the-ooze.md"
       },
       "additionalImages": "",
