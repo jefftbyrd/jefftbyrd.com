@@ -1,6 +1,6 @@
 {
   "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
-  "generated": "2025-12-30T09:35:49.994Z",
+  "generated": "2025-12-30T09:41:07.571Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1011,7 +1011,7 @@
     {
       "__outstatic": {
         "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
-        "hash": "3409358700",
+        "hash": "251434162",
         "path": "outstatic/content/projects/the-ooze.md"
       },
       "additionalImages": "",
@@ -1019,14 +1019,14 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1656633649/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bandcampEmbedUrl": "",
       "bigImage": "budokan-boys-moonlight-crop.webp",
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/ooze-square-2-A2OD.png",
       "description": "Budokan Boys Album",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "31",
       "projectTags": [
         {
           "label": "Album",
