@@ -1,6 +1,6 @@
 {
-  "commit": "c7a441bf551439525aec3767b652e87151c366d4",
-  "generated": "2025-12-30T09:29:53.384Z",
+  "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
+  "generated": "2025-12-30T09:35:49.994Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1010,8 +1010,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c7a441bf551439525aec3767b652e87151c366d4",
-        "hash": "4214754327",
+        "commit": "8beb5a32df8dfb3cb733bcfc2a60beea5e7d9c80",
+        "hash": "3409358700",
         "path": "outstatic/content/projects/the-ooze.md"
       },
       "additionalImages": "",
@@ -1024,7 +1024,7 @@
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/ooze-square-2-A2OD.png",
-      "description": "",
+      "description": "Budokan Boys Album",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
@@ -1035,7 +1035,7 @@
       ],
       "publishedAt": "2025-12-30T09:30:20.700Z",
       "slug": "the-ooze",
-      "spotifyEmbedUrl": "",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3fl7kgvWBnlguPOQoDL1ox?utm_source=generator",
       "status": "published",
       "title": "THE OOZE",
       "videoUrl": "",

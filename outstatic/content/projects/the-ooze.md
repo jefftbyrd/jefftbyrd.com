@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'the-ooze'
-description: ''
+description: 'Budokan Boys Album'
 coverImage: '/images/ooze-square-2-A2OD.png'
 projectTags: [{"value":"album","label":"Album"}]
 videoUrl: ''
@@ -17,7 +17,7 @@ websiteLinkText: 'THE OOZE on Bandcamp'
 projectOrder: ''
 vimeoUrl: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=1656633649/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/'
-spotifyEmbedUrl: ''
+spotifyEmbedUrl: 'https://open.spotify.com/embed/album/3fl7kgvWBnlguPOQoDL1ox?utm_source=generator'
 bigVideo: ''
 publishedAt: '2025-12-30T09:30:20.700Z'
 ---
