@@ -15,7 +15,7 @@
     "gray-matter": "^4.0.3",
     "gsap": "^3.12.7",
     "motion": "^12.4.6",
-    "next": "^14.2.23",
+    "next": "^14.2.35",
     "outstatic": "latest",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
