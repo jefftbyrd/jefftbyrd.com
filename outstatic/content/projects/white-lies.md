@@ -7,7 +7,7 @@ author:
 slug: 'white-lies'
 description: 'Documentary podcast series from National Public Radio (NPR)'
 coverImage: '/images/white-lies-square-QyMD.jpg'
-projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectTags: [{ 'value': 'soundtrack', 'label': 'Soundtrack' }]
 videoUrl: ''
 gitHubUrl: ''
 websiteUrl: 'https://www.npr.org/podcasts/510343/white-lies'
@@ -23,4 +23,12 @@ spotifyEmbedUrl: 'https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm
 publishedAt: '2025-01-27T21:47:20.921Z'
 ---
 
-In 1965, Rev. James Reeb — a Unitarian minister and civil-rights activist — was killed during the voting rights movement in Selma. After three men were tried and acquitted for his murder, the city's white community buried the truth. More than 50 years later, two native Alabamians return to Selma to uncover the truth about who killed James Reeb, and to delve into the systems of oppression and violence that allowed it to happen.
+# White Lies
+
+## Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast
+
+<div style="background-color: #f4f4f4; border-left: 4px solid #0066cc; padding: 20px; margin: 20px 0;">
+  <p style="margin: 5px 0;"><strong>🎧 #1 on Apple Podcasts</strong></p>
+  <p style="margin: 5px 0;"><strong>🏆 Pulitzer Prize Finalist</strong></p>
+  <p style="margin: 5px 0;"><strong>📻 NPR | Seasons 1-3 (2019-2025)</strong></p>
+</div>
