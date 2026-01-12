@@ -33,14 +33,14 @@ export default async function Index() {
             className="w-0 h-0 border-x-[40px] border-x-transparent border-t-[60px] border-t-(--color-foreground) self-center lg:border-x-[100px] lg:border-t-[120px] xl:border-x-[150px] xl:border-t-[200px] "
           />
           <HomeFeaturedProject
+            url={`/projects/white-lies/`}
+            image={`/images/featured/white-lies-featured.jpg`}
+            delayTime={0.2}
+          />
+          <HomeFeaturedProject
             url={`/projects/earthsong/`}
             image={`/images/featured/earthsong-featured.webp`}
             delayTime={0}
-          />
-          <HomeFeaturedProject
-            url={`/projects/the-ooze/`}
-            image={`/images/featured/the-ooze-featured.png`}
-            delayTime={0.2}
           />
         </div>
 
