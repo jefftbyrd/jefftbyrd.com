@@ -1,6 +1,6 @@
 {
-  "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
-  "generated": "2026-01-13T08:53:12.007Z",
+  "commit": "b5fe6a9d2cb19a410a73b1971b233986e2e18f91",
+  "generated": "2026-01-13T08:54:40.323Z",
   "metadata": [
     {
       "__outstatic": {
@@ -952,24 +952,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
-        "hash": "2599732025",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
         "commit": "5a9fc5cf9495b51254e1ae316304489475afffa0",
         "hash": "1823346375",
         "path": "outstatic/content/projects/white-lies.md"
@@ -1042,6 +1024,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the project",
       "websiteUrl": "https://whatcomesafter.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "b5fe6a9d2cb19a410a73b1971b233986e2e18f91",
+        "hash": "1111285166",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
