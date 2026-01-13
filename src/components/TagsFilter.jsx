@@ -36,10 +36,10 @@ const TagsFilter = ({ allProjects }) => {
       <section>
         <form className="flex mt-10 flex-wrap gap-5 lg:gap-4 mx-4 lg:mx-0 text-white ">
           <TagItem tagLabel="All" tagValue="all" />
+          <TagItem tagLabel="Composer" tagValue="soundtrack" />
+          <TagItem tagLabel="Sound Designer" tagValue="soundDesign" />
           <TagItem tagLabel="Code" tagValue="code" />
-          <TagItem tagLabel="Soundtracks" tagValue="soundtrack" />
           <TagItem tagLabel="Albums" tagValue="album" />
-          <TagItem tagLabel="Sound Design" tagValue="soundDesign" />
           <TagItem tagLabel="Music Videos" tagValue="musicVideo" />
           <TagItem tagLabel="Audio Post" tagValue="audioPost" />
           <TagItem tagLabel="Short Films" tagValue="shortFilm" />
