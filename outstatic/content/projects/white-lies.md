@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'white-lies'
-description: 'Documentary podcast series from National Public Radio (NPR)'
+description: 'Original Soundtrack for NPR''s Pulitzer Prize Finalist Podcast'
 coverImage: '/images/white-lies-square-QyMD.jpg'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 videoUrl: ''
