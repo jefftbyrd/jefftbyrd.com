@@ -29,4 +29,6 @@ publishedAt: '2025-01-27T21:47:20.921Z'
 
 ### [🎧 #1 on Apple Podcasts](https://podcasts.apple.com/us/podcast/white-lies/id1462650519)
 
-### [📻 NPR | Seasons 1-3 (2019-2025)](https://www.npr.org/podcasts/510343/white-lies)
+### [📻 NPR | Seasons 1-2 (2019-2023)](https://www.npr.org/podcasts/510343/white-lies)
+
+### Season 3 in production!
