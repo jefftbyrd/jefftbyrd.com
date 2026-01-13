@@ -27,6 +27,6 @@ publishedAt: '2025-01-27T21:47:20.921Z'
 
 ### [🏆 Pulitzer Prize Finalist](https://www.pulitzer.org/finalists/andrew-beck-grace-chip-brantley-graham-smith-nicole-beemsterboer-and-robert-little-npr)
 
-### 🎧 #1 on Apple Podcasts
+### [🎧 #1 on Apple Podcasts](https://podcasts.apple.com/us/podcast/white-lies/id1462650519)
 
-### 📻 NPR | Seasons 1-3 (2019-2025)
+### [📻 NPR | Seasons 1-3 (2019-2025)](https://www.npr.org/podcasts/510343/white-lies)
