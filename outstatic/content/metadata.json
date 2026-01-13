@@ -1,6 +1,6 @@
 {
-  "commit": "5a9fc5cf9495b51254e1ae316304489475afffa0",
-  "generated": "2026-01-13T08:45:22.319Z",
+  "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
+  "generated": "2026-01-13T08:47:32.904Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,45 +237,6 @@
       "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "d34c83406a25d74dd7bf5e1665c62d1e58cf8e4a",
-        "hash": "4343259",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "after-the-storm.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "Interactive documentary",
-      "gitHubUrl": "",
-      "projectOrder": "22",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "After the Storm",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the project",
-      "websiteUrl": "https://whatcomesafter.org/"
     },
     {
       "__outstatic": {
@@ -1042,6 +1003,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
+        "hash": "3277685009",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "Interactive documentary",
+      "gitHubUrl": "",
+      "projectOrder": "22",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://whatcomesafter.org/"
     }
   ]
 }
