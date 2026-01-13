@@ -22,6 +22,8 @@ spotifyEmbedUrl: ''
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 
-*After the Storm* is an interactive documentary that tells the first-person story of what happens in the wake of a devastating tornado that ripped through central Alabama in 2011. Written as a letter to future disaster survivors, it’s a universal story of survival, healing, and resilience.
+*After the Storm* is an interactive documentary that tells the first-person story of what happens in the wake of a devastating tornado that ripped through central Alabama in 2011.
+
+Commissioned by [ITVS](https://itvs.org/)  and released through a partnership between Independent Lens and The Washington Past with generous funding from the MacArthur Foundation, After the Storm is a digital convergence of formerly disparate media such as print journalism, television, radio and documentary filmmaking.
 
 [Read more at Helios Design Labs](https://heliosdesignlabs.com/work/after-the-storm/)
