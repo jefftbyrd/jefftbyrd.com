@@ -25,7 +25,7 @@ publishedAt: '2025-01-27T21:47:20.921Z'
 
 ## Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast
 
-### 🏆 Pulitzer Prize Finalist
+### [🏆 Pulitzer Prize Finalist](https://www.pulitzer.org/finalists/andrew-beck-grace-chip-brantley-graham-smith-nicole-beemsterboer-and-robert-little-npr)
 
 ### 🎧 #1 on Apple Podcasts
 
