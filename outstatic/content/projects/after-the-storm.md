@@ -24,6 +24,6 @@ publishedAt: '2025-01-27T21:49:13.188Z'
 
 *After the Storm* is an interactive documentary that tells the first-person story of what happens in the wake of a devastating tornado that ripped through central Alabama in 2011.
 
-Commissioned by [ITVS](https://itvs.org/)  and released through a partnership between [Independent Lens and The Washington Post](https://www.washingtonpost.com/pr/wp/2015/04/27/independent-lens-and-the-washington-post-launch-first-joint-online-distribution-venture-after-the-storm/) with generous funding from the MacArthur Foundation, *After the Storm* is a digital convergence of formerly disparate media such as print journalism, television, radio and documentary filmmaking.
+Commissioned by [**ITVS**](https://itvs.org/)  and released through a partnership between [**Independent Lens and The Washington Post**](https://www.washingtonpost.com/pr/wp/2015/04/27/independent-lens-and-the-washington-post-launch-first-joint-online-distribution-venture-after-the-storm/) with generous funding from the MacArthur Foundation, *After the Storm* is a digital convergence of formerly disparate media such as print journalism, television, radio and documentary filmmaking.
 
 [**Read more at Helios Design Labs**](https://heliosdesignlabs.com/work/after-the-storm/)

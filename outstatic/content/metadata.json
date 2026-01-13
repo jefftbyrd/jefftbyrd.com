@@ -1,6 +1,6 @@
 {
   "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
-  "generated": "2026-01-13T08:52:49.276Z",
+  "generated": "2026-01-13T08:53:12.007Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1007,7 +1007,7 @@
     {
       "__outstatic": {
         "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
-        "hash": "847217285",
+        "hash": "3188755416",
         "path": "outstatic/content/projects/after-the-storm.md"
       },
       "additionalImages": "",
