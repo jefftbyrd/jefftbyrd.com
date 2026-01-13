@@ -5,9 +5,9 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'white-lies'
-description: 'Original Soundtrack for NPR''s Pulitzer Prize Finalist Podcast'
+description: "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast"
 coverImage: '/images/white-lies-square-QyMD.jpg'
-projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectTags: [{ 'value': 'soundtrack', 'label': 'Soundtrack' }]
 videoUrl: ''
 gitHubUrl: ''
 websiteUrl: 'https://www.npr.org/podcasts/510343/white-lies'
@@ -25,6 +25,8 @@ publishedAt: '2025-01-27T21:47:20.921Z'
 
 ## Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast
 
-- 🎧 #1 on Apple Podcasts
-- 🏆 Pulitzer Prize Finalist
-- 📻 NPR | Seasons 1-3 (2019-2025)
+### 🎧 #1 on Apple Podcasts
+
+### 🏆 Pulitzer Prize Finalist
+
+### 📻 NPR | Seasons 1-3 (2019-2025)
