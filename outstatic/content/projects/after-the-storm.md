@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'after-the-storm'
-description: 'Interactive documentary'
+description: 'Interactive documentary released by The Washington Post'
 coverImage: '/images/after-the-storm-2-g2OD.webp'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"label":"Sound Design","value":"soundDesign"}]
 videoUrl: ''

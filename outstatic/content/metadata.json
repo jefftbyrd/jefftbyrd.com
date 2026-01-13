@@ -1,6 +1,6 @@
 {
   "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
-  "generated": "2026-01-13T08:51:20.421Z",
+  "generated": "2026-01-13T08:52:49.276Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1007,7 +1007,7 @@
     {
       "__outstatic": {
         "commit": "6a5e36fe49c287511606e846069634d208c39f0a",
-        "hash": "563551249",
+        "hash": "847217285",
         "path": "outstatic/content/projects/after-the-storm.md"
       },
       "additionalImages": "",
@@ -1020,7 +1020,7 @@
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "Interactive documentary",
+      "description": "Interactive documentary released by The Washington Post",
       "gitHubUrl": "",
       "projectOrder": "22",
       "projectTags": [
