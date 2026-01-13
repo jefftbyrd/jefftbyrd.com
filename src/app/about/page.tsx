@@ -12,6 +12,8 @@ import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import markdownToHtml from '../../lib/markdownToHtml';
 
+// import styles from '../../styles/header.module.css';
+
 // type Post = {
 //   tags: { value: string; label: string }[];
 // } & OstDocument;
@@ -87,11 +89,14 @@ export default async function About() {
             <div className="relative lg:bg-(--color-foreground) lg:w-auto lg:px-8 -translate-y-8 pt-6">
               <div className="lg:px-0 lg:w-auto px-5 w-9/10 bg-(--color-foreground) lg:bg-transparent pt-4 lg:pt-0">
                 <div
-                  className={`contentArea text-white text-base`}
+                  className={`contentArea text-white text-2xl leading-9`}
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
+                {/* <div>
+                  Jeff <span className={styles.bump}>T</span> Byrd
+                </div> */}
               </div>
-              <div className="pt-2 lg:pt-5 mt-4 lg:mt-0 px-2 lg:px-0">
+              {/* <div className="pt-2 lg:pt-5 mt-4 lg:mt-0 px-2 lg:px-0">
                 <iframe
                   className="aspect-16/9 w-full"
                   src="https://www.youtube.com/embed/BZF5gsD8GCw?si=5YFsY1HLJbFH70tN"
@@ -101,7 +106,7 @@ export default async function About() {
                   referrerPolicy="strict-origin-when-cross-origin"
                   allowFullScreen
                 ></iframe>
-              </div>
+              </div> */}
             </div>
           </div>
         </article>
