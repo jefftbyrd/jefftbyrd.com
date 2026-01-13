@@ -10,4 +10,10 @@ coverImage: '/images/jefftbyrd-Y4NT.webp'
 publishedAt: '2025-02-15T16:06:29.884Z'
 ---
 
-**JEFF T BYRD** is a US American web developer, composer and sound artist. Trained on piano and saxophone, his works employ free improvisation, collage techniques and field recording. He performs and releases music under his own name and with [**Budokan Boys**](https://budokanboys.club/). He is also a member of [**SPROING**](https://www.instagram.com/sproingsounds/), a free-improvised music collective in Vienna (Austria). His soundtrack work can be heard on [**NPR**’s _White Lies_](https://www.npr.org/podcasts/510343/white-lies).
+**JEFF T BYRD** is a composer and web developer based in Athens, Greece.
+
+He composed the soundtrack for both seasons of [NPR's *White Lies*](https://www.npr.org/podcasts/510343/white-lies), the Pulitzer Prize finalist podcast. He is currently scoring Season 3. He also builds accessible web experiences and audio-visual applications like [EARTHSONG](https://earthsong.world/).
+
+He performs experimental music with the avant-garde pop duo [Budokan Boys](https://budokanboys.club/).
+
+ 

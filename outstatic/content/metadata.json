@@ -1,6 +1,6 @@
 {
-  "commit": "52ef266655e417327db7ce425457e6edcfd8225b",
-  "generated": "2026-01-13T07:37:15.753Z",
+  "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
+  "generated": "2026-01-13T08:13:30.828Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,24 +89,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "2d2222319ea8c642e59f7564acc8695baec799e2",
-        "hash": "2450344677",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -1042,6 +1024,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
+        "hash": "2599732025",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
