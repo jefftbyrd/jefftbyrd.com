@@ -1,6 +1,6 @@
 {
-  "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
-  "generated": "2026-01-13T08:15:27.589Z",
+  "commit": "6560c238f2a63fb583eab192a989754cd1690c35",
+  "generated": "2026-01-13T08:29:49.189Z",
   "metadata": [
     {
       "__outstatic": {
@@ -991,8 +991,26 @@
     },
     {
       "__outstatic": {
-        "commit": "52ef266655e417327db7ce425457e6edcfd8225b",
-        "hash": "2588697328",
+        "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
+        "hash": "2599732025",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "6560c238f2a63fb583eab192a989754cd1690c35",
+        "hash": "2559928171",
         "path": "outstatic/content/projects/white-lies.md"
       },
       "additionalImages": "",
@@ -1024,24 +1042,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
-    },
-    {
-      "__outstatic": {
-        "commit": "4e856d365c90497a66d9df3ff989b486f49cf8b3",
-        "hash": "2599732025",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     }
   ]
 }
