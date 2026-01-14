@@ -1,6 +1,6 @@
 {
-  "commit": "f24dc56e8afc099d25e679e13655d5283733aa9d",
-  "generated": "2026-01-14T08:25:13.602Z",
+  "commit": "4a62a6cb0fdc163ada7d1ce48c3beee3ff91ded6",
+  "generated": "2026-01-14T08:25:57.219Z",
   "metadata": [
     {
       "__outstatic": {
@@ -804,50 +804,6 @@
     },
     {
       "__outstatic": {
-        "commit": "36c8f0ae25bff735f52dce185eaffb51186a6971",
-        "hash": "3195858164",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-big.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Listen to the planet",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "31",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
         "commit": "67fc307f9e6a55df31996be3c8df1803b697bd37",
         "hash": "2460024419",
         "path": "outstatic/content/projects/the-ooze.md"
@@ -1059,6 +1015,54 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the project",
       "websiteUrl": "https://whatcomesafter.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a62a6cb0fdc163ada7d1ce48c3beee3ff91ded6",
+        "hash": "2482194524",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "earthsong-big.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Listen to the planet",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "31",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }
