@@ -49,6 +49,10 @@
         {
           "value": "sound",
           "label": "Sound"
+        },
+        {
+          "value": "featured",
+          "label": "Featured"
         }
       ],
       "fieldType": "Tags",
