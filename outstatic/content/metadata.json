@@ -1,6 +1,6 @@
 {
-  "commit": "4a62a6cb0fdc163ada7d1ce48c3beee3ff91ded6",
-  "generated": "2026-01-14T08:25:57.219Z",
+  "commit": "f83bfdb745507c580bc4e845b59db8df0fc939d5",
+  "generated": "2026-01-14T08:45:18.418Z",
   "metadata": [
     {
       "__outstatic": {
@@ -897,45 +897,6 @@
     },
     {
       "__outstatic": {
-        "commit": "318fe64ae75e422f61cb34a5aa160a5c5c21b5c2",
-        "hash": "2352243136",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/a-call-from-selma-E5OT.webp",
-      "description": "New York Times Op-Doc",
-      "gitHubUrl": "",
-      "projectOrder": "10",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit at the New York Times",
-      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
-    },
-    {
-      "__outstatic": {
         "commit": "d48f961691c2c4581ac638d4dc20055c8781c678",
         "hash": "941134322",
         "path": "outstatic/content/projects/durrs-of-montgomery.md"
@@ -1063,6 +1024,46 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "f83bfdb745507c580bc4e845b59db8df0fc939d5",
+        "hash": "4190646008",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "New York Times",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/a-call-from-selma-E5OT.webp",
+      "description": "New York Times Op-Doc",
+      "gitHubUrl": "",
+      "projectOrder": "10",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit at the New York Times",
+      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
     }
   ]
 }

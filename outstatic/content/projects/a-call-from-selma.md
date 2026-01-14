@@ -1,4 +1,5 @@
 ---
+badge: 'New York Times'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
