@@ -19,6 +19,7 @@ vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
+badge: 'Washington Post'
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 

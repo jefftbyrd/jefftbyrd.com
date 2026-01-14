@@ -1,6 +1,6 @@
 {
-  "commit": "f83bfdb745507c580bc4e845b59db8df0fc939d5",
-  "generated": "2026-01-14T08:45:18.418Z",
+  "commit": "51be4cc90991df0e56ea7605c0b6e70235d030ce",
+  "generated": "2026-01-14T14:52:48.976Z",
   "metadata": [
     {
       "__outstatic": {
@@ -936,49 +936,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f24dc56e8afc099d25e679e13655d5283733aa9d",
-        "hash": "317137582",
-        "path": "outstatic/content/projects/after-the-storm.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "after-the-storm.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "Interactive documentary released by The Washington Post",
-      "gitHubUrl": "",
-      "projectOrder": "22",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
-      "slug": "after-the-storm",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "After the Storm",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the project",
-      "websiteUrl": "https://whatcomesafter.org/"
-    },
-    {
-      "__outstatic": {
         "commit": "4a62a6cb0fdc163ada7d1ce48c3beee3ff91ded6",
         "hash": "2482194524",
         "path": "outstatic/content/projects/earthsong.md"
@@ -1064,6 +1021,50 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit at the New York Times",
       "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+    },
+    {
+      "__outstatic": {
+        "commit": "51be4cc90991df0e56ea7605c0b6e70235d030ce",
+        "hash": "256766426",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Washington Post",
+      "bandcampEmbedUrl": "",
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "Interactive documentary released by The Washington Post",
+      "gitHubUrl": "",
+      "projectOrder": "22",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://whatcomesafter.org/"
     }
   ]
 }
