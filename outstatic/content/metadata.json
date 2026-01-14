@@ -1,6 +1,6 @@
 {
   "commit": "6820b6b6bdc4e4c037b246c9672d97e2fa707e15",
-  "generated": "2026-01-14T17:58:22.169Z",
+  "generated": "2026-01-14T17:58:33.174Z",
   "metadata": [
     {
       "__outstatic": {
@@ -857,51 +857,43 @@
     },
     {
       "__outstatic": {
-        "commit": "4a62a6cb0fdc163ada7d1ce48c3beee3ff91ded6",
-        "hash": "2482194524",
-        "path": "outstatic/content/projects/earthsong.md"
+        "commit": "f83bfdb745507c580bc4e845b59db8df0fc939d5",
+        "hash": "4190646008",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
       },
-      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
+      "badge": "New York Times",
       "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-big.webp",
-      "bigVideo": "",
+      "bigImage": "",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Listen to the planet",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "31",
+      "coverImage": "/images/a-call-from-selma-E5OT.webp",
+      "description": "New York Times Op-Doc",
+      "gitHubUrl": "",
+      "projectOrder": "10",
       "projectTags": [
         {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
+          "label": "Soundtrack",
+          "value": "soundtrack"
         },
         {
           "label": "Featured",
           "value": "featured"
         }
       ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "slug": "earthsong",
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "slug": "a-call-from-selma",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "title": "A Call From Selma",
+      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
       "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
+      "websiteLinkText": "Visit at the New York Times",
+      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
     },
     {
       "__outstatic": {
@@ -1031,42 +1023,51 @@
     {
       "__outstatic": {
         "commit": "6820b6b6bdc4e4c037b246c9672d97e2fa707e15",
-        "hash": "163766263",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
+        "hash": "1083937434",
+        "path": "outstatic/content/projects/earthsong.md"
       },
-      "additionalImages": "",
+      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "badge": "New York Times",
+      "badge": "",
       "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
+      "bigImage": "earthsong-big.webp",
+      "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/a-call-from-selma-E5OT.webp",
-      "description": "New York Times Op-Doc",
-      "gitHubUrl": "",
-      "projectOrder": "31",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Listen to the planet",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "10",
       "projectTags": [
         {
-          "label": "Soundtrack",
-          "value": "soundtrack"
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
         },
         {
           "label": "Featured",
           "value": "featured"
         }
       ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "slug": "a-call-from-selma",
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "slug": "earthsong",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
       "vimeoUrl": "",
-      "websiteLinkText": "Visit at the New York Times",
-      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }

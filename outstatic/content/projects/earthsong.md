@@ -15,11 +15,12 @@ additionalImages: 'earthsong-globe-2.webp, earthsong-shuffling.webp'
 thumbnailImage: 'earthsong-thumb.webp'
 bigImage: 'earthsong-big.webp'
 websiteLinkText: 'Visit earthsong.world'
-projectOrder: '31'
+projectOrder: '10'
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
+badge: ''
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
