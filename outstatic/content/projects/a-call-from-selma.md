@@ -1,4 +1,5 @@
 ---
+spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: ''
@@ -9,7 +10,7 @@ additionalImages: ''
 websiteUrl: 'https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr'
-projectTags: [{"label":"Soundtrack","value":"soundtrack"}]
+projectTags: [{"label":"Soundtrack","value":"soundtrack"},{"value":"featured","label":"Featured"}]
 coverImage: '/images/a-call-from-selma-E5OT.webp'
 description: 'New York Times Op-Doc'
 slug: 'a-call-from-selma'
