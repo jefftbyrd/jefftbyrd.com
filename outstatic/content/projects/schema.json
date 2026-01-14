@@ -135,6 +135,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Spotify Embed URL"
+    },
+    "badge": {
+      "required": false,
+      "description": "Badge will be superimposed over project in grid",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Badge"
     }
   }
 }
