@@ -1,6 +1,6 @@
 {
-  "commit": "318fe64ae75e422f61cb34a5aa160a5c5c21b5c2",
-  "generated": "2026-01-14T08:13:21.195Z",
+  "commit": "d48f961691c2c4581ac638d4dc20055c8781c678",
+  "generated": "2026-01-14T08:18:19.503Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,41 +55,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "5994ba01df1ddc89920fffee76925b90721abdec",
-        "hash": "2931914222",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/durrs-kxMT.webp",
-      "description": "Documentary film about the Civil Rights Movement",
-      "gitHubUrl": "",
-      "projectOrder": "20",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "More about the Durrs",
-      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
     },
     {
       "__outstatic": {
@@ -1051,6 +1016,45 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit at the New York Times",
       "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+    },
+    {
+      "__outstatic": {
+        "commit": "d48f961691c2c4581ac638d4dc20055c8781c678",
+        "hash": "941134322",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/durrs-kxMT.webp",
+      "description": "Documentary film about the Civil Rights Movement",
+      "gitHubUrl": "",
+      "projectOrder": "20",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "slug": "durrs-of-montgomery",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "vimeoUrl": "",
+      "websiteLinkText": "More about the Durrs",
+      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
     }
   ]
 }
