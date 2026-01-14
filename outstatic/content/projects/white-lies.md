@@ -7,7 +7,7 @@ author:
 slug: 'white-lies'
 description: 'Original Soundtrack for NPR''s Pulitzer Prize Finalist Podcast'
 coverImage: '/images/white-lies-square-QyMD.jpg'
-projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
+projectTags: [{"value":"soundtrack","label":"Soundtrack"}{"value":"featured","label":"Featured"}]
 videoUrl: ''
 gitHubUrl: ''
 websiteUrl: 'https://www.npr.org/podcasts/510343/white-lies'
