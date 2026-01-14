@@ -1,4 +1,5 @@
 ---
+badge: 'Alabama Public Television'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
