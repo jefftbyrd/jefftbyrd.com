@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'earthsong'
-description: 'Interactive sound exploration tool'
+description: 'Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona'
 coverImage: '/images/earthsong-2-c0NT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"},{"value":"featured","label":"Featured"}]
 videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'

@@ -1,6 +1,6 @@
 {
   "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
-  "generated": "2026-01-15T12:09:44.729Z",
+  "generated": "2026-01-15T12:11:20.709Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1189,7 +1189,7 @@
     {
       "__outstatic": {
         "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
-        "hash": "1874965055",
+        "hash": "3816368682",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
@@ -1203,7 +1203,7 @@
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Interactive sound exploration tool",
+      "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectOrder": "10",
       "projectTags": [
