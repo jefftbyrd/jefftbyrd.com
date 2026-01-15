@@ -1,4 +1,6 @@
 ---
+section: [{"label":"additional","value":"additional"}]
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'

@@ -161,6 +161,10 @@
         {
           "value": "code",
           "label": "code"
+        },
+        {
+          "value": "additional",
+          "label": "additional"
         }
       ]
     }
