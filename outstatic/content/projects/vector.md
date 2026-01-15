@@ -19,6 +19,8 @@ vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
+badge: ''
+section: [{"value":"code","label":"code"}]
 publishedAt: '2025-01-27T21:45:28.864Z'
 ---
 
