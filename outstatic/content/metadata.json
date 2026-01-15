@@ -1,6 +1,6 @@
 {
   "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
-  "generated": "2026-01-15T10:10:22.512Z",
+  "generated": "2026-01-15T10:35:37.178Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1114,7 +1114,7 @@
     {
       "__outstatic": {
         "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
-        "hash": "1990668946",
+        "hash": "3938297766",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
       "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
@@ -1122,7 +1122,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "badge": "",
+      "badge": "Music Video",
       "bandcampEmbedUrl": "",
       "bigImage": "goodwater-alabama-1982.webp",
       "bigVideo": "true",
