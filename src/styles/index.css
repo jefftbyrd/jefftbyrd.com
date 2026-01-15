@@ -11,6 +11,7 @@
   --color-vivid2: oklch(73.23% 0.3046 331.14);
   /* --font-karrik: var(--font-karrik); */
   /* --karrik: var(--font-karrik); */
+  --font-family-karrik: var(--font-karrik);
 }
 
 /*
@@ -28,6 +29,17 @@
   ::backdrop,
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
+  }
+  /* h2 {
+    @apply text-3xl font-bold uppercase tracking-wider mb-1;
+  } */
+
+  h1 {
+    @apply text-4xl font-bold mb-2;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold mb-1;
   }
 }
 
@@ -113,6 +125,20 @@ strong {
     p {
       @apply mb-0;
     }
+  }
+}
+
+.projectsPage {
+  @apply mt-5 px-4 lg:px-28;
+
+  h2 {
+    @apply text-4xl font-semibold tracking-wide mb-1  p-4  inline-block border-0 border-black bg-white/40;
+  }
+  span {
+    @apply xl:ml-3 align-text-bottom font-normal xl:text-lg block xl:inline;
+  }
+  section {
+    @apply mb-20;
   }
 }
 
