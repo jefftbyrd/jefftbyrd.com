@@ -1,6 +1,6 @@
 ---
 section: [{"value":"additional","label":"additional"}]
-badge: ''
+badge: 'Film Festival'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
