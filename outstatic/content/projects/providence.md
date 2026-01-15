@@ -1,4 +1,6 @@
 ---
+section: [{"value":"weird","label":"weird"}]
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'

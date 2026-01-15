@@ -1,6 +1,6 @@
 {
-  "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-  "generated": "2026-01-15T10:09:04.010Z",
+  "commit": "2c1c16867da4a74b3471bf07b95ee0e1499dfec0",
+  "generated": "2026-01-15T10:09:30.644Z",
   "metadata": [
     {
       "__outstatic": {
@@ -622,41 +622,6 @@
     },
     {
       "__outstatic": {
-        "commit": "583934ead03ccbad5e31c57e15a654facfceae0b",
-        "hash": "807659350",
-        "path": "outstatic/content/projects/providence.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/providence-3-kwNT.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        }
-      ],
-      "publishedAt": "2025-09-03T07:06:33.318Z",
-      "slug": "providence",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Providence",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48095297",
-      "websiteLinkText": "Watch on Vimeo",
-      "websiteUrl": "https://vimeo.com/48095297"
-    },
-    {
-      "__outstatic": {
         "commit": "b5fe6a9d2cb19a410a73b1971b233986e2e18f91",
         "hash": "1111285166",
         "path": "outstatic/content/pages/about.md"
@@ -1138,6 +1103,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Reviewed by THE QUIETUS",
       "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
+    },
+    {
+      "__outstatic": {
+        "commit": "2c1c16867da4a74b3471bf07b95ee0e1499dfec0",
+        "hash": "2273613880",
+        "path": "outstatic/content/projects/providence.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/providence-3-kwNT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        }
+      ],
+      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "providence",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Providence",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48095297",
+      "websiteLinkText": "Watch on Vimeo",
+      "websiteUrl": "https://vimeo.com/48095297"
     }
   ]
 }
