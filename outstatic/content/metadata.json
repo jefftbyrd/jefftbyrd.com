@@ -1,6 +1,6 @@
 {
-  "commit": "cbc64d78432a6b262a55d8d2832e090209cc01a6",
-  "generated": "2026-01-15T11:25:19.156Z",
+  "commit": "38349e57b0cb34ae702d4e9f1fff5d4c66d40c20",
+  "generated": "2026-01-15T11:26:48.299Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1021,52 +1021,6 @@
     },
     {
       "__outstatic": {
-        "commit": "6cbfea5a05ac93877535fb0c1ca003630c12549d",
-        "hash": "3335538688",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "vector-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "An online virus shop",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectOrder": "29",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "section": [
-        {
-          "label": "code",
-          "value": "code"
-        }
-      ],
-      "slug": "vector",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the site",
-      "websiteUrl": "https://vector-virus-shop.vercel.app/"
-    },
-    {
-      "__outstatic": {
         "commit": "42284ca05872e4248ea7e9d4678c69a1a9dd938b",
         "hash": "3356585031",
         "path": "outstatic/content/projects/vanishing-pearls.md"
@@ -1244,6 +1198,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "Explore Health For All",
       "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "38349e57b0cb34ae702d4e9f1fff5d4c66d40c20",
+        "hash": "110954497",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "E-commerce",
+      "bandcampEmbedUrl": "",
+      "bigImage": "vector-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "An online virus shop",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectOrder": "9",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "section": [
+        {
+          "label": "code",
+          "value": "code"
+        }
+      ],
+      "slug": "vector",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vector",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the site",
+      "websiteUrl": "https://vector-virus-shop.vercel.app/"
     }
   ]
 }
