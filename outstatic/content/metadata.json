@@ -1,6 +1,6 @@
 {
   "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
-  "generated": "2026-01-15T10:10:14.573Z",
+  "generated": "2026-01-15T10:10:22.512Z",
   "metadata": [
     {
       "__outstatic": {
@@ -210,38 +210,38 @@
     },
     {
       "__outstatic": {
-        "commit": "54a6124d640845bc94578970680d54dcf6a404e8",
-        "hash": "4209969643",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+        "commit": "70800303c41fb99204b2dd0bcb8c9f569a28d63d",
+        "hash": "2322448948",
+        "path": "outstatic/content/projects/god-today.md"
       },
-      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
+      "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
+      "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "Music video for a track from the album Nighty Night",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "Budokan Boys music video",
       "gitHubUrl": "",
-      "projectOrder": "27",
+      "projectOrder": "18",
       "projectTags": [
         {
           "label": "Music Video",
           "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "slug": "goodwater-alabama-1982",
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "slug": "god-today",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
-      "websiteLinkText": "Album on Bandcamp",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+      "websiteLinkText": "",
+      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -1114,44 +1114,44 @@
     {
       "__outstatic": {
         "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
-        "hash": "1165861852",
-        "path": "outstatic/content/projects/god-today.md"
+        "hash": "1990668946",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
       },
-      "additionalImages": "",
+      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "badge": "",
       "bandcampEmbedUrl": "",
-      "bigImage": "",
+      "bigImage": "goodwater-alabama-1982.webp",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/god-today-EwND.webp",
-      "description": "Budokan Boys music video",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "description": "Music video for a track from the album Nighty Night",
       "gitHubUrl": "",
-      "projectOrder": "18",
+      "projectOrder": "27",
       "projectTags": [
         {
           "label": "Music Video",
           "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "publishedAt": "2025-01-30T13:36:05.889Z",
       "section": [
         {
           "label": "weird",
           "value": "weird"
         }
       ],
-      "slug": "god-today",
+      "slug": "goodwater-alabama-1982",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Album on Bandcamp",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
 }

@@ -1,4 +1,6 @@
 ---
+section: [{"value":"weird","label":"weird"}]
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -10,7 +12,7 @@ additionalImages: 'goodwater-additional-1.webp, goodwater-additional-2.webp'
 websiteUrl: 'https://fortevilfruit.bandcamp.com/album/nighty-night'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI'
-projectTags: [{ 'value': 'musicVideo', 'label': 'Music Video' }]
+projectTags: [{"value":"musicVideo","label":"Music Video"}]
 coverImage: '/images/goodwater-hic-Y2OT.webp'
 description: 'Music video for a track from the album Nighty Night'
 slug: 'goodwater-alabama-1982'
@@ -22,7 +24,7 @@ title: 'Goodwater, Alabama 1982'
 publishedAt: '2025-01-30T13:36:05.889Z'
 ---
 
-Music video for _Goodwater, Alabama 1982_, a track from the album [**Nighty Night**](https://fortevilfruit.bandcamp.com/album/nighty-night).
+Music video for *Goodwater, Alabama 1982*, a track from the album [**Nighty Night**](https://fortevilfruit.bandcamp.com/album/nighty-night).
 
 Shot on and around Halloween 2014 in New Orleans.
 
