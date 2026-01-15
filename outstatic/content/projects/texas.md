@@ -1,4 +1,7 @@
 ---
+section: [{"value":"weird","label":"weird"}]
+badge: ''
+spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
 vimeoUrl: 'https://player.vimeo.com/video/48090405?h=aa9cb8014e'

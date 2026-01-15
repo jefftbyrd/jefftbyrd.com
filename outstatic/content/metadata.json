@@ -1,6 +1,6 @@
 {
-  "commit": "c41cb321fbf954cc040c2a696734d581b399c845",
-  "generated": "2026-01-15T11:05:07.064Z",
+  "commit": "f278013a6418ce0161408c38c9356e0624a6ac1e",
+  "generated": "2026-01-15T11:06:16.545Z",
   "metadata": [
     {
       "__outstatic": {
@@ -318,44 +318,6 @@
       "title": "I Became a Bird of Prey",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "b84e4eaa31d2c13d5ad07c8bd8c9187353fc83af",
-        "hash": "2829898521",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/texas-Y0OD.webp",
-      "description": "Experimental documentary film",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "slug": "texas",
-      "status": "published",
-      "title": "Texas",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
     },
@@ -1187,6 +1149,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "f278013a6418ce0161408c38c9356e0624a6ac1e",
+        "hash": "2680533250",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/texas-Y0OD.webp",
+      "description": "Experimental documentary film",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "texas",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Texas",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
