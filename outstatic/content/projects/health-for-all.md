@@ -13,14 +13,14 @@ gitHubUrl: ''
 websiteUrl: 'https://healthforallstory.org/'
 additionalImages: 'hfa-2.webp,  hfa-3.webp'
 bigImage: 'health-for-all.webp'
-websiteLinkText: 'Visit the project'
+websiteLinkText: 'Explore Health For All'
 projectOrder: ''
 vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
 badge: 'Interactive Documentary'
-section: [{"value":"additional","label":"additional"}]
+section: [{"value":"featured","label":"featured"}]
 publishedAt: '2025-01-27T21:48:47.059Z'
 ---
 
