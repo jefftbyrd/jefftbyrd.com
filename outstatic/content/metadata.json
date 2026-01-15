@@ -1,6 +1,6 @@
 {
   "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-  "generated": "2026-01-15T10:08:18.761Z",
+  "generated": "2026-01-15T10:08:28.288Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,42 +58,38 @@
     },
     {
       "__outstatic": {
-        "commit": "fe4e54573ea53efae26b19168b3ae637eb18253e",
-        "hash": "1791836994",
-        "path": "outstatic/content/projects/dad-is-bad.md"
+        "commit": "ed7d9ca060b1a2bfda93df99be77ce8da1da3455",
+        "hash": "1394508051",
+        "path": "outstatic/content/projects/are-you-sick.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/dad-is-bad-kzNj.jpg",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
       "description": "Budokan Boys album",
       "gitHubUrl": "",
-      "projectOrder": "-1",
+      "projectOrder": "26",
       "projectTags": [
         {
           "label": "Album",
           "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:35:24.711Z",
-      "slug": "dad-is-bad",
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Dad Is Bad",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
+      "title": "Are You Sick?",
+      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
       "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
+      "websiteLinkText": "Bandcamp",
+      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
     },
     {
       "__outstatic": {
@@ -1100,8 +1096,8 @@
     {
       "__outstatic": {
         "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-        "hash": "47280394",
-        "path": "outstatic/content/projects/are-you-sick.md"
+        "hash": "2459936812",
+        "path": "outstatic/content/projects/dad-is-bad.md"
       },
       "additionalImages": "",
       "author": {
@@ -1109,35 +1105,39 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "badge": "",
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "coverImage": "/images/dad-is-bad-kzNj.jpg",
       "description": "Budokan Boys album",
       "gitHubUrl": "",
-      "projectOrder": "26",
+      "projectOrder": "-1",
       "projectTags": [
         {
           "label": "Album",
           "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "publishedAt": "2025-01-30T13:35:24.711Z",
       "section": [
         {
           "label": "personal",
           "value": "personal"
         }
       ],
-      "slug": "are-you-sick",
+      "slug": "dad-is-bad",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "title": "Dad Is Bad",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=IezdxqN0ps7bxPXe",
       "vimeoUrl": "",
-      "websiteLinkText": "Album on Bandcamp",
-      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }

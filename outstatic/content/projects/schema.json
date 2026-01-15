@@ -53,6 +53,10 @@
         {
           "value": "featured",
           "label": "Featured"
+        },
+        {
+          "value": "music",
+          "label": "Music"
         }
       ],
       "fieldType": "Tags",
