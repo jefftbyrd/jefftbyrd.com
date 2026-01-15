@@ -1,4 +1,6 @@
 ---
+section: [{"value":"personal","label":"personal"}]
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
 bigVideo: 'true'
@@ -10,7 +12,7 @@ additionalImages: ''
 websiteUrl: 'https://strategictapereserve.bandcamp.com/album/are-you-sick'
 gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX'
-projectTags: [{ 'value': 'album', 'label': 'Album' }]
+projectTags: [{"value":"album","label":"Album"}]
 coverImage: '/images/are-you-sick-M2OD.jpg'
 description: 'Budokan Boys album'
 slug: 'are-you-sick'

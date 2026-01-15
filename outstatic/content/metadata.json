@@ -1,6 +1,6 @@
 {
-  "commit": "24c4a19870fdff1d2289b3d3a7289906604d273a",
-  "generated": "2026-01-15T10:07:29.608Z",
+  "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
+  "generated": "2026-01-15T10:08:18.761Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,41 +94,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "ed7d9ca060b1a2bfda93df99be77ce8da1da3455",
-        "hash": "1394508051",
-        "path": "outstatic/content/projects/are-you-sick.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
-      "description": "Budokan Boys album",
-      "gitHubUrl": "",
-      "projectOrder": "26",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:26.211Z",
-      "slug": "are-you-sick",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
-      "vimeoUrl": "",
-      "websiteLinkText": "Bandcamp",
-      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
     },
     {
       "__outstatic": {
@@ -1131,6 +1096,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "THE OOZE on Bandcamp",
       "websiteUrl": "https://strategictapereserve.bandcamp.com/album/the-ooze"
+    },
+    {
+      "__outstatic": {
+        "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
+        "hash": "47280394",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "26",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "section": [
+        {
+          "label": "personal",
+          "value": "personal"
+        }
+      ],
+      "slug": "are-you-sick",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Are You Sick?",
+      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "vimeoUrl": "",
+      "websiteLinkText": "Album on Bandcamp",
+      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
     }
   ]
 }
