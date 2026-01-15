@@ -1,6 +1,6 @@
 {
-  "commit": "2c1c16867da4a74b3471bf07b95ee0e1499dfec0",
-  "generated": "2026-01-15T10:09:46.925Z",
+  "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
+  "generated": "2026-01-15T10:10:14.573Z",
   "metadata": [
     {
       "__outstatic": {
@@ -242,41 +242,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Album on Bandcamp",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "70800303c41fb99204b2dd0bcb8c9f569a28d63d",
-        "hash": "2322448948",
-        "path": "outstatic/content/projects/god-today.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/god-today-EwND.webp",
-      "description": "Budokan Boys music video",
-      "gitHubUrl": "",
-      "projectOrder": "18",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:58.542Z",
-      "slug": "god-today",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "God Today",
-      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -1145,6 +1110,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
+    },
+    {
+      "__outstatic": {
+        "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
+        "hash": "1165861852",
+        "path": "outstatic/content/projects/god-today.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/god-today-EwND.webp",
+      "description": "Budokan Boys music video",
+      "gitHubUrl": "",
+      "projectOrder": "18",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:58.542Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "god-today",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "God Today",
+      "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
