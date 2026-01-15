@@ -1,6 +1,6 @@
 {
   "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-  "generated": "2026-01-15T10:08:45.184Z",
+  "generated": "2026-01-15T10:08:55.010Z",
   "metadata": [
     {
       "__outstatic": {
@@ -393,23 +393,23 @@
     },
     {
       "__outstatic": {
-        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
-        "hash": "120023969",
-        "path": "outstatic/content/projects/nighty-night.md"
+        "commit": "c65e17e9d195ef4260efcfb89a795a5c5ff68410",
+        "hash": "2786726488",
+        "path": "outstatic/content/projects/lamb-alley.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
+      "coverImage": "/images/lamb-alley-IwNT.jpg",
       "description": "Solo album",
       "gitHubUrl": "",
-      "projectOrder": "23",
+      "projectOrder": "21",
       "projectTags": [
         {
           "label": "Album",
@@ -420,15 +420,15 @@
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
-      "slug": "nighty-night",
+      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "slug": "lamb-alley",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Nighty Night",
+      "title": "Lamb Alley",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "Released by Fort Evil Fruit",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+      "websiteLinkText": "Lamb Alley on Bandcamp",
+      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
     },
     {
       "__outstatic": {
@@ -1096,8 +1096,8 @@
     {
       "__outstatic": {
         "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-        "hash": "3522815364",
-        "path": "outstatic/content/projects/lamb-alley.md"
+        "hash": "1579006969",
+        "path": "outstatic/content/projects/nighty-night.md"
       },
       "additionalImages": "",
       "author": {
@@ -1105,14 +1105,14 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "badge": "",
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
       "collection": "projects",
-      "coverImage": "/images/lamb-alley-IwNT.jpg",
+      "coverImage": "/images/nighty-night-U2OD.webp",
       "description": "Solo album",
       "gitHubUrl": "",
-      "projectOrder": "21",
+      "projectOrder": "23",
       "projectTags": [
         {
           "label": "Album",
@@ -1123,21 +1123,21 @@
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:35:08.463Z",
+      "publishedAt": "2025-01-30T13:34:48.339Z",
       "section": [
         {
           "label": "personal",
           "value": "personal"
         }
       ],
-      "slug": "lamb-alley",
+      "slug": "nighty-night",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Lamb Alley",
+      "title": "Nighty Night",
       "videoUrl": "",
       "vimeoUrl": "",
-      "websiteLinkText": "Lamb Alley on Bandcamp",
-      "websiteUrl": "https://tombedvisionsrecords.bandcamp.com/album/lamb-alley"
+      "websiteLinkText": "Released by Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
 }
