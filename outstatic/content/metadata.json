@@ -1,6 +1,6 @@
 {
   "commit": "cdcd21d4f3692fca89c92b17265c36c6ae78cb8e",
-  "generated": "2026-01-15T10:05:44.856Z",
+  "generated": "2026-01-15T10:05:53.765Z",
   "metadata": [
     {
       "__outstatic": {
@@ -132,6 +132,45 @@
     },
     {
       "__outstatic": {
+        "commit": "72a5e99718aecee009aaffe5dc3814884a68e49a",
+        "hash": "874792961",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "A 5-episode series set in New Orleans",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "slug": "alouette",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "f69b7e73c9f16094dfe14b1b0c7943884f71b940",
         "hash": "216964668",
         "path": "outstatic/content/projects/health-for-all.md"
@@ -235,41 +274,6 @@
       "status": "published",
       "title": "God Today",
       "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "11ebfc5266056d68560ce06434ffb701d3b5169d",
-        "hash": "3558051905",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "Opening animation for the 69th Edinburgh International Film Festival",
-      "gitHubUrl": "",
-      "projectOrder": "-4",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -1088,8 +1092,8 @@
     {
       "__outstatic": {
         "commit": "cdcd21d4f3692fca89c92b17265c36c6ae78cb8e",
-        "hash": "4096096220",
-        "path": "outstatic/content/projects/alouette.md"
+        "hash": "4231233260",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
       "author": {
@@ -1101,33 +1105,29 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "A 5-episode series set in New Orleans",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "Opening animation for the 69th Edinburgh International Film Festival",
       "gitHubUrl": "",
-      "projectOrder": "",
+      "projectOrder": "-4",
       "projectTags": [
         {
           "label": "Soundtrack",
           "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
         }
       ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "publishedAt": "2025-01-30T13:35:40.675Z",
       "section": [
         {
           "label": "additional",
           "value": "additional"
         }
       ],
-      "slug": "alouette",
+      "slug": "edinburgh-international-film-festival",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
