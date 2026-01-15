@@ -149,7 +149,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Section",
-      "values": []
+      "values": [
+        {
+          "value": "weird",
+          "label": "weird"
+        }
+      ]
     }
   }
 }
