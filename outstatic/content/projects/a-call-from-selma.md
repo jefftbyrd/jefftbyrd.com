@@ -1,5 +1,5 @@
 ---
-section: [{"label":"featured","value":"featured"}]
+section: [{"value":"featured","label":"featured"}]
 badge: 'New York Times'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
