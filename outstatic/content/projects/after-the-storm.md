@@ -20,6 +20,7 @@ bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
 badge: 'Washington Post'
+section: [{"value":"featured","label":"featured"}]
 publishedAt: '2025-01-27T21:49:13.188Z'
 ---
 
