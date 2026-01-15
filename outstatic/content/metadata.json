@@ -1,6 +1,6 @@
 {
-  "commit": "8d5bbf4be3f7515082b4ce273535438aefc033d4",
-  "generated": "2026-01-15T10:36:38.980Z",
+  "commit": "e7e1a03b723218cd7cdfcb577e32c739a4879fc3",
+  "generated": "2026-01-15T10:52:38.139Z",
   "metadata": [
     {
       "__outstatic": {
@@ -129,45 +129,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Bandcamp",
       "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
-    },
-    {
-      "__outstatic": {
-        "commit": "72a5e99718aecee009aaffe5dc3814884a68e49a",
-        "hash": "874792961",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "A 5-episode series set in New Orleans",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "slug": "alouette",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -1150,6 +1111,52 @@
       "title": "God Today",
       "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
       "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "e7e1a03b723218cd7cdfcb577e32c739a4879fc3",
+        "hash": "4096096220",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "A 5-episode series set in New Orleans",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "alouette",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
