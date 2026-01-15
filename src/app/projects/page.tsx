@@ -5,6 +5,7 @@ import { load } from 'outstatic/server';
 import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import PageTitle from '../../components/PageTitle';
+import ProjectsFiltered from '../../components/ProjectsFiltered';
 import TagsFilter from '../../components/TagsFilter';
 import markdownToHtml from '../../lib/markdownToHtml';
 
@@ -51,10 +52,70 @@ export default async function Projects() {
         <Header />
         <div className="relative pb-0 lg:pb-4">
           <PageTitle pageTitle={page.title} />
-          <BlueAbsolute />
+          {/* <BlueAbsolute /> */}
         </div>
-        <div className="lg:px-16">
-          <TagsFilter allProjects={allProjects} />
+        <div className=" projectsPage">
+          {/* <p className="text-lg font-normal">
+            Composer for narrative audio storytelling — podcasts, documentaries,
+            and interactive media. Web developer specializing in accessible,
+            audio-visual experiences.
+          </p> */}
+
+          <section className="mt-10">
+            <div className="projectArea">
+              <h2>Featured Work</h2>
+              <span>
+                Composer for narrative audio storytelling — podcasts,
+                documentaries, and interactive media.
+              </span>
+              {/* <span>Professional narrative audio & web development</span> */}
+            </div>
+            <ProjectsFiltered
+              allProjects={allProjects}
+              section="featured"
+              grid={3}
+            />
+          </section>
+
+          <section>
+            <h2>Narrative Audio</h2>
+            <span>Additional documentary, film, and series work</span>
+            <ProjectsFiltered
+              allProjects={allProjects}
+              section="additional"
+              grid={4}
+            />
+          </section>
+
+          <section>
+            <h2>Web Development</h2>
+            {/* <span>Interactive audio-visual applications</span> */}
+            <ProjectsFiltered
+              allProjects={allProjects}
+              section="code"
+              grid={2}
+            />
+          </section>
+
+          <section>
+            <h2>Music & Performance</h2>
+            <span>Solo albums and experimental work with Budokan Boys</span>
+            <ProjectsFiltered
+              allProjects={allProjects}
+              section="personal"
+              grid={4}
+            />
+          </section>
+
+          <section>
+            <h2>Short Films & Music Videos</h2>
+            <span>Weird stuff</span>
+            <ProjectsFiltered
+              allProjects={allProjects}
+              section="weird"
+              grid={4}
+            />
+          </section>
         </div>
       </div>
     </Layout>
@@ -71,6 +132,8 @@ async function getData() {
       'slug',
       'coverImage',
       'description',
+      'badge',
+      'section',
     ])
     .first();
 
@@ -88,6 +151,8 @@ async function getData() {
         'projectOrder',
         'projectTags',
         'description',
+        'badge',
+        'section',
       ],
     )
     .sort({ projectOrder: -1 })
