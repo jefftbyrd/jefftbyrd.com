@@ -72,9 +72,9 @@ const ProjectGrid = ({
                         />
                       </div>
                       {collection === 'projects' && (
-                        <div className="pl-4 pt-3 pb-3">
+                        <div className="px-4 pt-3 pb-3">
                           <h3
-                            className={`${styles.projectTitle} bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl  leading-9`}
+                            className={`${styles.projectTitle} bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl leading-9`}
                           >
                             {item.title}
                           </h3>
