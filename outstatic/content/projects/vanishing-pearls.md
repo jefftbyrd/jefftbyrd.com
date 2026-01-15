@@ -1,6 +1,6 @@
 ---
 section: [{"label":"additional","value":"additional"}]
-badge: ''
+badge: 'Documentary'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
