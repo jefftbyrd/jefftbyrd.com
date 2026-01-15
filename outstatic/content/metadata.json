@@ -1,6 +1,6 @@
 {
-  "commit": "6970100bc7ae78a9d2cc61fa28b8536d9af9cd6d",
-  "generated": "2026-01-15T10:53:55.240Z",
+  "commit": "1ee08ead23e1338eaaf65555e76fd87db59c947f",
+  "generated": "2026-01-15T10:55:33.529Z",
   "metadata": [
     {
       "__outstatic": {
@@ -203,41 +203,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Album on Bandcamp",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "11ebfc5266056d68560ce06434ffb701d3b5169d",
-        "hash": "3558051905",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "Opening animation for the 69th Edinburgh International Film Festival",
-      "gitHubUrl": "",
-      "projectOrder": "-4",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Edinburgh International Film Festival",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -1166,6 +1131,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit the site",
       "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "1ee08ead23e1338eaaf65555e76fd87db59c947f",
+        "hash": "4231233260",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "Opening animation for the 69th Edinburgh International Film Festival",
+      "gitHubUrl": "",
+      "projectOrder": "-4",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "edinburgh-international-film-festival",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Edinburgh International Film Festival",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
