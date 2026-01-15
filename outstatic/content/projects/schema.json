@@ -153,6 +153,10 @@
         {
           "value": "weird",
           "label": "weird"
+        },
+        {
+          "value": "featured",
+          "label": "featured"
         }
       ]
     }
