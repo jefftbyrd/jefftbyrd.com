@@ -1,4 +1,6 @@
 ---
+section: [{"value":"personal","label":"personal"}]
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/'
 bigVideo: 'true'

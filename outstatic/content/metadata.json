@@ -1,6 +1,6 @@
 {
   "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-  "generated": "2026-01-15T10:08:55.010Z",
+  "generated": "2026-01-15T10:09:04.010Z",
   "metadata": [
     {
       "__outstatic": {
@@ -315,45 +315,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4c98a2d0ae9f68b2e56c3a3f98cbe52ca13e8089",
-        "hash": "560984951",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "sbuayd-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/sbuayd-2-YyMD.webp",
-      "description": "Budokan Boys album",
-      "gitHubUrl": "",
-      "projectOrder": "19",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        },
-        {
-          "label": "Music",
-          "value": "music"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:59.278Z",
-      "slug": "so-broken-up-about-you-dying",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "So Broken Up About You Dying",
-      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
-      "vimeoUrl": "",
-      "websiteLinkText": "Reviewed by THE QUIETUS",
-      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
-    },
-    {
-      "__outstatic": {
         "commit": "3767ed441a9491d68272830a7557001b57961ae1",
         "hash": "975302910",
         "path": "outstatic/content/projects/rouler-sonner.md"
@@ -390,6 +351,45 @@
       "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "1470553acc56a99b45fcebfc76fb842489de8339",
+        "hash": "120023969",
+        "path": "outstatic/content/projects/nighty-night.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/nighty-night-U2OD.webp",
+      "description": "Solo album",
+      "gitHubUrl": "",
+      "projectOrder": "23",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        },
+        {
+          "label": "Music",
+          "value": "music"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "slug": "nighty-night",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Nighty Night",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Released by Fort Evil Fruit",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     },
     {
       "__outstatic": {
@@ -1096,8 +1096,8 @@
     {
       "__outstatic": {
         "commit": "ec4c8e68c903ede213b518e562a98b074f35fd41",
-        "hash": "1579006969",
-        "path": "outstatic/content/projects/nighty-night.md"
+        "hash": "233620741",
+        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
       },
       "additionalImages": "",
       "author": {
@@ -1105,14 +1105,14 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "badge": "",
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-      "bigImage": "",
-      "bigVideo": "",
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "sbuayd-wide.webp",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/nighty-night-U2OD.webp",
-      "description": "Solo album",
+      "coverImage": "/images/sbuayd-2-YyMD.webp",
+      "description": "Budokan Boys album",
       "gitHubUrl": "",
-      "projectOrder": "23",
+      "projectOrder": "19",
       "projectTags": [
         {
           "label": "Album",
@@ -1123,21 +1123,21 @@
           "value": "music"
         }
       ],
-      "publishedAt": "2025-01-30T13:34:48.339Z",
+      "publishedAt": "2025-01-30T13:33:59.278Z",
       "section": [
         {
           "label": "personal",
           "value": "personal"
         }
       ],
-      "slug": "nighty-night",
+      "slug": "so-broken-up-about-you-dying",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Nighty Night",
-      "videoUrl": "",
+      "title": "So Broken Up About You Dying",
+      "videoUrl": "https://www.youtube.com/embed/n9U7N-iKfKU?si=vOTlBxbD0EbuRG8r",
       "vimeoUrl": "",
-      "websiteLinkText": "Released by Fort Evil Fruit",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+      "websiteLinkText": "Reviewed by THE QUIETUS",
+      "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
     }
   ]
 }
