@@ -1,6 +1,6 @@
 {
-  "commit": "0d9e9897670ee651075a033a35d7a670b953e6fc",
-  "generated": "2026-01-15T11:27:47.942Z",
+  "commit": "3274e671a2da8bb6ad94665cf7a2ad72515f55f0",
+  "generated": "Thu, 15 Jan 2026 11:30:42 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -352,6 +352,52 @@
     },
     {
       "__outstatic": {
+        "commit": "a4066967a4672fcfcc640c04e5ab3bcfacd6f670",
+        "hash": "3138215731",
+        "path": "outstatic/content/projects/health-for-all.md"
+      },
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Interactive Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "health-for-all.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/hfa-2-IxMj.webp",
+      "description": "Interactive documentary",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "health-for-all",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Explore Health For All",
+      "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
         "commit": "c4f91ad71e55afb81dad34ba9be8d4999cd74569",
         "hash": "3938297766",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -430,6 +476,48 @@
       "status": "published",
       "title": "God Today",
       "videoUrl": "https://www.youtube.com/embed/X6EK1HC1uqU?si=cmAWhzJYRkAvpS6F",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "41deb7670c63dc5208f7e170f809e420ab92762c",
+        "hash": "1118184393",
+        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Film Festival",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/eiff-2-gzMj.webp",
+      "description": "Soundtrack for the opening of the 69th Edinburgh International Film Festival",
+      "gitHubUrl": "",
+      "projectOrder": "-4",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:35:40.675Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "edinburgh-international-film-festival",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "EIFF",
+      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
@@ -714,6 +802,48 @@
     },
     {
       "__outstatic": {
+        "commit": "f5dd60bdf036a7025d493cc75b7b591e78c4fb35",
+        "hash": "2657098075",
+        "path": "outstatic/content/projects/spark.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/spark-I3MD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "spark",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Spark",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "a942e2bf21fb1a7b26201a98b4927cd3cd428d19",
         "hash": "233620741",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -848,48 +978,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f5dd60bdf036a7025d493cc75b7b591e78c4fb35",
-        "hash": "2657098075",
-        "path": "outstatic/content/projects/spark.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/spark-I3MD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:30.697Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "spark",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Spark",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "76f1f6804d2d203fb98fb6c4b24f95041b20aea8",
         "hash": "2357241843",
         "path": "outstatic/content/projects/old-man-jones.md"
@@ -979,6 +1067,98 @@
     },
     {
       "__outstatic": {
+        "commit": "a244d482cc12e5bf27bd0120ad367802b0a3f1f3",
+        "hash": "110954497",
+        "path": "outstatic/content/projects/vector.md"
+      },
+      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "E-commerce",
+      "bandcampEmbedUrl": "",
+      "bigImage": "vector-2.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/vector-thumbnail-QxND.webp",
+      "description": "An online virus shop",
+      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
+      "projectOrder": "9",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:45:28.864Z",
+      "section": [
+        {
+          "label": "code",
+          "value": "code"
+        }
+      ],
+      "slug": "vector",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vector",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the site",
+      "websiteUrl": "https://vector-virus-shop.vercel.app/"
+    },
+    {
+      "__outstatic": {
+        "commit": "7af8d5a8c22a32af0d5ce2830a55becb386fa8fc",
+        "hash": "18016055",
+        "path": "outstatic/content/projects/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "vanishing-pearls",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "43c689362e987140c1fc0831f0230c3b0c01b7dc",
         "hash": "2310969711",
         "path": "outstatic/content/projects/the-ooze.md"
@@ -1062,186 +1242,6 @@
       "title": "Texas",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "cbc64d78432a6b262a55d8d2832e090209cc01a6",
-        "hash": "3138215731",
-        "path": "outstatic/content/projects/health-for-all.md"
-      },
-      "additionalImages": "hfa-2.webp,  hfa-3.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Interactive Documentary",
-      "bandcampEmbedUrl": "",
-      "bigImage": "health-for-all.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "Interactive documentary",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "health-for-all",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Health For All ",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Explore Health For All",
-      "websiteUrl": "https://healthforallstory.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "38349e57b0cb34ae702d4e9f1fff5d4c66d40c20",
-        "hash": "110954497",
-        "path": "outstatic/content/projects/vector.md"
-      },
-      "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "E-commerce",
-      "bandcampEmbedUrl": "",
-      "bigImage": "vector-2.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/vector-thumbnail-QxND.webp",
-      "description": "An online virus shop",
-      "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
-      "projectOrder": "9",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:45:28.864Z",
-      "section": [
-        {
-          "label": "code",
-          "value": "code"
-        }
-      ],
-      "slug": "vector",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vector",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit the site",
-      "websiteUrl": "https://vector-virus-shop.vercel.app/"
-    },
-    {
-      "__outstatic": {
-        "commit": "a688e438b26d536337e52b988304c5d8e3f5c4ed",
-        "hash": "1118184393",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Film Festival",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/eiff-2-gzMj.webp",
-      "description": "Soundtrack for the opening of the 69th Edinburgh International Film Festival",
-      "gitHubUrl": "",
-      "projectOrder": "-4",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:35:40.675Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "edinburgh-international-film-festival",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "EIFF",
-      "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "0d9e9897670ee651075a033a35d7a670b953e6fc",
-        "hash": "18016055",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Documentary",
-      "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "vanishing-pearls",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
