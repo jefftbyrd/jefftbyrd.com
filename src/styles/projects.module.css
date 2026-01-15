@@ -1,31 +1,23 @@
 /* projects.module.scss */
 
-.projectImage {
-}
-
-.projectLink:hover {
+/* .projectLink:hover {
   .projectTitle,
   .projectTags,
   .projectDescription {
     opacity: 1;
   }
-
   .projectImage {
-    /* opacity: 0.25;
-    filter: blur(5px);
-    filter: invert(1); */
     filter: blur(0px) invert(0) opacity(0.25) grayscale(0) brightness(0.5);
-    /* transform: translate(0px, 25%); */
   }
-}
+} */
 
-.projectTitle,
+/* .projectTitle,
 .projectTags,
 .projectDescription {
   opacity: 0;
-}
+} */
 
-.projectTags {
+/* .projectTags {
 }
 
 .gridItem {
@@ -34,8 +26,7 @@
     oklch(45.79% 0.271 271.41),
     oklch(55.57% 0.2241 329.7)
   );
-  /* z-index: 100; */
   opacity: 1;
   transition: 0.5s;
   mix-blend-mode: multiply;
-}
+} */
