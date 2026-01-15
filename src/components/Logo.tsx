@@ -36,7 +36,7 @@ export default function Logo() {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={`${styles.subtitle} text-center tracking-wide uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
+        className={`${styles.subtitle} text-center tracking-wide uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4] md:leading-8 lg:leading-9 xl:leading-11 2xl:leading-13`}
       >
         <span className={`font-medium`}>Composer</span>{' '}
         <span className={` text-lg align-middle`}>
