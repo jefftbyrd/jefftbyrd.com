@@ -21,6 +21,7 @@ bandcampEmbedUrl: ''
 spotifyEmbed: ''
 spotifyEmbedUrl: 'https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0'
 badge: 'NPR'
+section: [{"value":"featured","label":"featured"}]
 publishedAt: '2025-01-27T21:47:20.921Z'
 ---
 
