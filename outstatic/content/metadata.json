@@ -1,6 +1,6 @@
 {
   "commit": "1ee08ead23e1338eaaf65555e76fd87db59c947f",
-  "generated": "2026-01-15T10:56:08.953Z",
+  "generated": "2026-01-15T10:56:20.255Z",
   "metadata": [
     {
       "__outstatic": {
@@ -94,6 +94,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "ed7d9ca060b1a2bfda93df99be77ce8da1da3455",
+        "hash": "1394508051",
+        "path": "outstatic/content/projects/are-you-sick.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/are-you-sick-M2OD.jpg",
+      "description": "Budokan Boys album",
+      "gitHubUrl": "",
+      "projectOrder": "26",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "slug": "are-you-sick",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Are You Sick?",
+      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "vimeoUrl": "",
+      "websiteLinkText": "Bandcamp",
+      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
     },
     {
       "__outstatic": {
@@ -401,41 +436,6 @@
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "1c7acecca87038a5697158977e78b717dc317d36",
-        "hash": "3697418132",
-        "path": "outstatic/content/projects/old-man-jones.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/old-man-jones-k3Nz.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:49:25.845Z",
-      "slug": "old-man-jones",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Old Man Jones",
-      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
     },
     {
       "__outstatic": {
@@ -1135,8 +1135,8 @@
     {
       "__outstatic": {
         "commit": "1ee08ead23e1338eaaf65555e76fd87db59c947f",
-        "hash": "47280394",
-        "path": "outstatic/content/projects/are-you-sick.md"
+        "hash": "2357241843",
+        "path": "outstatic/content/projects/old-man-jones.md"
       },
       "additionalImages": "",
       "author": {
@@ -1144,35 +1144,35 @@
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
       "badge": "",
-      "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+      "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/are-you-sick-M2OD.jpg",
-      "description": "Budokan Boys album",
+      "coverImage": "/images/old-man-jones-k3Nz.webp",
+      "description": "",
       "gitHubUrl": "",
-      "projectOrder": "26",
+      "projectOrder": "",
       "projectTags": [
         {
-          "label": "Album",
-          "value": "album"
+          "label": "Music Video",
+          "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-01-30T13:36:26.211Z",
+      "publishedAt": "2025-09-02T08:49:25.845Z",
       "section": [
         {
-          "label": "personal",
-          "value": "personal"
+          "label": "weird",
+          "value": "weird"
         }
       ],
-      "slug": "are-you-sick",
+      "slug": "old-man-jones",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Are You Sick?",
-      "videoUrl": "https://www.youtube.com/embed/IjYHz3J9kds?si=cHj7SNRrlzrZvwIX",
+      "title": "Old Man Jones",
+      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
       "vimeoUrl": "",
-      "websiteLinkText": "Album on Bandcamp",
-      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
     }
   ]
 }
