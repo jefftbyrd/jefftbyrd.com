@@ -89,7 +89,6 @@ export default async function Projects() {
 
           <section>
             <h2>Web Development</h2>
-            {/* <span>Interactive audio-visual applications</span> */}
             <ProjectsFiltered
               allProjects={allProjects}
               section="code"
@@ -109,7 +108,6 @@ export default async function Projects() {
 
           <section>
             <h2>Short Films & Music Videos</h2>
-            <span>Weird stuff</span>
             <ProjectsFiltered
               allProjects={allProjects}
               section="weird"
