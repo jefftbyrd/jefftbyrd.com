@@ -5,7 +5,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 slug: 'earthsong'
-description: 'Interactive Sound Exploration Tool'
+description: 'Interactive sound exploration tool'
 coverImage: '/images/earthsong-2-c0NT.webp'
 projectTags: [{"value":"code","label":"Code"},{"value":"design","label":"Design"},{"label":"Sound","value":"sound"},{"value":"featured","label":"Featured"}]
 videoUrl: 'https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4'
@@ -20,7 +20,7 @@ vimeoUrl: ''
 bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
-badge: 'Creative Coding'
+badge: 'Audiovisual Experience'
 section: [{"label":"featured","value":"featured"},{"label":"code","value":"code"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---

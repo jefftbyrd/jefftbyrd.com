@@ -1,6 +1,6 @@
 {
-  "commit": "103914b4866ba1189440763b084c2b1f18fcdae2",
-  "generated": "2026-01-15T11:41:37.144Z",
+  "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
+  "generated": "2026-01-15T12:09:44.729Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1188,8 +1188,8 @@
     },
     {
       "__outstatic": {
-        "commit": "103914b4866ba1189440763b084c2b1f18fcdae2",
-        "hash": "1194598158",
+        "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
+        "hash": "1874965055",
         "path": "outstatic/content/projects/earthsong.md"
       },
       "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
@@ -1197,13 +1197,13 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "badge": "Creative Coding",
+      "badge": "Audiovisual Experience",
       "bandcampEmbedUrl": "",
       "bigImage": "earthsong-big.webp",
       "bigVideo": "",
       "collection": "projects",
       "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Interactive Sound Exploration Tool",
+      "description": "Interactive sound exploration tool",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
       "projectOrder": "10",
       "projectTags": [
