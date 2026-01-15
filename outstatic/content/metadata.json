@@ -1,6 +1,6 @@
 {
   "commit": "2c1c16867da4a74b3471bf07b95ee0e1499dfec0",
-  "generated": "2026-01-15T10:09:30.644Z",
+  "generated": "2026-01-15T10:09:46.925Z",
   "metadata": [
     {
       "__outstatic": {
@@ -552,41 +552,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fed16ff775912fe36482c5767f1979d716b2aaeb",
-        "hash": "4170217678",
-        "path": "outstatic/content/projects/no-show.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/no-show-AzMz.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:24:03.212Z",
-      "slug": "no-show",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "No Show",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
-    },
-    {
-      "__outstatic": {
         "commit": "1c7acecca87038a5697158977e78b717dc317d36",
         "hash": "3697418132",
         "path": "outstatic/content/projects/old-man-jones.md"
@@ -619,6 +584,41 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
+    },
+    {
+      "__outstatic": {
+        "commit": "583934ead03ccbad5e31c57e15a654facfceae0b",
+        "hash": "807659350",
+        "path": "outstatic/content/projects/providence.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/providence-3-kwNT.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        }
+      ],
+      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "slug": "providence",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Providence",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48095297",
+      "websiteLinkText": "Watch on Vimeo",
+      "websiteUrl": "https://vimeo.com/48095297"
     },
     {
       "__outstatic": {
@@ -1107,8 +1107,8 @@
     {
       "__outstatic": {
         "commit": "2c1c16867da4a74b3471bf07b95ee0e1499dfec0",
-        "hash": "2273613880",
-        "path": "outstatic/content/projects/providence.md"
+        "hash": "2691181070",
+        "path": "outstatic/content/projects/no-show.md"
       },
       "additionalImages": "",
       "author": {
@@ -1120,31 +1120,31 @@
       "bigImage": "",
       "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/providence-3-kwNT.webp",
+      "coverImage": "/images/no-show-AzMz.webp",
       "description": "",
       "gitHubUrl": "",
       "projectOrder": "",
       "projectTags": [
         {
-          "label": "Short Film",
-          "value": "shortFilm"
+          "label": "Music Video",
+          "value": "musicVideo"
         }
       ],
-      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "publishedAt": "2025-09-02T08:24:03.212Z",
       "section": [
         {
           "label": "weird",
           "value": "weird"
         }
       ],
-      "slug": "providence",
+      "slug": "no-show",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Providence",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48095297",
-      "websiteLinkText": "Watch on Vimeo",
-      "websiteUrl": "https://vimeo.com/48095297"
+      "title": "No Show",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
     }
   ]
 }
