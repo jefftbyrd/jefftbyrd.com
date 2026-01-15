@@ -92,7 +92,7 @@ export default async function Projects() {
             <ProjectsFiltered
               allProjects={allProjects}
               section="code"
-              grid={4}
+              grid={3}
             />
           </section>
 
@@ -111,7 +111,7 @@ export default async function Projects() {
             <ProjectsFiltered
               allProjects={allProjects}
               section="weird"
-              grid={3}
+              grid={4}
             />
           </section>
         </div>
