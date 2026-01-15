@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ'
 projectTags: [{"value":"soundtrack","label":"Soundtrack"}]
 coverImage: '/images/eiff-2-gzMj.webp'
-description: 'Opening animation for the 69th Edinburgh International Film Festival'
+description: 'Soundtrack for the opening of the 69th Edinburgh International Film Festival'
 slug: 'edinburgh-international-film-festival'
 author:
   name: 'Jeff T Byrd'
