@@ -11,7 +11,7 @@
 
 .subtitle {
   text-transform: uppercase;
-  font-family: var(--font-hanken);
+  /* font-family: var(--font-hanken); */
   font-size: calc(16px + (44 - 16) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 200;
   text-align: center;
