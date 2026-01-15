@@ -21,6 +21,7 @@ bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
 badge: ''
+section: [{"label":"featured","value":"featured"},{"label":"code","value":"code"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 

@@ -157,6 +157,10 @@
         {
           "value": "featured",
           "label": "featured"
+        },
+        {
+          "value": "code",
+          "label": "code"
         }
       ]
     }
