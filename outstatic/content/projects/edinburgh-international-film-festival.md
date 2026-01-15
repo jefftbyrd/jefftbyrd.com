@@ -20,7 +20,7 @@ author:
   name: 'Jeff T Byrd'
   picture: 'https://avatars.githubusercontent.com/u/179826675?v=4'
 status: 'published'
-title: 'Edinburgh International Film Festival'
+title: 'EIFF'
 publishedAt: '2025-01-30T13:35:40.675Z'
 ---
 
