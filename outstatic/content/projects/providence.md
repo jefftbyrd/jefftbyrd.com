@@ -1,6 +1,6 @@
 ---
 section: [{"value":"weird","label":"weird"}]
-badge: ''
+badge: 'Experimental Film'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
