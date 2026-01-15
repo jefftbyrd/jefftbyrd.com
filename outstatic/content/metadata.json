@@ -1,6 +1,6 @@
 {
   "commit": "5a056c7e46ce42871691eded4f5bd98aa420ab5f",
-  "generated": "2026-01-15T09:55:52.363Z",
+  "generated": "2026-01-15T09:55:59.956Z",
   "metadata": [
     {
       "__outstatic": {
@@ -827,6 +827,50 @@
     },
     {
       "__outstatic": {
+        "commit": "51be4cc90991df0e56ea7605c0b6e70235d030ce",
+        "hash": "256766426",
+        "path": "outstatic/content/projects/after-the-storm.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Washington Post",
+      "bandcampEmbedUrl": "",
+      "bigImage": "after-the-storm.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/after-the-storm-2-g2OD.webp",
+      "description": "Interactive documentary released by The Washington Post",
+      "gitHubUrl": "",
+      "projectOrder": "22",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "slug": "after-the-storm",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "After the Storm",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit the project",
+      "websiteUrl": "https://whatcomesafter.org/"
+    },
+    {
+      "__outstatic": {
         "commit": "ea3a45120fb4f4c97da24a52c454469d14919104",
         "hash": "1968840001",
         "path": "outstatic/content/projects/white-lies.md"
@@ -865,46 +909,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
-    },
-    {
-      "__outstatic": {
-        "commit": "aa3c1d8da97d2b3ecf90f4a0b772773f23e5652f",
-        "hash": "2151250534",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Alabama Public Television",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/durrs-kxMT.webp",
-      "description": "Documentary film about the Civil Rights Movement",
-      "gitHubUrl": "",
-      "projectOrder": "20",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "slug": "durrs-of-montgomery",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "More about the Durrs",
-      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
     },
     {
       "__outstatic": {
@@ -1052,52 +1056,48 @@
     {
       "__outstatic": {
         "commit": "5a056c7e46ce42871691eded4f5bd98aa420ab5f",
-        "hash": "1452145075",
-        "path": "outstatic/content/projects/after-the-storm.md"
+        "hash": "2483764306",
+        "path": "outstatic/content/projects/durrs-of-montgomery.md"
       },
       "additionalImages": "",
       "author": {
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "badge": "Washington Post",
+      "badge": "Alabama Public Television",
       "bandcampEmbedUrl": "",
-      "bigImage": "after-the-storm.webp",
-      "bigVideo": "",
+      "bigImage": "",
+      "bigVideo": "true",
       "collection": "projects",
-      "coverImage": "/images/after-the-storm-2-g2OD.webp",
-      "description": "Interactive documentary released by The Washington Post",
+      "coverImage": "/images/durrs-kxMT.webp",
+      "description": "Documentary film about the Civil Rights Movement",
       "gitHubUrl": "",
-      "projectOrder": "22",
+      "projectOrder": "20",
       "projectTags": [
         {
           "label": "Soundtrack",
           "value": "soundtrack"
         },
         {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
           "label": "Featured",
           "value": "featured"
         }
       ],
-      "publishedAt": "2025-01-27T21:49:13.188Z",
+      "publishedAt": "2025-01-27T21:47:00.739Z",
       "section": [
         {
           "label": "featured",
           "value": "featured"
         }
       ],
-      "slug": "after-the-storm",
+      "slug": "durrs-of-montgomery",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "After the Storm",
-      "videoUrl": "",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
       "vimeoUrl": "",
-      "websiteLinkText": "Visit the project",
-      "websiteUrl": "https://whatcomesafter.org/"
+      "websiteLinkText": "More about the Durrs",
+      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
     }
   ]
 }
