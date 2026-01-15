@@ -7,7 +7,8 @@ import localFont from 'next/font/local';
 
 const space = Space_Grotesk({
   subsets: ['latin'],
-  variable: '--font-space',
+  // variable: '--font-space',
+  // display: 'swap',
 });
 
 const karrik = localFont({
@@ -51,7 +52,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${karrik.variable} ${space.variable} text-[15px] sm:text-[20px]`}
+      className={`${karrik.variable} ${space.className} text-[15px] sm:text-[20px]`}
     >
       <body>
         {children}
