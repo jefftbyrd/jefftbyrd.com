@@ -1,6 +1,6 @@
 ---
 section: [{"value":"additional","label":"additional"}]
-badge: ''
+badge: 'Web Series'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: ''
 projectTags: [{"value":"soundtrack","label":"Soundtrack"},{"value":"soundDesign","label":"Sound Design"}]
 coverImage: '/images/alouette-kzNz.jpg'
-description: 'A 5-episode series set in New Orleans'
+description: '5-episode web series'
 slug: 'alouette'
 author:
   name: 'Jeff T Byrd'

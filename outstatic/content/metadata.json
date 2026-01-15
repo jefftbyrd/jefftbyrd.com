@@ -1,6 +1,6 @@
 {
-  "commit": "9b183137514e662c342c8fb18a1107a1cb530ce2",
-  "generated": "2026-01-15T11:10:52.673Z",
+  "commit": "f3fac3a842f4b74c85e44010ea0b1f5b740f515c",
+  "generated": "2026-01-15T11:14:21.419Z",
   "metadata": [
     {
       "__outstatic": {
@@ -782,52 +782,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e7e1a03b723218cd7cdfcb577e32c739a4879fc3",
-        "hash": "4096096220",
-        "path": "outstatic/content/projects/alouette.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "A 5-episode series set in New Orleans",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "alouette",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "6970100bc7ae78a9d2cc61fa28b8536d9af9cd6d",
         "hash": "3335538688",
         "path": "outstatic/content/projects/vector.md"
@@ -1221,6 +1175,52 @@
       "title": "EIFF",
       "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "f3fac3a842f4b74c85e44010ea0b1f5b740f515c",
+        "hash": "1538121591",
+        "path": "outstatic/content/projects/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Web Series",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "5-episode web series",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "alouette",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
