@@ -1,6 +1,6 @@
 {
-  "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
-  "generated": "2026-01-16T06:49:36.373Z",
+  "commit": "1eb433e1a04a2b5e221447e1869469390416822b",
+  "generated": "2026-01-16T07:41:32.708Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
-    },
-    {
-      "__outstatic": {
-        "commit": "867a1340f75a6cd614ffc0d364cad5999559b908",
-        "hash": "1111285166",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
     },
     {
       "__outstatic": {
@@ -1244,6 +1226,24 @@
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "1eb433e1a04a2b5e221447e1869469390416822b",
+        "hash": "2747093920",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
