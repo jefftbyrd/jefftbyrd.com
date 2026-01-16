@@ -52,17 +52,11 @@ export default async function Projects() {
         <Header />
         <div className="relative pb-0 lg:pb-4">
           <PageTitle pageTitle={page.title} />
-          {/* <BlueAbsolute /> */}
+          <BlueAbsolute />
         </div>
         <div className=" projectsPage">
-          {/* <p className="text-lg font-normal">
-            Composer for narrative audio storytelling — podcasts, documentaries,
-            and interactive media. Web developer specializing in accessible,
-            audio-visual experiences.
-          </p> */}
-
-          <section className="mt-10">
-            <div className="projectArea">
+          <section className="mt-15">
+            <div className="projectSection">
               <h2>Featured Work</h2>
               <span>
                 Composer for narrative audio storytelling — podcasts,
