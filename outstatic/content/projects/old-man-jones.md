@@ -1,6 +1,6 @@
 ---
 section: [{"value":"weird","label":"weird"}]
-badge: ''
+badge: 'Music Video'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn'
 projectTags: [{"value":"musicVideo","label":"Music Video"}]
 coverImage: '/images/old-man-jones-k3Nz.webp'
-description: ''
+description: 'Budokan Boys Music Video'
 slug: 'old-man-jones'
 author:
   name: 'Jeff T Byrd'

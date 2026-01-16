@@ -1,6 +1,6 @@
 {
-  "commit": "be9d3c4ad8316845d73080b06835e76d9a531ef1",
-  "generated": "2026-01-16T11:04:36.855Z",
+  "commit": "8568d5092ef29bbf66daa413dbbebdfa1cab62e0",
+  "generated": "2026-01-16T11:05:04.126Z",
   "metadata": [
     {
       "__outstatic": {
@@ -596,48 +596,6 @@
       "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "76f1f6804d2d203fb98fb6c4b24f95041b20aea8",
-        "hash": "2357241843",
-        "path": "outstatic/content/projects/old-man-jones.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/old-man-jones-k3Nz.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:49:25.845Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "old-man-jones",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Old Man Jones",
-      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
     },
     {
       "__outstatic": {
@@ -1244,6 +1202,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
+    },
+    {
+      "__outstatic": {
+        "commit": "8568d5092ef29bbf66daa413dbbebdfa1cab62e0",
+        "hash": "3407752466",
+        "path": "outstatic/content/projects/old-man-jones.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/old-man-jones-k3Nz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:49:25.845Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "old-man-jones",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Old Man Jones",
+      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
     }
   ]
 }
