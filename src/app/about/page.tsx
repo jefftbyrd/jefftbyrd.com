@@ -78,7 +78,7 @@ export default async function About() {
               <div className="relative mb-2 lg:mb-4 lg:mx-0 aspect-square">
                 <Image
                   alt="Jeff T Byrd"
-                  src="/images/jefftbyrd-3.webp"
+                  src="/images/jefftbyrd-4.webp"
                   fill
                   className="object-cover object-center"
                   priority
