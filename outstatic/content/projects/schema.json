@@ -173,6 +173,10 @@
         {
           "value": "personal",
           "label": "personal"
+        },
+        {
+          "value": "hidden",
+          "label": "hidden"
         }
       ]
     }

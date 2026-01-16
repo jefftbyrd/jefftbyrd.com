@@ -1,6 +1,6 @@
 {
-  "commit": "a48d68a3c1a3288d2abd5ca5c7ecb183e905476e",
-  "generated": "2026-01-16T06:18:49.539Z",
+  "commit": "60e56b9d12fcc37c0fdf9ae0033941b7d607f873",
+  "generated": "2026-01-16T06:19:13.567Z",
   "metadata": [
     {
       "__outstatic": {
@@ -697,48 +697,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f5dd60bdf036a7025d493cc75b7b591e78c4fb35",
-        "hash": "2657098075",
-        "path": "outstatic/content/projects/spark.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/spark-I3MD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:30.697Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "spark",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Spark",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "a942e2bf21fb1a7b26201a98b4927cd3cd428d19",
         "hash": "233620741",
         "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
@@ -1244,6 +1202,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit at the New York Times",
       "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+    },
+    {
+      "__outstatic": {
+        "commit": "60e56b9d12fcc37c0fdf9ae0033941b7d607f873",
+        "hash": "803093212",
+        "path": "outstatic/content/projects/spark.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/spark-I3MD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "section": [
+        {
+          "label": "hidden",
+          "value": "hidden"
+        }
+      ],
+      "slug": "spark",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Spark",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
