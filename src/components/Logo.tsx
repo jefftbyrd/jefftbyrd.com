@@ -41,22 +41,22 @@ export default function Logo() {
         <span
           className={`font-medium text-shadow-[3px_3px_0px_rgb(255_84_253_/_1)]`}
         >
-          Composer
+          Composer & Web Developer
         </span>{' '}
-        <span className={` text-lg align-middle`}>
+        {/* <span className={` text-lg align-middle`}>
           <a href="/projects/white-lies/" className={`hover:text-white`}>
             &rarr;{' '}
             <span className={`underline underline-offset-3 decoration-1`}>
               NPR's 'White Lies'
             </span>
           </a>
-        </span>
-        <br />
+        </span> */}
+        {/* <br />
         <span
           className={`font-medium text-shadow-[3px_3px_0px_rgb(255_84_253_/_1)]`}
         >
           Web Developer
-        </span>
+        </span> */}
       </motion.h2>
     </>
   );
