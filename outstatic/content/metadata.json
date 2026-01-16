@@ -1,6 +1,6 @@
 {
-  "commit": "70762cb76d20afbe7226368e40962784367a7e27",
-  "generated": "2026-01-16T11:04:02.320Z",
+  "commit": "be9d3c4ad8316845d73080b06835e76d9a531ef1",
+  "generated": "2026-01-16T11:04:36.855Z",
   "metadata": [
     {
       "__outstatic": {
@@ -415,48 +415,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "2fd43bc7c3c0d11f447237e80e1d29bc66298bae",
-        "hash": "909752020",
-        "path": "outstatic/content/projects/men-hate-him.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/men-hate-him-M3Mz.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:39:33.203Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "men-hate-him",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "MEN HATE HIM [Karaoke Version]",
-      "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
     },
     {
       "__outstatic": {
@@ -1244,6 +1202,48 @@
       "vimeoUrl": "https://player.vimeo.com/video/48095297",
       "websiteLinkText": "Watch on Vimeo",
       "websiteUrl": "https://vimeo.com/48095297"
+    },
+    {
+      "__outstatic": {
+        "commit": "be9d3c4ad8316845d73080b06835e76d9a531ef1",
+        "hash": "3997152079",
+        "path": "outstatic/content/projects/men-hate-him.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/men-hate-him-M3Mz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:39:33.203Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "men-hate-him",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "MEN HATE HIM [Karaoke Version]",
+      "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
     }
   ]
 }

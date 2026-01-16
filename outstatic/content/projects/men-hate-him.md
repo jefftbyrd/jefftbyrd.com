@@ -1,6 +1,6 @@
 ---
 section: [{"label":"weird","value":"weird"}]
-badge: ''
+badge: 'Music Video'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l'
 projectTags: [{"value":"musicVideo","label":"Music Video"}]
 coverImage: '/images/men-hate-him-M3Mz.webp'
-description: ''
+description: 'Budokan Boys Music Video'
 slug: 'men-hate-him'
 author:
   name: 'Jeff T Byrd'
