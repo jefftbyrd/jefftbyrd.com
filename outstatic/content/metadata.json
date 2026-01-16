@@ -1,6 +1,6 @@
 {
   "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
-  "generated": "2026-01-16T06:49:20.716Z",
+  "generated": "2026-01-16T06:49:36.373Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1202,7 +1202,7 @@
     {
       "__outstatic": {
         "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
-        "hash": "711863980",
+        "hash": "2853105935",
         "path": "outstatic/content/projects/texas.md"
       },
       "additionalImages": "",
@@ -1239,7 +1239,7 @@
       "slug": "texas",
       "spotifyEmbedUrl": "",
       "status": "published",
-      "title": "Texas",
+      "title": "TEXAS",
       "videoUrl": "",
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
