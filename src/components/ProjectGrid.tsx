@@ -40,7 +40,7 @@ const ProjectGrid = ({
     <div className="relative">
       <section id={collection}>
         <div
-          className={`grid ${gridClass} mx-4 lg:mx-0 sm:gap-x-6 lg:gap-x-12 gap-y-4 sm:gap-y-6 lg:gap-y-10 pt-8`}
+          className={`grid ${gridClass} mx-4 lg:mx-0 sm:gap-x-6 lg:gap-x-12 gap-y-4 sm:gap-y-6 lg:gap-y-10`}
         >
           {items.map((item, id) => (
             <AnimatePresence mode="popLayout">
@@ -52,7 +52,7 @@ const ProjectGrid = ({
               >
                 <Link href={`/${collection}/${item.slug}`}>
                   <div
-                    className={`${styles.projectLink} cursor-pointer bg-lightPink project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
+                    className={`${styles.projectLink} cursor-pointer bg-lightPink project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden border-2 sm:border-0 border-lightPink shadow-[2px_2px_0px_rgb(0_0_0_/_0.3)] sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
                   >
                     <div className={styles.gridItem}>
                       <div className="relative w-full aspect-square">
