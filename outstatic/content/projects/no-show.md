@@ -1,6 +1,6 @@
 ---
 section: [{"value":"weird","label":"weird"}]
-badge: ''
+badge: 'Music Video'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: 'https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt'
 projectTags: [{"value":"musicVideo","label":"Music Video"}]
 coverImage: '/images/no-show-AzMz.webp'
-description: ''
+description: 'Budokan Boys Music Video'
 slug: 'no-show'
 author:
   name: 'Jeff T Byrd'

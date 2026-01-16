@@ -1,6 +1,6 @@
 {
-  "commit": "60e56b9d12fcc37c0fdf9ae0033941b7d607f873",
-  "generated": "2026-01-16T06:19:13.567Z",
+  "commit": "246e75e3f0938dbc93ac0522680b442b453ccf42",
+  "generated": "2026-01-16T06:20:48.390Z",
   "metadata": [
     {
       "__outstatic": {
@@ -475,48 +475,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "2b600456c2852a60c9dfdcebc4d4c77904bc0a31",
-        "hash": "2691181070",
-        "path": "outstatic/content/projects/no-show.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/no-show-AzMz.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:24:03.212Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "no-show",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "No Show",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
     },
     {
       "__outstatic": {
@@ -1244,6 +1202,48 @@
       "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "246e75e3f0938dbc93ac0522680b442b453ccf42",
+        "hash": "1927042162",
+        "path": "outstatic/content/projects/no-show.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/no-show-AzMz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:24:03.212Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "no-show",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "No Show",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
     }
   ]
 }
