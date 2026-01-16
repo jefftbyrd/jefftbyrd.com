@@ -1,6 +1,6 @@
 {
-  "commit": "c5121a7bf8bbeac5e2a1eca76f26f688c29dbcf7",
-  "generated": "2026-01-16T06:39:51.372Z",
+  "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
+  "generated": "2026-01-16T06:42:07.206Z",
   "metadata": [
     {
       "__outstatic": {
@@ -303,48 +303,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Explore Health For All",
       "websiteUrl": "https://healthforallstory.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "c4f91ad71e55afb81dad34ba9be8d4999cd74569",
-        "hash": "3938297766",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Music Video",
-      "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "Music video for a track from the album Nighty Night",
-      "gitHubUrl": "",
-      "projectOrder": "27",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "goodwater-alabama-1982",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "vimeoUrl": "",
-      "websiteLinkText": "Album on Bandcamp",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     },
     {
       "__outstatic": {
@@ -1244,6 +1202,48 @@
       "vimeoUrl": "https://player.vimeo.com/video/48095297",
       "websiteLinkText": "Watch on Vimeo",
       "websiteUrl": "https://vimeo.com/48095297"
+    },
+    {
+      "__outstatic": {
+        "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
+        "hash": "1679078424",
+        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "goodwater-alabama-1982.webp",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "description": "Music video from the album \"Nighty Night\"",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "goodwater-alabama-1982",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "Album on Bandcamp",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
     }
   ]
 }
