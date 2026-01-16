@@ -1,6 +1,6 @@
 {
-  "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
-  "generated": "2026-01-15T12:11:20.709Z",
+  "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
+  "generated": "2026-01-16T06:15:35.162Z",
   "metadata": [
     {
       "__outstatic": {
@@ -961,53 +961,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fcdb7c2db2142a49b90b568f38ddd173d4612911",
-        "hash": "2543896050",
-        "path": "outstatic/content/projects/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "NPR",
-      "bandcampEmbedUrl": "",
-      "bigImage": "wl-3-counternarrative.jpg",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/white-lies-square-QyMD.jpg",
-      "description": "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast",
-      "gitHubUrl": "",
-      "projectOrder": "32",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "white-lies",
-      "spotifyEmbed": "",
-      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "White Lies at NPR",
-      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
-    },
-    {
-      "__outstatic": {
         "commit": "a244d482cc12e5bf27bd0120ad367802b0a3f1f3",
         "hash": "110954497",
         "path": "outstatic/content/projects/vector.md"
@@ -1244,6 +1197,53 @@
       "vimeoUrl": "",
       "websiteLinkText": "Visit earthsong.world",
       "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
+        "hash": "2936935640",
+        "path": "outstatic/content/projects/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "NPR",
+      "bandcampEmbedUrl": "",
+      "bigImage": "wl-3-counternarrative.jpg",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/white-lies-square-QyMD.jpg",
+      "description": "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast that reached #1 on Apple Podcasts",
+      "gitHubUrl": "",
+      "projectOrder": "32",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "white-lies",
+      "spotifyEmbed": "",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
+      "status": "published",
+      "title": "White Lies",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "White Lies at NPR",
+      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
     }
   ]
 }
