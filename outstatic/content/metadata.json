@@ -1,53 +1,7 @@
 {
-  "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
-  "generated": "2026-01-16T06:15:35.162Z",
+  "commit": "a48d68a3c1a3288d2abd5ca5c7ecb183e905476e",
+  "generated": "2026-01-16T06:18:49.539Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "87fe150b83e940dd3439517ca64ee8d4e7fbc948",
-        "hash": "3935192809",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "New York Times",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/a-call-from-selma-E5OT.webp",
-      "description": "New York Times Op-Doc",
-      "gitHubUrl": "",
-      "projectOrder": "31",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "a-call-from-selma",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit at the New York Times",
-      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
-    },
     {
       "__outstatic": {
         "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
@@ -1244,6 +1198,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "White Lies at NPR",
       "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
+    },
+    {
+      "__outstatic": {
+        "commit": "a48d68a3c1a3288d2abd5ca5c7ecb183e905476e",
+        "hash": "3748951833",
+        "path": "outstatic/content/projects/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "New York Times",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/a-call-from-selma-E5OT.webp",
+      "description": "Original Soundtrack for New York Times Op-Doc",
+      "gitHubUrl": "",
+      "projectOrder": "31",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "a-call-from-selma",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit at the New York Times",
+      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
     }
   ]
 }
