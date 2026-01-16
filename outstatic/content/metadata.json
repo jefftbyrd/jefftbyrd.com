@@ -1,6 +1,6 @@
 {
-  "commit": "8568d5092ef29bbf66daa413dbbebdfa1cab62e0",
-  "generated": "2026-01-16T11:05:04.126Z",
+  "commit": "6d067fbab424f46de24ddcb1719ff9da4c86fbb9",
+  "generated": "2026-01-16T11:05:46.774Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1057,52 +1057,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
-        "hash": "2853105935",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Experimental Documentary",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/texas-Y0OD.webp",
-      "description": "Experimental documentary film screened at Transart Festival in Berlin and at MOCA Taipei",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "texas",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "TEXAS",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "1eb433e1a04a2b5e221447e1869469390416822b",
         "hash": "2747093920",
         "path": "outstatic/content/pages/about.md"
@@ -1244,6 +1198,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "Watch on YouTube",
       "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
+    },
+    {
+      "__outstatic": {
+        "commit": "6d067fbab424f46de24ddcb1719ff9da4c86fbb9",
+        "hash": "123451864",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Experimental Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/texas-Y0OD.webp",
+      "description": "Experimental documentary film screened at Transart Festival in Berlin and at MOCA Taipei",
+      "gitHubUrl": "",
+      "projectOrder": "33",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "texas",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "TEXAS",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
