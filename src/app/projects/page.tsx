@@ -62,7 +62,6 @@ export default async function Projects() {
                 Narrative audio storytelling — podcasts, documentaries, and
                 interactive media
               </span>
-              {/* <span>Professional narrative audio & web development</span> */}
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
@@ -72,8 +71,10 @@ export default async function Projects() {
           </section>
 
           <section>
-            <h2>Narrative Audio</h2>
-            <span>Additional documentary, film, and series work</span>
+            <div className="projectSection">
+              <h2>Narrative Audio</h2>
+              <span>Additional documentary, film, and series work</span>
+            </div>
             <ProjectsFiltered
               allProjects={allProjects}
               section="additional"
@@ -82,7 +83,9 @@ export default async function Projects() {
           </section>
 
           <section>
-            <h2>Web Development</h2>
+            <div className="projectSection">
+              <h2>Web Development</h2>
+            </div>
             <ProjectsFiltered
               allProjects={allProjects}
               section="code"
@@ -91,8 +94,10 @@ export default async function Projects() {
           </section>
 
           <section>
-            <h2>Music & Performance</h2>
-            <span>Solo albums and experimental work with Budokan Boys</span>
+            <div className="projectSection">
+              <h2>Music & Performance</h2>
+              <span>Solo albums and experimental work with Budokan Boys</span>
+            </div>
             <ProjectsFiltered
               allProjects={allProjects}
               section="personal"
@@ -101,7 +106,9 @@ export default async function Projects() {
           </section>
 
           <section>
-            <h2>Short Films & Music Videos</h2>
+            <div className="projectSection">
+              <h2>Short Films & Music Videos</h2>
+            </div>
             <ProjectsFiltered
               allProjects={allProjects}
               section="weird"
