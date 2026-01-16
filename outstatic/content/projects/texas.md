@@ -1,6 +1,6 @@
 ---
 section: [{"value":"weird","label":"weird"}]
-badge: ''
+badge: 'Experimental Documentary'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'
@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: ''
 projectTags: [{"label":"Short Film","value":"shortFilm"},{"value":"soundDesign","label":"Sound Design"}]
 coverImage: '/images/texas-Y0OD.webp'
-description: 'Experimental documentary film'
+description: 'Experimental documentary film screened at Transart Festival in Berlin and at MOCA Taipei'
 slug: 'texas'
 author:
   name: 'Jeff T Byrd'

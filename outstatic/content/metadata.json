@@ -1,6 +1,6 @@
 {
-  "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
-  "generated": "2026-01-16T06:42:07.206Z",
+  "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
+  "generated": "2026-01-16T06:49:20.716Z",
   "metadata": [
     {
       "__outstatic": {
@@ -835,52 +835,6 @@
     },
     {
       "__outstatic": {
-        "commit": "260c5494d95bc7b0de271f3b9027228ac434c99c",
-        "hash": "2680533250",
-        "path": "outstatic/content/projects/texas.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/texas-Y0OD.webp",
-      "description": "Experimental documentary film",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:42.177Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "texas",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Texas",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
         "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
         "hash": "3816368682",
         "path": "outstatic/content/projects/earthsong.md"
@@ -1244,6 +1198,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "Album on Bandcamp",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "7f8327421ad01f9628bd5b267527e5298d14f67d",
+        "hash": "711863980",
+        "path": "outstatic/content/projects/texas.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Experimental Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/texas-Y0OD.webp",
+      "description": "Experimental documentary film screened at Transart Festival in Berlin and at MOCA Taipei",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:42.177Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "texas",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Texas",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
+      "websiteLinkText": "",
+      "websiteUrl": ""
     }
   ]
 }
