@@ -1,6 +1,6 @@
 {
-  "commit": "1eb433e1a04a2b5e221447e1869469390416822b",
-  "generated": "2026-01-16T07:41:32.708Z",
+  "commit": "70762cb76d20afbe7226368e40962784367a7e27",
+  "generated": "2026-01-16T11:04:02.320Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1099,48 +1099,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c5121a7bf8bbeac5e2a1eca76f26f688c29dbcf7",
-        "hash": "1517024148",
-        "path": "outstatic/content/projects/providence.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Experimental Film",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "projects",
-      "coverImage": "/images/providence-3-kwNT.webp",
-      "description": "Experimental Short, Part 2 of PLACE Serie",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        }
-      ],
-      "publishedAt": "2025-09-03T07:06:33.318Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "providence",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Providence",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48095297",
-      "websiteLinkText": "Watch on Vimeo",
-      "websiteUrl": "https://vimeo.com/48095297"
-    },
-    {
-      "__outstatic": {
         "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
         "hash": "1679078424",
         "path": "outstatic/content/projects/goodwater-alabama-1982.md"
@@ -1244,6 +1202,48 @@
       "slug": "about",
       "status": "published",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "70762cb76d20afbe7226368e40962784367a7e27",
+        "hash": "4082114820",
+        "path": "outstatic/content/projects/providence.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Experimental Film",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "projects",
+      "coverImage": "/images/providence-3-kwNT.webp",
+      "description": "Experimental Short",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        }
+      ],
+      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "providence",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Providence",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48095297",
+      "websiteLinkText": "Watch on Vimeo",
+      "websiteUrl": "https://vimeo.com/48095297"
     }
   ]
 }
