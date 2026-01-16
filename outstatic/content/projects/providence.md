@@ -14,7 +14,7 @@ gitHubUrl: ''
 videoUrl: ''
 projectTags: [{"value":"shortFilm","label":"Short Film"}]
 coverImage: '/images/providence-3-kwNT.webp'
-description: ''
+description: 'Experimental Short, Part 2 of PLACE Serie'
 slug: 'providence'
 author:
   name: 'Jeff T Byrd'
