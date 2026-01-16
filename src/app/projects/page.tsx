@@ -60,7 +60,7 @@ export default async function Projects() {
               <h2>Featured Work</h2>
               <span>
                 Composer for narrative audio storytelling — podcasts,
-                documentaries, and interactive media.
+                documentaries, and interactive media
               </span>
               {/* <span>Professional narrative audio & web development</span> */}
             </div>
