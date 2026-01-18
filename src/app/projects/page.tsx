@@ -78,7 +78,7 @@ export default async function Projects() {
             <ProjectsFiltered
               allProjects={allProjects}
               section="additional"
-              grid={5}
+              grid={4}
             />
           </section>
 
