@@ -42,6 +42,11 @@ export default async function Index() {
             image={`/images/featured/earthsong-featured.webp`}
             delayTime={0}
           />
+          <HomeFeaturedProject
+            url={`/projects/a-call-from-selma/`}
+            image={`/images/featured/selma-featured.webp`}
+            delayTime={0}
+          />
         </div>
 
         <div className="">
