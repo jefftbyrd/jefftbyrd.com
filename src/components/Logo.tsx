@@ -36,27 +36,9 @@ export default function Logo() {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={`${styles.subtitle} text-center  tracking-wide uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4] md:leading-8 lg:leading-9 xl:leading-11 2xl:leading-13`}
+        className={`${styles.subtitle} text-center uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
       >
-        <span
-          className={`font-medium text-shadow-[3px_3px_0px_rgb(255_84_253_/_1)]`}
-        >
-          Composer & Web Developer
-        </span>{' '}
-        {/* <span className={` text-lg align-middle`}>
-          <a href="/projects/white-lies/" className={`hover:text-white`}>
-            &rarr;{' '}
-            <span className={`underline underline-offset-3 decoration-1`}>
-              NPR's 'White Lies'
-            </span>
-          </a>
-        </span> */}
-        {/* <br />
-        <span
-          className={`font-medium text-shadow-[3px_3px_0px_rgb(255_84_253_/_1)]`}
-        >
-          Web Developer
-        </span> */}
+        Composer & Web Developer
       </motion.h2>
     </>
   );
