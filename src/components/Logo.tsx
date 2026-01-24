@@ -40,24 +40,15 @@ export default function Logo() {
       >
         Composer & Web Developer
       </motion.h2>
-      <div className="text-center workAreas">
-        <motion.div
-          className="left"
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          exit={{ opacity: 0, scale: 0 }}
-        >
-          Narrative Audio
-        </motion.div>
-        <motion.div
-          className="right"
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          exit={{ opacity: 0, scale: 0 }}
-        >
-          Interactive Media
-        </motion.div>
-      </div>
+      <motion.div
+        className="text-center workAreas"
+        initial={{ opacity: 0, scale: 0 }}
+        animate={{ opacity: 1, scale: 1 }}
+        exit={{ opacity: 0, scale: 0 }}
+      >
+        <div className="left">Narrative Audio</div>
+        <div className="right">Interactive Media</div>
+      </motion.div>
     </>
   );
 }
