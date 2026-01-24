@@ -154,3 +154,17 @@ strong {
     }
   }
 }
+
+.workAreas {
+  div {
+    @apply text-(--color-vivid) bg-black inline text-xl inline-block px-6 py-1 -mx-2 font-normal tracking-wide;
+  }
+  .left {
+    @apply pr-10;
+    clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
+  }
+  .right {
+    @apply pl-10;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%);
+  }
+}
