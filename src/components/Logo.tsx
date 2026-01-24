@@ -36,10 +36,28 @@ export default function Logo() {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={`${styles.subtitle} text-center uppercase z-10 mb-2 md:mb-0 text-xl sm:text-[calc(16px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
+        className={` text-center uppercase font-normal z-10 mb-2 md:mb-0 text-xl sm:text-[calc(22px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
       >
         Composer & Web Developer
       </motion.h2>
+      <div className="text-center workAreas">
+        <motion.div
+          className="left"
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0 }}
+        >
+          Narrative Audio
+        </motion.div>
+        <motion.div
+          className="right"
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0 }}
+        >
+          Interactive Media
+        </motion.div>
+      </div>
     </>
   );
 }
