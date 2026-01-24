@@ -156,8 +156,9 @@ strong {
 }
 
 .workAreas {
+  @apply absolute place-self-center mt-8 hidden sm:block;
   div {
-    @apply text-(--color-vivid) bg-black inline text-xl inline-block px-6 py-1 -mx-2 font-normal tracking-wide;
+    @apply text-(--color-vivid) bg-black inline text-xl px-6 py-1 -mx-2 font-normal tracking-wide;
   }
   .left {
     @apply pr-10;
