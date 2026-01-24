@@ -36,7 +36,7 @@ export default function Logo() {
       <motion.h2
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        className={` text-center uppercase font-normal z-10 mb-2 md:mb-0 text-xl sm:text-[calc(22px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4]`}
+        className={` text-center uppercase font-light z-10 mb-2 md:mb-0 text-xl sm:text-[calc(22px+(38-16)*((100vw-300px)/(1600-300)))] w-4/5 md:w-auto mx-auto drop-shadow-[0px_0px_0.3rem_#ca2bc4] -mt-2`}
       >
         Composer & Web Developer
       </motion.h2>
