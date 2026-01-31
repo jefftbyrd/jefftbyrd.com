@@ -40,7 +40,7 @@ export default function Logo() {
       >
         Composer & Web Developer
       </motion.h2>
-      <motion.div
+      {/* <motion.div
         className="text-center workAreas"
         initial={{ opacity: 0, scale: 0 }}
         animate={{ opacity: 1, scale: 1 }}
@@ -48,7 +48,7 @@ export default function Logo() {
       >
         <div className="left">Narrative Audio</div>
         <div className="right">Interactive Media</div>
-      </motion.div>
+      </motion.div> */}
     </>
   );
 }
