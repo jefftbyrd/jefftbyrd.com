@@ -75,7 +75,7 @@ export default async function About() {
         <article className="pb-6 lg:pb-6">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0 lg:absolute">
             <div className="flex flex-col gap-4">
-              <div className="relative mb-2 lg:mb-4 lg:mx-0 aspect-square bg-violet-400 ">
+              <div className="relative mb-2 lg:mb-4 lg:mx-0 aspect-square w-2/3 lg:w-full bg-violet-400 ">
                 <Image
                   alt="Jeff T Byrd"
                   src="/images/jefftbyrd-4.webp"
