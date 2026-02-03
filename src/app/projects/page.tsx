@@ -59,7 +59,7 @@ export default async function Projects() {
             <div className="projectSection">
               <h2>Featured Work</h2>
               <span>
-                Narrative audio storytelling — podcasts, documentaries, and
+                Narrative audio storytelling — podcasts, documentaries and
                 interactive media
               </span>
             </div>
@@ -73,7 +73,7 @@ export default async function Projects() {
           <section>
             <div className="projectSection">
               <h2>Narrative Audio</h2>
-              <span>Additional documentary, film, and series work</span>
+              <span>Additional documentary, film and series work</span>
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
@@ -96,7 +96,7 @@ export default async function Projects() {
           <section>
             <div className="projectSection">
               <h2>Music & Performance</h2>
-              <span>Solo albums and experimental work with Budokan Boys</span>
+              <span>Solo albums and work with Budokan Boys</span>
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
