@@ -20,8 +20,8 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="grid grid-cols-2 gap-2 lg:grid-cols-7 lg:gap-4 px-4 lg:px-24 align-items-end fixed lg:static bottom-0">
-        <div className="flex flex-col gap-2 lg:gap-4 lg:mb-18 lg:col-span-4 justify-center">
+      <div className="grid grid-cols-2 gap-2 lg:grid-cols-7 lg:gap-4 px-4 lg:px-24">
+        <div className="flex flex-col gap-2 lg:gap-4 lg:mb-18 lg:col-span-4 justify-center mt-[5vh] lg:mt-0">
           <motion.div
             initial={{ y: -1000 }}
             animate={{ y: 0 }}
@@ -50,7 +50,7 @@ export default async function Index() {
         </div>
 
         <div className="">
-          <div className="grid grid-cols-3 gap-2 lg:gap-4 bottom-0 lg:w-1/3 lg:col-span-3 w-full lg:fixed">
+          <div className="grid grid-cols-3 gap-2 lg:gap-4 lg:w-1/3 lg:col-span-3 fixed lg:fixed bottom-0 w-[47vw]">
             <HomeMenuItem title={`Projects`} delayTime={0} />
             <HomeMenuItem title={`About`} delayTime={0.2} />
             <HomeMenuItem title={`Contact`} delayTime={0.4} />
