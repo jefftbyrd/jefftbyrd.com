@@ -140,7 +140,7 @@ strong {
     @apply text-4xl xl:text-5xl text-white lg:text-black font-semibold tracking-wide mb-1 2xl:inline-block block xl:border-b-0 border-black lg:text-shadow-[3px_3px_0px_rgb(255_84_253_/_1)];
   }
   span {
-    @apply 2xl:ml-3 p-2 align-super font-normal text-base xl:text-lg block xl:inline text-white bg-black/30 border-0 border-white/50;
+    @apply 2xl:ml-3 py-2 px-3 align-super font-normal text-base xl:text-lg inline-block xl:inline text-white bg-black/30 border-0 border-white/50;
   }
   section {
     @apply mb-20;
