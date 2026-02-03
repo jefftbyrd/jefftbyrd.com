@@ -57,7 +57,7 @@ const ProjectGrid = ({
                     <div className={styles.gridItem}>
                       <div className="relative w-full aspect-square">
                         {item.badge && (
-                          <p className="border-1 border-white/50 bg-foreground absolute z-100 m-2  text-white uppercase font-medium py-2 px-3 tracking-widest shadow-md  text-sm">
+                          <p className="border-1 border-white/50 bg-foreground absolute z-100 m-2  text-white uppercase font-medium py-2 px-3 tracking-widest shadow-md  text-xs">
                             {item.badge}
                           </p>
                         )}
