@@ -2,7 +2,6 @@ import { AnimatePresence, motion } from 'motion/react';
 import Image from 'next/image';
 import Link from 'next/link';
 import type { OstDocument } from 'outstatic';
-import styles from '../styles/projects.module.css';
 
 type Item = {
   tags?: { value: string; label: string }[];
@@ -40,7 +39,7 @@ const ProjectGrid = ({
     <div className="relative">
       <section id={collection}>
         <div
-          className={`grid ${gridClass} mx-4 lg:mx-0 sm:gap-x-6 lg:gap-x-12 gap-y-4 sm:gap-y-6 lg:gap-y-10`}
+          className={`grid ${gridClass} mx-5 lg:mx-0 sm:gap-x-6 lg:gap-x-12 gap-y-5 sm:gap-y-6 lg:gap-y-10`}
         >
           {items.map((item, id) => (
             <AnimatePresence mode="popLayout">
@@ -52,9 +51,9 @@ const ProjectGrid = ({
               >
                 <Link href={`/${collection}/${item.slug}`}>
                   <div
-                    className={`${styles.projectLink} cursor-pointer bg-lighterPink project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden border-2 sm:border-0 border-lightPink shadow-[2px_2px_0px_rgb(0_0_0_/_0.3)] sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
+                    className={`cursor-pointer bg-lighterPink project-card md:w-full scale-100 hover:scale-[1.02] active:scale-[0.97] origin-top-left motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden border-2 sm:border-0 border-lightPink shadow-[2px_2px_0px_rgb(0_0_0_/_0.3)] sm:shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] sm:hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]`}
                   >
-                    <div className={styles.gridItem}>
+                    <div>
                       <div className="relative w-full aspect-square">
                         {item.badge && (
                           <p className="border-1 border-white/50 bg-foreground absolute z-100 m-2  text-white uppercase font-medium py-2 px-3 tracking-widest shadow-md  text-xs">
@@ -64,7 +63,7 @@ const ProjectGrid = ({
                         <Image
                           src={item.coverImage ?? ''}
                           alt={`Cover Image for ${item.title}`}
-                          className={`${styles.projectImage} object-cover object-center`}
+                          className={`object-cover object-center`}
                           fill
                           sizes="(min-width: 3840px) 100vw, (min-width: 2560px) 850px, (min-width: 1920px) 800px, (min-width: 1280px) 430px, (min-width: 768px) 350px, 100vw"
                           priority={priority && id <= 2}
@@ -74,12 +73,12 @@ const ProjectGrid = ({
                       {collection === 'projects' && (
                         <div className="px-4 pt-3 pb-3">
                           <h3
-                            className={`${styles.projectTitle} bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl leading-9`}
+                            className={`bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl leading-9`}
                           >
                             {item.title}
                           </h3>
                           <p
-                            className={`${styles.projectDescription} bg-opacity-0 text-left whitespace-normal font-normal tracking-wide text-sm`}
+                            className={`bg-opacity-0 text-left whitespace-normal font-normal tracking-wide text-sm`}
                           >
                             {item.description}
                           </p>
