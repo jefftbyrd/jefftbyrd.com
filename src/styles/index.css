@@ -4,14 +4,11 @@
 
 @theme {
   --color-foreground: oklch(45.79% 0.271 271.41);
-  /* --color-background: oklch(55.57% 0.2241 329.7); */
   --color-background: oklch(60.05% 0.2465 329.7);
-  /* --color-vivid: #ff2aed; */
   --color-vivid: oklch(75.29% 0.3085 330.89);
   --color-vivid2: oklch(73.23% 0.3046 331.14);
   --color-lightPink: oklch(0.77 0.212 329);
-  /* --font-karrik: var(--font-karrik); */
-  /* --karrik: var(--font-karrik); */
+  --color-lighterPink: oklch(0.872 0.101 330);
   --font-family-karrik: var(--font-karrik);
 }
 
@@ -30,13 +27,6 @@
   ::backdrop,
   ::file-selector-button {
     border-color: var(--color-gray-200, currentColor);
-  }
-  /* h2 {
-    @apply text-3xl font-bold uppercase tracking-wider mb-1;
-  } */
-
-  h1 {
-    /* @apply text-4xl font-bold mb-2; */
   }
 
   h3 {
@@ -65,18 +55,12 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar-thumb {
   @apply bg-(--color-foreground);
-  /* background-color: darkgrey; */
-  /* @apply outline: 42px solid ; */
 }
 
 html {
   font-family: var(--font-space);
   font-weight: 300;
   background-color: var(--color-background);
-  /* font-size: 20px; */
-  /* overflow: scroll; */
-  /* scrollbar-color: #fff #000; */
-  /* scrollbar-width: auto; */
 }
 
 .contentArea {
@@ -106,7 +90,6 @@ strong {
 }
 
 .projectContent {
-  /* @apply grid gap-12; */
   p {
     @apply mb-6;
   }
