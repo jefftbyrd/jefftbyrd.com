@@ -15,3 +15,7 @@ publishedAt: '2025-02-15T16:06:29.884Z'
 He composed the soundtrack for both seasons of [**NPR's *White Lies***](https://www.npr.org/podcasts/510343/white-lies) and is currently scoring Season 3. He also builds accessible web experiences and audio-visual applications like [**EARTHSONG**](https://earthsong.world/).\
 \
 He performs experimental music with the avant-garde pop duo [**Budokan Boys**](https://budokanboys.club/).
+
+## Selected Music Credits
+
+- 2019 & 2023 / **National Public Radio: White Lies Season 1 and 2**, Podcast Series Soundtrack **🔗**

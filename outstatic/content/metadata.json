@@ -1,6 +1,6 @@
 {
-  "commit": "6d067fbab424f46de24ddcb1719ff9da4c86fbb9",
-  "generated": "2026-01-16T11:05:46.774Z",
+  "commit": "21ee4b6ead260d3c14c37d7ce05041f7c5e26974",
+  "generated": "2026-03-02T11:17:00.989Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1057,24 +1057,6 @@
     },
     {
       "__outstatic": {
-        "commit": "1eb433e1a04a2b5e221447e1869469390416822b",
-        "hash": "2747093920",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
         "commit": "70762cb76d20afbe7226368e40962784367a7e27",
         "hash": "4082114820",
         "path": "outstatic/content/projects/providence.md"
@@ -1244,6 +1226,24 @@
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "21ee4b6ead260d3c14c37d7ce05041f7c5e26974",
+        "hash": "722993741",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
