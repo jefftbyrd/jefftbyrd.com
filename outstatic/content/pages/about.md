@@ -12,10 +12,17 @@ publishedAt: '2025-02-15T16:06:29.884Z'
 
 **JEFF T BYRD** is a composer and web developer based in Athens, Greece.\
 \
-He composed the soundtrack for both seasons of [**NPR's *White Lies***](https://www.npr.org/podcasts/510343/white-lies) and is currently scoring Season 3. He also builds accessible web experiences and audio-visual applications like [**EARTHSONG**](https://earthsong.world/).\
+He composed the soundtrack for both seasons of [**NPR's _White Lies_**](https://www.npr.org/podcasts/510343/white-lies) and is currently scoring Season 3. He also builds accessible web experiences and audio-visual applications like [**EARTHSONG**](https://earthsong.world/).\
 \
 He performs experimental music with the avant-garde pop duo [**Budokan Boys**](https://budokanboys.club/).
 
+---
+
 ## Selected Music Credits
 
-- 2019 & 2023 / **National Public Radio: White Lies Season 1 and 2**, Podcast Series Soundtrack **🔗**
+- 2019, 2023 & 2026 | **National Public Radio: White Lies Seasons 1, 2 & 3** | Podcast Series Soundtrack
+- 2018 | **Rockefeller Foundation: Health For All** | Music & Sound Design
+- 2015 | **The New York Times: A Call From Selma** | OpDoc Soundtrack
+- 2015 | **Independent Lens & The Washington Post: After The Storm** | Interactive Documentary Soundtrack
+- 2015 | **Edinburgh International Film Festival** | Festival Intro
+- 2013 | **Alabama Public Television: The Durrs of Montgomery** | Documentary Soundtrack
