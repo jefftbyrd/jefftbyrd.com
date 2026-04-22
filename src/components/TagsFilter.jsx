@@ -47,11 +47,7 @@ const TagsFilter = ({ allProjects }) => {
         </form>
       </section>
       {allProjects.length > 0 && (
-        <ProjectGrid
-          title="Projects"
-          items={filteredProjects}
-          collection="projects"
-        />
+        <ProjectGrid title="Work" items={filteredProjects} collection="work" />
       )}
     </div>
   );
