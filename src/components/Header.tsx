@@ -54,12 +54,12 @@ const Header = () => {
   return (
     <header className="sticky z-100 top-0 bg-(--color-background) border-b-1 border-solid border-(--color-background)">
       <nav>
-        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-24 py-0 border-b-1 border-solid border-(--color-foreground) ">
+        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-12 py-0 border-b-1 border-solid border-(--color-foreground) ">
           <motion.div
             style={{
               scale: logoScale2,
-              paddingTop: logoScale * 15,
-              paddingBottom: logoScale * 15,
+              paddingTop: logoScale * 10,
+              paddingBottom: logoScale * 10,
             }}
             className="grid lg:items-end px-4 py-2 lg:py-0"
           >
@@ -73,8 +73,8 @@ const Header = () => {
           </motion.div>
           <motion.div
             style={{
-              paddingTop: logoScale * 25,
-              paddingBottom: logoScale * 25,
+              paddingTop: logoScale * 10,
+              paddingBottom: logoScale * 10,
             }}
             className="lg:px-4 lg:py-5 bg-(--color-foreground) py-[logoScale*25]"
           >
