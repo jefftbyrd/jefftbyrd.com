@@ -18,9 +18,9 @@ const ProjectsFiltered = ({ allProjects, section = 'featured', grid = 3 }) => {
     <div className="relative">
       {filteredProjects.length > 0 && (
         <ProjectGrid
-          title="Projects"
+          title="Work"
           items={filteredProjects}
-          collection="projects"
+          collection="work"
           gridCols={grid}
         />
       )}
