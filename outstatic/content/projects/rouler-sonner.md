@@ -1,5 +1,5 @@
 ---
-section: [{"value":"additional","label":"additional"}]
+section: []
 badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
