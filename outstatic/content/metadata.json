@@ -1,25 +1,7 @@
 {
-  "commit": "fb5252e48370631a8f41f544ecda89433f7ab1e8",
-  "generated": "2026-04-22T06:02:28.867Z",
+  "commit": "5cd8045adafc74763d7c1951864d7a006d5d9bec",
+  "generated": "2026-04-22T06:53:58.506Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
-        "hash": "981293699",
-        "path": "outstatic/content/pages/projects.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-02-16T08:21:11.306Z",
-      "slug": "projects",
-      "status": "published",
-      "title": "Projects"
-    },
     {
       "__outstatic": {
         "commit": "7017dc3a05f93741d7e76620c7e97561e92b1756",
@@ -1236,6 +1218,24 @@
       "vimeoUrl": "",
       "websiteLinkText": "Explore Health For All",
       "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "5cd8045adafc74763d7c1951864d7a006d5d9bec",
+        "hash": "3458323554",
+        "path": "outstatic/content/pages/work.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-16T08:21:11.306Z",
+      "slug": "work",
+      "status": "published",
+      "title": "Work"
     }
   ]
 }
