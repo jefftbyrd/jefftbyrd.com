@@ -2,7 +2,7 @@
 title: 'Home'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Jeff T Byrd'
   picture: ''
 slug: 'home'
 description: 'Jeff T Byrd -- Web Developer, Composer & Sound Designer'
