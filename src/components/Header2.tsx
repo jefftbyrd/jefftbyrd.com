@@ -103,9 +103,7 @@ const Header2 = ({ heroRef }: Props2) => {
             <nav className="layout flex items-center justify-center py-0">
               <ul className="flex items-center justify-between space-x-2 lg:space-x-0 xl:space-x-2 2xl:space-x-4 md:text-base font-light xl:font-extralight uppercase text-white ">
                 <MenuItem>
-                  <Link href="/projects">
-                    Projec<span className={styles.t}>t</span>s
-                  </Link>
+                  <Link href="/work">Work</Link>
                 </MenuItem>
                 <MenuItem>
                   <Link href="/about">
