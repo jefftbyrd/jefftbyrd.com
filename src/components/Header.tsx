@@ -54,7 +54,7 @@ const Header = () => {
   return (
     <header className="sticky z-100 top-0 bg-(--color-background) border-b-1 border-solid border-(--color-background)">
       <nav>
-        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-12 py-0 border-b-1 border-solid border-(--color-foreground) ">
+        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-12 py-0 border-b-1 border-solid border-foreground ">
           <motion.div
             style={{
               scale: logoScale2,
@@ -76,14 +76,12 @@ const Header = () => {
               paddingTop: logoScale * 10,
               paddingBottom: logoScale * 10,
             }}
-            className="lg:px-4 lg:py-5 bg-(--color-foreground) py-[logoScale*25]"
+            className="lg:px-4 lg:py-5 bg-foreground py-[logoScale*25]"
           >
             <nav className="layout flex items-center justify-center py-0">
               <ul className="flex items-center justify-between space-x-2 lg:space-x-0 xl:space-x-2 2xl:space-x-4 md:text-base font-light xl:font-extralight uppercase text-white ">
                 <MenuItem>
-                  <Link href="/projects">
-                    Projec<span className={styles.t}>t</span>s
-                  </Link>
+                  <Link href="/work">Work</Link>
                 </MenuItem>
                 <MenuItem>
                   <Link href="/about">
