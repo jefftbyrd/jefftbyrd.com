@@ -1,4 +1,3 @@
-import DateFormatter from '@/components/DateFormatter';
 import Header from '@/components/Header';
 import Layout from '@/components/Layout';
 import PageTitle from '@/components/PageTitle';
@@ -230,6 +229,6 @@ async function getData({ params }: Params) {
 }
 
 export async function generateStaticParams() {
-  const posts = getDocumentSlugs('projects');
+  const posts = getDocumentSlugs('work');
   return posts.map((slug) => ({ slug }));
 }
