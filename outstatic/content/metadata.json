@@ -1,11 +1,57 @@
 {
-  "commit": "5cd8045adafc74763d7c1951864d7a006d5d9bec",
-  "generated": "2026-04-22T06:53:58.506Z",
+  "commit": "2c92bb4aca0ce25e6f0eae00269d657b61208e19",
+  "generated": "Wed, 22 Apr 2026 07:37:42 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
-        "hash": "981293699",
+        "commit": "e10a9274c3d667ef1932883db7e4adf9e4a4b628",
+        "hash": "3748951833",
+        "path": "outstatic/content/work/a-call-from-selma.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "New York Times",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/a-call-from-selma-E5OT.webp",
+      "description": "Original Soundtrack for New York Times Op-Doc",
+      "gitHubUrl": "",
+      "projectOrder": "31",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:33:27.323Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "a-call-from-selma",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "A Call From Selma",
+      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit at the New York Times",
+      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
+    },
+    {
+      "__outstatic": {
+        "commit": "05a1ef9ac33268f4bbb02bf9792773650a3ee1b0",
+        "hash": "630341037",
         "path": "outstatic/content/pages/work.md"
       },
       "author": {
@@ -22,8 +68,8 @@
     },
     {
       "__outstatic": {
-        "commit": "7017dc3a05f93741d7e76620c7e97561e92b1756",
-        "hash": "459757634",
+        "commit": "c61b80bdd630dde4e8f1b9084f7a33a39877d1ec",
+        "hash": "3756335453",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
@@ -55,6 +101,70 @@
       "slug": "contact",
       "status": "published",
       "title": "Contact"
+    },
+    {
+      "__outstatic": {
+        "commit": "86472167fb8232ef3501b7235e72bd41eee4e36d",
+        "hash": "1947089509",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "/images/jefftbyrd-Y4NT.webp",
+      "description": "",
+      "publishedAt": "2025-02-15T16:06:29.884Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "7bf60d117aa8045d0895a1cf148f091c5962dc72",
+        "hash": "2275374106",
+        "path": "outstatic/content/work/durrs-of-montgomery.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Alabama Public Television",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/durrs-kxMT.webp",
+      "description": "Original Soundtrack for Emmy Award-winning Documentary",
+      "gitHubUrl": "",
+      "projectOrder": "20",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:00.739Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "durrs-of-montgomery",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "The Durrs of Montgomery",
+      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
+      "vimeoUrl": "",
+      "websiteLinkText": "More about the Durrs",
+      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
     },
     {
       "__outstatic": {
@@ -242,6 +352,94 @@
     },
     {
       "__outstatic": {
+        "commit": "d75ebe6656b3ff854b424001a2668c3d4aaba3ef",
+        "hash": "1949602749",
+        "path": "outstatic/content/work/health-for-all.md"
+      },
+      "additionalImages": "hfa-2.webp,  hfa-3.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Interactive Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "health-for-all.webp",
+      "bigVideo": "",
+      "collection": "work",
+      "coverImage": "/images/hfa-2-IxMj.webp",
+      "description": "Interactive documentary",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:47.059Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "health-for-all",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Health For All ",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "Explore Health For All",
+      "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "19f6db9419630b94470788669772d4d60b916729",
+        "hash": "1679078424",
+        "path": "outstatic/content/work/goodwater-alabama-1982.md"
+      },
+      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "goodwater-alabama-1982.webp",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/goodwater-hic-Y2OT.webp",
+      "description": "Music video from the album \"Nighty Night\"",
+      "gitHubUrl": "",
+      "projectOrder": "27",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:36:05.889Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "goodwater-alabama-1982",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Goodwater, Alabama 1982",
+      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
+      "vimeoUrl": "",
+      "websiteLinkText": "Album on Bandcamp",
+      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
         "commit": "2001df3c0d5c157bcf036f841e70944013a022a1",
         "hash": "2920205797",
         "path": "outstatic/content/work/god-today.md"
@@ -326,6 +524,107 @@
     },
     {
       "__outstatic": {
+        "commit": "ecee0ca506434a3bc130e6765d09610fbad0ba2f",
+        "hash": "2325865980",
+        "path": "outstatic/content/work/earthsong.md"
+      },
+      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Audiovisual Experience",
+      "bandcampEmbedUrl": "",
+      "bigImage": "earthsong-big.webp",
+      "bigVideo": "",
+      "collection": "work",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "10",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "section": [
+        {
+          "label": "code",
+          "value": "code"
+        },
+        {
+          "label": "experimental",
+          "value": "experimental"
+        }
+      ],
+      "slug": "earthsong",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
+    },
+    {
+      "__outstatic": {
+        "commit": "ca5cb7a9b7bb51c1bd5bbaa69a6c0bf7db2a80ea",
+        "hash": "1927042162",
+        "path": "outstatic/content/work/no-show.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/no-show-AzMz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:24:03.212Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "no-show",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "No Show",
+      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
+    },
+    {
+      "__outstatic": {
         "commit": "ad5df5d8c6fc2638375003247f9a6bb4ad810a1e",
         "hash": "1579006969",
         "path": "outstatic/content/work/nighty-night.md"
@@ -369,6 +668,48 @@
       "vimeoUrl": "",
       "websiteLinkText": "Released by Fort Evil Fruit",
       "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
+    },
+    {
+      "__outstatic": {
+        "commit": "167ab32bea5a53a45303effa38421afe566c6592",
+        "hash": "3997152079",
+        "path": "outstatic/content/work/men-hate-him.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/men-hate-him-M3Mz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:39:33.203Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "men-hate-him",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "MEN HATE HIM [Karaoke Version]",
+      "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
     },
     {
       "__outstatic": {
@@ -461,6 +802,48 @@
     },
     {
       "__outstatic": {
+        "commit": "61ea4c9febab6da2abaaf84c27afcc6ef9c2c990",
+        "hash": "803093212",
+        "path": "outstatic/content/work/spark.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/spark-I3MD.webp",
+      "description": "",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:30.697Z",
+      "section": [
+        {
+          "label": "hidden",
+          "value": "hidden"
+        }
+      ],
+      "slug": "spark",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Spark",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "a942e2bf21fb1a7b26201a98b4927cd3cd428d19",
         "hash": "233620741",
         "path": "outstatic/content/work/so-broken-up-about-you-dying.md"
@@ -504,6 +887,179 @@
       "vimeoUrl": "",
       "websiteLinkText": "Reviewed by THE QUIETUS",
       "websiteUrl": "https://thequietus.com/quietus-reviews/budokan-boys-so-broken-up-about-you-dying-review/"
+    },
+    {
+      "__outstatic": {
+        "commit": "daaae9b5e5ecb401663f5b7b9d5e0f1163a301a2",
+        "hash": "1448487139",
+        "path": "outstatic/content/work/rouler-sonner.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/rouler-sonner-IwNj.webp",
+      "description": "Short narrative film",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:48:12.284Z",
+      "section": [
+      ],
+      "slug": "rouler-sonner",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Rouler, Sonner",
+      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "5d761dbb47cd6df4263aeaba58584226625ae11f",
+        "hash": "4082114820",
+        "path": "outstatic/content/work/providence.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Experimental Film",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/providence-3-kwNT.webp",
+      "description": "Experimental Short",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Short Film",
+          "value": "shortFilm"
+        }
+      ],
+      "publishedAt": "2025-09-03T07:06:33.318Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "providence",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Providence",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/48095297",
+      "websiteLinkText": "Watch on Vimeo",
+      "websiteUrl": "https://vimeo.com/48095297"
+    },
+    {
+      "__outstatic": {
+        "commit": "ae4c8a963644b3a1b3f06cca4126bfceeb2663b2",
+        "hash": "3407752466",
+        "path": "outstatic/content/work/old-man-jones.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Music Video",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/old-man-jones-k3Nz.webp",
+      "description": "Budokan Boys Music Video",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Music Video",
+          "value": "musicVideo"
+        }
+      ],
+      "publishedAt": "2025-09-02T08:49:25.845Z",
+      "section": [
+        {
+          "label": "weird",
+          "value": "weird"
+        }
+      ],
+      "slug": "old-man-jones",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Old Man Jones",
+      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
+      "vimeoUrl": "",
+      "websiteLinkText": "Watch on YouTube",
+      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
+    },
+    {
+      "__outstatic": {
+        "commit": "992d3195df576865e78071f17a4d96c9aee38ba0",
+        "hash": "2936935640",
+        "path": "outstatic/content/work/white-lies.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "NPR",
+      "bandcampEmbedUrl": "",
+      "bigImage": "wl-3-counternarrative.jpg",
+      "bigVideo": "",
+      "collection": "work",
+      "coverImage": "/images/white-lies-square-QyMD.jpg",
+      "description": "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast that reached #1 on Apple Podcasts",
+      "gitHubUrl": "",
+      "projectOrder": "32",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:47:20.921Z",
+      "section": [
+        {
+          "label": "featured",
+          "value": "featured"
+        }
+      ],
+      "slug": "white-lies",
+      "spotifyEmbed": "",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
+      "status": "published",
+      "title": "White Lies",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "White Lies at NPR",
+      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
     },
     {
       "__outstatic": {
@@ -553,6 +1109,48 @@
     },
     {
       "__outstatic": {
+        "commit": "5b22e454eb619a8ccb3f12af98d11a288f998b33",
+        "hash": "992476121",
+        "path": "outstatic/content/work/vanishing-pearls.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Documentary",
+      "bandcampEmbedUrl": "",
+      "bigImage": "vanishing-pearls-wide.webp",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
+      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        },
+        {
+          "label": "Audio Post",
+          "value": "audioPost"
+        }
+      ],
+      "publishedAt": "2025-02-15T12:31:27.313Z",
+      "section": [
+      ],
+      "slug": "vanishing-pearls",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Vanishing Pearls",
+      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
+      "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
         "commit": "43c689362e987140c1fc0831f0230c3b0c01b7dc",
         "hash": "2310969711",
         "path": "outstatic/content/work/the-ooze.md"
@@ -595,398 +1193,7 @@
     },
     {
       "__outstatic": {
-        "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
-        "hash": "2936935640",
-        "path": "outstatic/content/work/white-lies.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "NPR",
-      "bandcampEmbedUrl": "",
-      "bigImage": "wl-3-counternarrative.jpg",
-      "bigVideo": "",
-      "collection": "work",
-      "coverImage": "/images/white-lies-square-QyMD.jpg",
-      "description": "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast that reached #1 on Apple Podcasts",
-      "gitHubUrl": "",
-      "projectOrder": "32",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:20.921Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "white-lies",
-      "spotifyEmbed": "",
-      "spotifyEmbedUrl": "https://open.spotify.com/embed/show/12yZ2j8vxqhc0QZyRES3ft?utm_source=generator&theme=0",
-      "status": "published",
-      "title": "White Lies",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "White Lies at NPR",
-      "websiteUrl": "https://www.npr.org/podcasts/510343/white-lies"
-    },
-    {
-      "__outstatic": {
-        "commit": "a48d68a3c1a3288d2abd5ca5c7ecb183e905476e",
-        "hash": "3748951833",
-        "path": "outstatic/content/work/a-call-from-selma.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "New York Times",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/a-call-from-selma-E5OT.webp",
-      "description": "Original Soundtrack for New York Times Op-Doc",
-      "gitHubUrl": "",
-      "projectOrder": "31",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:33:27.323Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "a-call-from-selma",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "A Call From Selma",
-      "videoUrl": "https://www.youtube.com/embed/klNPO8X-q3Q?si=zBrGSERIh0TdqAsr",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit at the New York Times",
-      "websiteUrl": "https://www.nytimes.com/2015/03/06/opinion/a-call-from-selma.html"
-    },
-    {
-      "__outstatic": {
-        "commit": "60e56b9d12fcc37c0fdf9ae0033941b7d607f873",
-        "hash": "803093212",
-        "path": "outstatic/content/work/spark.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/spark-I3MD.webp",
-      "description": "",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:30.697Z",
-      "section": [
-        {
-          "label": "hidden",
-          "value": "hidden"
-        }
-      ],
-      "slug": "spark",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Spark",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/151069030?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "246e75e3f0938dbc93ac0522680b442b453ccf42",
-        "hash": "1927042162",
-        "path": "outstatic/content/work/no-show.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Music Video",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/no-show-AzMz.webp",
-      "description": "Budokan Boys Music Video",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:24:03.212Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "no-show",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "No Show",
-      "videoUrl": "https://www.youtube.com/embed/jX0l40vsOhM?si=OE3eF28q2UL7cZPt",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/jX0l40vsOhM?si=QtPKKZmOyLzDNCqF"
-    },
-    {
-      "__outstatic": {
-        "commit": "eb9721dbeeb40c8b373b0b97b173d9ae5b1350bb",
-        "hash": "2275374106",
-        "path": "outstatic/content/work/durrs-of-montgomery.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Alabama Public Television",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/durrs-kxMT.webp",
-      "description": "Original Soundtrack for Emmy Award-winning Documentary",
-      "gitHubUrl": "",
-      "projectOrder": "20",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:47:00.739Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        }
-      ],
-      "slug": "durrs-of-montgomery",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "The Durrs of Montgomery",
-      "videoUrl": "https://www.youtube.com/embed/C2pBGCtnNGA?si=u8-ApqPbvq0PTXSN",
-      "vimeoUrl": "",
-      "websiteLinkText": "More about the Durrs",
-      "websiteUrl": "https://www.durrlectures.org/the-durrs-of-montgomery"
-    },
-    {
-      "__outstatic": {
-        "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
-        "hash": "1679078424",
-        "path": "outstatic/content/work/goodwater-alabama-1982.md"
-      },
-      "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Music Video",
-      "bandcampEmbedUrl": "",
-      "bigImage": "goodwater-alabama-1982.webp",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/goodwater-hic-Y2OT.webp",
-      "description": "Music video from the album \"Nighty Night\"",
-      "gitHubUrl": "",
-      "projectOrder": "27",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:36:05.889Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "goodwater-alabama-1982",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Goodwater, Alabama 1982",
-      "videoUrl": "https://www.youtube.com/embed/hWW_Cf_vfzY?si=F7BZPsEsZTBipkzI",
-      "vimeoUrl": "",
-      "websiteLinkText": "Album on Bandcamp",
-      "websiteUrl": "https://fortevilfruit.bandcamp.com/album/nighty-night"
-    },
-    {
-      "__outstatic": {
-        "commit": "70762cb76d20afbe7226368e40962784367a7e27",
-        "hash": "4082114820",
-        "path": "outstatic/content/work/providence.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Experimental Film",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/providence-3-kwNT.webp",
-      "description": "Experimental Short",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Short Film",
-          "value": "shortFilm"
-        }
-      ],
-      "publishedAt": "2025-09-03T07:06:33.318Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "providence",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Providence",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/48095297",
-      "websiteLinkText": "Watch on Vimeo",
-      "websiteUrl": "https://vimeo.com/48095297"
-    },
-    {
-      "__outstatic": {
-        "commit": "be9d3c4ad8316845d73080b06835e76d9a531ef1",
-        "hash": "3997152079",
-        "path": "outstatic/content/work/men-hate-him.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Music Video",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/men-hate-him-M3Mz.webp",
-      "description": "Budokan Boys Music Video",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:39:33.203Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "men-hate-him",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "MEN HATE HIM [Karaoke Version]",
-      "videoUrl": "https://www.youtube.com/embed/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/Ypl9hvC1JQk?si=eCWTKuxM6mkSVM0l"
-    },
-    {
-      "__outstatic": {
-        "commit": "8568d5092ef29bbf66daa413dbbebdfa1cab62e0",
-        "hash": "3407752466",
-        "path": "outstatic/content/work/old-man-jones.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Music Video",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/old-man-jones-k3Nz.webp",
-      "description": "Budokan Boys Music Video",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Music Video",
-          "value": "musicVideo"
-        }
-      ],
-      "publishedAt": "2025-09-02T08:49:25.845Z",
-      "section": [
-        {
-          "label": "weird",
-          "value": "weird"
-        }
-      ],
-      "slug": "old-man-jones",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Old Man Jones",
-      "videoUrl": "https://www.youtube.com/embed/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn",
-      "vimeoUrl": "",
-      "websiteLinkText": "Watch on YouTube",
-      "websiteUrl": "https://youtu.be/ktJhTzO_wqA?si=i9HBrcPpQ_5_3INn"
-    },
-    {
-      "__outstatic": {
-        "commit": "6d067fbab424f46de24ddcb1719ff9da4c86fbb9",
+        "commit": "b32a057971fa60ba397d89a1b26a4a4fc5298888",
         "hash": "123451864",
         "path": "outstatic/content/work/texas.md"
       },
@@ -1029,229 +1236,6 @@
       "vimeoUrl": "https://player.vimeo.com/video/48090405?h=aa9cb8014e",
       "websiteLinkText": "",
       "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "21ee4b6ead260d3c14c37d7ce05041f7c5e26974",
-        "hash": "722993741",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "/images/jefftbyrd-Y4NT.webp",
-      "description": "",
-      "publishedAt": "2025-02-15T16:06:29.884Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "09c4b82d0eb69f21532765e7df31c4fbfc9a269b",
-        "hash": "2325865980",
-        "path": "outstatic/content/work/earthsong.md"
-      },
-      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Audiovisual Experience",
-      "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-big.webp",
-      "bigVideo": "",
-      "collection": "work",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "10",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "section": [
-        {
-          "label": "code",
-          "value": "code"
-        },
-        {
-          "label": "experimental",
-          "value": "experimental"
-        }
-      ],
-      "slug": "earthsong",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
-        "commit": "6d48cd2871eedfd780f6bf5d7ec4a1d43680f94d",
-        "hash": "1448487139",
-        "path": "outstatic/content/work/rouler-sonner.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/rouler-sonner-IwNj.webp",
-      "description": "Short narrative film",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:12.284Z",
-      "section": [],
-      "slug": "rouler-sonner",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Rouler, Sonner",
-      "videoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "vimeoUrl": "https://player.vimeo.com/video/137199392?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "8854113972adefabfc5addeef6d8ed62dd5acde9",
-        "hash": "992476121",
-        "path": "outstatic/content/work/vanishing-pearls.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Documentary",
-      "bandcampEmbedUrl": "",
-      "bigImage": "vanishing-pearls-wide.webp",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
-      "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        },
-        {
-          "label": "Audio Post",
-          "value": "audioPost"
-        }
-      ],
-      "publishedAt": "2025-02-15T12:31:27.313Z",
-      "section": [],
-      "slug": "vanishing-pearls",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Vanishing Pearls",
-      "videoUrl": "https://www.youtube.com/embed/MevcLnpeUE8?si=EclSfo80JkPi9Ho1",
-      "vimeoUrl": "",
-      "websiteLinkText": "",
-      "websiteUrl": ""
-    },
-    {
-      "__outstatic": {
-        "commit": "fb5252e48370631a8f41f544ecda89433f7ab1e8",
-        "hash": "1949602749",
-        "path": "outstatic/content/work/health-for-all.md"
-      },
-      "additionalImages": "hfa-2.webp,  hfa-3.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Interactive Documentary",
-      "bandcampEmbedUrl": "",
-      "bigImage": "health-for-all.webp",
-      "bigVideo": "",
-      "collection": "work",
-      "coverImage": "/images/hfa-2-IxMj.webp",
-      "description": "Interactive documentary",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:48:47.059Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "health-for-all",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Health For All ",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "Explore Health For All",
-      "websiteUrl": "https://healthforallstory.org/"
-    },
-    {
-      "__outstatic": {
-        "commit": "5cd8045adafc74763d7c1951864d7a006d5d9bec",
-        "hash": "3458323554",
-        "path": "outstatic/content/pages/work.md"
-      },
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-02-16T08:21:11.306Z",
-      "slug": "work",
-      "status": "published",
-      "title": "Work"
     }
   ]
 }
