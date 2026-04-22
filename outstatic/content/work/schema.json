@@ -1,5 +1,5 @@
 {
-  "title": "projects",
+  "title": "work",
   "type": "object",
   "properties": {
     "projectTags": {

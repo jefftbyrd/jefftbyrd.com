@@ -10,4 +10,4 @@ coverImage: ''
 publishedAt: '2025-02-16T08:21:11.306Z'
 ---
 
-This is the projects page
+This is the work page
