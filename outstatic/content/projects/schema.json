@@ -177,6 +177,10 @@
         {
           "value": "hidden",
           "label": "hidden"
+        },
+        {
+          "value": "experimental",
+          "label": "experimental"
         }
       ]
     }

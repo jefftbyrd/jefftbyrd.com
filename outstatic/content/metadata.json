@@ -1,6 +1,6 @@
 {
-  "commit": "21ee4b6ead260d3c14c37d7ce05041f7c5e26974",
-  "generated": "2026-03-02T11:17:00.989Z",
+  "commit": "09c4b82d0eb69f21532765e7df31c4fbfc9a269b",
+  "generated": "2026-04-22T06:00:21.943Z",
   "metadata": [
     {
       "__outstatic": {
@@ -733,65 +733,6 @@
     },
     {
       "__outstatic": {
-        "commit": "0c20106ee9b1c1d354353f8e69d68eb5782e03ae",
-        "hash": "3816368682",
-        "path": "outstatic/content/projects/earthsong.md"
-      },
-      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Audiovisual Experience",
-      "bandcampEmbedUrl": "",
-      "bigImage": "earthsong-big.webp",
-      "bigVideo": "",
-      "collection": "projects",
-      "coverImage": "/images/earthsong-2-c0NT.webp",
-      "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
-      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
-      "projectOrder": "10",
-      "projectTags": [
-        {
-          "label": "Code",
-          "value": "code"
-        },
-        {
-          "label": "Design",
-          "value": "design"
-        },
-        {
-          "label": "Sound",
-          "value": "sound"
-        },
-        {
-          "label": "Featured",
-          "value": "featured"
-        }
-      ],
-      "publishedAt": "2025-01-27T21:44:17.556Z",
-      "section": [
-        {
-          "label": "featured",
-          "value": "featured"
-        },
-        {
-          "label": "code",
-          "value": "code"
-        }
-      ],
-      "slug": "earthsong",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "thumbnailImage": "earthsong-thumb.webp",
-      "title": "Earthsong",
-      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
-      "vimeoUrl": "",
-      "websiteLinkText": "Visit earthsong.world",
-      "websiteUrl": "https://earthsong.world/"
-    },
-    {
-      "__outstatic": {
         "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
         "hash": "2936935640",
         "path": "outstatic/content/projects/white-lies.md"
@@ -1244,6 +1185,65 @@
       "slug": "about",
       "status": "published",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "09c4b82d0eb69f21532765e7df31c4fbfc9a269b",
+        "hash": "2325865980",
+        "path": "outstatic/content/projects/earthsong.md"
+      },
+      "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "Audiovisual Experience",
+      "bandcampEmbedUrl": "",
+      "bigImage": "earthsong-big.webp",
+      "bigVideo": "",
+      "collection": "projects",
+      "coverImage": "/images/earthsong-2-c0NT.webp",
+      "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
+      "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
+      "projectOrder": "10",
+      "projectTags": [
+        {
+          "label": "Code",
+          "value": "code"
+        },
+        {
+          "label": "Design",
+          "value": "design"
+        },
+        {
+          "label": "Sound",
+          "value": "sound"
+        },
+        {
+          "label": "Featured",
+          "value": "featured"
+        }
+      ],
+      "publishedAt": "2025-01-27T21:44:17.556Z",
+      "section": [
+        {
+          "label": "code",
+          "value": "code"
+        },
+        {
+          "label": "experimental",
+          "value": "experimental"
+        }
+      ],
+      "slug": "earthsong",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "thumbnailImage": "earthsong-thumb.webp",
+      "title": "Earthsong",
+      "videoUrl": "https://www.youtube.com/embed/8z_00In-8Ig?si=8d1Xh0T6rPLXMmk4",
+      "vimeoUrl": "",
+      "websiteLinkText": "Visit earthsong.world",
+      "websiteUrl": "https://earthsong.world/"
     }
   ]
 }

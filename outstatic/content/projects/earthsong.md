@@ -21,7 +21,7 @@ bigVideo: ''
 bandcampEmbedUrl: ''
 spotifyEmbedUrl: ''
 badge: 'Audiovisual Experience'
-section: [{"label":"featured","value":"featured"},{"label":"code","value":"code"}]
+section: [{"label":"code","value":"code"},{"label":"experimental","value":"experimental"}]
 publishedAt: '2025-01-27T21:44:17.556Z'
 ---
 
