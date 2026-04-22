@@ -1,5 +1,5 @@
 ---
-section: [{"label":"additional","value":"additional"}]
+section: []
 badge: 'Documentary'
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
