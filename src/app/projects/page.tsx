@@ -58,10 +58,10 @@ export default async function Projects() {
           <section className="mt-15">
             <div className="projectSection">
               <h2>Featured Work</h2>
-              <span>
+              {/* <span>
                 Narrative audio storytelling — podcasts, documentaries and
                 interactive media
-              </span>
+              </span> */}
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
@@ -73,7 +73,7 @@ export default async function Projects() {
           <section>
             <div className="projectSection">
               <h2>Narrative Audio</h2>
-              <span>Additional documentary, film and series work</span>
+              {/* <span>Additional documentary, film and series work</span> */}
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
@@ -84,16 +84,16 @@ export default async function Projects() {
 
           <section>
             <div className="projectSection">
-              <h2>Web Development</h2>
+              <h2>Interactive & Experimental</h2>
             </div>
             <ProjectsFiltered
               allProjects={allProjects}
-              section="code"
+              section="experimental"
               grid={3}
             />
           </section>
 
-          <section>
+          {/* <section>
             <div className="projectSection">
               <h2>Music & Performance</h2>
               <span>Solo albums and work with Budokan Boys</span>
@@ -103,9 +103,9 @@ export default async function Projects() {
               section="personal"
               grid={4}
             />
-          </section>
+          </section> */}
 
-          <section>
+          {/* <section>
             <div className="projectSection">
               <h2>Short Films & Music Videos</h2>
             </div>
@@ -114,7 +114,7 @@ export default async function Projects() {
               section="weird"
               grid={4}
             />
-          </section>
+          </section> */}
         </div>
       </div>
     </Layout>
