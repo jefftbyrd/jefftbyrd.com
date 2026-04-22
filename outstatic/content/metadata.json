@@ -4,12 +4,30 @@
   "metadata": [
     {
       "__outstatic": {
+        "commit": "69bfbf7143bfb4186678ff8e73ace840a0e37eae",
+        "hash": "981293699",
+        "path": "outstatic/content/pages/work.md"
+      },
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-02-16T08:21:11.306Z",
+      "slug": "work",
+      "status": "published",
+      "title": "Work"
+    },
+    {
+      "__outstatic": {
         "commit": "7017dc3a05f93741d7e76620c7e97561e92b1756",
         "hash": "459757634",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Andre Vitorio",
+        "name": "Jeff T Byrd",
         "picture": ""
       },
       "collection": "pages",
@@ -42,7 +60,7 @@
       "__outstatic": {
         "commit": "bf4585307df9851c108bf5a91ad5447d245f720f",
         "hash": "2459936812",
-        "path": "outstatic/content/projects/dad-is-bad.md"
+        "path": "outstatic/content/work/dad-is-bad.md"
       },
       "additionalImages": "",
       "author": {
@@ -53,7 +71,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3008927848/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/dad-is-bad-kzNj.jpg",
       "description": "Budokan Boys album",
       "gitHubUrl": "",
@@ -88,7 +106,7 @@
       "__outstatic": {
         "commit": "cf133aaaf41a428c327630e9b2814a714bb857dd",
         "hash": "47280394",
-        "path": "outstatic/content/projects/are-you-sick.md"
+        "path": "outstatic/content/work/are-you-sick.md"
       },
       "additionalImages": "",
       "author": {
@@ -99,7 +117,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=3254804197/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/are-you-sick-M2OD.jpg",
       "description": "Budokan Boys album",
       "gitHubUrl": "",
@@ -130,7 +148,7 @@
       "__outstatic": {
         "commit": "ee14ddfd312ff7094e3cec05a369442cb6dd2a44",
         "hash": "1538121591",
-        "path": "outstatic/content/projects/alouette.md"
+        "path": "outstatic/content/work/alouette.md"
       },
       "additionalImages": "",
       "author": {
@@ -141,7 +159,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/alouette-kzNz.jpg",
       "description": "5-episode web series",
       "gitHubUrl": "",
@@ -176,7 +194,7 @@
       "__outstatic": {
         "commit": "317d66297a66ff20881c0e34829e0d83bb48b718",
         "hash": "1452145075",
-        "path": "outstatic/content/projects/after-the-storm.md"
+        "path": "outstatic/content/work/after-the-storm.md"
       },
       "additionalImages": "",
       "author": {
@@ -187,7 +205,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "after-the-storm.webp",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/after-the-storm-2-g2OD.webp",
       "description": "Interactive documentary released by The Washington Post",
       "gitHubUrl": "",
@@ -226,7 +244,7 @@
       "__outstatic": {
         "commit": "2001df3c0d5c157bcf036f841e70944013a022a1",
         "hash": "2920205797",
-        "path": "outstatic/content/projects/god-today.md"
+        "path": "outstatic/content/work/god-today.md"
       },
       "additionalImages": "",
       "author": {
@@ -237,7 +255,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/god-today-EwND.webp",
       "description": "Budokan Boys music video",
       "gitHubUrl": "",
@@ -268,7 +286,7 @@
       "__outstatic": {
         "commit": "41deb7670c63dc5208f7e170f809e420ab92762c",
         "hash": "1118184393",
-        "path": "outstatic/content/projects/edinburgh-international-film-festival.md"
+        "path": "outstatic/content/work/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
       "author": {
@@ -279,7 +297,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/eiff-2-gzMj.webp",
       "description": "Soundtrack for the opening of the 69th Edinburgh International Film Festival",
       "gitHubUrl": "",
@@ -310,7 +328,7 @@
       "__outstatic": {
         "commit": "ad5df5d8c6fc2638375003247f9a6bb4ad810a1e",
         "hash": "1579006969",
-        "path": "outstatic/content/projects/nighty-night.md"
+        "path": "outstatic/content/work/nighty-night.md"
       },
       "additionalImages": "",
       "author": {
@@ -321,7 +339,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=1918482317/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/nighty-night-U2OD.webp",
       "description": "Solo album",
       "gitHubUrl": "",
@@ -356,7 +374,7 @@
       "__outstatic": {
         "commit": "995f5168aa84835927ab8a892fef3b75ad0f3cad",
         "hash": "3522815364",
-        "path": "outstatic/content/projects/lamb-alley.md"
+        "path": "outstatic/content/work/lamb-alley.md"
       },
       "additionalImages": "",
       "author": {
@@ -367,7 +385,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=4027141506/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/lamb-alley-IwNT.jpg",
       "description": "Solo album",
       "gitHubUrl": "",
@@ -402,7 +420,7 @@
       "__outstatic": {
         "commit": "bf824d5d1b88b98d1b5aac0e2ad1ecf1055113bd",
         "hash": "724571112",
-        "path": "outstatic/content/projects/i-became-a-bird-of-prey.md"
+        "path": "outstatic/content/work/i-became-a-bird-of-prey.md"
       },
       "additionalImages": "",
       "author": {
@@ -412,7 +430,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2723898763/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/ibabop-2-U2MT.webp",
       "description": "Budokan Boys live album recorded at Château Rouge Kunstraum in Vienna",
       "gitHubUrl": "",
@@ -445,7 +463,7 @@
       "__outstatic": {
         "commit": "a942e2bf21fb1a7b26201a98b4927cd3cd428d19",
         "hash": "233620741",
-        "path": "outstatic/content/projects/so-broken-up-about-you-dying.md"
+        "path": "outstatic/content/work/so-broken-up-about-you-dying.md"
       },
       "additionalImages": "",
       "author": {
@@ -456,7 +474,7 @@
       "bandcampEmbedUrl": "https://bandcamp.com/EmbeddedPlayer/album=2355701984/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/",
       "bigImage": "sbuayd-wide.webp",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/sbuayd-2-YyMD.webp",
       "description": "Budokan Boys album",
       "gitHubUrl": "",
@@ -491,7 +509,7 @@
       "__outstatic": {
         "commit": "a244d482cc12e5bf27bd0120ad367802b0a3f1f3",
         "hash": "110954497",
-        "path": "outstatic/content/projects/vector.md"
+        "path": "outstatic/content/work/vector.md"
       },
       "additionalImages": "vector-home-screen.webp, vector-influenza-screen.webp, vector-cart-screen.webp",
       "author": {
@@ -502,7 +520,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "vector-2.webp",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/vector-thumbnail-QxND.webp",
       "description": "An online virus shop",
       "gitHubUrl": "https://github.com/jefftbyrd/Vector-Virus-Shop-Ecommerce-Store",
@@ -537,7 +555,7 @@
       "__outstatic": {
         "commit": "43c689362e987140c1fc0831f0230c3b0c01b7dc",
         "hash": "2310969711",
-        "path": "outstatic/content/projects/the-ooze.md"
+        "path": "outstatic/content/work/the-ooze.md"
       },
       "additionalImages": "",
       "author": {
@@ -548,7 +566,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "budokan-boys-moonlight-crop.webp",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/ooze-square-2-A2OD.png",
       "description": "Budokan Boys Album",
       "gitHubUrl": "",
@@ -579,7 +597,7 @@
       "__outstatic": {
         "commit": "3b2812b71c48c69a2b69b8e4f9c22697bddd1e59",
         "hash": "2936935640",
-        "path": "outstatic/content/projects/white-lies.md"
+        "path": "outstatic/content/work/white-lies.md"
       },
       "additionalImages": "",
       "author": {
@@ -590,7 +608,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "wl-3-counternarrative.jpg",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/white-lies-square-QyMD.jpg",
       "description": "Original Soundtrack for NPR's Pulitzer Prize Finalist Podcast that reached #1 on Apple Podcasts",
       "gitHubUrl": "",
@@ -626,7 +644,7 @@
       "__outstatic": {
         "commit": "a48d68a3c1a3288d2abd5ca5c7ecb183e905476e",
         "hash": "3748951833",
-        "path": "outstatic/content/projects/a-call-from-selma.md"
+        "path": "outstatic/content/work/a-call-from-selma.md"
       },
       "additionalImages": "",
       "author": {
@@ -637,7 +655,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/a-call-from-selma-E5OT.webp",
       "description": "Original Soundtrack for New York Times Op-Doc",
       "gitHubUrl": "",
@@ -672,7 +690,7 @@
       "__outstatic": {
         "commit": "60e56b9d12fcc37c0fdf9ae0033941b7d607f873",
         "hash": "803093212",
-        "path": "outstatic/content/projects/spark.md"
+        "path": "outstatic/content/work/spark.md"
       },
       "additionalImages": "",
       "author": {
@@ -683,7 +701,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/spark-I3MD.webp",
       "description": "",
       "gitHubUrl": "",
@@ -714,7 +732,7 @@
       "__outstatic": {
         "commit": "246e75e3f0938dbc93ac0522680b442b453ccf42",
         "hash": "1927042162",
-        "path": "outstatic/content/projects/no-show.md"
+        "path": "outstatic/content/work/no-show.md"
       },
       "additionalImages": "",
       "author": {
@@ -725,7 +743,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/no-show-AzMz.webp",
       "description": "Budokan Boys Music Video",
       "gitHubUrl": "",
@@ -756,7 +774,7 @@
       "__outstatic": {
         "commit": "eb9721dbeeb40c8b373b0b97b173d9ae5b1350bb",
         "hash": "2275374106",
-        "path": "outstatic/content/projects/durrs-of-montgomery.md"
+        "path": "outstatic/content/work/durrs-of-montgomery.md"
       },
       "additionalImages": "",
       "author": {
@@ -767,7 +785,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/durrs-kxMT.webp",
       "description": "Original Soundtrack for Emmy Award-winning Documentary",
       "gitHubUrl": "",
@@ -802,7 +820,7 @@
       "__outstatic": {
         "commit": "d73c4348f474fc779ddce8e2bc0de877525b831f",
         "hash": "1679078424",
-        "path": "outstatic/content/projects/goodwater-alabama-1982.md"
+        "path": "outstatic/content/work/goodwater-alabama-1982.md"
       },
       "additionalImages": "goodwater-additional-1.webp, goodwater-additional-2.webp",
       "author": {
@@ -813,7 +831,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "goodwater-alabama-1982.webp",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/goodwater-hic-Y2OT.webp",
       "description": "Music video from the album \"Nighty Night\"",
       "gitHubUrl": "",
@@ -844,7 +862,7 @@
       "__outstatic": {
         "commit": "70762cb76d20afbe7226368e40962784367a7e27",
         "hash": "4082114820",
-        "path": "outstatic/content/projects/providence.md"
+        "path": "outstatic/content/work/providence.md"
       },
       "additionalImages": "",
       "author": {
@@ -855,7 +873,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/providence-3-kwNT.webp",
       "description": "Experimental Short",
       "gitHubUrl": "",
@@ -886,7 +904,7 @@
       "__outstatic": {
         "commit": "be9d3c4ad8316845d73080b06835e76d9a531ef1",
         "hash": "3997152079",
-        "path": "outstatic/content/projects/men-hate-him.md"
+        "path": "outstatic/content/work/men-hate-him.md"
       },
       "additionalImages": "",
       "author": {
@@ -897,7 +915,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/men-hate-him-M3Mz.webp",
       "description": "Budokan Boys Music Video",
       "gitHubUrl": "",
@@ -928,7 +946,7 @@
       "__outstatic": {
         "commit": "8568d5092ef29bbf66daa413dbbebdfa1cab62e0",
         "hash": "3407752466",
-        "path": "outstatic/content/projects/old-man-jones.md"
+        "path": "outstatic/content/work/old-man-jones.md"
       },
       "additionalImages": "",
       "author": {
@@ -939,7 +957,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/old-man-jones-k3Nz.webp",
       "description": "Budokan Boys Music Video",
       "gitHubUrl": "",
@@ -970,7 +988,7 @@
       "__outstatic": {
         "commit": "6d067fbab424f46de24ddcb1719ff9da4c86fbb9",
         "hash": "123451864",
-        "path": "outstatic/content/projects/texas.md"
+        "path": "outstatic/content/work/texas.md"
       },
       "additionalImages": "",
       "author": {
@@ -981,7 +999,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/texas-Y0OD.webp",
       "description": "Experimental documentary film screened at Transart Festival in Berlin and at MOCA Taipei",
       "gitHubUrl": "",
@@ -1034,7 +1052,7 @@
       "__outstatic": {
         "commit": "09c4b82d0eb69f21532765e7df31c4fbfc9a269b",
         "hash": "2325865980",
-        "path": "outstatic/content/projects/earthsong.md"
+        "path": "outstatic/content/work/earthsong.md"
       },
       "additionalImages": "earthsong-globe-2.webp, earthsong-shuffling.webp",
       "author": {
@@ -1045,7 +1063,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "earthsong-big.webp",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/earthsong-2-c0NT.webp",
       "description": "Interactive sound exploration tool -- presented in a talk at Freesound Day, Barcelona",
       "gitHubUrl": "https://github.com/jefftbyrd/Earthsong",
@@ -1093,7 +1111,7 @@
       "__outstatic": {
         "commit": "6d48cd2871eedfd780f6bf5d7ec4a1d43680f94d",
         "hash": "1448487139",
-        "path": "outstatic/content/projects/rouler-sonner.md"
+        "path": "outstatic/content/work/rouler-sonner.md"
       },
       "additionalImages": "",
       "author": {
@@ -1104,7 +1122,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/rouler-sonner-IwNj.webp",
       "description": "Short narrative film",
       "gitHubUrl": "",
@@ -1120,8 +1138,7 @@
         }
       ],
       "publishedAt": "2025-01-27T21:48:12.284Z",
-      "section": [
-      ],
+      "section": [],
       "slug": "rouler-sonner",
       "spotifyEmbedUrl": "",
       "status": "published",
@@ -1135,7 +1152,7 @@
       "__outstatic": {
         "commit": "8854113972adefabfc5addeef6d8ed62dd5acde9",
         "hash": "992476121",
-        "path": "outstatic/content/projects/vanishing-pearls.md"
+        "path": "outstatic/content/work/vanishing-pearls.md"
       },
       "additionalImages": "",
       "author": {
@@ -1146,7 +1163,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "vanishing-pearls-wide.webp",
       "bigVideo": "true",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/vanishing-pearls-2-A0Mj.webp",
       "description": "Documentary film about the impact of the Deepwater Horizon oil spill on Gulf coast oyster fishermen",
       "gitHubUrl": "",
@@ -1162,8 +1179,7 @@
         }
       ],
       "publishedAt": "2025-02-15T12:31:27.313Z",
-      "section": [
-      ],
+      "section": [],
       "slug": "vanishing-pearls",
       "spotifyEmbedUrl": "",
       "status": "published",
@@ -1177,7 +1193,7 @@
       "__outstatic": {
         "commit": "fb5252e48370631a8f41f544ecda89433f7ab1e8",
         "hash": "1949602749",
-        "path": "outstatic/content/projects/health-for-all.md"
+        "path": "outstatic/content/work/health-for-all.md"
       },
       "additionalImages": "hfa-2.webp,  hfa-3.webp",
       "author": {
@@ -1188,7 +1204,7 @@
       "bandcampEmbedUrl": "",
       "bigImage": "health-for-all.webp",
       "bigVideo": "",
-      "collection": "projects",
+      "collection": "work",
       "coverImage": "/images/hfa-2-IxMj.webp",
       "description": "Interactive documentary",
       "gitHubUrl": "",
