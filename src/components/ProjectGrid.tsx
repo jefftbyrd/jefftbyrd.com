@@ -9,7 +9,7 @@ type Item = {
 } & OstDocument;
 
 type Props = {
-  collection: 'posts' | 'projects';
+  collection: 'posts' | 'work';
   title?: string;
   items: Item[];
   priority?: boolean;
@@ -70,7 +70,7 @@ const ProjectGrid = ({
                           quality={75}
                         />
                       </div>
-                      {collection === 'projects' && (
+                      {collection === 'work' && (
                         <div className="px-4 pt-3 pb-3">
                           <h3
                             className={`bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl leading-9`}
@@ -84,22 +84,6 @@ const ProjectGrid = ({
                           </p>
                         </div>
                       )}
-                      {/* {collection === 'projects' && (
-                        <div
-                          className={`${styles.projectTags} absolute bottom-4 left-5 translate-y-0 -translate-x-0`}
-                        >
-                          {Array.isArray(item?.projectTags)
-                            ? item.projectTags.map(({ label }) => (
-                                <span
-                                  key={label}
-                                  className="uppercase inline-block bg-white rounded-full px-3 py-1 text-md font-semibold text-((gray-700) mr-2 mb-2)"
-                                >
-                                  {label}
-                                </span>
-                              ))
-                            : null}
-                        </div>
-                      )} */}
                     </div>
                   </div>
                 </Link>
