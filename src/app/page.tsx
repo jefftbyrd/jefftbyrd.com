@@ -1,60 +1,48 @@
 'use client';
+import Header2 from '@/components/Header2';
 import {
   motion,
   useMotionValueEvent,
   useScroll,
   useSpring,
 } from 'motion/react';
+import { useRef } from 'react';
+import Collaborate from '../components/Collaborate';
+import Contact from '../components/Contact';
 import HomeFeaturedProject from '../components/HomeFeaturedProject';
 import HomeMenuItem from '../components/HomeMenuItem';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
+import Reel from '../components/Reel';
+import Selected from '../components/Selected';
 
 export default async function Index() {
+  const heroRef = useRef(null);
   return (
     <Layout>
+      <Header2 heroRef={heroRef} />
       <div className="max-w-none mx-auto px-0 grid">
-        <div className="bg-(--color-foreground) w-full lg:w-xl lg:sticky top-0 -z-100 lg:h-6 h-3 justify-self-center" />
-        <section className="md:mt-8 mt-2 lg:mb-16 md:mb-8 z-100 relative">
+        {/* <div className="bg-foreground w-full lg:w-xl lg:sticky top-0 -z-100 lg:h-6 h-3 justify-self-center" /> */}
+        <section
+          ref={heroRef}
+          className="md:mt-12 mt-2 lg:mb-12 mb-6 z-100 relative"
+        >
           <Logo />
+          <h4 className="text-center lg:text-lg font-normal p-1">
+            I create original music and sound design for podcasts, documentary,
+            and story-driven media.
+          </h4>
         </section>
       </div>
 
-      <div className="grid grid-cols-2 gap-2 lg:grid-cols-7 lg:gap-4 px-4 lg:px-24">
-        <div className="flex flex-col gap-2 lg:gap-4 lg:mb-18 lg:col-span-4 justify-center mt-[5vh] lg:mt-0">
-          <motion.div
-            initial={{ y: -1000 }}
-            animate={{ y: 0 }}
-            transition={{
-              duration: 0.8,
-              delay: 0,
-              ease: [0, 0.71, 0.2, 1.01],
-            }}
-            className="w-0 h-0 border-x-[40px] border-x-transparent border-t-[60px] border-t-(--color-foreground) self-center lg:border-x-[100px] lg:border-t-[120px] xl:border-x-[150px] xl:border-t-[200px] "
-          />
-          <HomeFeaturedProject
-            url={`/projects/white-lies/`}
-            image={`/images/featured/white-lies-featured.jpg`}
-            delayTime={0.2}
-          />
-          <HomeFeaturedProject
-            url={`/projects/earthsong/`}
-            image={`/images/featured/earthsong-featured.webp`}
-            delayTime={0}
-          />
-          <HomeFeaturedProject
-            url={`/projects/a-call-from-selma/`}
-            image={`/images/featured/selma-featured.webp`}
-            delayTime={0}
-          />
+      <div className="gap-12 landing flex flex-col pb-24">
+        <div className="px-8 lg:px-36 lg:gap-24 flex flex-col">
+          <Reel />
         </div>
-
-        <div className="">
-          <div className="grid grid-cols-3 gap-2 lg:gap-4 lg:w-1/3 lg:col-span-3 fixed lg:fixed bottom-0 w-[47vw]">
-            <HomeMenuItem title={`Projects`} delayTime={0} />
-            <HomeMenuItem title={`About`} delayTime={0.2} />
-            <HomeMenuItem title={`Contact`} delayTime={0.4} />
-          </div>
+        <Selected />
+        <div className="lg:grid grid-cols-5 px-12">
+          <Collaborate />
+          <Contact />
         </div>
       </div>
     </Layout>
