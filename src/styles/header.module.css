@@ -28,17 +28,10 @@
 
 .menuItem:hover {
   opacity: 1;
-  /* text-shadow: var(--color-background) 1px 3px, var(--color-background) 2px 6px,
-    var(--color-background) 3px 9px, var(--color-background) 4px 12px; */
-  /* top: 0.07em; */
-  /* font-weight: 300; */
 
   .t {
     position: relative;
     top: -0.14em;
-    /* text-shadow: var(--color-background) 1px -3px,
-      var(--color-background) 2px -6px, var(--color-background) 3px -9px,
-      var(--color-background) 4px -12px; */
   }
 }
 
@@ -52,19 +45,3 @@
 .shadowWhite:hover {
   text-shadow: white 2px 6px;
 }
-
-/* .menuItem::after {
-  content: '';
-  background: white;
-  mix-blend-mode: exclusion;
-  width: calc(100% + 20px);
-  height: 0;
-  position: absolute;
-  bottom: -4px;
-  left: -10px;
-  transition: all 0.1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
-}
-
-.menuItem:hover::after {
-  height: calc(100% + 8px);
-} */
