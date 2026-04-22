@@ -8,24 +8,22 @@ import BlueAbsolute from '../../components/BlueAbsolute';
 import Layout from '../../components/Layout';
 import markdownToHtml from '../../lib/markdownToHtml';
 
-type Props = {
-  link: string;
-  text: string;
-};
+// type Props = {
+//   link: string;
+//   text: string;
+// };
 
-const ContactLink = (props: Props) => {
-  return (
-    <li className="">
-      <a
-        href={props.link}
-        className="bg-(--color-vivid) scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-4 lg:px-8 py-6 lg:py-10 mx-6 lg:mx-0 shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
-        target="_blank"
-      >
-        &gt; {props.text}
-      </a>
-    </li>
-  );
-};
+// const ContactLink = (props: Props) => {
+//   return (
+//     <a
+//       href={props.link}
+//       className="bg-vivid scale-100 hover:scale-[1.02] active:scale-[0.97] hover:text-white motion-safe:transform-gpu transition-all duration-100 motion-reduce:hover:scale-100 overflow-hidden block px-4 lg:px-8 py-6 lg:py-10 mx-6 lg:mx-0 shadow-[6px_6px_0_var(--color-background),12px_12px_0_var(--color-foreground)] hover:shadow-[-6px_-6px_0_var(--color-background),-12px_-12px_0_var(--color-foreground)]"
+//       target="_blank"
+//     >
+//       &gt; {props.text}
+//     </a>
+//   );
+// };
 
 export async function generateMetadata(): Promise<Metadata> {
   const { page } = await getData();
@@ -73,25 +71,17 @@ export default async function Contact() {
           <PageTitle pageTitle={'Contact'} />
           <BlueAbsolute />
         </div>
-
-        <article className="mb-8">
-          <div className="grid lg:grid-cols-3">
-            <div></div>
-            <div className="flex flex-col gap-4 pt-5">
-              <ul className="text-2xl md:text-3xl lg:text-4xl 2xl:text-6xl flex flex-col gap-10 lg:p-5  text-(--color-foreground) font-medium tracking-wider lg:absolute">
-                <ContactLink
-                  link={`mailto:jeff@jefftbyrd.com`}
-                  text={`jeff@jefftbyrd.com`}
-                />
-                <ContactLink
-                  link={`https://github.com/jefftbyrd`}
-                  text={`github.com/jefftbyrd`}
-                />
-              </ul>
-              <div></div>
-            </div>
+        <div className="lg:pt-8 lg:px-24 px-8 text-center">
+          <p className="text-lg lg:text-4xl font-normal bg-background inline-block py-2 px-4">
+            If you're working on a project that needs music or sound, get in
+            touch.
+          </p>
+          <div className="mt-6 lg:mt-8">
+            <p className="text-xl lg:text-5xl font-semibold bg-white/80 hover:bg-white/100 inline-block py-3 px-5 text-foreground border border-foreground/30 hover:scale-105 origin-center duration-100">
+              <a href="mailto:jeff@jefftbyrd.com">jeff@jefftbyrd.com</a>
+            </p>
           </div>
-        </article>
+        </div>
       </div>
     </Layout>
   );
