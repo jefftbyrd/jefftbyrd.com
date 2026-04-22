@@ -5,7 +5,7 @@ export default function Selected() {
     <div className="w-full h-full m-0 p-0 bg-foreground px-12 pt-8 pb-12">
       <h2 className="text-white">Selected Work</h2>
       <div className="grid lg:grid-cols-2 gap-12 w-full selected mt-8 lg:px-12">
-        <Link href="/projects/white-lies" className="item">
+        <Link href="/work/white-lies" className="item">
           <img src="/images/featured/white-lies-featured.jpg" />
           <div className="details">
             <h3>White Lies</h3>
@@ -19,7 +19,7 @@ export default function Selected() {
             </p>
           </div>
         </Link>
-        <Link href="/projects/a-call-from-selma" className="item">
+        <Link href="/work/a-call-from-selma" className="item">
           <img src="/images/featured/selma-featured.webp" />
           <div className="details">
             <h3>A Call From Selma</h3>
