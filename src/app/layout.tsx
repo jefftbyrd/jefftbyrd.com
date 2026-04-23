@@ -1,5 +1,4 @@
 import '../styles/index.css';
-// import { absoluteUrl } from '@/lib/utils';
 import { Analytics } from '@vercel/analytics/react';
 import { Metadata } from 'next';
 import { Space_Grotesk } from 'next/font/google';
@@ -7,8 +6,6 @@ import localFont from 'next/font/local';
 
 const space = Space_Grotesk({
   subsets: ['latin'],
-  // variable: '--font-space',
-  // display: 'swap',
 });
 
 const karrik = localFont({
@@ -22,10 +19,10 @@ export const metadata: Metadata = {
     default: 'Jeff T Byrd',
     template: '%s | Jeff T Byrd',
   },
-  description: 'Jeff T Byrd - Web Developer, Composer & Sound Designer',
+  description: 'Jeff T Byrd - Composer | Sound Designer',
   openGraph: {
     title: 'Jeff T Byrd',
-    description: 'Web Developer, Composer & Sound Designer',
+    description: 'Composer | Sound Designer',
     url: '/',
     siteName: 'Jeff T Byrd',
     images: [
