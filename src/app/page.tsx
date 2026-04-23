@@ -1,16 +1,8 @@
 'use client';
 import Header2 from '@/components/Header2';
-import {
-  motion,
-  useMotionValueEvent,
-  useScroll,
-  useSpring,
-} from 'motion/react';
 import { useRef } from 'react';
 import Collaborate from '../components/Collaborate';
 import Contact from '../components/Contact';
-import HomeFeaturedProject from '../components/HomeFeaturedProject';
-import HomeMenuItem from '../components/HomeMenuItem';
 import Layout from '../components/Layout';
 import Logo from '../components/Logo';
 import Reel from '../components/Reel';
@@ -34,7 +26,7 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="gap-8 lg:gap-12 landing flex flex-col pb-24">
+      <div className="gap-6 lg:gap-12 landing flex flex-col pb-24">
         <div className="px-8 lg:px-36 lg:gap-24 flex flex-col">
           <Reel />
         </div>
