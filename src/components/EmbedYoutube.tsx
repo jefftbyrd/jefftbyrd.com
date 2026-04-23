@@ -6,7 +6,7 @@ export default function EmbedYoutube(props: Props) {
   return (
     <div>
       <iframe
-        className="aspect-16/9 w-full"
+        className="aspect-video w-full"
         src={props.youtubeEmbedUrl}
         title="YouTube video player"
         frameBorder="0"
