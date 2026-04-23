@@ -85,7 +85,7 @@ export default async function Project(params: Params) {
           <BlueAbsolute />
         </div>
 
-        <div className="sm:mx-0 aspect-[16/9] overflow-hidden relative">
+        <div className="sm:mx-0 aspect-video overflow-hidden relative">
           {project.bigVideo && project.videoUrl ? (
             <EmbedYoutube youtubeEmbedUrl={project.videoUrl} />
           ) : null}
@@ -112,7 +112,7 @@ export default async function Project(params: Params) {
           ) : null}
         </div>
 
-        <article className="pb-6 lg:pb-16 lg:bg-(--color-background)">
+        <article className="pb-6 lg:pb-16 lg:bg-background">
           <div className="grid lg:grid-cols-2 lg:gap-6 lg:px-24 py-0">
             <div className="flex gap-2 flex-col lg:gap-4 pt-2 lg:pt-5 px-2">
               {project.bandcampEmbedUrl ? (
@@ -139,7 +139,7 @@ export default async function Project(params: Params) {
             </div>
 
             <div className="flex flex-col gap-2">
-              <div className="bg-(--color-foreground) w-9/10 lg:w-auto px-5 lg:px-8 lg:py-3">
+              <div className="bg-foreground mr-14 lg:mr-0 lg:w-auto px-5 lg:px-8 lg:py-3">
                 <div
                   className={`text-white text-base my-4 projectContent contentArea`}
                   dangerouslySetInnerHTML={{ __html: content }}
