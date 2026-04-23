@@ -109,12 +109,12 @@ export default function ReelModule() {
         />
         <canvas
           ref={canvasRef}
-          className="w-full h-60"
+          className="w-full h-50 lg:h-70"
           style={{ opacity: playing ? 1 : 0 }}
         />
 
         {/* Time overlay */}
-        <div className="absolute bottom-0 inset-x-0 flex justify-between px-5 py-3 pointer-events-none lg:text-2xl text-black/70">
+        <div className="absolute bottom-0 inset-x-0 flex justify-between px-5 lg:py-3 pointer-events-none lg:text-2xl text-black/70">
           <span className="tabular-nums">{fmt(time.elapsed)}</span>
           <span className="tabular-nums">−{fmt(remaining)}</span>
         </div>
@@ -124,16 +124,19 @@ export default function ReelModule() {
           className="absolute inset-0 flex items-center justify-center transition-opacity duration-300 pointer-events-none mt-6"
           style={{ opacity: playing ? 0 : 1 }}
         >
-          <div className="w-24 h-24 rounded-full flex items-center justify-center bg-foreground border border-white/60 backdrop-blur-sm transition-all duration-200 group-hover:scale-110 group-hover:shadow-[0_0_24px_rgba(67,56,202,0.2)]">
+          <div className="w-18 h-18 lg:w-24 lg:h-24 rounded-full flex items-center justify-center bg-foreground border border-white/60 backdrop-blur-sm transition-all duration-200 group-hover:scale-110 group-hover:shadow-[0_0_24px_rgba(67,56,202,0.2)]">
             <div
-              style={{
-                width: 0,
-                height: 0,
-                marginLeft: 8,
-                borderTop: '24px solid transparent',
-                borderBottom: '24px solid transparent',
-                borderLeft: '40px solid rgba(255,255,255,0.9)',
-              }}
+              style={
+                {
+                  // width: 0,
+                  // height: 0,
+                  // marginLeft: 8,
+                  // borderTop: '24px solid transparent',
+                  // borderBottom: '24px solid transparent',
+                  // borderLeft: '40px solid rgba(255,255,255,0.9)',
+                }
+              }
+              className="border-t-16 border-b-16 border-l-26 lg:border-t-24 lg:border-b-24 lg:border-l-40 border-solid border-transparent border-l-white/90 ml-2 w-0 h-0"
             />
           </div>
         </div>
