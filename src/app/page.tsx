@@ -22,7 +22,6 @@ export default async function Index() {
     <Layout>
       <Header2 heroRef={heroRef} />
       <div className="max-w-none mx-auto px-0 grid">
-        {/* <div className="bg-foreground w-full lg:w-xl lg:sticky top-0 -z-100 lg:h-6 h-3 justify-self-center" /> */}
         <section
           ref={heroRef}
           className="md:mt-12 mt-2 lg:mb-12 mb-6 z-100 relative"
@@ -35,12 +34,12 @@ export default async function Index() {
         </section>
       </div>
 
-      <div className="gap-12 landing flex flex-col pb-24">
+      <div className="gap-8 lg:gap-12 landing flex flex-col pb-24">
         <div className="px-8 lg:px-36 lg:gap-24 flex flex-col">
           <Reel />
         </div>
         <Selected />
-        <div className="lg:grid grid-cols-5 px-12">
+        <div className="lg:grid grid-cols-5 px-4 lg:px-12">
           <Collaborate />
           <Contact />
         </div>
