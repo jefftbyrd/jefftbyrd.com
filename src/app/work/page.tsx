@@ -54,7 +54,7 @@ export default async function Work() {
           <PageTitle pageTitle={page.title} />
           <BlueAbsolute />
         </div>
-        <div className=" projectsPage">
+        <div className=" projectsPage px-2">
           <section className="mt-15">
             <div className="projectSection">
               <h2>Featured Work</h2>
