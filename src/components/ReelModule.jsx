@@ -125,19 +125,7 @@ export default function ReelModule() {
           style={{ opacity: playing ? 0 : 1 }}
         >
           <div className="w-18 h-18 lg:w-24 lg:h-24 rounded-full flex items-center justify-center bg-foreground border border-white/60 backdrop-blur-sm transition-all duration-200 group-hover:scale-110 group-hover:shadow-[0_0_24px_rgba(67,56,202,0.2)]">
-            <div
-              style={
-                {
-                  // width: 0,
-                  // height: 0,
-                  // marginLeft: 8,
-                  // borderTop: '24px solid transparent',
-                  // borderBottom: '24px solid transparent',
-                  // borderLeft: '40px solid rgba(255,255,255,0.9)',
-                }
-              }
-              className="border-t-16 border-b-16 border-l-26 lg:border-t-24 lg:border-b-24 lg:border-l-40 border-solid border-transparent border-l-white/90 ml-2 w-0 h-0"
-            />
+            <div className="border-t-16 border-b-16 border-l-26 lg:border-t-24 lg:border-b-24 lg:border-l-40 border-solid border-transparent border-l-white/90 ml-2 w-0 h-0" />
           </div>
         </div>
       </div>
