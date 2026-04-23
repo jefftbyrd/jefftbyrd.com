@@ -81,7 +81,7 @@ const Header2 = ({ heroRef }: Props2) => {
               paddingTop: jtbOpacity * 5,
               paddingBottom: jtbOpacity * 5,
               opacity: jtbOpacity,
-              height: jtbOpacity * 60, // adjust 80 to match your actual logo height
+              height: jtbOpacity * 60, // actual logo height
             }}
             className="grid lg:items-end px-4 py-2 lg:py-0"
           >
