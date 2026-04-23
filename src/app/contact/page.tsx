@@ -72,7 +72,7 @@ export default async function Contact() {
           <BlueAbsolute />
         </div>
         <div className="lg:pt-8 lg:px-24 px-8 text-center">
-          <p className="text-lg lg:text-4xl font-normal bg-background inline-block py-2 px-4">
+          <p className="text-xl lg:text-4xl font-normal bg-background inline-block py-4 px-6 lg:leading-15 lg:py-2">
             If you're working on a project that needs music or sound, get in
             touch.
           </p>
