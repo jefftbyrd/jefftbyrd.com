@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <div className="m-0 col-span-2 p-8 lg:p-12">
+    <div className="m-0 col-span-2 p-4 lg:p-12">
       <h2>Contact</h2>
       <h3>
         If you're working on a project that needs music or sound, I'd love to
