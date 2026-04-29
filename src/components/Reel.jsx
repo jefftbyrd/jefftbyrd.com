@@ -7,7 +7,7 @@ export default function Reel() {
       <div className="p-4 lg:pl-8 lg:pt-7 absolute">
         <h2 className="text-2xl! lg:text-4xl! mb-1!">Narrative Podcast Reel</h2>
         <h3>
-          A selection of music from NPR's <i>White Lies</i>
+          Music from <i>White Lies</i> (NPR)
         </h3>
       </div>
       <ReelModule />
