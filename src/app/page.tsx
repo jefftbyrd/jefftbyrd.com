@@ -20,8 +20,7 @@ export default async function Index() {
         >
           <Logo />
           <h4 className="text-center lg:text-lg font-normal p-1">
-            I create original music and sound design for podcasts, documentary,
-            and story-driven media.
+            Original music for documentary, podcast, and narrative audio.
           </h4>
         </section>
       </div>
