@@ -54,7 +54,7 @@ const Header = () => {
   return (
     <header className="sticky z-100 top-0 bg-background border-b border-solid border-background">
       <nav>
-        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-12 py-0 border-b border-solid border-foreground ">
+        <div className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-24 py-0 border-b border-solid border-foreground ">
           <motion.div
             style={{
               scale: logoScale2,
