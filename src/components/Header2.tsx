@@ -72,7 +72,7 @@ const Header2 = ({ heroRef }: Props2) => {
     <header className="sticky top-0 bg-background border-b border-solid border-background z-120">
       <nav>
         <div
-          className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-12 py-0 border-b border-solid border-foreground"
+          className="grid lg:grid-cols-2 lg:gap-30 lg:ml-0 lg:mr-24 py-0 border-b border-solid border-foreground"
           style={{ borderColor: `rgba(0, 94, 219, ${jtbOpacity})` }}
         >
           <motion.div
