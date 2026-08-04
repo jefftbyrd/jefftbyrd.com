@@ -55,9 +55,9 @@ export default async function Work() {
           <BlueAbsolute />
         </div>
         <div className=" projectsPage px-2">
-          <section className="mt-15">
+          <section className="mt-15 lg:mr-12">
             <div className="projectSection">
-              <h2>Featured Work</h2>
+              <h2>Featured</h2>
               {/* <span>
                 Narrative audio storytelling — podcasts, documentaries and
                 interactive media
