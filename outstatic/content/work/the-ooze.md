@@ -20,7 +20,7 @@ bandcampEmbedUrl: ''
 spotifyEmbedUrl: 'https://open.spotify.com/embed/album/3fl7kgvWBnlguPOQoDL1ox?utm_source=generator'
 bigVideo: ''
 badge: ''
-section: [{"label":"personal","value":"personal"}]
+section: [{"label":"personal","value":"personal"},{"value":"experimental","label":"experimental"}]
 publishedAt: '2025-12-30T09:30:20.700Z'
 ---
 

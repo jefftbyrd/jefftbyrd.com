@@ -1,6 +1,6 @@
 {
-  "commit": "e2825eb86bb5a222f83f92d20ae5777dc2f9a331",
-  "generated": "2026-08-04T06:46:32.915Z",
+  "commit": "0407fbb96f5319307f4b8b049288a90e81437d44",
+  "generated": "2026-08-04T07:37:09.875Z",
   "metadata": [
     {
       "__outstatic": {
@@ -958,48 +958,6 @@
     },
     {
       "__outstatic": {
-        "commit": "43c689362e987140c1fc0831f0230c3b0c01b7dc",
-        "hash": "2310969711",
-        "path": "outstatic/content/work/the-ooze.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "",
-      "bandcampEmbedUrl": "",
-      "bigImage": "budokan-boys-moonlight-crop.webp",
-      "bigVideo": "",
-      "collection": "work",
-      "coverImage": "/images/ooze-square-2-A2OD.png",
-      "description": "Budokan Boys Album",
-      "gitHubUrl": "",
-      "projectOrder": "30",
-      "projectTags": [
-        {
-          "label": "Album",
-          "value": "album"
-        }
-      ],
-      "publishedAt": "2025-12-30T09:30:20.700Z",
-      "section": [
-        {
-          "label": "personal",
-          "value": "personal"
-        }
-      ],
-      "slug": "the-ooze",
-      "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3fl7kgvWBnlguPOQoDL1ox?utm_source=generator",
-      "status": "published",
-      "title": "THE OOZE",
-      "videoUrl": "",
-      "vimeoUrl": "",
-      "websiteLinkText": "THE OOZE on Bandcamp",
-      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/the-ooze"
-    },
-    {
-      "__outstatic": {
         "commit": "b32a057971fa60ba397d89a1b26a4a4fc5298888",
         "hash": "123451864",
         "path": "outstatic/content/work/texas.md"
@@ -1236,6 +1194,52 @@
       "vimeoUrl": "",
       "websiteLinkText": "Explore Health For All",
       "websiteUrl": "https://healthforallstory.org/"
+    },
+    {
+      "__outstatic": {
+        "commit": "0407fbb96f5319307f4b8b049288a90e81437d44",
+        "hash": "1356305280",
+        "path": "outstatic/content/work/the-ooze.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "budokan-boys-moonlight-crop.webp",
+      "bigVideo": "",
+      "collection": "work",
+      "coverImage": "/images/ooze-square-2-A2OD.png",
+      "description": "Budokan Boys Album",
+      "gitHubUrl": "",
+      "projectOrder": "30",
+      "projectTags": [
+        {
+          "label": "Album",
+          "value": "album"
+        }
+      ],
+      "publishedAt": "2025-12-30T09:30:20.700Z",
+      "section": [
+        {
+          "label": "personal",
+          "value": "personal"
+        },
+        {
+          "label": "experimental",
+          "value": "experimental"
+        }
+      ],
+      "slug": "the-ooze",
+      "spotifyEmbedUrl": "https://open.spotify.com/embed/album/3fl7kgvWBnlguPOQoDL1ox?utm_source=generator",
+      "status": "published",
+      "title": "THE OOZE",
+      "videoUrl": "",
+      "vimeoUrl": "",
+      "websiteLinkText": "THE OOZE on Bandcamp",
+      "websiteUrl": "https://strategictapereserve.bandcamp.com/album/the-ooze"
     }
   ]
 }
