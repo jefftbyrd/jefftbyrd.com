@@ -55,11 +55,11 @@ const ProjectGrid = ({
                   >
                     <div>
                       <div className="relative w-full aspect-square">
-                        {item.badge && (
+                        {/* {item.badge && (
                           <p className="border border-white/50 bg-foreground absolute z-100 m-2  text-white uppercase font-medium py-2 px-3 tracking-widest shadow-md  text-xs">
                             {item.badge}
                           </p>
-                        )}
+                        )} */}
                         <Image
                           src={item.coverImage ?? ''}
                           alt={`Cover Image for ${item.title}`}
@@ -73,7 +73,7 @@ const ProjectGrid = ({
                       {collection === 'work' && (
                         <div className="px-4 pt-3 pb-3">
                           <h3
-                            className={`bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-3xl xl:text-xl 2xl:text-2xl leading-9`}
+                            className={`bg-opacity-0 text-left whitespace-normal font-semibold tracking-wide text-2xl md:text-lg lg:text-lg xl:text-lg 2xl:text-xl leading-7`}
                           >
                             {item.title}
                           </h3>
