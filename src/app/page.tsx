@@ -25,10 +25,11 @@ export default async function Index() {
         </section>
       </div>
 
+      <div className="px-0 lg:px-0 lg:gap-0 flex flex-col landing">
+        <Reel />
+      </div>
+
       <div className="gap-6 lg:gap-12 landing flex flex-col pb-24">
-        <div className="px-8 lg:px-36 lg:gap-24 flex flex-col">
-          <Reel />
-        </div>
         <Selected />
         <div className="lg:grid grid-cols-5 px-4 lg:px-24">
           <Collaborate />
