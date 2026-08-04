@@ -1,6 +1,6 @@
 ---
 section: [{"value":"additional","label":"additional"}]
-badge: 'Web Series'
+badge: ''
 spotifyEmbedUrl: ''
 bandcampEmbedUrl: ''
 bigVideo: 'true'

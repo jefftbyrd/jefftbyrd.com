@@ -1,6 +1,6 @@
 {
-  "commit": "18aa64b597ecac77d049d1e01843aecb656ce050",
-  "generated": "2026-08-04T06:44:22.238Z",
+  "commit": "4c3deec85b368857d144481885c59c3de039ef96",
+  "generated": "2026-08-04T06:45:50.844Z",
   "metadata": [
     {
       "__outstatic": {
@@ -253,52 +253,6 @@
       "vimeoUrl": "",
       "websiteLinkText": "Album on Bandcamp",
       "websiteUrl": "https://strategictapereserve.bandcamp.com/album/are-you-sick"
-    },
-    {
-      "__outstatic": {
-        "commit": "ee14ddfd312ff7094e3cec05a369442cb6dd2a44",
-        "hash": "1538121591",
-        "path": "outstatic/content/work/alouette.md"
-      },
-      "additionalImages": "",
-      "author": {
-        "name": "Jeff T Byrd",
-        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
-      },
-      "badge": "Web Series",
-      "bandcampEmbedUrl": "",
-      "bigImage": "",
-      "bigVideo": "true",
-      "collection": "work",
-      "coverImage": "/images/alouette-kzNz.jpg",
-      "description": "5-episode web series",
-      "gitHubUrl": "",
-      "projectOrder": "",
-      "projectTags": [
-        {
-          "label": "Soundtrack",
-          "value": "soundtrack"
-        },
-        {
-          "label": "Sound Design",
-          "value": "soundDesign"
-        }
-      ],
-      "publishedAt": "2025-01-30T13:37:11.263Z",
-      "section": [
-        {
-          "label": "additional",
-          "value": "additional"
-        }
-      ],
-      "slug": "alouette",
-      "spotifyEmbedUrl": "",
-      "status": "published",
-      "title": "Alouette",
-      "videoUrl": "",
-      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "websiteLinkText": "",
-      "websiteUrl": ""
     },
     {
       "__outstatic": {
@@ -1234,6 +1188,52 @@
       "title": "Edinburgh International Film Festival",
       "videoUrl": "https://www.youtube.com/embed/qvpXGTD3Xsw?si=XRVAEpHyZYrnDqOQ",
       "vimeoUrl": "",
+      "websiteLinkText": "",
+      "websiteUrl": ""
+    },
+    {
+      "__outstatic": {
+        "commit": "4c3deec85b368857d144481885c59c3de039ef96",
+        "hash": "1906456299",
+        "path": "outstatic/content/work/alouette.md"
+      },
+      "additionalImages": "",
+      "author": {
+        "name": "Jeff T Byrd",
+        "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
+      },
+      "badge": "",
+      "bandcampEmbedUrl": "",
+      "bigImage": "",
+      "bigVideo": "true",
+      "collection": "work",
+      "coverImage": "/images/alouette-kzNz.jpg",
+      "description": "5-episode web series",
+      "gitHubUrl": "",
+      "projectOrder": "",
+      "projectTags": [
+        {
+          "label": "Soundtrack",
+          "value": "soundtrack"
+        },
+        {
+          "label": "Sound Design",
+          "value": "soundDesign"
+        }
+      ],
+      "publishedAt": "2025-01-30T13:37:11.263Z",
+      "section": [
+        {
+          "label": "additional",
+          "value": "additional"
+        }
+      ],
+      "slug": "alouette",
+      "spotifyEmbedUrl": "",
+      "status": "published",
+      "title": "Alouette",
+      "videoUrl": "",
+      "vimeoUrl": "https://player.vimeo.com/video/38254321?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "websiteLinkText": "",
       "websiteUrl": ""
     }
