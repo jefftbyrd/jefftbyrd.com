@@ -1,6 +1,6 @@
 {
   "commit": "18aa64b597ecac77d049d1e01843aecb656ce050",
-  "generated": "2026-08-04T06:43:42.011Z",
+  "generated": "2026-08-04T06:44:22.238Z",
   "metadata": [
     {
       "__outstatic": {
@@ -1198,7 +1198,7 @@
     {
       "__outstatic": {
         "commit": "18aa64b597ecac77d049d1e01843aecb656ce050",
-        "hash": "1457462993",
+        "hash": "1369183649",
         "path": "outstatic/content/work/edinburgh-international-film-festival.md"
       },
       "additionalImages": "",
@@ -1206,7 +1206,7 @@
         "name": "Jeff T Byrd",
         "picture": "https://avatars.githubusercontent.com/u/179826675?v=4"
       },
-      "badge": "Film Festival",
+      "badge": "",
       "bandcampEmbedUrl": "",
       "bigImage": "",
       "bigVideo": "true",
