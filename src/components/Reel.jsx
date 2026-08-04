@@ -12,7 +12,7 @@ export default function Reel() {
         className="object-cover mix-blend-overlay opacity-60 object-top"
         priority
       />
-      <div className="p-4 lg:pl-8 lg:pt-7 absolute">
+      <div className="p-4 lg:pl-12 lg:pt-7 absolute">
         <h2 className="text-2xl! lg:text-4xl! mb-1!">Narrative Podcast Reel</h2>
         <h3>
           Music from <i>White Lies</i> (NPR)
