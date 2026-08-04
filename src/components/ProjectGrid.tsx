@@ -39,7 +39,7 @@ const ProjectGrid = ({
     <div className="relative">
       <section id={collection}>
         <div
-          className={`grid ${gridClass} mx-5 lg:mx-0 sm:gap-x-6 lg:gap-x-12 gap-y-5 sm:gap-y-6 lg:gap-y-10`}
+          className={`grid ${gridClass} mx-5 lg:mx-0 sm:gap-x-6 lg:gap-x-8 gap-y-5 sm:gap-y-6 lg:gap-y-10`}
         >
           {items.map((item, id) => (
             <AnimatePresence mode="popLayout">
