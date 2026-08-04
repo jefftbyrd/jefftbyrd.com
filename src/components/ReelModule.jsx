@@ -114,7 +114,7 @@ export default function ReelModule() {
         />
 
         {/* Time overlay */}
-        <div className="absolute bottom-0 inset-x-0 flex justify-between px-5 lg:py-3 pointer-events-none lg:text-2xl text-black/70">
+        <div className="absolute bottom-0 inset-x-0 flex justify-between px-5 lg:px-12 lg:py-3 pointer-events-none lg:text-2xl text-black/70">
           <span className="tabular-nums">{fmt(time.elapsed)}</span>
           <span className="tabular-nums">−{fmt(remaining)}</span>
         </div>
