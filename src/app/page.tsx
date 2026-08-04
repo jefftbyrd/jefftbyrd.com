@@ -30,7 +30,7 @@ export default async function Index() {
           <Reel />
         </div>
         <Selected />
-        <div className="lg:grid grid-cols-5 px-4 lg:px-12">
+        <div className="lg:grid grid-cols-5 px-4 lg:px-24">
           <Collaborate />
           <Contact />
         </div>
