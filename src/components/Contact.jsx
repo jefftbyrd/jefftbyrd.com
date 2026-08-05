@@ -22,7 +22,7 @@ export default function Contact() {
           href="mailto:jeff@jefftbyrd.com"
           target="_blank"
         >
-          jeff@jefftbyrd.com
+          &gt; jeff@jefftbyrd.com
         </a>
       </div>
     </div>
