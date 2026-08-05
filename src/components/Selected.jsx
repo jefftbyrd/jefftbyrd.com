@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export default function Selected() {
   return (
-    <div className="w-full h-full m-0 p-0 bg-foreground px-4 lg:px-12 pt-8 pb-8 lg:pb-12">
-      <h2 className="text-white">Selected Work</h2>
+    <div className="w-full h-full m-0 p-0 bg-foreground px-4 lg:px-12 pt-8 lg:pt-12 pb-8 lg:pb-16">
+      <h2 className="text-white lg:text-center">Selected Work</h2>
       <div className="grid lg:grid-cols-2 gap-6 lg:gap-12 w-full selected mt-4 lg:mt-8 lg:px-12">
         <Link href="/work/white-lies" className="item">
           <img src="/images/featured/white-lies-featured.jpg" />
