@@ -147,7 +147,7 @@ export default async function Project(params: Params) {
               </div>
               {project.websiteUrl ? (
                 <div
-                  className={`bg-white/70 hover:bg-white text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-(--color-foreground)`}
+                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -160,7 +160,7 @@ export default async function Project(params: Params) {
               ) : null}
               {project.gitHubUrl ? (
                 <div
-                  className={`bg-white/70 hover:bg-white text-(--color-foreground) font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-(--color-foreground)`}
+                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -176,7 +176,7 @@ export default async function Project(params: Params) {
                   ? project.projectTags.map(({ label }) => (
                       <span
                         key={label}
-                        className="inline-block uppercase bg-white rounded-full border-2 border-solid border-(--color-foreground) px-4 py-2 text-md font-medium text-md text-(--color-foreground) mr-2 mb-2 "
+                        className="inline-block uppercase bg-white rounded-full border-2 border-solid border-foreground px-4 py-2 text-md font-medium text-md text-foreground mr-2 mb-2 "
                       >
                         {label}
                       </span>
