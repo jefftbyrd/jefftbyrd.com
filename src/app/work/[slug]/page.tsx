@@ -147,7 +147,7 @@ export default async function Project(params: Params) {
               </div>
               {project.websiteUrl ? (
                 <div
-                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
+                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-2xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
                 >
                   <a
                     className="block px-5 py-3"
@@ -160,7 +160,7 @@ export default async function Project(params: Params) {
               ) : null}
               {project.gitHubUrl ? (
                 <div
-                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-3xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
+                  className={`bg-white/70 hover:bg-white text-foreground font-semibold md:font-medium uppercase tracking-wide text-xl lg:text-2xl hover:scale-105 active:scale-97 origin-left transition-all ease-in-out mx-4 lg:mx-0 border-3 lg:border-4 border-solid border-foreground`}
                 >
                   <a
                     className="block px-5 py-3"
