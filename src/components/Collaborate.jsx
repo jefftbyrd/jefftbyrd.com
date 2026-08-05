@@ -1,6 +1,6 @@
 export default function Collaborate() {
   return (
-    <div className="w-full h-full m-0 col-span-3 lg:pr-12 bg-white/40 p-4 lg:p-12 border border-foreground">
+    <div className="m-0 col-span-3 lg:pr-12 bg-white/40 p-12 h-full">
       <h2 className="">Collaborate</h2>
       <div className="gap-4 flex flex-col">
         <h3 className="">
@@ -31,6 +31,7 @@ export default function Collaborate() {
           </ul> */}
         </div>
       </div>
+      <div className="h-0 lg:h-30"></div>
     </div>
   );
   p;
