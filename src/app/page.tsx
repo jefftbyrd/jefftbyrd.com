@@ -29,9 +29,9 @@ export default async function Index() {
         <Reel />
       </div>
 
-      <div className="gap-6 lg:gap-12 landing flex flex-col pb-24">
+      <div className="landing flex flex-col pb-12 lg:pb-0">
         <Selected />
-        <div className="lg:grid grid-cols-5 px-4 lg:px-24">
+        <div className="lg:grid grid-cols-5">
           <Collaborate />
           <Contact />
         </div>
